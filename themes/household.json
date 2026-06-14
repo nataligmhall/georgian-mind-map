@@ -3,62 +3,62 @@
   "name": "Household",
   "nameKa": "საყოფაცხოვრებო",
   "icon": "⌂",
-  "count": 45,
+  "count": 150,
   "words": [
     {
-      "ka": "00-იანები",
-      "roman": "00-ianebi",
-      "en": "'00s, noughties, aughts",
+      "ka": "აბაჟური",
+      "roman": "abažuri",
+      "en": "lampshade",
       "glosses": [
-        "'00s, noughties, aughts"
+        "lampshade"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äbäʒuɾi]",
       "audio": "audio/household/000.mp3",
       "audioLocal": "audio/household/000.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from Russian абажур (abažur)."
     },
     {
-      "ka": "00-იანი წლები",
-      "roman": "00-iani c̣lebi",
-      "en": "'00s, noughties, aughts",
+      "ka": "აბონირებული",
+      "roman": "abonirebuli",
+      "en": "subscribed",
       "glosses": [
-        "'00s, noughties, aughts"
+        "subscribed"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äbo̞niɾe̞buli]",
       "audio": null,
       "audioLocal": "audio/household/001.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From აბონირება (abonireba) + -ული (-uli, past passive participle-forming suffix)."
     },
     {
-      "ka": "10-იანები",
-      "roman": "10-ianebi",
-      "en": "'10s, tens",
+      "ka": "ადრეულა",
+      "roman": "adreula",
+      "en": "early (fruit/vegetable/vine variety)",
       "glosses": [
-        "'10s, tens"
+        "early (fruit/vegetable/vine variety)"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ädɾe̞uɫä]",
       "audio": null,
       "audioLocal": "audio/household/002.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From ადრე (adre, “early, before”) + -ული (-uli, adjectival suffix) + -ა (-a)."
     },
     {
-      "ka": "10-იანი წლები",
-      "roman": "10-iani c̣lebi",
-      "en": "'10s, tens",
+      "ka": "ამძვრალი",
+      "roman": "amʒvrali",
+      "en": "unstuck, climbed",
       "glosses": [
-        "'10s, tens"
+        "unstuck, climbed"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ämd͡zʷɾäli]",
       "audio": null,
       "audioLocal": "audio/household/003.mp3",
       "audioSource": null,
@@ -66,29 +66,29 @@
       "etymology": null
     },
     {
-      "ka": "20-იანები",
-      "roman": "20-ianebi",
-      "en": "'20s, twenties",
+      "ka": "ანგარიშვალდებული",
+      "roman": "angarišvaldebuli",
+      "en": "accountable",
       "glosses": [
-        "'20s, twenties"
+        "accountable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äŋɡäɾiʃʷälde̞buli]",
       "audio": null,
       "audioLocal": "audio/household/004.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From ანგარიში (angariši, “account”) + ვალდებული (valdebuli, “obliged”)."
     },
     {
-      "ka": "20-იანი წლები",
-      "roman": "20-iani c̣lebi",
-      "en": "'20s, twenties",
+      "ka": "აპკოვანი",
+      "roman": "aṗḳovani",
+      "en": "membranous, webbed",
       "glosses": [
-        "'20s, twenties"
+        "membranous, webbed"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äpʼkʼo̞väni]",
       "audio": null,
       "audioLocal": "audio/household/005.mp3",
       "audioSource": null,
@@ -96,104 +96,104 @@
       "etymology": null
     },
     {
-      "ka": "30-იანები",
-      "roman": "30-ianebi",
-      "en": "'30s, thirties",
+      "ka": "არამართებული",
+      "roman": "aramartebuli",
+      "en": "unacceptable",
       "glosses": [
-        "'30s, thirties"
+        "unacceptable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äɾämäɾtʰe̞buli]",
       "audio": null,
       "audioLocal": "audio/household/006.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From არა- (ara-, “un-, non-”) + მართებული (martebuli, “correct, true, right”)."
     },
     {
-      "ka": "30-იანი წლები",
-      "roman": "30-iani c̣lebi",
-      "en": "'30s, thirties",
+      "ka": "არამდგრადი",
+      "roman": "aramdgradi",
+      "en": "volatile, unstable, unsustainable, fluctuating",
       "glosses": [
-        "'30s, thirties"
+        "volatile, unstable, unsustainable, fluctuating"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äɾämdɡɾädi]",
       "audio": null,
       "audioLocal": "audio/household/007.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From არა- (ara-, “un-, non-”) + მდგრადი (mdgradi, “stable, sustainable”)."
     },
     {
-      "ka": "40-იანები",
-      "roman": "40-ianebi",
-      "en": "'40s, forties",
+      "ka": "არამომგებიანი",
+      "roman": "aramomgebiani",
+      "en": "unprofitable",
       "glosses": [
-        "'40s, forties"
+        "unprofitable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äɾämo̞mɡe̞biäni]",
       "audio": null,
       "audioLocal": "audio/household/008.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From არა- (ara-, “un-, non-”) + მომგებიანი (momgebiani, “profitable”)."
     },
     {
-      "ka": "40-იანი წლები",
-      "roman": "40-iani c̣lebi",
-      "en": "'40s, forties",
+      "ka": "არამყარი",
+      "roman": "aramq̇ari",
+      "en": "destructible, shaky, unstable, unsteady",
       "glosses": [
-        "'40s, forties"
+        "destructible, shaky, unstable, unsteady"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äɾämχʼäɾi]",
       "audio": null,
       "audioLocal": "audio/household/009.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From არა- (ara-, “un-”) + მყარი (mq̇ari)."
     },
     {
-      "ka": "50-იანები",
-      "roman": "50-ianebi",
-      "en": "'50s, fifties",
+      "ka": "არასამართლიანი",
+      "roman": "arasamartliani",
+      "en": "unjust, unright, inequitable",
       "glosses": [
-        "'50s, fifties"
+        "unjust, unright, inequitable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äɾäsämäɾtʰliäni]",
       "audio": null,
       "audioLocal": "audio/household/010.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From არა- (ara-) + სამართლიანი (samartliani)."
     },
     {
-      "ka": "50-იანი წლები",
-      "roman": "50-iani c̣lebi",
-      "en": "'50s, fifties",
+      "ka": "არასტაბილური",
+      "roman": "arasṭabiluri",
+      "en": "unstable, volatile",
       "glosses": [
-        "'50s, fifties"
+        "unstable, volatile"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äɾästʼäbiɫuɾi]",
       "audio": null,
       "audioLocal": "audio/household/011.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From არა- (ara-, “un-, non-”) + სტაბილური (sṭabiluri, “stable”)."
     },
     {
-      "ka": "60-იანები",
-      "roman": "60-ianebi",
-      "en": "'60s, sixties",
+      "ka": "არშია",
+      "roman": "aršia",
+      "en": "decorative fringe of garments, tablecloths, etc.",
       "glosses": [
-        "'60s, sixties"
+        "decorative fringe of garments, tablecloths, etc."
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äɾʃiä]",
       "audio": null,
       "audioLocal": "audio/household/012.mp3",
       "audioSource": null,
@@ -201,14 +201,14 @@
       "etymology": null
     },
     {
-      "ka": "60-იანი წლები",
-      "roman": "60-iani c̣lebi",
-      "en": "'60s, sixties",
+      "ka": "აუტანელი",
+      "roman": "auṭaneli",
+      "en": "insufferable, insupportable, intolerable, unbearable",
       "glosses": [
-        "'60s, sixties"
+        "insufferable, insupportable, intolerable, unbearable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äutʼäne̞li]",
       "audio": null,
       "audioLocal": "audio/household/013.mp3",
       "audioSource": null,
@@ -216,14 +216,14 @@
       "etymology": null
     },
     {
-      "ka": "70-იანები",
-      "roman": "70-ianebi",
-      "en": "'70s, seventies",
+      "ka": "აუხსნელი",
+      "roman": "auxsneli",
+      "en": "inexplicable, unaccountable, unexplained",
       "glosses": [
-        "'70s, seventies"
+        "inexplicable, unaccountable, unexplained"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äuχsne̞li]",
       "audio": null,
       "audioLocal": "audio/household/014.mp3",
       "audioSource": null,
@@ -231,26 +231,26 @@
       "etymology": null
     },
     {
-      "ka": "70-იანი წლები",
-      "roman": "70-iani c̣lebi",
-      "en": "'70s, seventies",
+      "ka": "აღშფოთებული",
+      "roman": "aɣšpotebuli",
+      "en": "indignant, resentful, perturbed, resented, scandalized",
       "glosses": [
-        "'70s, seventies"
+        "indignant, resentful, perturbed, resented, scandalized"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äʁʃpʰo̞tʰe̞buli]",
       "audio": null,
       "audioLocal": "audio/household/015.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Old Georgian აღშფოთებული (aɣšpotebuli), from შფოთი (špoti)."
     },
     {
-      "ka": "80-იანები",
-      "roman": "80-ianebi",
-      "en": "'80s, eighties",
+      "ka": "ბაზმა",
+      "roman": "bazma",
+      "en": "a small oil lamp, typically used to light an icon in a church",
       "glosses": [
-        "'80s, eighties"
+        "a small oil lamp, typically used to light an icon in a church"
       ],
       "pos": "noun",
       "ipa": null,
@@ -258,47 +258,47 @@
       "audioLocal": "audio/household/016.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Old Georgian ბაზმაკი (bazmaḳi). For the development of the ending see -აკი (-aḳi)."
     },
     {
-      "ka": "80-იანი წლები",
-      "roman": "80-iani c̣lebi",
-      "en": "'80s, eighties",
+      "ka": "ბალანსი",
+      "roman": "balansi",
+      "en": "balance sheet",
       "glosses": [
-        "'80s, eighties"
+        "balance sheet"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥äɫänsi]",
       "audio": null,
       "audioLocal": "audio/household/017.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from Russian баланс (balans)."
     },
     {
-      "ka": "90-იანები",
-      "roman": "90-ianebi",
-      "en": "'90s, nineties",
+      "ka": "ბალიში",
+      "roman": "bališi",
+      "en": "pillow, cushion",
       "glosses": [
-        "'90s, nineties"
+        "pillow, cushion"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥äliʃi]",
       "audio": null,
       "audioLocal": "audio/household/018.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from Classical Persian بالش (bāliš, “pillow”)."
     },
     {
-      "ka": "90-იანი წლები",
-      "roman": "90-iani c̣lebi",
-      "en": "'90s, nineties",
+      "ka": "ბაღლინჯო",
+      "roman": "baɣlinǯo",
+      "en": "bedbug, bug",
       "glosses": [
-        "'90s, nineties"
+        "bedbug, bug"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥äʁlind͡ʒo̞]",
       "audio": null,
       "audioLocal": "audio/household/019.mp3",
       "audioSource": null,
@@ -306,44 +306,44 @@
       "etymology": null
     },
     {
-      "ka": "A ვიტამინი",
-      "roman": "A viṭamini",
-      "en": "vitamin A",
+      "ka": "ბეჩო",
+      "roman": "bečo",
+      "en": "riverbed depression; (cray)fish shelter",
       "glosses": [
-        "vitamin A"
+        "riverbed depression; (cray)fish shelter"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥e̞t͡ʃʰo̞]",
       "audio": null,
       "audioLocal": "audio/household/020.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Cognate with Mingrelian ბეჩუ (beču), if the latter is inherited from Proto-Georgian-Zan and is not borrowed from Georgian."
     },
     {
-      "ka": "B ვიტამინი",
-      "roman": "B viṭamini",
-      "en": "vitamin B (any of the vitamins in the vitamin B complex)",
+      "ka": "ბოსტანი",
+      "roman": "bosṭani",
+      "en": "market-garden, vegetable garden",
       "glosses": [
-        "vitamin B (any of the vitamins in the vitamin B complex)"
+        "market-garden, vegetable garden"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥o̞stʼäni]",
       "audio": null,
       "audioLocal": "audio/household/021.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Persian بوستان (bustân, “garden”)."
     },
     {
-      "ka": "B ჯგუფის ვიტამინების კომპლექსი",
-      "roman": "B ǯgupis viṭaminebis ḳomṗleksi",
-      "en": "vitamin B complex",
+      "ka": "ბოსტნეული",
+      "roman": "bosṭneuli",
+      "en": "vegetable, vegetables",
       "glosses": [
-        "vitamin B complex"
+        "vegetable, vegetables"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥o̞stʼne̞uli]",
       "audio": null,
       "audioLocal": "audio/household/022.mp3",
       "audioSource": null,
@@ -351,14 +351,14 @@
       "etymology": null
     },
     {
-      "ka": "B-ვიტამინების კომპლექსი",
-      "roman": "B-viṭaminebis ḳomṗleksi",
-      "en": "vitamin B complex",
+      "ka": "გადაულახავი",
+      "roman": "gadaulaxavi",
+      "en": "insuperable, insurmountable, resistless",
       "glosses": [
-        "vitamin B complex"
+        "insuperable, insurmountable, resistless"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ɡ̊ädäuɫäχävi]",
       "audio": null,
       "audioLocal": "audio/household/023.mp3",
       "audioSource": null,
@@ -366,14 +366,14 @@
       "etymology": null
     },
     {
-      "ka": "B-ჯგუფის ვიტამინები",
-      "roman": "B-ǯgupis viṭaminebi",
-      "en": "vitamin B complex (vitamins belonging to group B)",
+      "ka": "განმეორებადი",
+      "roman": "ganmeorebadi",
+      "en": "repeatable, repetitious, repetitive",
       "glosses": [
-        "vitamin B complex (vitamins belonging to group B)"
+        "repeatable, repetitious, repetitive"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ɡ̊änme̞o̞ɾe̞bädi]",
       "audio": null,
       "audioLocal": "audio/household/024.mp3",
       "audioSource": null,
@@ -381,14 +381,14 @@
       "etymology": null
     },
     {
-      "ka": "C ვიტამინი",
-      "roman": "C viṭamini",
-      "en": "vitamin C",
+      "ka": "განრიგები",
+      "roman": "ganrigebi",
+      "en": "schedules, timetables",
       "glosses": [
-        "vitamin C"
+        "schedules, timetables"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[ɡ̊änɾiɡe̞bi]",
       "audio": null,
       "audioLocal": "audio/household/025.mp3",
       "audioSource": null,
@@ -396,14 +396,14 @@
       "etymology": null
     },
     {
-      "ka": "D ვიტამინი",
-      "roman": "D viṭamini",
-      "en": "vitamin D",
+      "ka": "განრიგი",
+      "roman": "ganrigi",
+      "en": "schedule, timetable, timing, timings",
       "glosses": [
-        "vitamin D"
+        "schedule, timetable, timing, timings"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[ɡ̊änɾiɡi]",
       "audio": null,
       "audioLocal": "audio/household/026.mp3",
       "audioSource": null,
@@ -411,29 +411,29 @@
       "etymology": null
     },
     {
-      "ka": "E ვიტამინი",
-      "roman": "E viṭamini",
-      "en": "vitamin E",
+      "ka": "გარდაუვალი",
+      "roman": "gardauvali",
+      "en": "inevitable, unavoidable",
       "glosses": [
-        "vitamin E"
+        "inevitable, unavoidable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ɡ̊äɾdäuväli]",
       "audio": null,
       "audioLocal": "audio/household/027.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From გარდა- (garda-) + უვალი (uvali)."
     },
     {
-      "ka": "K ვიტამინი",
-      "roman": "K viṭamini",
-      "en": "vitamin K",
+      "ka": "გასავლიანი",
+      "roman": "gasavliani",
+      "en": "marketable, salable, saleable",
       "glosses": [
-        "vitamin K"
+        "marketable, salable, saleable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ɡ̊äsävliäni]",
       "audio": null,
       "audioLocal": "audio/household/028.mp3",
       "audioSource": null,
@@ -441,59 +441,59 @@
       "etymology": null
     },
     {
-      "ka": "SIM-ბარათი",
-      "roman": "SIM-barati",
-      "en": "SIM card",
+      "ka": "გლემპინგი",
+      "roman": "glemṗingi",
+      "en": "glamping",
       "glosses": [
-        "SIM card"
+        "glamping"
       ],
       "pos": "noun",
-      "ipa": "[simbäɾätʰi]",
+      "ipa": "[ɡ̊le̞mpʼiŋɡi]",
       "audio": null,
       "audioLocal": "audio/household/029.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from English glamping."
     },
     {
-      "ka": "ა.შ.",
-      "roman": "",
-      "en": "etc.",
+      "ka": "გობეგი",
+      "roman": "gobegi",
+      "en": "blanket filler (down, feathers, wool, silk, etc.)",
       "glosses": [
-        "etc."
+        "blanket filler (down, feathers, wool, silk, etc.)"
       ],
-      "pos": "adv",
-      "ipa": null,
+      "pos": "noun",
+      "ipa": "[ɡ̊o̞be̞ɡi]",
       "audio": null,
       "audioLocal": "audio/household/030.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "Abbreviation of ასე შემდეგ (ase šemdeg, “and so on”)."
+      "etymology": "Ultimately from Ottoman Turkish كوبك (göbek, “navel”)."
     },
     {
-      "ka": "ააბარგებს",
-      "roman": "aabargebs",
-      "en": "to make (someone) move house",
+      "ka": "გომი",
+      "roman": "gomi",
+      "en": "barn or stable for overwintering cattle",
       "glosses": [
-        "to make (someone) move house"
+        "barn or stable for overwintering cattle"
       ],
-      "pos": "verb",
-      "ipa": "[ääbäɾɡe̞bs]",
+      "pos": "noun",
+      "ipa": "[ɡ̊o̞mi]",
       "audio": null,
       "audioLocal": "audio/household/031.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Middle Georgian, from Proto-Kartvelian *gom-. Cognate with Svan გუ̂ემ (gûem, “room, chamber; cowshed”). According to Chukhua (2003), the word is cognate with Svan გუ̂ალ (gûal, “cowshed”), comparing it to Georgian ქათამი (katami): Svan ქათალ (katal) for the change of the final consonant. However, this correspondence is later denied by Chukhua in his expanded edition of the dictionary in 2019.\n…"
     },
     {
-      "ka": "ააგდებს",
-      "roman": "aagdebs",
-      "en": "to throw (something) up",
+      "ka": "გრამოფონი",
+      "roman": "gramoponi",
+      "en": "gramophone",
       "glosses": [
-        "to throw (something) up"
+        "gramophone"
       ],
-      "pos": "verb",
-      "ipa": "[ääɡde̞bs]",
+      "pos": "noun",
+      "ipa": "[ɡ̊ɾämo̞pʰo̞ni]",
       "audio": null,
       "audioLocal": "audio/household/032.mp3",
       "audioSource": null,
@@ -501,74 +501,74 @@
       "etymology": null
     },
     {
-      "ka": "ააგიზგიზებს",
-      "roman": "aagizgizebs",
-      "en": "to start a strong, roaring fire",
+      "ka": "დაბინდული",
+      "roman": "dabinduli",
+      "en": "bedimmed, lack-lustre",
       "glosses": [
-        "to start a strong, roaring fire"
+        "bedimmed, lack-lustre"
       ],
-      "pos": "verb",
-      "ipa": "[ääɡizɡize̞bs]",
+      "pos": "adj",
+      "ipa": "[d̥äbinduli]",
       "audio": null,
       "audioLocal": "audio/household/033.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "See აგიზგიზება (agizgizeba)."
+      "etymology": null
     },
     {
-      "ka": "აადვილებს",
-      "roman": "aadvilebs",
-      "en": "to make easy",
+      "ka": "დაბნელებული",
+      "roman": "dabnelebuli",
+      "en": "bedimmed, eclipsed, overshadowed",
       "glosses": [
-        "to make easy"
+        "bedimmed, eclipsed, overshadowed"
       ],
-      "pos": "verb",
-      "ipa": "[äädʷile̞bs]",
+      "pos": "adj",
+      "ipa": "[d̥äbne̞le̞buli]",
       "audio": null,
       "audioLocal": "audio/household/034.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "See გაადვილება (gaadvileba)."
+      "etymology": null
     },
     {
-      "ka": "აავსებს",
-      "roman": "aavsebs",
-      "en": "to fill",
+      "ka": "დამყოლი",
+      "roman": "damq̇oli",
+      "en": "supple, tractable",
       "glosses": [
-        "to fill"
+        "supple, tractable"
       ],
-      "pos": "verb",
-      "ipa": "[ääfse̞bs]",
+      "pos": "adj",
+      "ipa": "[d̥ämχʼo̞li]",
       "audio": null,
       "audioLocal": "audio/household/035.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "From ა- (a-) + ავსებს (avsebs)."
+      "etymology": null
     },
     {
-      "ka": "აალაგებს",
-      "roman": "aalagebs",
-      "en": "to tidy, to tidy up",
+      "ka": "დანამული",
+      "roman": "danamuli",
+      "en": "bedewed, damped",
       "glosses": [
-        "to tidy, to tidy up"
+        "bedewed, damped"
       ],
-      "pos": "verb",
-      "ipa": "[ääɫäɡe̞bs]",
+      "pos": "adj",
+      "ipa": "[d̥änämuli]",
       "audio": null,
       "audioLocal": "audio/household/036.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "From ა- (a-) + ალაგებს (alagebs)."
+      "etymology": null
     },
     {
-      "ka": "აალება",
-      "roman": "aaleba",
-      "en": "ignition",
+      "ka": "დასახლებული",
+      "roman": "dasaxlebuli",
+      "en": "inhabitable, inhabited, peopled",
       "glosses": [
-        "ignition"
+        "inhabitable, inhabited, peopled"
       ],
-      "pos": "noun",
-      "ipa": "[ääle̞bä]",
+      "pos": "adj",
+      "ipa": "[d̥äsäχle̞buli]",
       "audio": null,
       "audioLocal": "audio/household/037.mp3",
       "audioSource": null,
@@ -576,115 +576,1725 @@
       "etymology": null
     },
     {
-      "ka": "აალებადი",
-      "roman": "aalebadi",
-      "en": "flammable",
+      "ka": "დასველებული",
+      "roman": "dasvelebuli",
+      "en": "bedraggled, drenched",
       "glosses": [
-        "flammable"
+        "bedraggled, drenched"
       ],
       "pos": "adj",
-      "ipa": "[ääle̞bädi]",
+      "ipa": "[d̥äsʷe̞le̞buli]",
       "audio": null,
       "audioLocal": "audio/household/038.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "From აალება (aaleba, “ignition”) + -ადი (-adi)."
-    },
-    {
-      "ka": "აამებს",
-      "roman": "aamebs",
-      "en": "to bring pleasure to",
-      "glosses": [
-        "to bring pleasure to"
-      ],
-      "pos": "verb",
-      "ipa": "[ääme̞bs]",
-      "audio": null,
-      "audioLocal": "audio/household/039.mp3",
-      "audioSource": null,
-      "examples": [
-        {
-          "ka": "მისმა საჩუქარმა ძალიან მაამა",
-          "roman": "misma sačukarma ʒalian maama",
-          "en": "His present delighted me very much"
-        }
-      ],
       "etymology": null
     },
     {
-      "ka": "ააფეთქებს",
-      "roman": "aapetkebs",
-      "en": "to blow up, to explode",
+      "ka": "დაუბეჭდავი",
+      "roman": "daubeč̣davi",
+      "en": "unprintable",
       "glosses": [
-        "to blow up, to explode"
+        "unprintable"
       ],
-      "pos": "verb",
-      "ipa": "[ääpʰe̞tʰkʰe̞bs]",
+      "pos": "adj",
+      "ipa": "[d̥äube̞t͡ʃʼdävi]",
+      "audio": null,
+      "audioLocal": "audio/household/039.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაუვიწყარი",
+      "roman": "dauvic̣q̇ari",
+      "en": "unforgettable",
+      "glosses": [
+        "unforgettable"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äuvit͡sʼχʼäɾi]",
       "audio": null,
       "audioLocal": "audio/household/040.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "From ა- (a-) + აფეთქებს (apetkebs)."
+      "etymology": "From დავიწყ(ება) (davic̣q̇(eba)) + უ- -არი (u- -ari)."
     },
     {
-      "ka": "ააშენებს",
-      "roman": "aašenebs",
-      "en": "to build",
+      "ka": "დაუმორჩილებლობა",
+      "roman": "daumorčilebloba",
+      "en": "disobedience",
       "glosses": [
-        "to build"
+        "disobedience"
       ],
-      "pos": "verb",
-      "ipa": "[ääʃe̞ne̞bs]",
+      "pos": "noun",
+      "ipa": "[d̥äumo̞ɾt͡ʃʰile̞bɫo̞bä]",
       "audio": null,
       "audioLocal": "audio/household/041.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "From ა- (a-) + აშენებს (ašenebs)."
+      "etymology": null
     },
     {
-      "ka": "აბაზანა",
-      "roman": "abazana",
-      "en": "bathtub",
+      "ka": "დაფა",
+      "roman": "dapa",
+      "en": "plate, table, tablet, bench",
       "glosses": [
-        "bathtub"
+        "plate, table, tablet, bench"
       ],
       "pos": "noun",
-      "ipa": "[äbäzänä]",
+      "ipa": "[d̥äpʰä]",
       "audio": null,
       "audioLocal": "audio/household/042.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "An Iranian borrowing. Compare Persian آبزن (âbzan, “bathtub”) and see there for more. Doublet of ავაზანი (avazani)."
+      "etymology": null
     },
     {
-      "ka": "აბაზი",
-      "roman": "abazi",
-      "en": "abazi, 20 kopeck coin",
+      "ka": "დაჩლუნგებული",
+      "roman": "dačlungebuli",
+      "en": "benumbed, dulled",
       "glosses": [
-        "abazi, 20 kopeck coin"
+        "benumbed, dulled"
       ],
-      "pos": "noun",
-      "ipa": "[äbäzi]",
+      "pos": "adj",
+      "ipa": "[d̥ät͡ʃʰɫuŋɡe̞buli]",
       "audio": null,
       "audioLocal": "audio/household/043.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "Borrowed from Classical Persian عَبَّاسِی (abbāsī)."
+      "etymology": null
     },
     {
-      "ka": "აბაკი",
-      "roman": "abaḳi",
-      "en": "abacus",
+      "ka": "დაცვარული",
+      "roman": "dacvaruli",
+      "en": "bedewed",
       "glosses": [
-        "abacus"
+        "bedewed"
       ],
-      "pos": "noun",
-      "ipa": "[äbäkʼi]",
+      "pos": "adj",
+      "ipa": "[d̥ät͡sʰʷäɾuli]",
       "audio": null,
       "audioLocal": "audio/household/044.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "Borrowed from Russian аба́к (abák)."
+      "etymology": null
+    },
+    {
+      "ka": "დახლი",
+      "roman": "daxli",
+      "en": "counter (shop tabletop)",
+      "glosses": [
+        "counter (shop tabletop)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äχli]",
+      "audio": null,
+      "audioLocal": "audio/household/045.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Arabic دَخْل (daḵl)."
+    },
+    {
+      "ka": "ეგოცენტრული",
+      "roman": "egocenṭruli",
+      "en": "egocentric, self-absorbed",
+      "glosses": [
+        "egocentric, self-absorbed"
+      ],
+      "pos": "adj",
+      "ipa": "[e̞ɡo̞t͡sʰe̞ntʼɾuli]",
+      "audio": null,
+      "audioLocal": "audio/household/046.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ეკლიანი მავთული",
+      "roman": "eḳliani mavtuli",
+      "en": "barbed wire",
+      "glosses": [
+        "barbed wire"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞kʼliäni mäftʰuli]",
+      "audio": null,
+      "audioLocal": "audio/household/047.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვარგისი",
+      "roman": "vargisi",
+      "en": "applicable, livable, liveable, suitable",
+      "glosses": [
+        "applicable, livable, liveable, suitable"
+      ],
+      "pos": "adj",
+      "ipa": "[väɾɡisi]",
+      "audio": null,
+      "audioLocal": "audio/household/048.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვარგისობა",
+      "roman": "vargisoba",
+      "en": "applicability, aptitude, suitableness, usefulness, serve",
+      "glosses": [
+        "applicability, aptitude, suitableness, usefulness, serve"
+      ],
+      "pos": "noun",
+      "ipa": "[väɾɡiso̞bä]",
+      "audio": null,
+      "audioLocal": "audio/household/049.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ვარგისი (vargisi) + -ობა (-oba)."
+    },
+    {
+      "ka": "ვედრო",
+      "roman": "vedro",
+      "en": "bucket",
+      "glosses": [
+        "bucket"
+      ],
+      "pos": "noun",
+      "ipa": "[ve̞dɾo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/050.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian ведро́ (vedró)."
+    },
+    {
+      "ka": "ზეწარი",
+      "roman": "zec̣ari",
+      "en": "sheet",
+      "glosses": [
+        "sheet"
+      ],
+      "pos": "noun",
+      "ipa": "[ze̞t͡sʼäɾi]",
+      "audio": null,
+      "audioLocal": "audio/household/051.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზრო",
+      "roman": "zro",
+      "en": "strong]] and stable stem of a plant (e.g., a grapevine)",
+      "glosses": [
+        "strong]] and stable stem of a plant (e.g., a grapevine)"
+      ],
+      "pos": "noun",
+      "ipa": "[zɾo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/052.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "ვაზის ზრო",
+          "roman": "vazis zro",
+          "en": "Stem of a grapevine"
+        }
+      ],
+      "etymology": "Uncertain"
+    },
+    {
+      "ka": "თავკაცი",
+      "roman": "tavḳaci",
+      "en": "a respectable member of the society, someone whose opinion is important or sought-after",
+      "glosses": [
+        "a respectable member of the society, someone whose opinion is important or sought-after"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäfkʼät͡sʰi]",
+      "audio": null,
+      "audioLocal": "audio/household/053.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From თავი (tavi, “head”) + კაცი (ḳaci, “man”)."
+    },
+    {
+      "ka": "თავლა",
+      "roman": "tavla",
+      "en": "stable, stabling",
+      "glosses": [
+        "stable, stabling"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰävɫä]",
+      "audio": null,
+      "audioLocal": "audio/household/054.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავმჯდომარე",
+      "roman": "tavmǯdomare",
+      "en": "chairman, president, presiding officer",
+      "glosses": [
+        "chairman, president, presiding officer"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰävmd͡ʒdo̞mäɾe̞]",
+      "audio": null,
+      "audioLocal": "audio/household/055.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თეთრეული",
+      "roman": "tetreuli",
+      "en": "bedclothes, linen",
+      "glosses": [
+        "bedclothes, linen"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰe̞tʰɾe̞uli]",
+      "audio": null,
+      "audioLocal": "audio/household/056.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From თეთრი (tetri)."
+    },
+    {
+      "ka": "თერმოსვეტი",
+      "roman": "termosveṭi",
+      "en": "thermopile",
+      "glosses": [
+        "thermopile"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰe̞ɾmo̞sʷe̞tʼi]",
+      "audio": null,
+      "audioLocal": "audio/household/057.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თვლადი",
+      "roman": "tvladi",
+      "en": "countable",
+      "glosses": [
+        "countable"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰʷɫädi]",
+      "audio": null,
+      "audioLocal": "audio/household/058.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ინვალიდის სავარძელი",
+      "roman": "invalidis savarʒeli",
+      "en": "wheelchair",
+      "glosses": [
+        "wheelchair"
+      ],
+      "pos": "noun",
+      "ipa": "[inʷälidis säväɾd͡ze̞li]",
+      "audio": null,
+      "audioLocal": "audio/household/059.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ისევ",
+      "roman": "isev",
+      "en": "Used with some verbs to denote that the action described with the verb is unpleasant but better.",
+      "glosses": [
+        "Used with some verbs to denote that the action described with the verb is unpleasant but better."
+      ],
+      "pos": "adv",
+      "ipa": "[ise̞v]",
+      "audio": null,
+      "audioLocal": "audio/household/060.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "წვიმს, ჩიტი კი ბუნაგს არ ტოვებს და ისევ შიმშილი ურჩევნია.",
+          "roman": "c̣vims, čiṭi ḳi bunags ar ṭovebs da isev šimšili určevnia.",
+          "en": "It's raining, but the bird does not leave its lair and prefers hunger."
+        }
+      ],
+      "etymology": "Clipping of ისევე (iseve)?"
+    },
+    {
+      "ka": "კაცობა",
+      "roman": "ḳacoba",
+      "en": "being honorable or trustworthy, male dignity (or other positive qualities ascribed to ideal man as such)",
+      "glosses": [
+        "being honorable or trustworthy, male dignity (or other positive qualities ascribed to ideal man as such)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼät͡sʰo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/household/061.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From კაცი (ḳaci) + -ობა (-oba)."
+    },
+    {
+      "ka": "კაცურად",
+      "roman": "ḳacurad",
+      "en": "in a dignified manner suitable for a man, in a way befitting of a man",
+      "glosses": [
+        "in a dignified manner suitable for a man, in a way befitting of a man"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼät͡sʰuɾätʰ]",
+      "audio": null,
+      "audioLocal": "audio/household/062.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From კაცური (ḳacuri) + -ად (-ad)."
+    },
+    {
+      "ka": "კომლი",
+      "roman": "ḳomli",
+      "en": "household",
+      "glosses": [
+        "household"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mli]",
+      "audio": null,
+      "audioLocal": "audio/household/063.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "See კვამლი (ḳvamli)."
+    },
+    {
+      "ka": "კომფორტული",
+      "roman": "ḳomporṭuli",
+      "en": "comfortable",
+      "glosses": [
+        "comfortable"
+      ],
+      "pos": "adj",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/household/064.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From კომფორტი (ḳomporṭi, “comfort”) + -ული (-uli, adjective-forming suffix)."
+    },
+    {
+      "ka": "კოსმოპოლიტანიზმი",
+      "roman": "ḳosmoṗoliṭanizmi",
+      "en": "cosmopolitanism",
+      "glosses": [
+        "cosmopolitanism"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞smo̞pʼo̞litʼänizmi]",
+      "audio": null,
+      "audioLocal": "audio/household/065.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From French cosmopolitisme."
+    },
+    {
+      "ka": "კოსმოპოლიტი",
+      "roman": "ḳosmoṗoliṭi",
+      "en": "cosmopolitan",
+      "glosses": [
+        "cosmopolitan"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞smo̞pʼo̞litʼi]",
+      "audio": null,
+      "audioLocal": "audio/household/066.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ლავის ნათურა",
+      "roman": "lavis natura",
+      "en": "lava lamp",
+      "glosses": [
+        "lava lamp"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫävis nätʰuɾä]",
+      "audio": null,
+      "audioLocal": "audio/household/067.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Calque of English lava lamp."
+    },
+    {
+      "ka": "ლამპა",
+      "roman": "lamṗa",
+      "en": "lamp",
+      "glosses": [
+        "lamp"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫämpʼä]",
+      "audio": null,
+      "audioLocal": "audio/household/068.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian ла́мпа (lámpa), from French lampe, ultimately from Ancient Greek λαμπάς (lampás). Doublet of ლამპარი (lamṗari)."
+    },
+    {
+      "ka": "ლამპარი",
+      "roman": "lamṗari",
+      "en": "lamp",
+      "glosses": [
+        "lamp"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫämpʼäɾi]",
+      "audio": null,
+      "audioLocal": "audio/household/069.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "მეორე ღამეს, ჩვეულებისამებრ, ავანთე ლამპარი, დავწექ და დავიძინე.",
+          "roman": "meore ɣames, čveulebisamebr, avante lamṗari, davc̣ek da daviʒine.",
+          "en": "On the second night, as usual, I lit up the lamp, went to bed and fell asleep."
+        }
+      ],
+      "etymology": "From Old Georgian ლამპარი (lamṗari), from Old Armenian լամպար (lampar), via Iranian ultimately from Ancient Greek λαμπάς (lampás). Doublet of ლამპა (lamṗa)."
+    },
+    {
+      "ka": "ლეგალური",
+      "roman": "legaluri",
+      "en": "legal (being established, permitted, required or prescribed by law)",
+      "glosses": [
+        "legal (being established, permitted, required or prescribed by law)"
+      ],
+      "pos": "adj",
+      "ipa": "[le̞ɡäɫuɾi]",
+      "audio": null,
+      "audioLocal": "audio/household/070.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin lēgālis + -ური (-uri)."
+    },
+    {
+      "ka": "ლოგინი",
+      "roman": "logini",
+      "en": "bed",
+      "glosses": [
+        "bed"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫo̞ɡini]",
+      "audio": null,
+      "audioLocal": "audio/household/071.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Old Georgian ლოგინი (logini); see there for more."
+    },
+    {
+      "ka": "ლოგინში",
+      "roman": "loginši",
+      "en": "abed",
+      "glosses": [
+        "abed"
+      ],
+      "pos": "adv",
+      "ipa": "[ɫo̞ɡinʃi]",
+      "audio": null,
+      "audioLocal": "audio/household/072.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგიდა",
+      "roman": "magida",
+      "en": "table",
+      "glosses": [
+        "table"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɡidä]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Ka-%E1%83%9B%E1%83%90%E1%83%92%E1%83%98%E1%83%93%E1%83%90.opus/Ka-%E1%83%9B%E1%83%90%E1%83%92%E1%83%98%E1%83%93%E1%83%90.opus.mp3",
+      "audioLocal": "audio/household/073.mp3",
+      "audioSource": "wiktionary",
+      "examples": [
+        {
+          "ka": "მაგიდაზე დადე",
+          "roman": "magidaze dade",
+          "en": "put it on the table"
+        }
+      ],
+      "etymology": "Borrowed from Ancient Greek μαγίδα (magída, “small table”, accusative form)."
+    },
+    {
+      "ka": "მავთულხლართი",
+      "roman": "mavtulxlarti",
+      "en": "barbed wire",
+      "glosses": [
+        "barbed wire"
+      ],
+      "pos": "noun",
+      "ipa": "[mäftʰulχɫäɾtʰi]",
+      "audio": null,
+      "audioLocal": "audio/household/074.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From მავთული (mavtuli, “wire”) + ხლართი (xlarti, “something entangled”)."
+    },
+    {
+      "ka": "მარგი",
+      "roman": "margi",
+      "en": "plot, bed (in a garden)",
+      "glosses": [
+        "plot, bed (in a garden)"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɾɡi]",
+      "audio": null,
+      "audioLocal": "audio/household/075.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Armenian մարգ (marg)."
+    },
+    {
+      "ka": "მართებული",
+      "roman": "martebuli",
+      "en": "right, just, reasonable, acceptable, proper",
+      "glosses": [
+        "right, just, reasonable, acceptable, proper"
+      ],
+      "pos": "adj",
+      "ipa": "[mäɾtʰe̞buli]",
+      "audio": null,
+      "audioLocal": "audio/household/076.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მდგრადი",
+      "roman": "mdgradi",
+      "en": "sustainable, stable, steady",
+      "glosses": [
+        "sustainable, stable, steady"
+      ],
+      "pos": "adj",
+      "ipa": "[mdɡɾädi]",
+      "audio": null,
+      "audioLocal": "audio/household/077.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მედეგი",
+      "roman": "medegi",
+      "en": "capable of withstanding great physical force, strong, stable, tough",
+      "glosses": [
+        "capable of withstanding great physical force, strong, stable, tough"
+      ],
+      "pos": "adj",
+      "ipa": "[me̞de̞ɡi]",
+      "audio": null,
+      "audioLocal": "audio/household/078.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეჯინიბე",
+      "roman": "meǯinibe",
+      "en": "groom, ostler, stableman",
+      "glosses": [
+        "groom, ostler, stableman"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞d͡ʒinibe̞]",
+      "audio": null,
+      "audioLocal": "audio/household/079.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მომგებიანი",
+      "roman": "momgebiani",
+      "en": "gainful, profitable",
+      "glosses": [
+        "gainful, profitable"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞mɡe̞biäni]",
+      "audio": null,
+      "audioLocal": "audio/household/080.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოპედი",
+      "roman": "moṗedi",
+      "en": "moped",
+      "glosses": [
+        "moped"
+      ],
+      "pos": "noun",
+      "ipa": "[mo̞pʼe̞di]",
+      "audio": null,
+      "audioLocal": "audio/household/081.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მორჩილად",
+      "roman": "morčilad",
+      "en": "dutifully, obediently, resignedly, submissively",
+      "glosses": [
+        "dutifully, obediently, resignedly, submissively"
+      ],
+      "pos": "adv",
+      "ipa": "[mo̞ɾt͡ʃʰiɫätʰ]",
+      "audio": null,
+      "audioLocal": "audio/household/082.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მორჩილება",
+      "roman": "morčileba",
+      "en": "obedience",
+      "glosses": [
+        "obedience"
+      ],
+      "pos": "noun",
+      "ipa": "[mo̞ɾt͡ʃʰile̞bä]",
+      "audio": null,
+      "audioLocal": "audio/household/083.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From მორჩილი (morčili) + -ება (-eba)."
+    },
+    {
+      "ka": "მორჩილი",
+      "roman": "morčili",
+      "en": "obedient",
+      "glosses": [
+        "obedient"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞ɾt͡ʃʰili]",
+      "audio": null,
+      "audioLocal": "audio/household/084.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მორჩილობა",
+      "roman": "morčiloba",
+      "en": "obedience",
+      "glosses": [
+        "obedience"
+      ],
+      "pos": "noun",
+      "ipa": "[mo̞ɾt͡ʃʰiɫo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/household/085.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From მორჩილი (morčili) + -ობა (-oba)."
+    },
+    {
+      "ka": "მოსალოდნელი",
+      "roman": "mosalodneli",
+      "en": "expected, predictable, foreseeable",
+      "glosses": [
+        "expected, predictable, foreseeable"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞säɫo̞dne̞li]",
+      "audio": null,
+      "audioLocal": "audio/household/086.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From მოლოდინი (molodini) + სა- -ელი (sa- -eli, future passive participle-forming circumfix)."
+    },
+    {
+      "ka": "მრგვალი მაგიდა",
+      "roman": "mrgvali magida",
+      "en": "round table (in general)",
+      "glosses": [
+        "round table (in general)"
+      ],
+      "pos": "noun",
+      "ipa": "[mɾɡʷäli mäɡidä]",
+      "audio": null,
+      "audioLocal": "audio/household/087.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მრისხანე",
+      "roman": "mrisxane",
+      "en": "ferocious, redoubtable, truculent, wrathful",
+      "glosses": [
+        "ferocious, redoubtable, truculent, wrathful"
+      ],
+      "pos": "adj",
+      "ipa": "[mɾisχäne̞]",
+      "audio": null,
+      "audioLocal": "audio/household/088.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მტკიცე",
+      "roman": "mṭḳice",
+      "en": "durable, hard, hard-bitten, resolute, stable, stouthearted, sturdy, tenable, unfaltering",
+      "glosses": [
+        "durable, hard, hard-bitten, resolute, stable, stouthearted, sturdy, tenable, unfaltering"
+      ],
+      "pos": "adj",
+      "ipa": "[mtʼkʼit͡sʰe̞]",
+      "audio": null,
+      "audioLocal": "audio/household/089.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მყარი",
+      "roman": "mq̇ari",
+      "en": "solid, hard, settled, stable, steadfast, steady, stony, sure-footed, cast-iron",
+      "glosses": [
+        "solid, hard, settled, stable, steadfast, steady, stony, sure-footed, cast-iron"
+      ],
+      "pos": "adj",
+      "ipa": "[mχʼäɾi]",
+      "audio": null,
+      "audioLocal": "audio/household/090.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Old Georgian მყარი (mq̇ari)."
+    },
+    {
+      "ka": "მცენარეული",
+      "roman": "mcenareuli",
+      "en": "vegetable",
+      "glosses": [
+        "vegetable"
+      ],
+      "pos": "adj",
+      "ipa": "[mt͡sʰe̞näɾe̞uli]",
+      "audio": null,
+      "audioLocal": "audio/household/091.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნათურა",
+      "roman": "natura",
+      "en": "lamp",
+      "glosses": [
+        "lamp"
+      ],
+      "pos": "noun",
+      "ipa": "[nätʰuɾä]",
+      "audio": null,
+      "audioLocal": "audio/household/092.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Likely ultimately from Proto-Georgian-Zan *nat- (“to shine, give light”)."
+    },
+    {
+      "ka": "ორსაწოლიანი",
+      "roman": "orsac̣oliani",
+      "en": "double-bedded",
+      "glosses": [
+        "double-bedded"
+      ],
+      "pos": "adj",
+      "ipa": "[o̞ɾsät͡sʼo̞liäni]",
+      "audio": null,
+      "audioLocal": "audio/household/093.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პარლამენტის თავმჯდომარე",
+      "roman": "ṗarlamenṭis tavmǯdomare",
+      "en": "Speaker of the Parliament, Presiding Officer of the Parliament, Chairperson of the Parliament",
+      "glosses": [
+        "Speaker of the Parliament, Presiding Officer of the Parliament, Chairperson of the Parliament"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼäɾɫäme̞ntʼis tʰävmd͡ʒdo̞mäɾe̞]",
+      "audio": null,
+      "audioLocal": "audio/household/094.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პასკვილი",
+      "roman": "ṗasḳvili",
+      "en": "lampoon",
+      "glosses": [
+        "lampoon"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼäskʼʷili]",
+      "audio": null,
+      "audioLocal": "audio/household/095.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პატივსაცემი",
+      "roman": "ṗaṭivsacemi",
+      "en": "reputable",
+      "glosses": [
+        "reputable"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼätʼifsät͡sʰe̞mi]",
+      "audio": null,
+      "audioLocal": "audio/household/096.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირსახოცი",
+      "roman": "ṗirsaxoci",
+      "en": "towel, wiper",
+      "glosses": [
+        "towel, wiper"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾsäχo̞t͡sʰi]",
+      "audio": null,
+      "audioLocal": "audio/household/097.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From პირი (ṗiri, “mouth”) + სახოცი (saxoci)."
+    },
+    {
+      "ka": "პლაკატი",
+      "roman": "ṗlaḳaṭi",
+      "en": "broadsheet",
+      "glosses": [
+        "broadsheet"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼɫäkʼätʼi]",
+      "audio": null,
+      "audioLocal": "audio/household/098.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From German."
+    },
+    {
+      "ka": "პლანშეტი",
+      "roman": "ṗlanšeṭi",
+      "en": "tablet computer",
+      "glosses": [
+        "tablet computer"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼɫänʃe̞tʼi]",
+      "audio": null,
+      "audioLocal": "audio/household/099.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "პორტატული",
+      "roman": "ṗorṭaṭuli",
+      "en": "portable",
+      "glosses": [
+        "portable"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼo̞ɾtʼätʼuli]",
+      "audio": null,
+      "audioLocal": "audio/household/100.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პროგნოზირებადი",
+      "roman": "ṗrognozirebadi",
+      "en": "predictable, forecastable",
+      "glosses": [
+        "predictable, forecastable"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼɾo̞ɡno̞ziɾe̞bädi]",
+      "audio": null,
+      "audioLocal": "audio/household/101.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From პროგნოზირება (ṗrognozireba) + -ადი (-adi)."
+    },
+    {
+      "ka": "პროპორციული",
+      "roman": "ṗroṗorciuli",
+      "en": "ratable, rateable",
+      "glosses": [
+        "ratable, rateable"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼɾo̞pʼo̞ɾt͡sʰiuli]",
+      "audio": null,
+      "audioLocal": "audio/household/102.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რეგულირებადი",
+      "roman": "regulirebadi",
+      "en": "adjustable",
+      "glosses": [
+        "adjustable"
+      ],
+      "pos": "adj",
+      "ipa": "[ɾe̞ɡuliɾe̞bädi]",
+      "audio": null,
+      "audioLocal": "audio/household/103.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რენტაბელური",
+      "roman": "renṭabeluri",
+      "en": "profitable",
+      "glosses": [
+        "profitable"
+      ],
+      "pos": "adj",
+      "ipa": "[ɾe̞ntʼäbe̞ɫuɾi]",
+      "audio": null,
+      "audioLocal": "audio/household/104.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რიგიანი",
+      "roman": "rigiani",
+      "en": "bearable, presentable",
+      "glosses": [
+        "bearable, presentable"
+      ],
+      "pos": "adj",
+      "ipa": "[ɾiɡiäni]",
+      "audio": null,
+      "audioLocal": "audio/household/105.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საამისო",
+      "roman": "saamiso",
+      "en": "suitable for this; proper for this (purpose, situation, etc.).",
+      "glosses": [
+        "suitable for this; proper for this (purpose, situation, etc.)."
+      ],
+      "pos": "adj",
+      "ipa": "[säämiso̞]",
+      "audio": null,
+      "audioLocal": "audio/household/106.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "არ არის საამისო დრო",
+          "roman": "ar aris saamiso dro",
+          "en": "It's not a suitable time"
+        }
+      ],
+      "etymology": "From ამისი (amisi) + სა- -ო (sa- -o). From the oblique stem of the demonstrative pronoun ეს (es, “this”)."
+    },
+    {
+      "ka": "საბანი",
+      "roman": "sabani",
+      "en": "blanket",
+      "glosses": [
+        "blanket"
+      ],
+      "pos": "noun",
+      "ipa": "[säbäni]",
+      "audio": null,
+      "audioLocal": "audio/household/107.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Old Georgian საბანი (sabani), borrowed from Ancient Greek σάβανον (sábanon, “linen cloth or towel”)."
+    },
+    {
+      "ka": "საგიჟეთი",
+      "roman": "sagižeti",
+      "en": "bedlam",
+      "glosses": [
+        "bedlam"
+      ],
+      "pos": "noun",
+      "ipa": "[säɡiʒe̞tʰi]",
+      "audio": null,
+      "audioLocal": "audio/household/108.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სადავო",
+      "roman": "sadavo",
+      "en": "deniable, disputable, impugned",
+      "glosses": [
+        "deniable, disputable, impugned"
+      ],
+      "pos": "adj",
+      "ipa": "[sädävo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/109.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სავარძელი",
+      "roman": "savarʒeli",
+      "en": "armchair, lounge chair",
+      "glosses": [
+        "armchair, lounge chair"
+      ],
+      "pos": "noun",
+      "ipa": "[säväɾd͡ze̞li]",
+      "audio": null,
+      "audioLocal": "audio/household/110.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Old Georgian სავარძელი (savarʒeli), from Proto-Georgian-Zan *(s)a-warʒ-el-, from Proto-Georgian-Zan *warʒ- (“to sit”). Cognate with Laz ორზო (orzo, “chair”)."
+    },
+    {
+      "ka": "სათლი",
+      "roman": "satli",
+      "en": "bucket",
+      "glosses": [
+        "bucket"
+      ],
+      "pos": "noun",
+      "ipa": "[sätʰli]",
+      "audio": null,
+      "audioLocal": "audio/household/111.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Persian or Arabic سطل."
+    },
+    {
+      "ka": "საკამათო",
+      "roman": "saḳamato",
+      "en": "arguable, argumentative, controversial, debatable, moot",
+      "glosses": [
+        "arguable, argumentative, controversial, debatable, moot"
+      ],
+      "pos": "adj",
+      "ipa": "[säkʼämätʰo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/112.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სალამურა",
+      "roman": "salamura",
+      "en": "lamprey",
+      "glosses": [
+        "lamprey"
+      ],
+      "pos": "noun",
+      "ipa": "[säɫämuɾä]",
+      "audio": null,
+      "audioLocal": "audio/household/113.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სამაგიდო",
+      "roman": "samagido",
+      "en": "table-related, table-/board-/desk-",
+      "glosses": [
+        "table-related, table-/board-/desk-"
+      ],
+      "pos": "adj",
+      "ipa": "[sämäɡido̞]",
+      "audio": null,
+      "audioLocal": "audio/household/114.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "სამაგიდო თამაშები",
+          "roman": "samagido tamašebi",
+          "en": "board games"
+        },
+        {
+          "ka": "სამაგიდო კომპიუტერი",
+          "roman": "samagido ḳomṗiuṭeri",
+          "en": "desktop computer"
+        }
+      ],
+      "etymology": "From მაგიდა (magida, “table”) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "სამართლიანი",
+      "roman": "samartliani",
+      "en": "just, right, equitable, fair-minded",
+      "glosses": [
+        "just, right, equitable, fair-minded"
+      ],
+      "pos": "adj",
+      "ipa": "[sämäɾtʰliäni]",
+      "audio": null,
+      "audioLocal": "audio/household/115.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From სამართალი (samartali) + -იანი (-iani)."
+    },
+    {
+      "ka": "სამარცხვინო",
+      "roman": "samarcxvino",
+      "en": "dishonourable, disreputable, shameful",
+      "glosses": [
+        "dishonourable, disreputable, shameful"
+      ],
+      "pos": "adj",
+      "ipa": "[sämäɾt͡sʰχʷino̞]",
+      "audio": null,
+      "audioLocal": "audio/household/116.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სამოქალაქო დაუმორჩილებლობა",
+      "roman": "samokalako daumorčilebloba",
+      "en": "civil disobedience",
+      "glosses": [
+        "civil disobedience"
+      ],
+      "pos": "noun",
+      "ipa": "[sämo̞kʰäɫäkʰo̞ d̥äumo̞ɾt͡ʃʰile̞bɫo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/household/117.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სამწუხარო",
+      "roman": "samc̣uxaro",
+      "en": "deplorable, lamentable, regrettable, sad",
+      "glosses": [
+        "deplorable, lamentable, regrettable, sad"
+      ],
+      "pos": "adj",
+      "ipa": "[sämt͡sʼuχäɾo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/118.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სანაქებო",
+      "roman": "sanakebo",
+      "en": "creditable, laudable",
+      "glosses": [
+        "creditable, laudable"
+      ],
+      "pos": "adj",
+      "ipa": "[sänäkʰe̞bo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/119.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საპნის ოპერა",
+      "roman": "saṗnis oṗera",
+      "en": "soap opera",
+      "glosses": [
+        "soap opera"
+      ],
+      "pos": "noun",
+      "ipa": "[säpʼnis o̞pʼe̞ɾä]",
+      "audio": null,
+      "audioLocal": "audio/household/120.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საპნის ქაფი",
+      "roman": "saṗnis kapi",
+      "en": "soap suds, suds (lather, foam)",
+      "glosses": [
+        "soap suds, suds (lather, foam)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/household/121.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საპონი",
+      "roman": "saṗoni",
+      "en": "soap",
+      "glosses": [
+        "soap"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/household/122.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Ancient Greek σάπων (sápōn). Compare also Svan საპუ̂ენ (saṗûen)."
+    },
+    {
+      "ka": "სარგებლიანი",
+      "roman": "sargebliani",
+      "en": "profitable, useful, beneficial",
+      "glosses": [
+        "profitable, useful, beneficial"
+      ],
+      "pos": "adj",
+      "ipa": "[säɾɡe̞bliäni]",
+      "audio": null,
+      "audioLocal": "audio/household/123.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From სარგებელი (sargebeli) + -იანი (-iani)."
+    },
+    {
+      "ka": "სარეცელზე",
+      "roman": "sarecelze",
+      "en": "on the bed",
+      "glosses": [
+        "on the bed"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾe̞t͡sʰe̞lze̞]",
+      "audio": null,
+      "audioLocal": "audio/household/124.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სარეცელი",
+      "roman": "sareceli",
+      "en": "bed",
+      "glosses": [
+        "bed"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/household/125.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სარკე",
+      "roman": "sarḳe",
+      "en": "looking-glass, mirror",
+      "glosses": [
+        "looking-glass, mirror"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾkʼe̞]",
+      "audio": null,
+      "audioLocal": "audio/household/126.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Old Georgian სარკე (sarḳe), from Proto-Kartvelian *ḳr-. Cognate with Svan ლიკჷრე (liḳəre, “to shine, to glitter”)."
+    },
+    {
+      "ka": "სარჩევი",
+      "roman": "sarčevi",
+      "en": "table of contents",
+      "glosses": [
+        "table of contents"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾt͡ʃʰe̞vi]",
+      "audio": null,
+      "audioLocal": "audio/household/127.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Substantivization of future participle."
+    },
+    {
+      "ka": "სასარგებლო",
+      "roman": "sasargeblo",
+      "en": "beneficial, helpful, profitable, serviceable, useful, wholesome",
+      "glosses": [
+        "beneficial, helpful, profitable, serviceable, useful, wholesome"
+      ],
+      "pos": "adj",
+      "ipa": "[säsäɾɡe̞bɫo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/128.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From სარგებელი (sargebeli) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "სასიცოცხლო ზონა",
+      "roman": "sasicocxlo zona",
+      "en": "habitable zone",
+      "glosses": [
+        "habitable zone"
+      ],
+      "pos": "noun",
+      "ipa": "[säsit͡sʰo̞t͡sʰχɫo̞ zo̞nä]",
+      "audio": null,
+      "audioLocal": "audio/household/129.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საქანელა",
+      "roman": "sakanela",
+      "en": "swinging chair (either the kind found in children’s playgrounds or the kind used for relaxation)",
+      "glosses": [
+        "swinging chair (either the kind found in children’s playgrounds or the kind used for relaxation)"
+      ],
+      "pos": "noun",
+      "ipa": "[säkʰäne̞ɫä]",
+      "audio": null,
+      "audioLocal": "audio/household/130.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საქველმოქმედო",
+      "roman": "sakvelmokmedo",
+      "en": "charity (attributive), charitable, philanthropic",
+      "glosses": [
+        "charity (attributive), charitable, philanthropic"
+      ],
+      "pos": "adj",
+      "ipa": "[säkʰʷe̞lmo̞kʰme̞do̞]",
+      "audio": null,
+      "audioLocal": "audio/household/131.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ქველმოქმედი (kvelmokmedi) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "საჩემო",
+      "roman": "sačemo",
+      "en": "for me, suitable for me, my style",
+      "glosses": [
+        "for me, suitable for me, my style"
+      ],
+      "pos": "adj",
+      "ipa": "[sät͡ʃʰe̞mo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/132.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ჩემი (čemi, “my”) + სა- -ო (sa- -o, relational circumfix)."
+    },
+    {
+      "ka": "საძულველი",
+      "roman": "saʒulveli",
+      "en": "odious, reviled, hatable, evoking hate, despicable, detestable",
+      "glosses": [
+        "odious, reviled, hatable, evoking hate, despicable, detestable"
+      ],
+      "pos": "adj",
+      "ipa": "[säd͡zulʷe̞li]",
+      "audio": null,
+      "audioLocal": "audio/household/133.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საწოლი",
+      "roman": "sac̣oli",
+      "en": "bed",
+      "glosses": [
+        "bed"
+      ],
+      "pos": "noun",
+      "ipa": "[sät͡sʼo̞li]",
+      "audio": null,
+      "audioLocal": "audio/household/134.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From წოლა (c̣ola, “to lie”)."
+    },
+    {
+      "ka": "სევდიანობა",
+      "roman": "sevdianoba",
+      "en": "lugubriousness, mope",
+      "glosses": [
+        "lugubriousness, mope"
+      ],
+      "pos": "noun",
+      "ipa": "[se̞vdiäno̞bä]",
+      "audio": null,
+      "audioLocal": "audio/household/135.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From სევდიანი (sevdiani) + -ობა (-oba)."
+    },
+    {
+      "ka": "სელი",
+      "roman": "seli",
+      "en": "luxurious chair",
+      "glosses": [
+        "luxurious chair"
+      ],
+      "pos": "noun",
+      "ipa": "[se̞li]",
+      "audio": null,
+      "audioLocal": "audio/household/136.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სკამი",
+      "roman": "sḳami",
+      "en": "chair",
+      "glosses": [
+        "chair"
+      ],
+      "pos": "noun",
+      "ipa": "[skʼämi]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/Ka-%E1%83%A1%E1%83%99%E1%83%90%E1%83%9B%E1%83%98.ogg/Ka-%E1%83%A1%E1%83%99%E1%83%90%E1%83%9B%E1%83%98.ogg.mp3",
+      "audioLocal": "audio/household/137.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "From Old Georgian სკამი (sḳami), from Byzantine Greek σκαμνί (skamní), σκαμνίον (skamníon); see there for more."
+    },
+    {
+      "ka": "სპირტქურა",
+      "roman": "sṗirṭkura",
+      "en": "spirit lamp, alcohol burner",
+      "glosses": [
+        "spirit lamp, alcohol burner"
+      ],
+      "pos": "noun",
+      "ipa": "[spʼiɾtʼkʰuɾä]",
+      "audio": null,
+      "audioLocal": "audio/household/138.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Related to სპირტი (sṗirṭi) and ქურა (kura)"
+    },
+    {
+      "ka": "სტაბილური",
+      "roman": "sṭabiluri",
+      "en": "stable",
+      "glosses": [
+        "stable"
+      ],
+      "pos": "adj",
+      "ipa": "[stʼäbiɫuɾi]",
+      "audio": null,
+      "audioLocal": "audio/household/139.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სტუმართმოყვარე",
+      "roman": "sṭumartmoq̇vare",
+      "en": "hospitable, welcoming and benevolent towards the guests",
+      "glosses": [
+        "hospitable, welcoming and benevolent towards the guests"
+      ],
+      "pos": "adj",
+      "ipa": "[stʼumäɾtʰmo̞χʼʷäɾe̞]",
+      "audio": null,
+      "audioLocal": "audio/household/140.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From სტუმართა (sṭumarta, “of guests”) + მოყვარე (moq̇vare, “loving”)."
+    },
+    {
+      "ka": "სუფრა",
+      "roman": "supra",
+      "en": "tablecloth",
+      "glosses": [
+        "tablecloth"
+      ],
+      "pos": "noun",
+      "ipa": "[supʰɾä]",
+      "audio": null,
+      "audioLocal": "audio/household/141.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Classical Persian سفره (sufra, “tablecloth”), ultimately from Arabic سُفْرَة (sufra, “victuals; table, especially for eating”), including the meaning."
+    },
+    {
+      "ka": "სუფრის კოვზი",
+      "roman": "supris ḳovzi",
+      "en": "tablespoon",
+      "glosses": [
+        "tablespoon"
+      ],
+      "pos": "noun",
+      "ipa": "[supʰɾis kʼo̞vzi]",
+      "audio": null,
+      "audioLocal": "audio/household/142.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ტაბლეტი",
+      "roman": "ṭableṭi",
+      "en": "tablet, tabloid",
+      "glosses": [
+        "tablet, tabloid"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼäble̞tʼi]",
+      "audio": null,
+      "audioLocal": "audio/household/143.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "ტაო",
+      "roman": "ṭao",
+      "en": "carpet pile",
+      "glosses": [
+        "carpet pile"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼäo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/144.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Compare Old Armenian Տայք (Taykʻ)."
+    },
+    {
+      "ka": "ტარებადი",
+      "roman": "ṭarebadi",
+      "en": "portable, wearable",
+      "glosses": [
+        "portable, wearable"
+      ],
+      "pos": "adj",
+      "ipa": "[tʼäɾe̞bädi]",
+      "audio": null,
+      "audioLocal": "audio/household/145.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ტარება (ṭareba, “act of carrying”) + -ადი (-adi)."
+    },
+    {
+      "ka": "ტენისი",
+      "roman": "ṭenisi",
+      "en": "table tennis",
+      "glosses": [
+        "table tennis"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼe̞nisi]",
+      "audio": null,
+      "audioLocal": "audio/household/146.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from English tennis."
+    },
+    {
+      "ka": "უარსაყოფი",
+      "roman": "uarsaq̇opi",
+      "en": "refutable",
+      "glosses": [
+        "refutable"
+      ],
+      "pos": "adj",
+      "ipa": "[uäɾsäχʼo̞pʰi]",
+      "audio": null,
+      "audioLocal": "audio/household/147.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უგემური",
+      "roman": "ugemuri",
+      "en": "flavourless, mawkish, unpalatable, unsavoury, unseasoned, vapid",
+      "glosses": [
+        "flavourless, mawkish, unpalatable, unsavoury, unseasoned, vapid"
+      ],
+      "pos": "adj",
+      "ipa": "[uɡe̞muɾi]",
+      "audio": null,
+      "audioLocal": "audio/household/148.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უდავო",
+      "roman": "udavo",
+      "en": "incontestable, incontrovertible, indisputable, unchallengeable, undeniable, unquestionable, unquestioned, unquestioning",
+      "glosses": [
+        "incontestable, incontrovertible, indisputable, unchallengeable, undeniable, unquestionable, unquestioned, unquestioning"
+      ],
+      "pos": "adj",
+      "ipa": "[udävo̞]",
+      "audio": null,
+      "audioLocal": "audio/household/149.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
     }
   ]
 }

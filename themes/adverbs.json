@@ -1,0 +1,3074 @@
+{
+  "id": "adverbs",
+  "name": "Adverbs",
+  "nameKa": "ზმარი ზედსართავები",
+  "icon": "◇",
+  "count": 200,
+  "words": [
+    {
+      "ka": "ძალიან",
+      "roman": "ʒalian",
+      "en": "very",
+      "glosses": [
+        "very"
+      ],
+      "pos": "adv",
+      "ipa": "[d͡zäliän]",
+      "audio": "audio/adverbs/000.mp3",
+      "audioLocal": "audio/adverbs/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ძალა (ʒala, “power, might”) + -იანი (-iani, adjective-former), subsequently made an adverb."
+    },
+    {
+      "ka": "მეტად",
+      "roman": "meṭad",
+      "en": "too",
+      "glosses": [
+        "too"
+      ],
+      "pos": "adv",
+      "ipa": "[me̞tʼätʰ]",
+      "audio": "audio/adverbs/001.mp3",
+      "audioLocal": "audio/adverbs/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მხოლოდ",
+      "roman": "mxolod",
+      "en": "only",
+      "glosses": [
+        "only"
+      ],
+      "pos": "adv",
+      "ipa": "[mχo̞ɫo̞tʰ]",
+      "audio": "audio/adverbs/002.mp3",
+      "audioLocal": "audio/adverbs/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Compare ხოლო (xolo, “however”)."
+    },
+    {
+      "ka": "დაჟე",
+      "roman": "daže",
+      "en": "even",
+      "glosses": [
+        "even"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥äʒe̞]",
+      "audio": "audio/adverbs/003.mp3",
+      "audioLocal": "audio/adverbs/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian да́же (dáže)."
+    },
+    {
+      "ka": "უკვე",
+      "roman": "uḳve",
+      "en": "already",
+      "glosses": [
+        "already"
+      ],
+      "pos": "adv",
+      "ipa": "[ukʼʷe̞]",
+      "audio": "audio/adverbs/004.mp3",
+      "audioLocal": "audio/adverbs/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კინაღამ",
+      "roman": "ḳinaɣam",
+      "en": "almost",
+      "glosses": [
+        "almost"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼinäʁäm]",
+      "audio": "audio/adverbs/005.mp3",
+      "audioLocal": "audio/adverbs/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კარგად",
+      "roman": "ḳargad",
+      "en": "well",
+      "glosses": [
+        "well"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼäɾɡätʰ]",
+      "audio": "audio/adverbs/006.mp3",
+      "audioLocal": "audio/adverbs/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კარგი (ḳargi) + -ად (-ad)."
+    },
+    {
+      "ka": "ნელა",
+      "roman": "nela",
+      "en": "slowly",
+      "glosses": [
+        "slowly"
+      ],
+      "pos": "adv",
+      "ipa": "[ne̞ɫä]",
+      "audio": "audio/adverbs/007.mp3",
+      "audioLocal": "audio/adverbs/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნელი (neli) + -ა (-a, forming adverbs)."
+    },
+    {
+      "ka": "ადვილად",
+      "roman": "advilad",
+      "en": "easily",
+      "glosses": [
+        "easily"
+      ],
+      "pos": "adv",
+      "ipa": "[ädʷiɫätʰ]",
+      "audio": "audio/adverbs/008.mp3",
+      "audioLocal": "audio/adverbs/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადვილი (advili) + -ად (-ad)."
+    },
+    {
+      "ka": "ალბათ",
+      "roman": "albat",
+      "en": "probably",
+      "glosses": [
+        "probably"
+      ],
+      "pos": "adv",
+      "ipa": "[älbätʰ]",
+      "audio": "audio/adverbs/009.mp3",
+      "audioLocal": "audio/adverbs/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian البته."
+    },
+    {
+      "ka": "იქნებ",
+      "roman": "ikneb",
+      "en": "maybe",
+      "glosses": [
+        "maybe"
+      ],
+      "pos": "adv",
+      "ipa": "[ikʰne̞pʰ]",
+      "audio": "audio/adverbs/010.mp3",
+      "audioLocal": "audio/adverbs/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მარტო",
+      "roman": "marṭo",
+      "en": "alone",
+      "glosses": [
+        "alone"
+      ],
+      "pos": "adv",
+      "ipa": "[mäɾtʼo̞]",
+      "audio": "audio/adverbs/011.mp3",
+      "audioLocal": "audio/adverbs/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აქ",
+      "roman": "ak",
+      "en": "here",
+      "glosses": [
+        "here"
+      ],
+      "pos": "adv",
+      "ipa": "[äkʰ]",
+      "audio": "audio/adverbs/012.mp3",
+      "audioLocal": "audio/adverbs/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აქანა",
+      "roman": "akana",
+      "en": "here",
+      "glosses": [
+        "here"
+      ],
+      "pos": "adv",
+      "ipa": "[äkʰänä]",
+      "audio": "audio/adverbs/013.mp3",
+      "audioLocal": "audio/adverbs/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აქ(ა) (ak(a))."
+    },
+    {
+      "ka": "აქანე",
+      "roman": "akane",
+      "en": "here",
+      "glosses": [
+        "here"
+      ],
+      "pos": "adv",
+      "ipa": "[äkʰäne̞]",
+      "audio": "audio/adverbs/014.mp3",
+      "audioLocal": "audio/adverbs/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აქ(ა) (ak(a))."
+    },
+    {
+      "ka": "აქვე",
+      "roman": "akve",
+      "en": "here",
+      "glosses": [
+        "here"
+      ],
+      "pos": "adv",
+      "ipa": "[äkʰʷe̞]",
+      "audio": "audio/adverbs/015.mp3",
+      "audioLocal": "audio/adverbs/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Related to აქ (ak, “here”)."
+    },
+    {
+      "ka": "მანდ",
+      "roman": "mand",
+      "en": "there",
+      "glosses": [
+        "there"
+      ],
+      "pos": "adv",
+      "ipa": "[mäntʰ]",
+      "audio": "audio/adverbs/016.mp3",
+      "audioLocal": "audio/adverbs/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სადღაც",
+      "roman": "sadɣac",
+      "en": "somewhere",
+      "glosses": [
+        "somewhere"
+      ],
+      "pos": "adv",
+      "ipa": "[sädʁät͡sʰ]",
+      "audio": "audio/adverbs/017.mp3",
+      "audioLocal": "audio/adverbs/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არსად",
+      "roman": "arsad",
+      "en": "nowhere",
+      "glosses": [
+        "nowhere"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾsätʰ]",
+      "audio": "audio/adverbs/018.mp3",
+      "audioLocal": "audio/adverbs/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "შიგნით",
+      "roman": "šignit",
+      "en": "inside",
+      "glosses": [
+        "inside"
+      ],
+      "pos": "adv",
+      "ipa": "[ʃiɡnitʰ]",
+      "audio": "audio/adverbs/019.mp3",
+      "audioLocal": "audio/adverbs/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გარეთ",
+      "roman": "garet",
+      "en": "outside",
+      "glosses": [
+        "outside"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊äɾe̞tʰ]",
+      "audio": "audio/adverbs/020.mp3",
+      "audioLocal": "audio/adverbs/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უკუღმა",
+      "roman": "uḳuɣma",
+      "en": "backward",
+      "glosses": [
+        "backward"
+      ],
+      "pos": "adv",
+      "ipa": "[ukʼuʁmä]",
+      "audio": "audio/adverbs/021.mp3",
+      "audioLocal": "audio/adverbs/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ძლიერ",
+      "roman": "ʒlier",
+      "en": "very, very much, extremely",
+      "glosses": [
+        "very, very much, extremely"
+      ],
+      "pos": "adv",
+      "ipa": "[d͡zlie̞ɾ]",
+      "audio": "audio/adverbs/022.mp3",
+      "audioLocal": "audio/adverbs/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგრეთვე",
+      "roman": "agretve",
+      "en": "also, too, likewise",
+      "glosses": [
+        "also, too, likewise"
+      ],
+      "pos": "adv",
+      "ipa": "[äɡɾe̞tʰʷe̞]",
+      "audio": "audio/adverbs/023.mp3",
+      "audioLocal": "audio/adverbs/023.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "იხილეთ აგრეთვე",
+          "roman": "ixilet agretve",
+          "en": "see also"
+        }
+      ],
+      "etymology": "From აგრეთი (agreti) + -ვე (-ve)."
+    },
+    {
+      "ka": "კარგა",
+      "roman": "ḳarga",
+      "en": "very, fairly, rather, noticeably",
+      "glosses": [
+        "very, fairly, rather, noticeably"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼäɾɡä]",
+      "audio": "audio/adverbs/024.mp3",
+      "audioLocal": "audio/adverbs/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სულ",
+      "roman": "sul",
+      "en": "only, just",
+      "glosses": [
+        "only, just"
+      ],
+      "pos": "adv",
+      "ipa": "[sul]",
+      "audio": "audio/adverbs/025.mp3",
+      "audioLocal": "audio/adverbs/025.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "სულ სამი წლისა იყო",
+          "roman": "sul sami c̣lisa iq̇o",
+          "en": "was only three years old"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "პროსტა",
+      "roman": "ṗrosṭa",
+      "en": "only, merely, just",
+      "glosses": [
+        "only, merely, just"
+      ],
+      "pos": "adv",
+      "ipa": "[pʼɾo̞stʼä]",
+      "audio": "audio/adverbs/026.mp3",
+      "audioLocal": "audio/adverbs/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian про́сто (prósto)."
+    },
+    {
+      "ka": "ასევე",
+      "roman": "aseve",
+      "en": "also, similarly, in the same way",
+      "glosses": [
+        "also, similarly, in the same way"
+      ],
+      "pos": "adv",
+      "ipa": "[äse̞ve̞]",
+      "audio": "audio/adverbs/027.mp3",
+      "audioLocal": "audio/adverbs/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ასე (ase) + -ვე (-ve)."
+    },
+    {
+      "ka": "მაინც",
+      "roman": "mainc",
+      "en": "still, anyway",
+      "glosses": [
+        "still, anyway"
+      ],
+      "pos": "adv",
+      "ipa": "[mäint͡sʰ]",
+      "audio": "audio/adverbs/028.mp3",
+      "audioLocal": "audio/adverbs/028.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "მე მაინც მოვალ",
+          "roman": "me mainc moval",
+          "en": "I will come anyway."
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "ისევ",
+      "roman": "isev",
+      "en": "still (as always was/is)",
+      "glosses": [
+        "still (as always was/is)"
+      ],
+      "pos": "adv",
+      "ipa": "[ise̞v]",
+      "audio": "audio/adverbs/029.mp3",
+      "audioLocal": "audio/adverbs/029.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "კომუნისტები ისევ არიან.",
+          "roman": "ḳomunisṭebi isev arian.",
+          "en": "Comunists are still surviving."
+        }
+      ],
+      "etymology": "Clipping of ისევე (iseve)?"
+    },
+    {
+      "ka": "თითქმის",
+      "roman": "titkmis",
+      "en": "almost, nearly",
+      "glosses": [
+        "almost, nearly"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰitʰkʰmis]",
+      "audio": "audio/adverbs/030.mp3",
+      "audioLocal": "audio/adverbs/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ლამის",
+      "roman": "lamis",
+      "en": "almost, nearly",
+      "glosses": [
+        "almost, nearly"
+      ],
+      "pos": "adv",
+      "ipa": "[ɫämis]",
+      "audio": "audio/adverbs/031.mp3",
+      "audioLocal": "audio/adverbs/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ცუდად",
+      "roman": "cudad",
+      "en": "badly, ill",
+      "glosses": [
+        "badly, ill"
+      ],
+      "pos": "adv",
+      "ipa": "[t͡sʰudätʰ]",
+      "audio": "audio/adverbs/032.mp3",
+      "audioLocal": "audio/adverbs/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცუდი (cudi) + -ად (-ad)."
+    },
+    {
+      "ka": "იოლად",
+      "roman": "iolad",
+      "en": "easily, easy",
+      "glosses": [
+        "easily, easy"
+      ],
+      "pos": "adv",
+      "ipa": "[io̞ɫätʰ]",
+      "audio": "audio/adverbs/033.mp3",
+      "audioLocal": "audio/adverbs/033.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სასწრაფოდ",
+      "roman": "sasc̣rapod",
+      "en": "quickly, as soon as possible, urgently",
+      "glosses": [
+        "quickly, as soon as possible, urgently"
+      ],
+      "pos": "adv",
+      "ipa": "[säst͡sʼɾäpʰo̞tʰ]",
+      "audio": "audio/adverbs/034.mp3",
+      "audioLocal": "audio/adverbs/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სასწრაფო (sasc̣rapo) + -დ (-d)."
+    },
+    {
+      "ka": "გულმოდგინედ",
+      "roman": "gulmodgined",
+      "en": "carefully, ding-dong, zealously",
+      "glosses": [
+        "carefully, ding-dong, zealously"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ulmo̞dɡine̞tʰ]",
+      "audio": "audio/adverbs/035.mp3",
+      "audioLocal": "audio/adverbs/035.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ფრთხილად",
+      "roman": "prtxilad",
+      "en": "carefully, discreetly, gingerly, guardedly, warily",
+      "glosses": [
+        "carefully, discreetly, gingerly, guardedly, warily"
+      ],
+      "pos": "adv",
+      "ipa": "[pʰɾtʰχiɫätʰ]",
+      "audio": "audio/adverbs/036.mp3",
+      "audioLocal": "audio/adverbs/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფრთხილი (prtxili)."
+    },
+    {
+      "ka": "უსათუოდ",
+      "roman": "usatuod",
+      "en": "certainly, for sure, undoubtedly",
+      "glosses": [
+        "certainly, for sure, undoubtedly"
+      ],
+      "pos": "adv",
+      "ipa": "[usätʰuo̞tʰ]",
+      "audio": "audio/adverbs/037.mp3",
+      "audioLocal": "audio/adverbs/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From უსათუო (usatuo) + -დ (-d)."
+    },
+    {
+      "ka": "მგონი",
+      "roman": "mgoni",
+      "en": "maybe (as in maybe that is true)",
+      "glosses": [
+        "maybe (as in maybe that is true)"
+      ],
+      "pos": "adv",
+      "ipa": "[mɡo̞ni]",
+      "audio": "audio/adverbs/038.mp3",
+      "audioLocal": "audio/adverbs/038.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იქ",
+      "roman": "ik",
+      "en": "there, therein",
+      "glosses": [
+        "there, therein"
+      ],
+      "pos": "adv",
+      "ipa": "[ikʰ]",
+      "audio": "audio/adverbs/039.mp3",
+      "audioLocal": "audio/adverbs/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სადმე",
+      "roman": "sadme",
+      "en": "somewhere, someplace",
+      "glosses": [
+        "somewhere, someplace"
+      ],
+      "pos": "adv",
+      "ipa": "[sädme̞]",
+      "audio": "audio/adverbs/040.mp3",
+      "audioLocal": "audio/adverbs/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სად (sad) + -მე (-me)."
+    },
+    {
+      "ka": "ვერსად",
+      "roman": "versad",
+      "en": "nowhere, not anywhere",
+      "glosses": [
+        "nowhere, not anywhere"
+      ],
+      "pos": "adv",
+      "ipa": "[ve̞ɾsätʰ]",
+      "audio": "audio/adverbs/041.mp3",
+      "audioLocal": "audio/adverbs/041.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "წინ",
+      "roman": "c̣in",
+      "en": "forward, ahead",
+      "glosses": [
+        "forward, ahead"
+      ],
+      "pos": "adv",
+      "ipa": "[t͡sʼin]",
+      "audio": "audio/adverbs/042.mp3",
+      "audioLocal": "audio/adverbs/042.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "წინ გავიხედე.",
+          "roman": "c̣in gavixede.",
+          "en": "I looked ahead."
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "პირდაპირ",
+      "roman": "ṗirdaṗir",
+      "en": "directly, straight",
+      "glosses": [
+        "directly, straight"
+      ],
+      "pos": "adv",
+      "ipa": "[pʼiɾdäpʼiɾ]",
+      "audio": "audio/adverbs/043.mp3",
+      "audioLocal": "audio/adverbs/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გარედან",
+      "roman": "garedan",
+      "en": "outside, but, out, outdoors, outside, outward, outwardly, outwards, without",
+      "glosses": [
+        "outside, but, out, outdoors, outside, outward, outwardly, outwards, without"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊äɾe̞dän]",
+      "audio": "audio/adverbs/044.mp3",
+      "audioLocal": "audio/adverbs/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაუყოვნებლივ",
+      "roman": "dauq̇ovnebliv",
+      "en": "immediately, instantly (without delay)",
+      "glosses": [
+        "immediately, instantly (without delay)"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥äuχʼo̞vne̞bliv]",
+      "audio": "audio/adverbs/045.mp3",
+      "audioLocal": "audio/adverbs/045.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Related to დაუყოვნებელი (dauq̇ovnebeli)."
+    },
+    {
+      "ka": "არდი",
+      "roman": "ardi",
+      "en": "now",
+      "glosses": [
+        "now"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾdi]",
+      "audio": "audio/adverbs/046.mp3",
+      "audioLocal": "audio/adverbs/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Armenian արդի (ardi)."
+    },
+    {
+      "ka": "ახლა",
+      "roman": "axla",
+      "en": "now",
+      "glosses": [
+        "now"
+      ],
+      "pos": "adv",
+      "ipa": "[äχɫä]",
+      "audio": "audio/adverbs/047.mp3",
+      "audioLocal": "audio/adverbs/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაცილებით",
+      "roman": "gacilebit",
+      "en": "far",
+      "glosses": [
+        "far"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ät͡sʰile̞bitʰ]",
+      "audio": "audio/adverbs/048.mp3",
+      "audioLocal": "audio/adverbs/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზე",
+      "roman": "ze",
+      "en": "on",
+      "glosses": [
+        "on"
+      ],
+      "pos": "adv",
+      "ipa": "[ze̞]",
+      "audio": "audio/adverbs/049.mp3",
+      "audioLocal": "audio/adverbs/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ზე (ze), from Proto-Kartvelian *z₁e (“up, upon”). Compare Mingrelian ჟი (ži), Laz ჟი (ji) and Svan ჟი (ži)."
+    },
+    {
+      "ka": "რად",
+      "roman": "rad",
+      "en": "why",
+      "glosses": [
+        "why"
+      ],
+      "pos": "adv",
+      "ipa": null,
+      "audio": "audio/adverbs/050.mp3",
+      "audioLocal": "audio/adverbs/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რატომ",
+      "roman": "raṭom",
+      "en": "why",
+      "glosses": [
+        "why"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾätʼo̞m]",
+      "audio": "audio/adverbs/051.mp3",
+      "audioLocal": "audio/adverbs/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რაფერ",
+      "roman": "raper",
+      "en": "how",
+      "glosses": [
+        "how"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾäpʰe̞ɾ]",
+      "audio": "audio/adverbs/052.mp3",
+      "audioLocal": "audio/adverbs/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From რა (ra, “what”) + -ფერ(ი) (-per(i))."
+    },
+    {
+      "ka": "როგორ",
+      "roman": "rogor",
+      "en": "how",
+      "glosses": [
+        "how"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾo̞ɡo̞ɾ]",
+      "audio": "audio/adverbs/053.mp3",
+      "audioLocal": "audio/adverbs/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "შორს",
+      "roman": "šors",
+      "en": "far",
+      "glosses": [
+        "far"
+      ],
+      "pos": "adv",
+      "ipa": "[ʃo̞ɾs]",
+      "audio": "audio/adverbs/054.mp3",
+      "audioLocal": "audio/adverbs/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჯერ",
+      "roman": "ǯer",
+      "en": "yet",
+      "glosses": [
+        "yet"
+      ],
+      "pos": "adv",
+      "ipa": "[d͡ʒe̞ɾ]",
+      "audio": "audio/adverbs/055.mp3",
+      "audioLocal": "audio/adverbs/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ა.შ.",
+      "roman": "",
+      "en": "etc.",
+      "glosses": [
+        "etc."
+      ],
+      "pos": "adv",
+      "ipa": null,
+      "audio": "audio/adverbs/056.mp3",
+      "audioLocal": "audio/adverbs/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Abbreviation of ასე შემდეგ (ase šemdeg, “and so on”)."
+    },
+    {
+      "ka": "ადამიანურად",
+      "roman": "adamianurad",
+      "en": "humanly",
+      "glosses": [
+        "humanly"
+      ],
+      "pos": "adv",
+      "ipa": "[ädämiänuɾätʰ]",
+      "audio": "audio/adverbs/057.mp3",
+      "audioLocal": "audio/adverbs/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადამიანური (adamianuri) + -ად (-ad)."
+    },
+    {
+      "ka": "ადრე",
+      "roman": "adre",
+      "en": "early",
+      "glosses": [
+        "early"
+      ],
+      "pos": "adv",
+      "ipa": "[ädɾe̞]",
+      "audio": "audio/adverbs/058.mp3",
+      "audioLocal": "audio/adverbs/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ადრე (adre), from Proto-Georgian-Zan *adr-. Cognate with Mingrelian ორდო (ordo, “morning”), Laz ოდრო (odro), ორდო (ordo, “quick, fast; incessantly”)."
+    },
+    {
+      "ka": "ათმაგად",
+      "roman": "atmagad",
+      "en": "decuply",
+      "glosses": [
+        "decuply"
+      ],
+      "pos": "adv",
+      "ipa": "[ätʰmäɡätʰ]",
+      "audio": "audio/adverbs/059.mp3",
+      "audioLocal": "audio/adverbs/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ათმაგი (atmagi) + -ად (-ad)."
+    },
+    {
+      "ka": "ათჯერადი",
+      "roman": "atǯeradi",
+      "en": "tenfold",
+      "glosses": [
+        "tenfold"
+      ],
+      "pos": "adv",
+      "ipa": "[ätʰd͡ʒe̞ɾädi]",
+      "audio": "audio/adverbs/060.mp3",
+      "audioLocal": "audio/adverbs/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ალალმართლად",
+      "roman": "alalmartlad",
+      "en": "truly",
+      "glosses": [
+        "truly"
+      ],
+      "pos": "adv",
+      "ipa": "[äɫälmäɾtʰɫätʰ]",
+      "audio": "audio/adverbs/061.mp3",
+      "audioLocal": "audio/adverbs/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ამაოდ",
+      "roman": "amaod",
+      "en": "vainly",
+      "glosses": [
+        "vainly"
+      ],
+      "pos": "adv",
+      "ipa": "[ämäo̞tʰ]",
+      "audio": "audio/adverbs/062.mp3",
+      "audioLocal": "audio/adverbs/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ამაო (amao, “futile, vain”, adjective) + -დ (-d, adverb-forming suffix)."
+    },
+    {
+      "ka": "ამასთან",
+      "roman": "amastan",
+      "en": "withal",
+      "glosses": [
+        "withal"
+      ],
+      "pos": "adv",
+      "ipa": "[ämästʰän]",
+      "audio": "audio/adverbs/063.mp3",
+      "audioLocal": "audio/adverbs/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ამაყად",
+      "roman": "amaq̇ad",
+      "en": "proudly",
+      "glosses": [
+        "proudly"
+      ],
+      "pos": "adv",
+      "ipa": "[ämäχʼätʰ]",
+      "audio": "audio/adverbs/064.mp3",
+      "audioLocal": "audio/adverbs/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანგარიშმიუცემლად",
+      "roman": "angarišmiucemlad",
+      "en": "blindly",
+      "glosses": [
+        "blindly"
+      ],
+      "pos": "adv",
+      "ipa": "[äŋɡäɾiʃmiut͡sʰe̞mɫätʰ]",
+      "audio": "audio/adverbs/065.mp3",
+      "audioLocal": "audio/adverbs/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არასდროს",
+      "roman": "arasdros",
+      "en": "never",
+      "glosses": [
+        "never"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾäsdɾo̞s]",
+      "audio": "audio/adverbs/066.mp3",
+      "audioLocal": "audio/adverbs/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არმოსავლეთისა",
+      "roman": "armosavletisa",
+      "en": "east",
+      "glosses": [
+        "east"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾmo̞sävle̞tʰisä]",
+      "audio": "audio/adverbs/067.mp3",
+      "audioLocal": "audio/adverbs/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აროდეს",
+      "roman": "arodes",
+      "en": "ne'er",
+      "glosses": [
+        "ne'er"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾo̞de̞s]",
+      "audio": "audio/adverbs/068.mp3",
+      "audioLocal": "audio/adverbs/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არომატულად",
+      "roman": "aromaṭulad",
+      "en": "spicily",
+      "glosses": [
+        "spicily"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾo̞mätʼuɫätʰ]",
+      "audio": "audio/adverbs/069.mp3",
+      "audioLocal": "audio/adverbs/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ასლი",
+      "roman": "asli",
+      "en": "exactly",
+      "glosses": [
+        "exactly"
+      ],
+      "pos": "adv",
+      "ipa": "[äsli]",
+      "audio": "audio/adverbs/070.mp3",
+      "audioLocal": "audio/adverbs/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Etymology tree\nArabic أَصْل (ʔaṣl)bor.\nGeorgian ასლი\nBorrowed from Arabic أَصْل (ʔaṣl)."
+    },
+    {
+      "ka": "აფორიაქებულად",
+      "roman": "aporiakebulad",
+      "en": "fussily",
+      "glosses": [
+        "fussily"
+      ],
+      "pos": "adv",
+      "ipa": "[äpʰo̞ɾiäkʰe̞buɫätʰ]",
+      "audio": "audio/adverbs/071.mp3",
+      "audioLocal": "audio/adverbs/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აწობს",
+      "roman": "ac̣obs",
+      "en": "sopping",
+      "glosses": [
+        "sopping"
+      ],
+      "pos": "adv",
+      "ipa": "[ät͡sʼo̞bs]",
+      "audio": "audio/adverbs/072.mp3",
+      "audioLocal": "audio/adverbs/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ახლად",
+      "roman": "axlad",
+      "en": "newly",
+      "glosses": [
+        "newly"
+      ],
+      "pos": "adv",
+      "ipa": "[äχɫätʰ]",
+      "audio": "audio/adverbs/073.mp3",
+      "audioLocal": "audio/adverbs/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ახლებურად",
+      "roman": "axleburad",
+      "en": "anew",
+      "glosses": [
+        "anew"
+      ],
+      "pos": "adv",
+      "ipa": "[äχle̞buɾätʰ]",
+      "audio": "audio/adverbs/074.mp3",
+      "audioLocal": "audio/adverbs/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბანალურად",
+      "roman": "banalurad",
+      "en": "tritely",
+      "glosses": [
+        "tritely"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥änäɫuɾätʰ]",
+      "audio": "audio/adverbs/075.mp3",
+      "audioLocal": "audio/adverbs/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბოდვით",
+      "roman": "bodvit",
+      "en": "raving",
+      "glosses": [
+        "raving"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥o̞dʷitʰ]",
+      "audio": "audio/adverbs/076.mp3",
+      "audioLocal": "audio/adverbs/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბოლოს და ბოლოს",
+      "roman": "",
+      "en": "at last",
+      "glosses": [
+        "at last"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥o̞ɫo̞s d̥ä b̥o̞ɫo̞s]",
+      "audio": "audio/adverbs/077.mp3",
+      "audioLocal": "audio/adverbs/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბორტზე",
+      "roman": "borṭze",
+      "en": "aboard",
+      "glosses": [
+        "aboard"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥o̞ɾtʼze̞]",
+      "audio": "audio/adverbs/078.mp3",
+      "audioLocal": "audio/adverbs/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბრტყლად",
+      "roman": "brṭq̇lad",
+      "en": "flat",
+      "glosses": [
+        "flat"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥ɾtʼχʼɫätʰ]",
+      "audio": "audio/adverbs/079.mp3",
+      "audioLocal": "audio/adverbs/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადაღმა",
+      "roman": "gadaɣma",
+      "en": "across",
+      "glosses": [
+        "across"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ädäʁmä]",
+      "audio": "audio/adverbs/080.mp3",
+      "audioLocal": "audio/adverbs/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადაჭრით",
+      "roman": "gadač̣rit",
+      "en": "crisply",
+      "glosses": [
+        "crisply"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ädät͡ʃʼɾitʰ]",
+      "audio": "audio/adverbs/081.mp3",
+      "audioLocal": "audio/adverbs/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამალებულად",
+      "roman": "gamalebulad",
+      "en": "rashly",
+      "glosses": [
+        "rashly"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ämäle̞buɫätʰ]",
+      "audio": "audio/adverbs/082.mp3",
+      "audioLocal": "audio/adverbs/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამომხატველურად",
+      "roman": "gamomxaṭvelurad",
+      "en": "tersely",
+      "glosses": [
+        "tersely"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ämo̞mχätʼʷe̞ɫuɾätʰ]",
+      "audio": "audio/adverbs/083.mp3",
+      "audioLocal": "audio/adverbs/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამხდრად",
+      "roman": "gamxdrad",
+      "en": "thinly",
+      "glosses": [
+        "thinly"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ämχdɾätʰ]",
+      "audio": "audio/adverbs/084.mp3",
+      "audioLocal": "audio/adverbs/084.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "განზე",
+      "roman": "ganze",
+      "en": "aside",
+      "glosses": [
+        "aside"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊änze̞]",
+      "audio": "audio/adverbs/085.mp3",
+      "audioLocal": "audio/adverbs/085.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "განრისხებულად",
+      "roman": "ganrisxebulad",
+      "en": "irately",
+      "glosses": [
+        "irately"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊änɾisχe̞buɫätʰ]",
+      "audio": "audio/adverbs/086.mp3",
+      "audioLocal": "audio/adverbs/086.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაოცებულად",
+      "roman": "gaocebulad",
+      "en": "dazedly",
+      "glosses": [
+        "dazedly"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊äo̞t͡sʰe̞buɫätʰ]",
+      "audio": "audio/adverbs/087.mp3",
+      "audioLocal": "audio/adverbs/087.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გემზე",
+      "roman": "gemze",
+      "en": "aboard",
+      "glosses": [
+        "aboard"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊e̞mze̞]",
+      "audio": "audio/adverbs/088.mp3",
+      "audioLocal": "audio/adverbs/088.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გვიან",
+      "roman": "gvian",
+      "en": "late",
+      "glosses": [
+        "late"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ʷiän]",
+      "audio": "audio/adverbs/089.mp3",
+      "audioLocal": "audio/adverbs/089.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "სჯობს გვიან ვიდრე არასდროს",
+          "roman": "sǯobs gvian vidre arasdros",
+          "en": "better late than never"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "გიჟივით",
+      "roman": "giživit",
+      "en": "giddily",
+      "glosses": [
+        "giddily"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊iʒivitʰ]",
+      "audio": "audio/adverbs/090.mp3",
+      "audioLocal": "audio/adverbs/090.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გონებამახვილურად",
+      "roman": "gonebamaxvilurad",
+      "en": "wittily",
+      "glosses": [
+        "wittily"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊o̞ne̞bämäχʷiɫuɾätʰ]",
+      "audio": "audio/adverbs/091.mp3",
+      "audioLocal": "audio/adverbs/091.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გონებაჩლუნგად",
+      "roman": "gonebačlungad",
+      "en": "dully",
+      "glosses": [
+        "dully"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊o̞ne̞bät͡ʃʰɫuŋɡätʰ]",
+      "audio": "audio/adverbs/092.mp3",
+      "audioLocal": "audio/adverbs/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გრანდიოზულად",
+      "roman": "grandiozulad",
+      "en": "grandly",
+      "glosses": [
+        "grandly"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ɾändio̞zuɫätʰ]",
+      "audio": "audio/adverbs/093.mp3",
+      "audioLocal": "audio/adverbs/093.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გრილად",
+      "roman": "grilad",
+      "en": "coolly",
+      "glosses": [
+        "coolly"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ɾiɫätʰ]",
+      "audio": "audio/adverbs/094.mp3",
+      "audioLocal": "audio/adverbs/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გულგამგმირავად",
+      "roman": "gulgamgmiravad",
+      "en": "shrilly",
+      "glosses": [
+        "shrilly"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ulɡämɡmiɾävätʰ]",
+      "audio": "audio/adverbs/095.mp3",
+      "audioLocal": "audio/adverbs/095.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "და ა.შ.",
+      "roman": "da a.š.",
+      "en": "etc.",
+      "glosses": [
+        "etc."
+      ],
+      "pos": "adv",
+      "ipa": null,
+      "audio": "audio/adverbs/096.mp3",
+      "audioLocal": "audio/adverbs/096.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Clipping of და ასე შემდეგ (da ase šemdeg)."
+    },
+    {
+      "ka": "დაბოლოება",
+      "roman": "daboloeba",
+      "en": "finally",
+      "glosses": [
+        "finally"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥äbo̞ɫo̞e̞bä]",
+      "audio": "audio/adverbs/097.mp3",
+      "audioLocal": "audio/adverbs/097.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასტურ",
+      "roman": "dasṭur",
+      "en": "indeed",
+      "glosses": [
+        "indeed"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ästʼuɾ]",
+      "audio": "audio/adverbs/098.mp3",
+      "audioLocal": "audio/adverbs/098.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაღლილად",
+      "roman": "daɣlilad",
+      "en": "wearily",
+      "glosses": [
+        "wearily"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥äʁliɫätʰ]",
+      "audio": "audio/adverbs/099.mp3",
+      "audioLocal": "audio/adverbs/099.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაძონძილად",
+      "roman": "daʒonʒilad",
+      "en": "tattily",
+      "glosses": [
+        "tattily"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥äd͡zo̞nd͡ziɫätʰ]",
+      "audio": "audio/adverbs/100.mp3",
+      "audioLocal": "audio/adverbs/100.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაჭიმულად",
+      "roman": "dač̣imulad",
+      "en": "stiff",
+      "glosses": [
+        "stiff"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ät͡ʃʼimuɫätʰ]",
+      "audio": "audio/adverbs/101.mp3",
+      "audioLocal": "audio/adverbs/101.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დიდხანს",
+      "roman": "didxans",
+      "en": "long",
+      "glosses": [
+        "long"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥idχäns]",
+      "audio": "audio/adverbs/102.mp3",
+      "audioLocal": "audio/adverbs/102.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დინჯად",
+      "roman": "dinǯad",
+      "en": "staidly",
+      "glosses": [
+        "staidly"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ind͡ʒätʰ]",
+      "audio": "audio/adverbs/103.mp3",
+      "audioLocal": "audio/adverbs/103.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დოინჯშემოყრილი",
+      "roman": "doinǯšemoq̇rili",
+      "en": "akimbo",
+      "glosses": [
+        "akimbo"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥o̞ind͡ʒʃe̞mo̞χʼɾili]",
+      "audio": "audio/adverbs/104.mp3",
+      "audioLocal": "audio/adverbs/104.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დროზე",
+      "roman": "droze",
+      "en": "on time",
+      "glosses": [
+        "on time"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ɾo̞ze̞]",
+      "audio": "audio/adverbs/105.mp3",
+      "audioLocal": "audio/adverbs/105.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დრო (dro) + -ზე (-ze)."
+    },
+    {
+      "ka": "დღეს",
+      "roman": "dɣes",
+      "en": "today",
+      "glosses": [
+        "today"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ʁe̞s]",
+      "audio": "audio/adverbs/106.mp3",
+      "audioLocal": "audio/adverbs/106.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დღიურად",
+      "roman": "dɣiurad",
+      "en": "daily",
+      "glosses": [
+        "daily"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ʁiuɾätʰ]",
+      "audio": "audio/adverbs/107.mp3",
+      "audioLocal": "audio/adverbs/107.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დღიური (dɣiuri) + -ად (-ad)."
+    },
+    {
+      "ka": "ერთმაგად",
+      "roman": "ertmagad",
+      "en": "singly",
+      "glosses": [
+        "singly"
+      ],
+      "pos": "adv",
+      "ipa": "[e̞ɾtʰmäɡätʰ]",
+      "audio": "audio/adverbs/108.mp3",
+      "audioLocal": "audio/adverbs/108.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ერთმაგი (ertmagi) + -ად (-ad)."
+    },
+    {
+      "ka": "ერთნაირად",
+      "roman": "ertnairad",
+      "en": "equally",
+      "glosses": [
+        "equally"
+      ],
+      "pos": "adv",
+      "ipa": "[e̞ɾtʰnäiɾätʰ]",
+      "audio": "audio/adverbs/109.mp3",
+      "audioLocal": "audio/adverbs/109.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ერთნაირი (ertnairi) + -ად (-ad)."
+    },
+    {
+      "ka": "ერთხელაც",
+      "roman": "ertxelac",
+      "en": "someday",
+      "glosses": [
+        "someday"
+      ],
+      "pos": "adv",
+      "ipa": "[e̞ɾtʰχe̞ɫät͡sʰ]",
+      "audio": "audio/adverbs/110.mp3",
+      "audioLocal": "audio/adverbs/110.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ექვსგზის",
+      "roman": "ekvsgzis",
+      "en": "sixfold",
+      "glosses": [
+        "sixfold"
+      ],
+      "pos": "adv",
+      "ipa": "[e̞kʰʷsɡzis]",
+      "audio": "audio/adverbs/111.mp3",
+      "audioLocal": "audio/adverbs/111.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვაფშე",
+      "roman": "vapše",
+      "en": "at all",
+      "glosses": [
+        "at all"
+      ],
+      "pos": "adv",
+      "ipa": "[väpʰʃe̞]",
+      "audio": "audio/adverbs/112.mp3",
+      "audioLocal": "audio/adverbs/112.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian вообще́ (voobščé)."
+    },
+    {
+      "ka": "ვერასდროს",
+      "roman": "verasdros",
+      "en": "never",
+      "glosses": [
+        "never"
+      ],
+      "pos": "adv",
+      "ipa": "[ve̞ɾäsdɾo̞s]",
+      "audio": "audio/adverbs/113.mp3",
+      "audioLocal": "audio/adverbs/113.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვინმესგან",
+      "roman": "vinmesgan",
+      "en": "away",
+      "glosses": [
+        "away"
+      ],
+      "pos": "adv",
+      "ipa": "[vinme̞sɡän]",
+      "audio": "audio/adverbs/114.mp3",
+      "audioLocal": "audio/adverbs/114.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზევით",
+      "roman": "zevit",
+      "en": "upwards",
+      "glosses": [
+        "upwards"
+      ],
+      "pos": "adv",
+      "ipa": "[ze̞vitʰ]",
+      "audio": "audio/adverbs/115.mp3",
+      "audioLocal": "audio/adverbs/115.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზემოდან",
+      "roman": "zemodan",
+      "en": "atop",
+      "glosses": [
+        "atop"
+      ],
+      "pos": "adv",
+      "ipa": "[ze̞mo̞dän]",
+      "audio": "audio/adverbs/116.mp3",
+      "audioLocal": "audio/adverbs/116.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზემოთ",
+      "roman": "zemot",
+      "en": "upwards",
+      "glosses": [
+        "upwards"
+      ],
+      "pos": "adv",
+      "ipa": "[ze̞mo̞tʰ]",
+      "audio": "audio/adverbs/117.mp3",
+      "audioLocal": "audio/adverbs/117.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზიგზაგურად",
+      "roman": "zigzagurad",
+      "en": "zigzag",
+      "glosses": [
+        "zigzag"
+      ],
+      "pos": "adv",
+      "ipa": "[ziɡzäɡuɾätʰ]",
+      "audio": "audio/adverbs/118.mp3",
+      "audioLocal": "audio/adverbs/118.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზნეობრივად",
+      "roman": "zneobrivad",
+      "en": "morally",
+      "glosses": [
+        "morally"
+      ],
+      "pos": "adv",
+      "ipa": "[zne̞o̞bɾivätʰ]",
+      "audio": "audio/adverbs/119.mp3",
+      "audioLocal": "audio/adverbs/119.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ზნეობრივი (zneobrivi) + -ად (-ad)."
+    },
+    {
+      "ka": "თავბრუდამხვევად",
+      "roman": "tavbrudamxvevad",
+      "en": "dizzily",
+      "glosses": [
+        "dizzily"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰävbɾudämχʷe̞vätʰ]",
+      "audio": "audio/adverbs/120.mp3",
+      "audioLocal": "audio/adverbs/120.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავით",
+      "roman": "tavit",
+      "en": "head-on",
+      "glosses": [
+        "head-on"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰävitʰ]",
+      "audio": "audio/adverbs/121.mp3",
+      "audioLocal": "audio/adverbs/121.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავმდაბლურად",
+      "roman": "tavmdablurad",
+      "en": "humbly",
+      "glosses": [
+        "humbly"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰävmdäbɫuɾätʰ]",
+      "audio": "audio/adverbs/122.mp3",
+      "audioLocal": "audio/adverbs/122.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თამაშგარეთ",
+      "roman": "tamašgaret",
+      "en": "offside",
+      "glosses": [
+        "offside"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰämäʃɡäɾe̞tʰ]",
+      "audio": "audio/adverbs/123.mp3",
+      "audioLocal": "audio/adverbs/123.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თანაც",
+      "roman": "tanac",
+      "en": "besides",
+      "glosses": [
+        "besides"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰänät͡sʰ]",
+      "audio": "audio/adverbs/124.mp3",
+      "audioLocal": "audio/adverbs/124.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თბილად",
+      "roman": "tbilad",
+      "en": "warmly",
+      "glosses": [
+        "warmly"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰbiɫätʰ]",
+      "audio": "audio/adverbs/125.mp3",
+      "audioLocal": "audio/adverbs/125.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თვიურად",
+      "roman": "tviurad",
+      "en": "monthly",
+      "glosses": [
+        "monthly"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰʷiuɾätʰ]",
+      "audio": "audio/adverbs/126.mp3",
+      "audioLocal": "audio/adverbs/126.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From თვიური (tviuri) + -ად (-ad)."
+    },
+    {
+      "ka": "თითო",
+      "roman": "tito",
+      "en": "apiece",
+      "glosses": [
+        "apiece"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰitʰo̞]",
+      "audio": "audio/adverbs/127.mp3",
+      "audioLocal": "audio/adverbs/127.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თუმცა",
+      "roman": "tumca",
+      "en": "though",
+      "glosses": [
+        "though"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰumt͡sʰä]",
+      "audio": "audio/adverbs/128.mp3",
+      "audioLocal": "audio/adverbs/128.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "თუმცა მაინც გაწვიმდა.",
+          "roman": "tumca mainc gac̣vimda.",
+          "en": "It rained though."
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "იდეალურად",
+      "roman": "idealurad",
+      "en": "ideally",
+      "glosses": [
+        "ideally"
+      ],
+      "pos": "adv",
+      "ipa": "[ide̞äɫuɾätʰ]",
+      "audio": "audio/adverbs/129.mp3",
+      "audioLocal": "audio/adverbs/129.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იღბლიანად",
+      "roman": "iɣblianad",
+      "en": "luckily",
+      "glosses": [
+        "luckily"
+      ],
+      "pos": "adv",
+      "ipa": "[iʁbliänätʰ]",
+      "audio": "audio/adverbs/130.mp3",
+      "audioLocal": "audio/adverbs/130.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კაკალი",
+      "roman": "ḳaḳali",
+      "en": "exactly",
+      "glosses": [
+        "exactly"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼäkʼäli]",
+      "audio": "audio/adverbs/131.mp3",
+      "audioLocal": "audio/adverbs/131.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Proto-Georgian-Zan *ḳaḳ-. Cognate with Mingrelian კაკალი (ḳaḳali), Laz კაკალი (ǩaǩali). Armenian կակալ (kakal), կակըլ (kakəl) are probably borrowed from Kartvelian."
+    },
+    {
+      "ka": "კაშკაშად",
+      "roman": "ḳašḳašad",
+      "en": "vividly",
+      "glosses": [
+        "vividly"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼäʃkʼäʃätʰ]",
+      "audio": "audio/adverbs/132.mp3",
+      "audioLocal": "audio/adverbs/132.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კეთილად",
+      "roman": "ḳetilad",
+      "en": "kindly",
+      "glosses": [
+        "kindly"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼe̞tʰiɫätʰ]",
+      "audio": "audio/adverbs/133.mp3",
+      "audioLocal": "audio/adverbs/133.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კეთილი (ḳetili) + -ად (-ad)."
+    },
+    {
+      "ka": "კეთილგონივრულად",
+      "roman": "ḳetilgonivrulad",
+      "en": "cannily",
+      "glosses": [
+        "cannily"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼe̞tʰilɡo̞nivɾuɫätʰ]",
+      "audio": "audio/adverbs/134.mp3",
+      "audioLocal": "audio/adverbs/134.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კვირეულად",
+      "roman": "ḳvireulad",
+      "en": "weekly",
+      "glosses": [
+        "weekly"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼʷiɾe̞uɫätʰ]",
+      "audio": "audio/adverbs/135.mp3",
+      "audioLocal": "audio/adverbs/135.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კვირეული (ḳvireuli) + -ად (-ad)."
+    },
+    {
+      "ka": "კვლავ",
+      "roman": "ḳvlav",
+      "en": "again",
+      "glosses": [
+        "again"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼʷɫäv]",
+      "audio": "audio/adverbs/136.mp3",
+      "audioLocal": "audio/adverbs/136.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ოპერაციის შემდგომ ის კვლავ შეძლებს ლაპარაკს.",
+          "roman": "oṗeraciis šemdgom is ḳvlav šeʒlebs laṗaraḳs.",
+          "en": "After the surgery he would be able to speak again."
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "კიდევ",
+      "roman": "ḳidev",
+      "en": "again",
+      "glosses": [
+        "again"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼide̞v]",
+      "audio": "audio/adverbs/137.mp3",
+      "audioLocal": "audio/adverbs/137.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კიდულად",
+      "roman": "ḳidulad",
+      "en": "aweigh",
+      "glosses": [
+        "aweigh"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼiduɫätʰ]",
+      "audio": "audio/adverbs/138.mp3",
+      "audioLocal": "audio/adverbs/138.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ლოგინში",
+      "roman": "loginši",
+      "en": "abed",
+      "glosses": [
+        "abed"
+      ],
+      "pos": "adv",
+      "ipa": "[ɫo̞ɡinʃi]",
+      "audio": "audio/adverbs/139.mp3",
+      "audioLocal": "audio/adverbs/139.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ლოიალურად",
+      "roman": "loialurad",
+      "en": "loyally",
+      "glosses": [
+        "loyally"
+      ],
+      "pos": "adv",
+      "ipa": "[ɫo̞iäɫuɾätʰ]",
+      "audio": "audio/adverbs/140.mp3",
+      "audioLocal": "audio/adverbs/140.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგ.",
+      "roman": "mag.",
+      "en": "e.g.",
+      "glosses": [
+        "e.g."
+      ],
+      "pos": "adv",
+      "ipa": "[mäɡ]",
+      "audio": "audio/adverbs/141.mp3",
+      "audioLocal": "audio/adverbs/141.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Abbreviation of მაგალითად (magalitad)."
+    },
+    {
+      "ka": "მალე",
+      "roman": "",
+      "en": "soon",
+      "glosses": [
+        "soon"
+      ],
+      "pos": "adv",
+      "ipa": "[mäle̞]",
+      "audio": "audio/adverbs/142.mp3",
+      "audioLocal": "audio/adverbs/142.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Possibly related to მალი (mali, “fast, speedy”)."
+    },
+    {
+      "ka": "მამცურად",
+      "roman": "mamcurad",
+      "en": "bravely",
+      "glosses": [
+        "bravely"
+      ],
+      "pos": "adv",
+      "ipa": "[mämt͡sʰuɾätʰ]",
+      "audio": "audio/adverbs/143.mp3",
+      "audioLocal": "audio/adverbs/143.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მარდად",
+      "roman": "mardad",
+      "en": "agilely",
+      "glosses": [
+        "agilely"
+      ],
+      "pos": "adv",
+      "ipa": "[mäɾdätʰ]",
+      "audio": "audio/adverbs/144.mp3",
+      "audioLocal": "audio/adverbs/144.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მართლა",
+      "roman": "martla",
+      "en": "really",
+      "glosses": [
+        "really"
+      ],
+      "pos": "adv",
+      "ipa": "[mäɾtʰɫä]",
+      "audio": "audio/adverbs/145.mp3",
+      "audioLocal": "audio/adverbs/145.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაქსიმუმ",
+      "roman": "maksimum",
+      "en": "at most",
+      "glosses": [
+        "at most"
+      ],
+      "pos": "adv",
+      "ipa": "[mäkʰsimum]",
+      "audio": "audio/adverbs/146.mp3",
+      "audioLocal": "audio/adverbs/146.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მერე",
+      "roman": "mere",
+      "en": "later",
+      "glosses": [
+        "later"
+      ],
+      "pos": "adv",
+      "ipa": "[me̞ɾe̞]",
+      "audio": "audio/adverbs/147.mp3",
+      "audioLocal": "audio/adverbs/147.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "მერე გავაკეთოთ ახლა არ მცალია",
+          "roman": "mere gavaḳetot axla ar mcalia",
+          "en": "Let's do it later I am busy right now"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "მესამედ",
+      "roman": "mesamed",
+      "en": "thirdly",
+      "glosses": [
+        "thirdly"
+      ],
+      "pos": "adv",
+      "ipa": "[me̞säme̞tʰ]",
+      "audio": "audio/adverbs/148.mp3",
+      "audioLocal": "audio/adverbs/148.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეტი",
+      "roman": "meṭi",
+      "en": "more",
+      "glosses": [
+        "more"
+      ],
+      "pos": "adv",
+      "ipa": "[me̞tʼi]",
+      "audio": "audio/adverbs/149.mp3",
+      "audioLocal": "audio/adverbs/149.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "მეტი ან ნაკლები",
+          "roman": "meṭi an naḳlebi",
+          "en": "more or less"
+        },
+        {
+          "ka": "რაც უფრო მეტი იქნება მით უკეთესი",
+          "roman": "rac upro meṭi ikneba mit uḳetesi",
+          "en": "the more the better"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "მეფურად",
+      "roman": "mepurad",
+      "en": "regally",
+      "glosses": [
+        "regally"
+      ],
+      "pos": "adv",
+      "ipa": "[me̞pʰuɾätʰ]",
+      "audio": "audio/adverbs/150.mp3",
+      "audioLocal": "audio/adverbs/150.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეჩეჩზე",
+      "roman": "mečečze",
+      "en": "aground",
+      "glosses": [
+        "aground"
+      ],
+      "pos": "adv",
+      "ipa": "[me̞t͡ʃʰe̞t͡ʃʰze̞]",
+      "audio": "audio/adverbs/151.mp3",
+      "audioLocal": "audio/adverbs/151.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მზად",
+      "roman": "mzad",
+      "en": "ready",
+      "glosses": [
+        "ready"
+      ],
+      "pos": "adv",
+      "ipa": "[mzätʰ]",
+      "audio": "audio/adverbs/152.mp3",
+      "audioLocal": "audio/adverbs/152.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მზა (mza) + -ად (-ad)."
+    },
+    {
+      "ka": "მზიანად",
+      "roman": "mzianad",
+      "en": "sunnily",
+      "glosses": [
+        "sunnily"
+      ],
+      "pos": "adv",
+      "ipa": "[mziänätʰ]",
+      "audio": "audio/adverbs/153.mp3",
+      "audioLocal": "audio/adverbs/153.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მთაში",
+      "roman": "mtaši",
+      "en": "uphill",
+      "glosses": [
+        "uphill"
+      ],
+      "pos": "adv",
+      "ipa": "[mtʰäʃi]",
+      "audio": "audio/adverbs/154.mp3",
+      "audioLocal": "audio/adverbs/154.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მიამიტად",
+      "roman": "miamiṭad",
+      "en": "naively",
+      "glosses": [
+        "naively"
+      ],
+      "pos": "adv",
+      "ipa": "[miämitʼätʰ]",
+      "audio": "audio/adverbs/155.mp3",
+      "audioLocal": "audio/adverbs/155.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მინდვრად",
+      "roman": "mindvrad",
+      "en": "afield",
+      "glosses": [
+        "afield"
+      ],
+      "pos": "adv",
+      "ipa": "[mindʷɾätʰ]",
+      "audio": "audio/adverbs/156.mp3",
+      "audioLocal": "audio/adverbs/156.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მიღმა",
+      "roman": "miɣma",
+      "en": "beyond",
+      "glosses": [
+        "beyond"
+      ],
+      "pos": "adv",
+      "ipa": "[miʁmä]",
+      "audio": "audio/adverbs/157.mp3",
+      "audioLocal": "audio/adverbs/157.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მიწყივ",
+      "roman": "mic̣q̇iv",
+      "en": "always",
+      "glosses": [
+        "always"
+      ],
+      "pos": "adv",
+      "ipa": "[mit͡sʼχʼiv]",
+      "audio": "audio/adverbs/158.mp3",
+      "audioLocal": "audio/adverbs/158.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მკრთალად",
+      "roman": "mḳrtalad",
+      "en": "dimly",
+      "glosses": [
+        "dimly"
+      ],
+      "pos": "adv",
+      "ipa": "[mkʼɾtʰäɫätʰ]",
+      "audio": "audio/adverbs/159.mp3",
+      "audioLocal": "audio/adverbs/159.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოგვიანებით",
+      "roman": "mogvianebit",
+      "en": "later",
+      "glosses": [
+        "later"
+      ],
+      "pos": "adv",
+      "ipa": "[mo̞ɡʷiäne̞bitʰ]",
+      "audio": "audio/adverbs/160.mp3",
+      "audioLocal": "audio/adverbs/160.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მორალურად",
+      "roman": "moralurad",
+      "en": "morally",
+      "glosses": [
+        "morally"
+      ],
+      "pos": "adv",
+      "ipa": "[mo̞ɾäɫuɾätʰ]",
+      "audio": "audio/adverbs/161.mp3",
+      "audioLocal": "audio/adverbs/161.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოტყუებით",
+      "roman": "moṭq̇uebit",
+      "en": "falsely",
+      "glosses": [
+        "falsely"
+      ],
+      "pos": "adv",
+      "ipa": "[mo̞tʼχʼue̞bitʰ]",
+      "audio": "audio/adverbs/162.mp3",
+      "audioLocal": "audio/adverbs/162.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოჭიმულად",
+      "roman": "moč̣imulad",
+      "en": "stiffly",
+      "glosses": [
+        "stiffly"
+      ],
+      "pos": "adv",
+      "ipa": "[mo̞t͡ʃʼimuɫätʰ]",
+      "audio": "audio/adverbs/163.mp3",
+      "audioLocal": "audio/adverbs/163.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მრგვლად",
+      "roman": "mrgvlad",
+      "en": "roundly",
+      "glosses": [
+        "roundly"
+      ],
+      "pos": "adv",
+      "ipa": "[mɾɡʷɫätʰ]",
+      "audio": "audio/adverbs/164.mp3",
+      "audioLocal": "audio/adverbs/164.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მრგვალი (mrgvali, “round”) + -ად (-ad, adverb-forming suffix)."
+    },
+    {
+      "ka": "მსუბუქად",
+      "roman": "msubukad",
+      "en": "lightly",
+      "glosses": [
+        "lightly"
+      ],
+      "pos": "adv",
+      "ipa": "[msubukʰätʰ]",
+      "audio": "audio/adverbs/165.mp3",
+      "audioLocal": "audio/adverbs/165.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მსუბუქი (msubuki) + -ად (-ad)."
+    },
+    {
+      "ka": "მსუქნად",
+      "roman": "msuknad",
+      "en": "stoutly",
+      "glosses": [
+        "stoutly"
+      ],
+      "pos": "adv",
+      "ipa": "[msukʰnätʰ]",
+      "audio": "audio/adverbs/166.mp3",
+      "audioLocal": "audio/adverbs/166.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მტკივნეულად",
+      "roman": "mṭḳivneulad",
+      "en": "sorely",
+      "glosses": [
+        "sorely"
+      ],
+      "pos": "adv",
+      "ipa": "[mtʼkʼivne̞uɫätʰ]",
+      "audio": "audio/adverbs/167.mp3",
+      "audioLocal": "audio/adverbs/167.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მუდამ",
+      "roman": "mudam",
+      "en": "always",
+      "glosses": [
+        "always"
+      ],
+      "pos": "adv",
+      "ipa": "[mudäm]",
+      "audio": "audio/adverbs/168.mp3",
+      "audioLocal": "audio/adverbs/168.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Arabic مُدَام (mudām, “continual, long-lasting”)."
+    },
+    {
+      "ka": "მქრქალად",
+      "roman": "mkrkalad",
+      "en": "dingily",
+      "glosses": [
+        "dingily"
+      ],
+      "pos": "adv",
+      "ipa": "[mkʰɾkʰäɫätʰ]",
+      "audio": "audio/adverbs/169.mp3",
+      "audioLocal": "audio/adverbs/169.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მშრალად",
+      "roman": "mšralad",
+      "en": "huskily",
+      "glosses": [
+        "huskily"
+      ],
+      "pos": "adv",
+      "ipa": "[mʃɾäɫätʰ]",
+      "audio": "audio/adverbs/170.mp3",
+      "audioLocal": "audio/adverbs/170.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მძვინვარებით",
+      "roman": "mʒvinvarebit",
+      "en": "amuck",
+      "glosses": [
+        "amuck"
+      ],
+      "pos": "adv",
+      "ipa": "[md͡zʷinʷäɾe̞bitʰ]",
+      "audio": "audio/adverbs/171.mp3",
+      "audioLocal": "audio/adverbs/171.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მწკრივად",
+      "roman": "mc̣ḳrivad",
+      "en": "abreast",
+      "glosses": [
+        "abreast"
+      ],
+      "pos": "adv",
+      "ipa": "[mt͡sʼkʼɾivätʰ]",
+      "audio": "audio/adverbs/172.mp3",
+      "audioLocal": "audio/adverbs/172.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მწკრივში",
+      "roman": "mc̣ḳrivši",
+      "en": "abreast",
+      "glosses": [
+        "abreast"
+      ],
+      "pos": "adv",
+      "ipa": "[mt͡sʼkʼɾifʃi]",
+      "audio": "audio/adverbs/173.mp3",
+      "audioLocal": "audio/adverbs/173.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მხოლოდდამხოლოდ",
+      "roman": "mxoloddamxolod",
+      "en": "solely",
+      "glosses": [
+        "solely"
+      ],
+      "pos": "adv",
+      "ipa": "[mχo̞ɫo̞ddämχo̞ɫo̞tʰ]",
+      "audio": "audio/adverbs/174.mp3",
+      "audioLocal": "audio/adverbs/174.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნაკლებად",
+      "roman": "naḳlebad",
+      "en": "less",
+      "glosses": [
+        "less"
+      ],
+      "pos": "adv",
+      "ipa": "[näkʼle̞bätʰ]",
+      "audio": "audio/adverbs/175.mp3",
+      "audioLocal": "audio/adverbs/175.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნაკლები (naḳlebi) + -ად (-ad)."
+    },
+    {
+      "ka": "ნაპირზე",
+      "roman": "naṗirze",
+      "en": "ashore",
+      "glosses": [
+        "ashore"
+      ],
+      "pos": "adv",
+      "ipa": "[näpʼiɾze̞]",
+      "audio": "audio/adverbs/176.mp3",
+      "audioLocal": "audio/adverbs/176.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნაპირთან",
+      "roman": "naṗirtan",
+      "en": "inshore",
+      "glosses": [
+        "inshore"
+      ],
+      "pos": "adv",
+      "ipa": "[näpʼiɾtʰän]",
+      "audio": "audio/adverbs/177.mp3",
+      "audioLocal": "audio/adverbs/177.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნაპირისაკენ",
+      "roman": "naṗirisaḳen",
+      "en": "ashore",
+      "glosses": [
+        "ashore"
+      ],
+      "pos": "adv",
+      "ipa": "[näpʼiɾisäkʼe̞n]",
+      "audio": "audio/adverbs/178.mp3",
+      "audioLocal": "audio/adverbs/178.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნაცრისფრად",
+      "roman": "nacrisprad",
+      "en": "greyly",
+      "glosses": [
+        "greyly"
+      ],
+      "pos": "adv",
+      "ipa": "[nät͡sʰɾispʰɾätʰ]",
+      "audio": "audio/adverbs/179.mp3",
+      "audioLocal": "audio/adverbs/179.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნახევარგზაზე",
+      "roman": "naxevargzaze",
+      "en": "midway",
+      "glosses": [
+        "midway"
+      ],
+      "pos": "adv",
+      "ipa": "[näχe̞väɾɡzäze̞]",
+      "audio": "audio/adverbs/180.mp3",
+      "audioLocal": "audio/adverbs/180.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნედლად",
+      "roman": "nedlad",
+      "en": "crudely",
+      "glosses": [
+        "crudely"
+      ],
+      "pos": "adv",
+      "ipa": "[ne̞dɫätʰ]",
+      "audio": "audio/adverbs/181.mp3",
+      "audioLocal": "audio/adverbs/181.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ოდესმე",
+      "roman": "odesme",
+      "en": "ever",
+      "glosses": [
+        "ever"
+      ],
+      "pos": "adv",
+      "ipa": "[o̞de̞sme̞]",
+      "audio": "audio/adverbs/182.mp3",
+      "audioLocal": "audio/adverbs/182.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველად",
+      "roman": "ṗirvelad",
+      "en": "firstly",
+      "glosses": [
+        "firstly"
+      ],
+      "pos": "adv",
+      "ipa": "[pʼiɾʷe̞ɫätʰ]",
+      "audio": "audio/adverbs/183.mp3",
+      "audioLocal": "audio/adverbs/183.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From პირველი (ṗirveli) + -ად (-ad)."
+    },
+    {
+      "ka": "პროზაულად",
+      "roman": "ṗrozaulad",
+      "en": "prosily",
+      "glosses": [
+        "prosily"
+      ],
+      "pos": "adv",
+      "ipa": "[pʼɾo̞zäuɫätʰ]",
+      "audio": "audio/adverbs/184.mp3",
+      "audioLocal": "audio/adverbs/184.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რასაკვირველია",
+      "roman": "rasaḳvirvelia",
+      "en": "surely",
+      "glosses": [
+        "surely"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾäsäkʼʷiɾʷe̞liä]",
+      "audio": "audio/adverbs/185.mp3",
+      "audioLocal": "audio/adverbs/185.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Possible blend of რა (ra) საკვირველი (saḳvirveli) -ა (-a)"
+    },
+    {
+      "ka": "რვამაგად",
+      "roman": "rvamagad",
+      "en": "octuply",
+      "glosses": [
+        "octuply"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾʷämäɡätʰ]",
+      "audio": "audio/adverbs/186.mp3",
+      "audioLocal": "audio/adverbs/186.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From რვამაგი (rvamagi) + -ად (-ad)."
+    },
+    {
+      "ka": "რისკიანად",
+      "roman": "risḳianad",
+      "en": "riskily",
+      "glosses": [
+        "riskily"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾiskʼiänätʰ]",
+      "audio": "audio/adverbs/187.mp3",
+      "audioLocal": "audio/adverbs/187.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "როგორმე",
+      "roman": "rogorme",
+      "en": "however",
+      "glosses": [
+        "however"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾo̞ɡo̞ɾme̞]",
+      "audio": "audio/adverbs/188.mp3",
+      "audioLocal": "audio/adverbs/188.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "როდის",
+      "roman": "rodis",
+      "en": "when",
+      "glosses": [
+        "when"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾo̞dis]",
+      "audio": "audio/adverbs/189.mp3",
+      "audioLocal": "audio/adverbs/189.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რომლისგანაც",
+      "roman": "romlisganac",
+      "en": "whereof",
+      "glosses": [
+        "whereof"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾo̞mlisɡänät͡sʰ]",
+      "audio": "audio/adverbs/190.mp3",
+      "audioLocal": "audio/adverbs/190.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "როცა",
+      "roman": "roca",
+      "en": "when",
+      "glosses": [
+        "when"
+      ],
+      "pos": "adv",
+      "ipa": "[ɾo̞t͡sʰä]",
+      "audio": "audio/adverbs/191.mp3",
+      "audioLocal": "audio/adverbs/191.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სა",
+      "roman": "sa",
+      "en": "where",
+      "glosses": [
+        "where"
+      ],
+      "pos": "adv",
+      "ipa": "[sä]",
+      "audio": "audio/adverbs/192.mp3",
+      "audioLocal": "audio/adverbs/192.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საათობრივად",
+      "roman": "saatobrivad",
+      "en": "hourly",
+      "glosses": [
+        "hourly"
+      ],
+      "pos": "adv",
+      "ipa": "[säätʰo̞bɾivätʰ]",
+      "audio": "audio/adverbs/193.mp3",
+      "audioLocal": "audio/adverbs/193.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სად",
+      "roman": "sad",
+      "en": "where",
+      "glosses": [
+        "where"
+      ],
+      "pos": "adv",
+      "ipa": "[sätʰ]",
+      "audio": "audio/adverbs/194.mp3",
+      "audioLocal": "audio/adverbs/194.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სადაც",
+      "roman": "sadac",
+      "en": "where",
+      "glosses": [
+        "where"
+      ],
+      "pos": "adv",
+      "ipa": "[sädät͡sʰ]",
+      "audio": "audio/adverbs/195.mp3",
+      "audioLocal": "audio/adverbs/195.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სად (sad) + -აც (-ac)."
+    },
+    {
+      "ka": "საერთოდ",
+      "roman": "saertod",
+      "en": "at all",
+      "glosses": [
+        "at all"
+      ],
+      "pos": "adv",
+      "ipa": "[säe̞ɾtʰo̞tʰ]",
+      "audio": "audio/adverbs/196.mp3",
+      "audioLocal": "audio/adverbs/196.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From საერთო (saerto, \"general\", adj.) + -დ (-d, adverbial suffix)."
+    },
+    {
+      "ka": "საზღვარგარეთ",
+      "roman": "sazɣvargaret",
+      "en": "abroad",
+      "glosses": [
+        "abroad"
+      ],
+      "pos": "adv",
+      "ipa": "[säzʁʷäɾɡäɾe̞tʰ]",
+      "audio": "audio/adverbs/197.mp3",
+      "audioLocal": "audio/adverbs/197.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From საზღვარი (sazɣvari, “border”) + გარეთ (garet)."
+    },
+    {
+      "ka": "სათადარიგოდ",
+      "roman": "satadarigod",
+      "en": "sparely",
+      "glosses": [
+        "sparely"
+      ],
+      "pos": "adv",
+      "ipa": "[sätʰädäɾiɡo̞tʰ]",
+      "audio": "audio/adverbs/198.mp3",
+      "audioLocal": "audio/adverbs/198.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საიდანაც",
+      "roman": "saidanac",
+      "en": "whence",
+      "glosses": [
+        "whence"
+      ],
+      "pos": "adv",
+      "ipa": "[säidänät͡sʰ]",
+      "audio": "audio/adverbs/199.mp3",
+      "audioLocal": "audio/adverbs/199.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

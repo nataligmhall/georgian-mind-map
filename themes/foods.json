@@ -3,7 +3,7 @@
   "name": "Foods",
   "nameKa": "საჭმელები",
   "icon": "◈",
-  "count": 25,
+  "count": 30,
   "words": [
     {
       "ka": "არტალა",
@@ -66,6 +66,21 @@
       "etymology": "From dialectal Armenian գիշերեփեց (gišerepʻecʻ), composed of գիշեր (gišer, “night”) + եփել (epʻel, “to cook”)."
     },
     {
+      "ka": "ვახშამი",
+      "roman": "vaxšami",
+      "en": "supper",
+      "glosses": [
+        "supper"
+      ],
+      "pos": "noun",
+      "ipa": "[väχʃämi]",
+      "audio": "audio/foods/004.mp3",
+      "audioLocal": "audio/foods/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from late Old Georgian *ვახშამი (*vaxšami, “supper”) attested in ვახშმობა (vaxšmoba, “to have supper”), from earlier Old Georgian *ვაჴშამი (*vaqšami), a form preserved in some dialects that didn't undergo *q > x sound change, borrowed from an unidentified Iranian descendant of Proto-Iranian *xšáfnyah (“evening; evening meal, supper”). Note especially Sogdian 𐼰𐼲𐽁𐼰𐼺 (ʾɣšʾm, “evening”) and …"
+    },
+    {
       "ka": "კაკალი",
       "roman": "ḳaḳali",
       "en": "walnut-tree, Juglans regia",
@@ -74,11 +89,26 @@
       ],
       "pos": "noun",
       "ipa": "[kʼäkʼäli]",
-      "audio": "audio/foods/004.mp3",
-      "audioLocal": "audio/foods/004.mp3",
+      "audio": "audio/foods/005.mp3",
+      "audioLocal": "audio/foods/005.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Proto-Georgian-Zan *ḳaḳ-. Cognate with Mingrelian კაკალი (ḳaḳali), Laz კაკალი (ǩaǩali). Armenian կակալ (kakal), կակըլ (kakəl) are probably borrowed from Kartvelian."
+    },
+    {
+      "ka": "ლანჩი",
+      "roman": "lanči",
+      "en": "lunch",
+      "glosses": [
+        "lunch"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫänt͡ʃʰi]",
+      "audio": "audio/foods/006.mp3",
+      "audioLocal": "audio/foods/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English lunch."
     },
     {
       "ka": "ლობიანი",
@@ -89,8 +119,8 @@
       ],
       "pos": "adj",
       "ipa": "[ɫo̞biäni]",
-      "audio": "audio/foods/005.mp3",
-      "audioLocal": "audio/foods/005.mp3",
+      "audio": "audio/foods/007.mp3",
+      "audioLocal": "audio/foods/007.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From ლობიო (lobio) + -იანი (-iani)."
@@ -104,8 +134,8 @@
       ],
       "pos": "noun",
       "ipa": "[mt͡sʼʷädi]",
-      "audio": "audio/foods/006.mp3",
-      "audioLocal": "audio/foods/006.mp3",
+      "audio": "audio/foods/008.mp3",
+      "audioLocal": "audio/foods/008.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Related to წვა (c̣va). Ultimately from Proto-Kartvelian *c̣₁w- (“to bake, fry”)."
@@ -119,8 +149,8 @@
       ],
       "pos": "noun",
       "ipa": "[mt͡ʃʼädi]",
-      "audio": "audio/foods/007.mp3",
-      "audioLocal": "audio/foods/007.mp3",
+      "audio": "audio/foods/009.mp3",
+      "audioLocal": "audio/foods/009.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Proto-Georgian-Zan *mč̣ad-."
@@ -134,8 +164,8 @@
       ],
       "pos": "noun",
       "ipa": "[nämt͡sʰχʷäɾi]",
-      "audio": "audio/foods/008.mp3",
-      "audioLocal": "audio/foods/008.mp3",
+      "audio": "audio/foods/010.mp3",
+      "audioLocal": "audio/foods/010.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -149,8 +179,8 @@
       ],
       "pos": "adj",
       "ipa": "[näχe̞vɾädpʰe̞no̞väni]",
-      "audio": "audio/foods/009.mp3",
-      "audioLocal": "audio/foods/009.mp3",
+      "audio": "audio/foods/011.mp3",
+      "audioLocal": "audio/foods/011.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -164,8 +194,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʼäio̞kʼi]",
-      "audio": "audio/foods/010.mp3",
-      "audioLocal": "audio/foods/010.mp3",
+      "audio": "audio/foods/012.mp3",
+      "audioLocal": "audio/foods/012.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Russian паёк (pajók)."
@@ -179,11 +209,41 @@
       ],
       "pos": "noun",
       "ipa": "[ɾäɡu]",
-      "audio": "audio/foods/011.mp3",
-      "audioLocal": "audio/foods/011.mp3",
+      "audio": "audio/foods/013.mp3",
+      "audioLocal": "audio/foods/013.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
+    },
+    {
+      "ka": "სადილი",
+      "roman": "sadili",
+      "en": "lunch (main afternoon meal)",
+      "glosses": [
+        "lunch (main afternoon meal)"
+      ],
+      "pos": "noun",
+      "ipa": "[sädili]",
+      "audio": "audio/foods/014.mp3",
+      "audioLocal": "audio/foods/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დილა (dila, “morning”)."
+    },
+    {
+      "ka": "საუზმე",
+      "roman": "sauzme",
+      "en": "breakfast",
+      "glosses": [
+        "breakfast"
+      ],
+      "pos": "noun",
+      "ipa": "[säuzme̞]",
+      "audio": "audio/foods/015.mp3",
+      "audioLocal": "audio/foods/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Related to or from a form of უზმო (uzmo, “not having eaten (or drunk anything) in the morning”)."
     },
     {
       "ka": "სოსისი",
@@ -194,8 +254,8 @@
       ],
       "pos": "noun",
       "ipa": null,
-      "audio": "audio/foods/012.mp3",
-      "audioLocal": "audio/foods/012.mp3",
+      "audio": "audio/foods/016.mp3",
+      "audioLocal": "audio/foods/016.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Russian соси́ска (sosíska), from French saucisse. The Russian -ка (-ka) has been discarded to better approximate the original French."
@@ -209,8 +269,8 @@
       ],
       "pos": "noun",
       "ipa": "[tʼo̞lmä]",
-      "audio": "audio/foods/013.mp3",
-      "audioLocal": "audio/foods/013.mp3",
+      "audio": "audio/foods/017.mp3",
+      "audioLocal": "audio/foods/017.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Ottoman Turkish طولمه (dolma). For the initial ტ- (ṭ-) instead of დ- (d-) compare Armenian տոլմա (tolma)."
@@ -224,8 +284,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʰäpʰä]",
-      "audio": "audio/foods/014.mp3",
-      "audioLocal": "audio/foods/014.mp3",
+      "audio": "audio/foods/018.mp3",
+      "audioLocal": "audio/foods/018.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -239,8 +299,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʰe̞no̞väni]",
-      "audio": "audio/foods/015.mp3",
-      "audioLocal": "audio/foods/015.mp3",
+      "audio": "audio/foods/019.mp3",
+      "audioLocal": "audio/foods/019.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -254,8 +314,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʰkʰʷili]",
-      "audio": "audio/foods/016.mp3",
-      "audioLocal": "audio/foods/016.mp3",
+      "audio": "audio/foods/020.mp3",
+      "audioLocal": "audio/foods/020.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian ფქვილი (pkvili), from Proto-Georgian-Zan *pkw-il- (“flour”), from Proto-Kartvelian *pek(w)- : *pk(w)- (“to grind”). Equivalent of past participle of ფქვა (pkva), hence the -il- suffix."
@@ -269,8 +329,8 @@
       ],
       "pos": "noun",
       "ipa": "[ʁʷe̞ze̞li]",
-      "audio": "audio/foods/017.mp3",
-      "audioLocal": "audio/foods/017.mp3",
+      "audio": "audio/foods/021.mp3",
+      "audioLocal": "audio/foods/021.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -284,8 +344,8 @@
       ],
       "pos": "noun",
       "ipa": "[ʃäuɾmä]",
-      "audio": "audio/foods/018.mp3",
-      "audioLocal": "audio/foods/018.mp3",
+      "audio": "audio/foods/022.mp3",
+      "audioLocal": "audio/foods/022.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Russian шаурма́ (šaurmá)."
@@ -299,8 +359,8 @@
       ],
       "pos": "noun",
       "ipa": "[ʃkʰme̞ɾuli]",
-      "audio": "audio/foods/019.mp3",
-      "audioLocal": "audio/foods/019.mp3",
+      "audio": "audio/foods/023.mp3",
+      "audioLocal": "audio/foods/023.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From შქმერი (škmeri) + -ული (-uli), from the name of the village it came from."
@@ -314,8 +374,8 @@
       ],
       "pos": "noun",
       "ipa": "[t͡ʃʰiɾi]",
-      "audio": "audio/foods/020.mp3",
-      "audioLocal": "audio/foods/020.mp3",
+      "audio": "audio/foods/024.mp3",
+      "audioLocal": "audio/foods/024.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Armenian չիր (čʻir)."
@@ -329,8 +389,8 @@
       ],
       "pos": "noun",
       "ipa": "[t͡ʃʼʷiʃtʼäɾi]",
-      "audio": "audio/foods/021.mp3",
-      "audioLocal": "audio/foods/021.mp3",
+      "audio": "audio/foods/025.mp3",
+      "audioLocal": "audio/foods/025.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -344,8 +404,8 @@
       ],
       "pos": "noun",
       "ipa": "[χäʃi]",
-      "audio": "audio/foods/022.mp3",
-      "audioLocal": "audio/foods/022.mp3",
+      "audio": "audio/foods/026.mp3",
+      "audioLocal": "audio/foods/026.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Armenian խաշ (xaš). Related to ხარშავს (xaršavs), also from Armenian."
@@ -360,10 +420,25 @@
       "pos": "noun",
       "ipa": "[χät͡ʃʼäpʼuɾi]",
       "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/Khachapuri.ogg/Khachapuri.ogg.mp3",
-      "audioLocal": "audio/foods/023.mp3",
+      "audioLocal": "audio/foods/027.mp3",
       "audioSource": "wiktionary",
       "examples": [],
       "etymology": "From later Middle Georgian ხაჭაპური (xač̣aṗuri). From ხაჭო (xač̣o, “curds”) + პური (ṗuri, “bread”). Folk etymology derives the term from the name of a Georgian baker called *ხაჭა (*xač̣a) who first made this dish."
+    },
+    {
+      "ka": "ხემსი",
+      "roman": "xemsi",
+      "en": "snack",
+      "glosses": [
+        "snack"
+      ],
+      "pos": "noun",
+      "ipa": "[χe̞msi]",
+      "audio": "audio/foods/028.mp3",
+      "audioLocal": "audio/foods/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian ხევსი (xevsi, “light meal; puree, porridge”)."
     },
     {
       "ka": "ხინკალი",
@@ -375,7 +450,7 @@
       "pos": "noun",
       "ipa": "[χiŋkʼäli]",
       "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Khinkali.ogg/Khinkali.ogg.mp3",
-      "audioLocal": "audio/foods/024.mp3",
+      "audioLocal": "audio/foods/029.mp3",
       "audioSource": "wiktionary",
       "examples": [],
       "etymology": "From Middle Georgian ხინკალი (xinḳali), ultimately borrowed from Avar хинкӏал (xinkʼal). Compare also Lezgi хинкӏал (ꭓinḳal) Ingush хингал (xingal), West Circassian хъэнкӏэл (ꭓɛnkʼɛl), East Circassian хъынкӏэл (ꭓənkʼɛl)."

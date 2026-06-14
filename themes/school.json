@@ -3,14 +3,14 @@
   "name": "School",
   "nameKa": "სკოლა",
   "icon": "✎",
-  "count": 45,
+  "count": 150,
   "words": [
     {
-      "ka": "00-იანები",
-      "roman": "00-ianebi",
-      "en": "'00s, noughties, aughts",
+      "ka": "აბიტურიენტი",
+      "roman": "abiṭurienṭi",
+      "en": "college applicant, candidate for qualifying examination for admission to a university",
       "glosses": [
-        "'00s, noughties, aughts"
+        "college applicant, candidate for qualifying examination for admission to a university"
       ],
       "pos": "noun",
       "ipa": null,
@@ -18,17 +18,17 @@
       "audioLocal": "audio/school/000.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Russian абитурие́нт (abiturijént) or German Abiturient."
     },
     {
-      "ka": "00-იანი წლები",
-      "roman": "00-iani c̣lebi",
-      "en": "'00s, noughties, aughts",
+      "ka": "ავტოკალამი",
+      "roman": "avṭoḳalami",
+      "en": "fountain pen",
       "glosses": [
-        "'00s, noughties, aughts"
+        "fountain pen"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äftʼo̞kʼäɫämi]",
       "audio": null,
       "audioLocal": "audio/school/001.mp3",
       "audioSource": null,
@@ -36,44 +36,44 @@
       "etymology": null
     },
     {
-      "ka": "10-იანები",
-      "roman": "10-ianebi",
-      "en": "'10s, tens",
+      "ka": "აზნაური",
+      "roman": "aznauri",
+      "en": "noble, belonging to the aznauri class of Georgian nobility",
       "glosses": [
-        "'10s, tens"
+        "noble, belonging to the aznauri class of Georgian nobility"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äznäuɾi]",
       "audio": null,
       "audioLocal": "audio/school/002.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Old Georgian აზნაური (aznauri)."
     },
     {
-      "ka": "10-იანი წლები",
-      "roman": "10-iani c̣lebi",
-      "en": "'10s, tens",
+      "ka": "ალბომი",
+      "roman": "albomi",
+      "en": "album (book of pictures)",
       "glosses": [
-        "'10s, tens"
+        "album (book of pictures)"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[älbo̞mi]",
       "audio": null,
       "audioLocal": "audio/school/003.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Latin."
     },
     {
-      "ka": "20-იანები",
-      "roman": "20-ianebi",
-      "en": "'20s, twenties",
+      "ka": "ალხი",
+      "roman": "alxi",
+      "en": "lean cattle that spent the winter",
       "glosses": [
-        "'20s, twenties"
+        "lean cattle that spent the winter"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[älχi]",
       "audio": null,
       "audioLocal": "audio/school/004.mp3",
       "audioSource": null,
@@ -81,29 +81,29 @@
       "etymology": null
     },
     {
-      "ka": "20-იანი წლები",
-      "roman": "20-iani c̣lebi",
-      "en": "'20s, twenties",
+      "ka": "ამაგი",
+      "roman": "amagi",
+      "en": "Effort expended on a particular person",
       "glosses": [
-        "'20s, twenties"
+        "Effort expended on a particular person"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[ämäɡi]",
       "audio": null,
       "audioLocal": "audio/school/005.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Cf. Turkish emek."
     },
     {
-      "ka": "30-იანები",
-      "roman": "30-ianebi",
-      "en": "'30s, thirties",
+      "ka": "ამდგარი",
+      "roman": "amdgari",
+      "en": "erect (of aroused penis)",
       "glosses": [
-        "'30s, thirties"
+        "erect (of aroused penis)"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ämdɡäɾi]",
       "audio": null,
       "audioLocal": "audio/school/006.mp3",
       "audioSource": null,
@@ -111,44 +111,44 @@
       "etymology": null
     },
     {
-      "ka": "30-იანი წლები",
-      "roman": "30-iani c̣lebi",
-      "en": "'30s, thirties",
+      "ka": "ანბანი",
+      "roman": "anbani",
+      "en": "primer, ABC book",
       "glosses": [
-        "'30s, thirties"
+        "primer, ABC book"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[änbäni]",
       "audio": null,
       "audioLocal": "audio/school/007.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "By adding the names of the first two letters of Georgian alphabet: ან (an) + ბან (ban). Compare ნართანიანი (nartaniani)."
     },
     {
-      "ka": "40-იანები",
-      "roman": "40-ianebi",
-      "en": "'40s, forties",
+      "ka": "აპენდიქსი",
+      "roman": "aṗendiksi",
+      "en": "appendix",
       "glosses": [
-        "'40s, forties"
+        "appendix"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äpʼe̞ndikʰsi]",
       "audio": null,
       "audioLocal": "audio/school/008.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Latin."
     },
     {
-      "ka": "40-იანი წლები",
-      "roman": "40-iani c̣lebi",
-      "en": "'40s, forties",
+      "ka": "აპენდიციტი",
+      "roman": "aṗendiciṭi",
+      "en": "appendicitis",
       "glosses": [
-        "'40s, forties"
+        "appendicitis"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äpʼe̞ndit͡sʰitʼi]",
       "audio": null,
       "audioLocal": "audio/school/009.mp3",
       "audioSource": null,
@@ -156,29 +156,29 @@
       "etymology": null
     },
     {
-      "ka": "50-იანები",
-      "roman": "50-ianebi",
-      "en": "'50s, fifties",
+      "ka": "არაარსებითი",
+      "roman": "araarsebiti",
+      "en": "dispensable",
       "glosses": [
-        "'50s, fifties"
+        "dispensable"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äɾääɾse̞bitʰi]",
       "audio": null,
       "audioLocal": "audio/school/010.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From არა- (ara-, “un-”) + არსებითი (arsebiti)."
     },
     {
-      "ka": "50-იანი წლები",
-      "roman": "50-iani c̣lebi",
-      "en": "'50s, fifties",
+      "ka": "ასო",
+      "roman": "aso",
+      "en": "penis",
       "glosses": [
-        "'50s, fifties"
+        "penis"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äso̞]",
       "audio": null,
       "audioLocal": "audio/school/011.mp3",
       "audioSource": null,
@@ -186,14 +186,14 @@
       "etymology": null
     },
     {
-      "ka": "60-იანები",
-      "roman": "60-ianebi",
-      "en": "'60s, sixties",
+      "ka": "ასოს თავი",
+      "roman": "asos tavi",
+      "en": "glans penis",
       "glosses": [
-        "'60s, sixties"
+        "glans penis"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äso̞s tʰävi]",
       "audio": null,
       "audioLocal": "audio/school/012.mp3",
       "audioSource": null,
@@ -201,29 +201,29 @@
       "etymology": null
     },
     {
-      "ka": "60-იანი წლები",
-      "roman": "60-iani c̣lebi",
-      "en": "'60s, sixties",
+      "ka": "ასპირანტი",
+      "roman": "asṗiranṭi",
+      "en": "graduate student, postgraduate",
       "glosses": [
-        "'60s, sixties"
+        "graduate student, postgraduate"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äspʼiɾäntʼi]",
       "audio": null,
       "audioLocal": "audio/school/013.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Probably borrowed from Russian аспира́нт (aspiránt), ultimately from Latin aspīrāns."
     },
     {
-      "ka": "70-იანები",
-      "roman": "70-ianebi",
-      "en": "'70s, seventies",
+      "ka": "აუცილებელი",
+      "roman": "aucilebeli",
+      "en": "essential, indispensable, needful, urgent",
       "glosses": [
-        "'70s, seventies"
+        "essential, indispensable, needful, urgent"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[äut͡sʰile̞be̞li]",
       "audio": null,
       "audioLocal": "audio/school/014.mp3",
       "audioSource": null,
@@ -231,14 +231,14 @@
       "etymology": null
     },
     {
-      "ka": "70-იანი წლები",
-      "roman": "70-iani c̣lebi",
-      "en": "'70s, seventies",
+      "ka": "აუცილებლობა",
+      "roman": "aucilebloba",
+      "en": "indispensability",
       "glosses": [
-        "'70s, seventies"
+        "indispensability"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äut͡sʰile̞bɫo̞bä]",
       "audio": null,
       "audioLocal": "audio/school/015.mp3",
       "audioSource": null,
@@ -246,134 +246,134 @@
       "etymology": null
     },
     {
-      "ka": "80-იანები",
-      "roman": "80-ianebi",
-      "en": "'80s, eighties",
+      "ka": "აფთიაქი",
+      "roman": "aptiaki",
+      "en": "place where goods are very expensive",
       "glosses": [
-        "'80s, eighties"
+        "place where goods are very expensive"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[äpʰtʰiäkʰi]",
       "audio": null,
       "audioLocal": "audio/school/016.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from Russian апте́ка (aptéka) undergoing Georgianization to make the word pronounced more freely."
     },
     {
-      "ka": "80-იანი წლები",
-      "roman": "80-iani c̣lebi",
-      "en": "'80s, eighties",
+      "ka": "ბედოვლათი",
+      "roman": "bedovlati",
+      "en": "prodigal, spendthrift, wastrel",
       "glosses": [
-        "'80s, eighties"
+        "prodigal, spendthrift, wastrel"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[b̥e̞do̞vɫätʰi]",
       "audio": null,
       "audioLocal": "audio/school/017.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From Persian بی دولت (bi dowlat, “without wealth”)."
     },
     {
-      "ka": "90-იანები",
-      "roman": "90-ianebi",
-      "en": "'90s, nineties",
+      "ka": "ბიბლიოთეკა",
+      "roman": "biblioteḳa",
+      "en": "library (collection of books)",
       "glosses": [
-        "'90s, nineties"
+        "library (collection of books)"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥iblio̞tʰe̞kʼä]",
       "audio": null,
       "audioLocal": "audio/school/018.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from Russian библиотека (biblioteka)."
     },
     {
-      "ka": "90-იანი წლები",
-      "roman": "90-iani c̣lebi",
-      "en": "'90s, nineties",
+      "ka": "ბროშურა",
+      "roman": "brošura",
+      "en": "booklet, brochure",
       "glosses": [
-        "'90s, nineties"
+        "booklet, brochure"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥ɾo̞ʃuɾä]",
       "audio": null,
       "audioLocal": "audio/school/019.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from Russian брошюра (brošura)."
     },
     {
-      "ka": "A ვიტამინი",
-      "roman": "A viṭamini",
-      "en": "vitamin A",
+      "ka": "ბუკლეტი",
+      "roman": "buḳleṭi",
+      "en": "booklet",
       "glosses": [
-        "vitamin A"
+        "booklet"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥ukʼle̞tʼi]",
       "audio": null,
       "audioLocal": "audio/school/020.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from English."
     },
     {
-      "ka": "B ვიტამინი",
-      "roman": "B viṭamini",
-      "en": "vitamin B (any of the vitamins in the vitamin B complex)",
+      "ka": "ბუკმეკერი",
+      "roman": "buḳmeḳeri",
+      "en": "bookmaker",
       "glosses": [
-        "vitamin B (any of the vitamins in the vitamin B complex)"
+        "bookmaker"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥ukʼme̞kʼe̞ɾi]",
       "audio": null,
       "audioLocal": "audio/school/021.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Borrowed from English bookmaker."
     },
     {
-      "ka": "B ჯგუფის ვიტამინების კომპლექსი",
-      "roman": "B ǯgupis viṭaminebis ḳomṗleksi",
-      "en": "vitamin B complex",
+      "ka": "ბუღალტერი",
+      "roman": "buɣalṭeri",
+      "en": "bookkeeper, book-keeper",
       "glosses": [
-        "vitamin B complex"
+        "bookkeeper, book-keeper"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[b̥uʁältʼe̞ɾi]",
       "audio": null,
       "audioLocal": "audio/school/022.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Through Russian, ultimately from German Buchhalter."
     },
     {
-      "ka": "B-ვიტამინების კომპლექსი",
-      "roman": "B-viṭaminebis ḳomṗleksi",
-      "en": "vitamin B complex",
+      "ka": "გაზეთი",
+      "roman": "gazeti",
+      "en": "newspaper",
       "glosses": [
-        "vitamin B complex"
+        "newspaper"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[ɡ̊äze̞tʰi]",
       "audio": null,
       "audioLocal": "audio/school/023.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "Ultimately from French gazette."
     },
     {
-      "ka": "B-ჯგუფის ვიტამინები",
-      "roman": "B-ǯgupis viṭaminebi",
-      "en": "vitamin B complex (vitamins belonging to group B)",
+      "ka": "გაკვეთილი",
+      "roman": "gaḳvetili",
+      "en": "lesson",
       "glosses": [
-        "vitamin B complex (vitamins belonging to group B)"
+        "lesson"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[ɡ̊äkʼʷe̞tʰili]",
       "audio": null,
       "audioLocal": "audio/school/024.mp3",
       "audioSource": null,
@@ -381,14 +381,14 @@
       "etymology": null
     },
     {
-      "ka": "C ვიტამინი",
-      "roman": "C viṭamini",
-      "en": "vitamin C",
+      "ka": "გაკვირვებული",
+      "roman": "gaḳvirvebuli",
+      "en": "open-mouthed, round-eyed, astounded",
       "glosses": [
-        "vitamin C"
+        "open-mouthed, round-eyed, astounded"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ɡ̊äkʼʷiɾʷe̞buli]",
       "audio": null,
       "audioLocal": "audio/school/025.mp3",
       "audioSource": null,
@@ -396,29 +396,29 @@
       "etymology": null
     },
     {
-      "ka": "D ვიტამინი",
-      "roman": "D viṭamini",
-      "en": "vitamin D",
+      "ka": "გამოკვლევა",
+      "roman": "gamoḳvleva",
+      "en": "examination, research",
       "glosses": [
-        "vitamin D"
+        "examination, research"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[ɡ̊ämo̞kʼʷle̞vä]",
       "audio": null,
       "audioLocal": "audio/school/026.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From გამო- (gamo-) + კვლევა (ḳvleva)."
     },
     {
-      "ka": "E ვიტამინი",
-      "roman": "E viṭamini",
-      "en": "vitamin E",
+      "ka": "გამომცდელი",
+      "roman": "gamomcdeli",
+      "en": "examiner",
       "glosses": [
-        "vitamin E"
+        "examiner"
       ],
       "pos": "noun",
-      "ipa": null,
+      "ipa": "[ɡ̊ämo̞mt͡sʰde̞li]",
       "audio": null,
       "audioLocal": "audio/school/027.mp3",
       "audioSource": null,
@@ -426,14 +426,14 @@
       "etymology": null
     },
     {
-      "ka": "K ვიტამინი",
-      "roman": "K viṭamini",
-      "en": "vitamin K",
+      "ka": "გამოფიტული",
+      "roman": "gamopiṭuli",
+      "en": "spent, attenuated",
       "glosses": [
-        "vitamin K"
+        "spent, attenuated"
       ],
-      "pos": "noun",
-      "ipa": null,
+      "pos": "adj",
+      "ipa": "[ɡ̊ämo̞pʰitʼuli]",
       "audio": null,
       "audioLocal": "audio/school/028.mp3",
       "audioSource": null,
@@ -441,59 +441,59 @@
       "etymology": null
     },
     {
-      "ka": "SIM-ბარათი",
-      "roman": "SIM-barati",
-      "en": "SIM card",
+      "ka": "გამოცდა",
+      "roman": "gamocda",
+      "en": "examination",
       "glosses": [
-        "SIM card"
+        "examination"
       ],
       "pos": "noun",
-      "ipa": "[simbäɾätʰi]",
+      "ipa": "[ɡ̊ämo̞t͡sʰdä]",
       "audio": null,
       "audioLocal": "audio/school/029.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From გამო- (gamo-) + ცდა (cda)."
     },
     {
-      "ka": "ა.შ.",
-      "roman": "",
-      "en": "etc.",
+      "ka": "გამჭოლად",
+      "roman": "gamč̣olad",
+      "en": "penetratingly",
       "glosses": [
-        "etc."
+        "penetratingly"
       ],
       "pos": "adv",
-      "ipa": null,
+      "ipa": "[ɡ̊ämt͡ʃʼo̞ɫätʰ]",
       "audio": null,
       "audioLocal": "audio/school/030.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "Abbreviation of ასე შემდეგ (ase šemdeg, “and so on”)."
+      "etymology": null
     },
     {
-      "ka": "ააბარგებს",
-      "roman": "aabargebs",
-      "en": "to make (someone) move house",
+      "ka": "გამჭრიახობა",
+      "roman": "gamč̣riaxoba",
+      "en": "acumen, astuteness, ingenuity, insight, insights, penetration, perspicacity, sagacity, shrewdness",
       "glosses": [
-        "to make (someone) move house"
+        "acumen, astuteness, ingenuity, insight, insights, penetration, perspicacity, sagacity, shrewdness"
       ],
-      "pos": "verb",
-      "ipa": "[ääbäɾɡe̞bs]",
+      "pos": "noun",
+      "ipa": "[ɡ̊ämt͡ʃʼɾiäχo̞bä]",
       "audio": null,
       "audioLocal": "audio/school/031.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": null
+      "etymology": "From გამჭრიახი (gamč̣riaxi) + -ობა (-oba)."
     },
     {
-      "ka": "ააგდებს",
-      "roman": "aagdebs",
-      "en": "to throw (something) up",
+      "ka": "გასაოცრად",
+      "roman": "gasaocrad",
+      "en": "amazingly, marvellously, miraculously, startlingly, strikingly, stupendously, surprisedly, surprisingly, wonderfully",
       "glosses": [
-        "to throw (something) up"
+        "amazingly, marvellously, miraculously, startlingly, strikingly, stupendously, surprisedly, surprisingly, wonderfully"
       ],
-      "pos": "verb",
-      "ipa": "[ääɡde̞bs]",
+      "pos": "adv",
+      "ipa": "[ɡ̊äsäo̞t͡sʰɾätʰ]",
       "audio": null,
       "audioLocal": "audio/school/032.mp3",
       "audioSource": null,
@@ -501,190 +501,1777 @@
       "etymology": null
     },
     {
-      "ka": "ააგიზგიზებს",
-      "roman": "aagizgizebs",
-      "en": "to start a strong, roaring fire",
+      "ka": "გასინჯვა",
+      "roman": "gasinǯva",
+      "en": "examination (by a doctor, etc)",
       "glosses": [
-        "to start a strong, roaring fire"
-      ],
-      "pos": "verb",
-      "ipa": "[ääɡizɡize̞bs]",
-      "audio": null,
-      "audioLocal": "audio/school/033.mp3",
-      "audioSource": null,
-      "examples": [],
-      "etymology": "See აგიზგიზება (agizgizeba)."
-    },
-    {
-      "ka": "აადვილებს",
-      "roman": "aadvilebs",
-      "en": "to make easy",
-      "glosses": [
-        "to make easy"
-      ],
-      "pos": "verb",
-      "ipa": "[äädʷile̞bs]",
-      "audio": null,
-      "audioLocal": "audio/school/034.mp3",
-      "audioSource": null,
-      "examples": [],
-      "etymology": "See გაადვილება (gaadvileba)."
-    },
-    {
-      "ka": "აავსებს",
-      "roman": "aavsebs",
-      "en": "to fill",
-      "glosses": [
-        "to fill"
-      ],
-      "pos": "verb",
-      "ipa": "[ääfse̞bs]",
-      "audio": null,
-      "audioLocal": "audio/school/035.mp3",
-      "audioSource": null,
-      "examples": [],
-      "etymology": "From ა- (a-) + ავსებს (avsebs)."
-    },
-    {
-      "ka": "აალაგებს",
-      "roman": "aalagebs",
-      "en": "to tidy, to tidy up",
-      "glosses": [
-        "to tidy, to tidy up"
-      ],
-      "pos": "verb",
-      "ipa": "[ääɫäɡe̞bs]",
-      "audio": null,
-      "audioLocal": "audio/school/036.mp3",
-      "audioSource": null,
-      "examples": [],
-      "etymology": "From ა- (a-) + ალაგებს (alagebs)."
-    },
-    {
-      "ka": "აალება",
-      "roman": "aaleba",
-      "en": "ignition",
-      "glosses": [
-        "ignition"
+        "examination (by a doctor, etc)"
       ],
       "pos": "noun",
-      "ipa": "[ääle̞bä]",
+      "ipa": "[ɡ̊äsind͡ʒʷä]",
       "audio": null,
-      "audioLocal": "audio/school/037.mp3",
+      "audioLocal": "audio/school/033.mp3",
       "audioSource": null,
       "examples": [],
       "etymology": null
     },
     {
-      "ka": "აალებადი",
-      "roman": "aalebadi",
-      "en": "flammable",
+      "ka": "გაურკვევლობა",
+      "roman": "gaurḳvevloba",
+      "en": "uncertainty, illegibility, inaudibility, indeterminacy, indistinctness, suspense, vagueness, ambiguity",
       "glosses": [
-        "flammable"
+        "uncertainty, illegibility, inaudibility, indeterminacy, indistinctness, suspense, vagueness, ambiguity"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äuɾkʼʷe̞vɫo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/034.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From გაურკვეველი (gaurḳveveli) + -ობა (-oba)."
+    },
+    {
+      "ka": "გაშლილი",
+      "roman": "gašlili",
+      "en": "open",
+      "glosses": [
+        "open"
       ],
       "pos": "adj",
-      "ipa": "[ääle̞bädi]",
+      "ipa": "[ɡ̊äʃlili]",
+      "audio": null,
+      "audioLocal": "audio/school/035.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გახსნილობა",
+      "roman": "gaxsniloba",
+      "en": "openness",
+      "glosses": [
+        "openness"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äχsniɫo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/036.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გენერალური",
+      "roman": "generaluri",
+      "en": "general (not limited in application; applicable to a whole class or category)",
+      "glosses": [
+        "general (not limited in application; applicable to a whole class or category)"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊e̞ne̞ɾäɫuɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/037.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Ultimately from Latin generālis + -ური (-uri)."
+    },
+    {
+      "ka": "გველი",
+      "roman": "gveli",
+      "en": "serpent",
+      "glosses": [
+        "serpent"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ʷe̞li]",
       "audio": null,
       "audioLocal": "audio/school/038.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "From აალება (aaleba, “ignition”) + -ადი (-adi)."
+      "etymology": "From Old Georgian გუელი (gueli), from Proto-Georgian-Zan *gwel-."
     },
     {
-      "ka": "აამებს",
-      "roman": "aamebs",
-      "en": "to bring pleasure to",
+      "ka": "გზამკვლევი",
+      "roman": "gzamḳvlevi",
+      "en": "vade mecum, handbook, manual, guide",
       "glosses": [
-        "to bring pleasure to"
+        "vade mecum, handbook, manual, guide"
       ],
-      "pos": "verb",
-      "ipa": "[ääme̞bs]",
+      "pos": "noun",
+      "ipa": "[ɡ̊zämkʼʷle̞vi]",
       "audio": null,
       "audioLocal": "audio/school/039.mp3",
       "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გულღიაობა",
+      "roman": "gulɣiaoba",
+      "en": "openness, sociability",
+      "glosses": [
+        "openness, sociability"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ulʁiäo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/040.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გუშინდელი",
+      "roman": "gušindeli",
+      "en": "that which has happened, came to being, was published or released yesterday",
+      "glosses": [
+        "that which has happened, came to being, was published or released yesterday"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊uʃinde̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/041.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From გუშინ (gušin)."
+    },
+    {
+      "ka": "დაბალი კლასი",
+      "roman": "dabali ḳlasi",
+      "en": "lower class",
+      "glosses": [
+        "lower class"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äbäli kʼɫäsi]",
+      "audio": null,
+      "audioLocal": "audio/school/042.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დავალება",
+      "roman": "davaleba",
+      "en": "homework",
+      "glosses": [
+        "homework"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äväle̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/043.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ვალი (vali)."
+    },
+    {
+      "ka": "დამოკიდებულება",
+      "roman": "damoḳidebuleba",
+      "en": "dependence",
+      "glosses": [
+        "dependence"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämo̞kʼide̞bule̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/044.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From დამოკიდებული (damoḳidebuli) + -ება (-eba), roughly corresponding to dependent + -hood, -ship, or -dom."
+    },
+    {
+      "ka": "დამოუკიდებელი სახელმწიფო",
+      "roman": "damouḳidebeli saxelmc̣ipo",
+      "en": "sovereign state, independent state",
+      "glosses": [
+        "sovereign state, independent state"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämo̞ukʼide̞be̞li säχe̞lmt͡sʼipʰo̞]",
+      "audio": null,
+      "audioLocal": "audio/school/045.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამოუკიდებელი ქვეყანა",
+      "roman": "damouḳidebeli kveq̇ana",
+      "en": "independent state, independent country",
+      "glosses": [
+        "independent state, independent country"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämo̞ukʼide̞be̞li kʰʷe̞χʼänä]",
+      "audio": null,
+      "audioLocal": "audio/school/046.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამოუკიდებლად",
+      "roman": "damouḳideblad",
+      "en": "independently",
+      "glosses": [
+        "independently"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ämo̞ukʼide̞bɫätʰ]",
+      "audio": null,
+      "audioLocal": "audio/school/047.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამოუკიდებლობა",
+      "roman": "damouḳidebloba",
+      "en": "independence",
+      "glosses": [
+        "independence"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämo̞ukʼide̞bɫo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/048.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From დამოუკიდებელი (damouḳidebeli, “independent”) + -ობა (-oba, “-ence”)."
+    },
+    {
+      "ka": "დამოუკიდებლობის ომი",
+      "roman": "damouḳideblobis omi",
+      "en": "war of independence",
+      "glosses": [
+        "war of independence"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämo̞ukʼide̞bɫo̞bis o̞mi]",
+      "audio": null,
+      "audioLocal": "audio/school/049.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამოუკიდებლობისთვის ომი",
+      "roman": "damouḳideblobistvis omi",
+      "en": "war of independence",
+      "glosses": [
+        "war of independence"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämo̞ukʼide̞bɫo̞bistʰʷis o̞mi]",
+      "audio": null,
+      "audioLocal": "audio/school/050.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამრიგებელი",
+      "roman": "damrigebeli",
+      "en": "monitor, tutor (a teacher in a class)",
+      "glosses": [
+        "monitor, tutor (a teacher in a class)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämɾiɡe̞be̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/051.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამსჯელი",
+      "roman": "damsǯeli",
+      "en": "penal, punitive, retributive",
+      "glosses": [
+        "penal, punitive, retributive"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ämsd͡ʒe̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/052.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დანართი",
+      "roman": "danarti",
+      "en": "annex, appendage, appendix",
+      "glosses": [
+        "annex, appendage, appendix"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥änäɾtʰi]",
+      "audio": null,
+      "audioLocal": "audio/school/053.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასაკიდი",
+      "roman": "dasaḳidi",
+      "en": "pendulous",
+      "glosses": [
+        "pendulous"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äsäkʼidi]",
+      "audio": null,
+      "audioLocal": "audio/school/054.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასვენება",
+      "roman": "dasveneba",
+      "en": "a break for schoolchildren between lessons",
+      "glosses": [
+        "a break for schoolchildren between lessons"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äsʷe̞ne̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/055.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაუყოვნებელი",
+      "roman": "dauq̇ovnebeli",
+      "en": "immediate, instant (happening right away, with no delay)",
+      "glosses": [
+        "immediate, instant (happening right away, with no delay)"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äuχʼo̞vne̞be̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/056.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From დაყოვნება (daq̇ovneba) + უ- -ელი (u- -eli)."
+    },
+    {
+      "ka": "დაწყებითი",
+      "roman": "dac̣q̇ebiti",
+      "en": "opening",
+      "glosses": [
+        "opening"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ät͡sʼχʼe̞bitʰi]",
+      "audio": null,
+      "audioLocal": "audio/school/057.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დიდებულად",
+      "roman": "didebulad",
+      "en": "first-class, imperially, magnificently, majestically, rankly, splendidly",
+      "glosses": [
+        "first-class, imperially, magnificently, majestically, rankly, splendidly"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ide̞buɫätʰ]",
+      "audio": null,
+      "audioLocal": "audio/school/058.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დისპანსერი",
+      "roman": "disṗanseri",
+      "en": "dispensary",
+      "glosses": [
+        "dispensary"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ispʼänse̞ɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/059.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დუხჭირი",
+      "roman": "duxč̣iri",
+      "en": "ugly, misshapen, disfigured",
+      "glosses": [
+        "ugly, misshapen, disfigured"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥uχt͡ʃʼiɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/060.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დღევანდელი",
+      "roman": "dɣevandeli",
+      "en": "that which has happened or is happening, came or will come to being, was or will be published/released today",
+      "glosses": [
+        "that which has happened or is happening, came or will come to being, was or will be published/released today"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ʁe̞vände̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/061.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ერექცია",
+      "roman": "erekcia",
+      "en": "erection (of penis)",
+      "glosses": [
+        "erection (of penis)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞ɾe̞kʰt͡sʰiä]",
+      "audio": null,
+      "audioLocal": "audio/school/062.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ექსპოზიცია",
+      "roman": "eksṗozicia",
+      "en": "exposition (the opening section of a movement in sonata form; the opening section of a fugue)",
+      "glosses": [
+        "exposition (the opening section of a movement in sonata form; the opening section of a fugue)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞kʰspʼo̞zit͡sʰiä]",
+      "audio": null,
+      "audioLocal": "audio/school/063.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian экспози́ция (ekspozícija), from Latin expositiō."
+    },
+    {
+      "ka": "ვერაგი",
+      "roman": "veragi",
+      "en": "perfidious, serpentine",
+      "glosses": [
+        "perfidious, serpentine"
+      ],
+      "pos": "adj",
+      "ipa": "[ve̞ɾäɡi]",
+      "audio": null,
+      "audioLocal": "audio/school/064.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Old Georgian ვერაგი (veragi), ultimately from Old Armenian. See Old Georgian for more."
+    },
+    {
+      "ka": "ვერხვი",
+      "roman": "verxvi",
+      "en": "Populus tremula: asp, aspen, asps",
+      "glosses": [
+        "Populus tremula: asp, aspen, asps"
+      ],
+      "pos": "noun",
+      "ipa": "[ve̞ɾχʷi]",
+      "audio": null,
+      "audioLocal": "audio/school/065.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Old Georgian ვერხუ (verxu), ვერხჳ (verxwi)."
+    },
+    {
+      "ka": "ზედა საშუალო კლასი",
+      "roman": "zeda sašualo ḳlasi",
+      "en": "upper middle class",
+      "glosses": [
+        "upper middle class"
+      ],
+      "pos": "noun",
+      "ipa": "[ze̞dä säʃuäɫo̞ kʼɫäsi]",
+      "audio": null,
+      "audioLocal": "audio/school/066.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავისუფალი ურთიერთობა",
+      "roman": "tavisupali urtiertoba",
+      "en": "casual relationship, open relationship (literally: free relationship)",
+      "glosses": [
+        "casual relationship, open relationship (literally: free relationship)"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰävisupʰäli uɾtʰie̞ɾtʰo̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/067.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თანაკლასელი",
+      "roman": "tanaḳlaseli",
+      "en": "classmate",
+      "glosses": [
+        "classmate"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰänäkʼɫäse̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/068.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From თანა- (tana-) + კლასელი (ḳlaseli)."
+    },
+    {
+      "ka": "თვითმასწავლებელი",
+      "roman": "tvitmasc̣avlebeli",
+      "en": "self-help book",
+      "glosses": [
+        "self-help book"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰʷitʰmäst͡sʼävle̞be̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/069.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თხუთმეტკუთხა",
+      "roman": "txutmeṭḳutxa",
+      "en": "pentadecagonal",
+      "glosses": [
+        "pentadecagonal"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰχutʰme̞tʼkʼutʰχä]",
+      "audio": null,
+      "audioLocal": "audio/school/070.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თხუთმეტკუთხედი",
+      "roman": "txutmeṭḳutxedi",
+      "en": "pentadecagon",
+      "glosses": [
+        "pentadecagon"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰχutʰme̞tʼkʼutʰχe̞di]",
+      "audio": null,
+      "audioLocal": "audio/school/071.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იაფად",
+      "roman": "iapad",
+      "en": "cheaply, inexpensively, alias",
+      "glosses": [
+        "cheaply, inexpensively, alias"
+      ],
+      "pos": "adv",
+      "ipa": "[iäpʰätʰ]",
+      "audio": null,
+      "audioLocal": "audio/school/072.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იაფი",
+      "roman": "iapi",
+      "en": "cheap, inexpensive",
+      "glosses": [
+        "cheap, inexpensive"
+      ],
+      "pos": "adj",
+      "ipa": "[iäpʰi]",
+      "audio": null,
+      "audioLocal": "audio/school/073.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ინკუნაბულა",
+      "roman": "inḳunabula",
+      "en": "incunabula (early printed books)",
+      "glosses": [
+        "incunabula (early printed books)"
+      ],
+      "pos": "noun",
+      "ipa": "[iŋkʼunäbuɫä]",
+      "audio": null,
+      "audioLocal": "audio/school/074.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ინკუნაბულები",
+      "roman": "inḳunabulebi",
+      "en": "incunabula (early printed books)",
+      "glosses": [
+        "incunabula (early printed books)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/school/075.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ინსპექცია",
+      "roman": "insṗekcia",
+      "en": "inspection (the act of examining something, often closely, to check correctness, compliance, etc.)",
+      "glosses": [
+        "inspection (the act of examining something, often closely, to check correctness, compliance, etc.)"
+      ],
+      "pos": "noun",
+      "ipa": "[inspʼe̞kʰt͡sʰiä]",
+      "audio": null,
+      "audioLocal": "audio/school/076.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin īnspectiō."
+    },
+    {
+      "ka": "ისტებლიშმენტი",
+      "roman": "isṭeblišmenṭi",
+      "en": "the ruling class, the powerful elite wielding the authority, the political establishment",
+      "glosses": [
+        "the ruling class, the powerful elite wielding the authority, the political establishment"
+      ],
+      "pos": "noun",
+      "ipa": "[istʼe̞bliʃme̞ntʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/077.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from English establishment."
+    },
+    {
+      "ka": "კაზმვა",
+      "roman": "ḳazmva",
+      "en": "to bind (a book)",
+      "glosses": [
+        "to bind (a book)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/school/078.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Inherited from Old Georgian კაზმვა (ḳazmva), most likely borrowed from Old Armenian կազմեմ (kazmem), from կազմ (kazm)."
+    },
+    {
+      "ka": "კალამი",
+      "roman": "ḳalami",
+      "en": "pen",
+      "glosses": [
+        "pen"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɫämi]",
+      "audio": null,
+      "audioLocal": "audio/school/079.mp3",
+      "audioSource": null,
       "examples": [
         {
-          "ka": "მისმა საჩუქარმა ძალიან მაამა",
-          "roman": "misma sačukarma ʒalian maama",
-          "en": "His present delighted me very much"
+          "ka": "(both informal, proscribed)",
+          "roman": "",
+          "en": ""
+        }
+      ],
+      "etymology": "From Old Georgian კალამი (ḳalami), from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos, “reed”)."
+    },
+    {
+      "ka": "კალიგრაფია",
+      "roman": "ḳaligrapia",
+      "en": "calligraphy, penmanship",
+      "glosses": [
+        "calligraphy, penmanship"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäliɡɾäpʰiä]",
+      "audio": null,
+      "audioLocal": "audio/school/080.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek καλλιγραφία (kalligraphía)."
+    },
+    {
+      "ka": "კალკი",
+      "roman": "ḳalḳi",
+      "en": "tracing paper",
+      "glosses": [
+        "tracing paper"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼälkʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/081.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Probably borrowed from Russian калька (kalʹka), from French calque."
+    },
+    {
+      "ka": "კატორღა",
+      "roman": "ḳaṭorɣa",
+      "en": "penitentiary",
+      "glosses": [
+        "penitentiary"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼätʼo̞ɾʁä]",
+      "audio": null,
+      "audioLocal": "audio/school/082.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "კლასელი",
+      "roman": "ḳlaseli",
+      "en": "classmate",
+      "glosses": [
+        "classmate"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/school/083.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Clipping of თანაკლასელი (tanaḳlaseli)."
+    },
+    {
+      "ka": "კლასი",
+      "roman": "ḳlasi",
+      "en": "class",
+      "glosses": [
+        "class"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsi]",
+      "audio": null,
+      "audioLocal": "audio/school/084.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian класс (klass)."
+    },
+    {
+      "ka": "კლასიკა",
+      "roman": "ḳlasiḳa",
+      "en": "classic",
+      "glosses": [
+        "classic"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsikʼä]",
+      "audio": null,
+      "audioLocal": "audio/school/085.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კლასიკოსი",
+      "roman": "ḳlasiḳosi",
+      "en": "classicist",
+      "glosses": [
+        "classicist"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsikʼo̞si]",
+      "audio": null,
+      "audioLocal": "audio/school/086.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Russian классик (klassik) + -ოსი (-osi, hellenizing occupational suffix). By surface analysis, კლასიკა (ḳlasiḳa) + -ოსი (-osi)."
+    },
+    {
+      "ka": "კლასიკურად",
+      "roman": "ḳlasiḳurad",
+      "en": "classically",
+      "glosses": [
+        "classically"
+      ],
+      "pos": "adv",
+      "ipa": "[kʼɫäsikʼuɾätʰ]",
+      "audio": null,
+      "audioLocal": "audio/school/087.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კლასიკური",
+      "roman": "ḳlasiḳuri",
+      "en": "classical",
+      "glosses": [
+        "classical"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼɫäsikʼuɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/088.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Ultimately from Latin classicus. By surface analysis, კლასიკა (ḳlasiḳa) + -ური (-uri)."
+    },
+    {
+      "ka": "კლასიკური ლიბერალიზმი",
+      "roman": "ḳlasiḳuri liberalizmi",
+      "en": "classical liberalism",
+      "glosses": [
+        "classical liberalism"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsikʼuɾi libe̞ɾälizmi]",
+      "audio": null,
+      "audioLocal": "audio/school/089.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კლასიკური მუსიკა",
+      "roman": "ḳlasiḳuri musiḳa",
+      "en": "classical music",
+      "glosses": [
+        "classical music"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsikʼuɾi musikʼä]",
+      "audio": null,
+      "audioLocal": "audio/school/090.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კლასიკური როკი",
+      "roman": "ḳlasiḳuri roḳi",
+      "en": "classic rock",
+      "glosses": [
+        "classic rock"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsikʼuɾi ɾo̞kʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/091.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კლასიფიკაცია",
+      "roman": "ḳlasipiḳacia",
+      "en": "classification",
+      "glosses": [
+        "classification"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsipʰikʼät͡sʰiä]",
+      "audio": null,
+      "audioLocal": "audio/school/092.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "კლასიციზმი",
+      "roman": "ḳlasicizmi",
+      "en": "classicism",
+      "glosses": [
+        "classicism"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsit͡sʰizmi]",
+      "audio": null,
+      "audioLocal": "audio/school/093.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From German."
+    },
+    {
+      "ka": "კლასიცისტი",
+      "roman": "ḳlasicisṭi",
+      "en": "classicist",
+      "glosses": [
+        "classicist"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäsit͡sʰistʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/094.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კომპენდიუმი",
+      "roman": "ḳomṗendiumi",
+      "en": "compendium",
+      "glosses": [
+        "compendium"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mpʼe̞ndiumi]",
+      "audio": null,
+      "audioLocal": "audio/school/095.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "კომპენსაცია",
+      "roman": "ḳomṗensacia",
+      "en": "amends, compensation, recompense, reimbursement",
+      "glosses": [
+        "amends, compensation, recompense, reimbursement"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mpʼe̞nsät͡sʰiä]",
+      "audio": null,
+      "audioLocal": "audio/school/096.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "კომპილატორი",
+      "roman": "ḳomṗilaṭori",
+      "en": "bookmaker",
+      "glosses": [
+        "bookmaker"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mpʼiɫätʼo̞ɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/097.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კონსპექტი",
+      "roman": "ḳonsṗekṭi",
+      "en": "conspectus, epitome, précis, synopsis, workbook",
+      "glosses": [
+        "conspectus, epitome, précis, synopsis, workbook"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞nspʼe̞kʰtʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/098.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "კოპენჰაგენელი",
+      "roman": "ḳoṗenhageneli",
+      "en": "Copenhagener",
+      "glosses": [
+        "Copenhagener"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞pʼe̞nhäɡe̞ne̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/099.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From კოპენჰაგენი (ḳoṗenhageni) + -ელი (-eli)."
+    },
+    {
+      "ka": "კრიმინალური",
+      "roman": "ḳriminaluri",
+      "en": "criminal (of or relating to crime or penal law)",
+      "glosses": [
+        "criminal (of or relating to crime or penal law)"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼɾiminäɫuɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/100.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From კრიმინალი (ḳriminali) + -ური (-uri), from Late Latin crīminālis."
+    },
+    {
+      "ka": "კულინარიული წიგნი",
+      "roman": "ḳulinariuli c̣igni",
+      "en": "cookbook",
+      "glosses": [
+        "cookbook"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼulinäɾiuli t͡sʼiɡni]",
+      "audio": null,
+      "audioLocal": "audio/school/101.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კუტუ",
+      "roman": "ḳuṭu",
+      "en": "penis",
+      "glosses": [
+        "penis"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼutʼu]",
+      "audio": null,
+      "audioLocal": "audio/school/102.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Proto-Georgian-Zan *ḳuṭ-."
+    },
+    {
+      "ka": "ლაკმუსის ქაღალდი",
+      "roman": "laḳmusis kaɣaldi",
+      "en": "litmus paper",
+      "glosses": [
+        "litmus paper"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäkʼmusis kʰäʁäldi]",
+      "audio": null,
+      "audioLocal": "audio/school/103.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ლიბერალური",
+      "roman": "liberaluri",
+      "en": "liberal, open-minded, tolerant",
+      "glosses": [
+        "liberal, open-minded, tolerant"
+      ],
+      "pos": "adj",
+      "ipa": "[libe̞ɾäɫuɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/104.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Ultimately from Latin līberālis + -ური (-uri)."
+    },
+    {
+      "ka": "ლიბრეტო",
+      "roman": "libreṭo",
+      "en": "libretto, wordbook",
+      "glosses": [
+        "libretto, wordbook"
+      ],
+      "pos": "noun",
+      "ipa": "[libɾe̞tʼo̞]",
+      "audio": null,
+      "audioLocal": "audio/school/105.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Italian."
+    },
+    {
+      "ka": "ლიტერატურული ფსევდონიმი",
+      "roman": "liṭeraṭuruli psevdonimi",
+      "en": "pen name, nom de plume",
+      "glosses": [
+        "pen name, nom de plume"
+      ],
+      "pos": "noun",
+      "ipa": "[litʼe̞ɾätʼuɾuli pʰse̞vdo̞nimi]",
+      "audio": null,
+      "audioLocal": "audio/school/106.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგალითად",
+      "roman": "magalitad",
+      "en": "for example",
+      "glosses": [
+        "for example"
+      ],
+      "pos": "adv",
+      "ipa": "[mäɡälitʰätʰ]",
+      "audio": null,
+      "audioLocal": "audio/school/107.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგალითი",
+      "roman": "magaliti",
+      "en": "example",
+      "glosses": [
+        "example"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɡälitʰi]",
+      "audio": null,
+      "audioLocal": "audio/school/108.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "ეს წინადადებაც მაგალითია",
+          "roman": "es c̣inadadebac magalitia",
+          "en": "This is an example too"
+        }
+      ],
+      "etymology": "From Old Georgian მაგალითი (magaliti), from Classical Syriac ܡܓܠܬܐ, either directly or via Old Armenian մագաղաթ (magałatʻ)."
+    },
+    {
+      "ka": "მაკულატურა",
+      "roman": "maḳulaṭura",
+      "en": "unwanted paper that has been discarded in order to be recycled",
+      "glosses": [
+        "unwanted paper that has been discarded in order to be recycled"
+      ],
+      "pos": "noun",
+      "ipa": "[mäkʼuɫätʼuɾä]",
+      "audio": null,
+      "audioLocal": "audio/school/109.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "მასწ.",
+      "roman": "masc̣.",
+      "en": "teacher",
+      "glosses": [
+        "teacher"
+      ],
+      "pos": "noun",
+      "ipa": "[mäst͡sʼ]",
+      "audio": null,
+      "audioLocal": "audio/school/110.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Abbreviation of მასწავლებელი (masc̣avlebeli, “teacher”)."
+    },
+    {
+      "ka": "მასწავლებელი",
+      "roman": "masc̣avlebeli",
+      "en": "teacher, tutor",
+      "glosses": [
+        "teacher, tutor"
+      ],
+      "pos": "noun",
+      "ipa": "[mäst͡sʼävle̞be̞li]",
+      "audio": null,
+      "audioLocal": "audio/school/111.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From present participle of ასწავლის (asc̣avlis) undergoing substantivization. The verb root determined from the now substantivized participle is *-სწავლ-ებ- (-sc̣avl-eb-), however it should be *სწავლ-ი (sc̣avl-i); this happened from contamination of the new verb form ასწავლის (asc̣avlis) with the old verb form ასწავებს (asc̣avebs)."
+    },
+    {
+      "ka": "მაღალი კლასი",
+      "roman": "maɣali ḳlasi",
+      "en": "upper class",
+      "glosses": [
+        "upper class"
+      ],
+      "pos": "noun",
+      "ipa": "[mäʁäli kʼɫäsi]",
+      "audio": null,
+      "audioLocal": "audio/school/112.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაღალი კლასის საზოგადოება",
+      "roman": "maɣali ḳlasis sazogadoeba",
+      "en": "upper class society, high society",
+      "glosses": [
+        "upper class society, high society"
+      ],
+      "pos": "noun",
+      "ipa": "[mäʁäli kʼɫäsis säzo̞ɡädo̞e̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/113.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაშინ",
+      "roman": "mašin",
+      "en": "At the time or immediately after something happened or will happen; in that case, under those conditions; then",
+      "glosses": [
+        "At the time or immediately after something happened or will happen; in that case, under those conditions; then"
+      ],
+      "pos": "adv",
+      "ipa": "[mäʃin]",
+      "audio": null,
+      "audioLocal": "audio/school/114.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "დაიღალე? მაშინ დაისვენე.",
+          "roman": "daiɣale? mašin daisvene.",
+          "en": "You are tired? Then rest."
         }
       ],
       "etymology": null
     },
     {
-      "ka": "ააფეთქებს",
-      "roman": "aapetkebs",
-      "en": "to blow up, to explode",
+      "ka": "მახინჯი",
+      "roman": "maxinǯi",
+      "en": "ugly, misshapen",
       "glosses": [
-        "to blow up, to explode"
+        "ugly, misshapen"
       ],
-      "pos": "verb",
-      "ipa": "[ääpʰe̞tʰkʰe̞bs]",
+      "pos": "adj",
+      "ipa": "[mäχind͡ʒi]",
       "audio": null,
-      "audioLocal": "audio/school/040.mp3",
+      "audioLocal": "audio/school/115.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "From ა- (a-) + აფეთქებს (apetkebs)."
+      "etymology": null
     },
     {
-      "ka": "ააშენებს",
-      "roman": "aašenebs",
-      "en": "to build",
+      "ka": "მერხი",
+      "roman": "merxi",
+      "en": "desk",
       "glosses": [
-        "to build"
-      ],
-      "pos": "verb",
-      "ipa": "[ääʃe̞ne̞bs]",
-      "audio": null,
-      "audioLocal": "audio/school/041.mp3",
-      "audioSource": null,
-      "examples": [],
-      "etymology": "From ა- (a-) + აშენებს (ašenebs)."
-    },
-    {
-      "ka": "აბაზანა",
-      "roman": "abazana",
-      "en": "bathtub",
-      "glosses": [
-        "bathtub"
+        "desk"
       ],
       "pos": "noun",
-      "ipa": "[äbäzänä]",
+      "ipa": "[me̞ɾχi]",
       "audio": null,
-      "audioLocal": "audio/school/042.mp3",
+      "audioLocal": "audio/school/116.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "An Iranian borrowing. Compare Persian آبزن (âbzan, “bathtub”) and see there for more. Doublet of ავაზანი (avazani)."
+      "etymology": null
     },
     {
-      "ka": "აბაზი",
-      "roman": "abazi",
-      "en": "abazi, 20 kopeck coin",
+      "ka": "მიდრეკილება",
+      "roman": "midreḳileba",
+      "en": "inclination, tendency, bent, leaning, partiality, penchant, predisposition, proclivity, propensity",
       "glosses": [
-        "abazi, 20 kopeck coin"
+        "inclination, tendency, bent, leaning, partiality, penchant, predisposition, proclivity, propensity"
       ],
       "pos": "noun",
-      "ipa": "[äbäzi]",
+      "ipa": "[midɾe̞kʼile̞bä]",
       "audio": null,
-      "audioLocal": "audio/school/043.mp3",
+      "audioLocal": "audio/school/117.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "Borrowed from Classical Persian عَبَّاسِی (abbāsī)."
+      "etymology": null
     },
     {
-      "ka": "აბაკი",
-      "roman": "abaḳi",
-      "en": "abacus",
+      "ka": "მითითება",
+      "roman": "mititeba",
+      "en": "administrative penalty",
       "glosses": [
-        "abacus"
+        "administrative penalty"
       ],
       "pos": "noun",
-      "ipa": "[äbäkʼi]",
+      "ipa": "[mitʰitʰe̞bä]",
       "audio": null,
-      "audioLocal": "audio/school/044.mp3",
+      "audioLocal": "audio/school/118.mp3",
       "audioSource": null,
       "examples": [],
-      "etymology": "Borrowed from Russian аба́к (abák)."
+      "etymology": null
+    },
+    {
+      "ka": "მისაღები",
+      "roman": "misaɣebi",
+      "en": "reception, front desk, waiting room",
+      "glosses": [
+        "reception, front desk, waiting room"
+      ],
+      "pos": "noun",
+      "ipa": "[misäʁe̞bi]",
+      "audio": null,
+      "audioLocal": "audio/school/119.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მკითხველთა კლუბი",
+      "roman": "mḳitxvelta ḳlubi",
+      "en": "book club",
+      "glosses": [
+        "book club"
+      ],
+      "pos": "noun",
+      "ipa": "[mkʼitʰχʷe̞ltʰä kʼɫubi]",
+      "audio": null,
+      "audioLocal": "audio/school/120.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მმართველი კლასი",
+      "roman": "mmartveli ḳlasi",
+      "en": "the ruling class",
+      "glosses": [
+        "the ruling class"
+      ],
+      "pos": "noun",
+      "ipa": "[mmäɾtʰʷe̞li kʼɫäsi]",
+      "audio": null,
+      "audioLocal": "audio/school/121.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მმართველი წრე",
+      "roman": "mmartveli c̣re",
+      "en": "the ruling class",
+      "glosses": [
+        "the ruling class"
+      ],
+      "pos": "noun",
+      "ipa": "[mmäɾtʰʷe̞li t͡sʼɾe̞]",
+      "audio": null,
+      "audioLocal": "audio/school/122.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მონანიებით",
+      "roman": "monaniebit",
+      "en": "repentantly",
+      "glosses": [
+        "repentantly"
+      ],
+      "pos": "adv",
+      "ipa": "[mo̞nänie̞bitʰ]",
+      "audio": null,
+      "audioLocal": "audio/school/123.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოუნანიებლად",
+      "roman": "mounanieblad",
+      "en": "impenitently",
+      "glosses": [
+        "impenitently"
+      ],
+      "pos": "adv",
+      "ipa": "[mo̞unänie̞bɫätʰ]",
+      "audio": null,
+      "audioLocal": "audio/school/124.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მსხვილი ბურჟუაზია",
+      "roman": "msxvili buržuazia",
+      "en": "upper middle class, well off bourgeoisie, greater bourgeoisie",
+      "glosses": [
+        "upper middle class, well off bourgeoisie, greater bourgeoisie"
+      ],
+      "pos": "noun",
+      "ipa": "[msχʷili b̥uɾʒuäziä]",
+      "audio": null,
+      "audioLocal": "audio/school/125.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მუშათა კლასი",
+      "roman": "mušata ḳlasi",
+      "en": "working class",
+      "glosses": [
+        "working class"
+      ],
+      "pos": "noun",
+      "ipa": "[muʃätʰä kʼɫäsi]",
+      "audio": null,
+      "audioLocal": "audio/school/126.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მუხნარი",
+      "roman": "muxnari",
+      "en": "oakwood, oak grove, an open area covered with oak trees (not necessarily a forest)",
+      "glosses": [
+        "oakwood, oak grove, an open area covered with oak trees (not necessarily a forest)"
+      ],
+      "pos": "noun",
+      "ipa": "[muχnäɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/127.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მშობელთა კრება",
+      "roman": "mšobelta ḳreba",
+      "en": "parent–teacher conference, parent–teacher interview, parent–teacher night, parents' evening, parent teacher meeting",
+      "glosses": [
+        "parent–teacher conference, parent–teacher interview, parent–teacher night, parents' evening, parent teacher meeting"
+      ],
+      "pos": "noun",
+      "ipa": "[mʃo̞be̞ltʰä kʼɾe̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/128.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნაპრალი",
+      "roman": "naṗrali",
+      "en": "aperture, chink, cleft, crevice, gap, opening",
+      "glosses": [
+        "aperture, chink, cleft, crevice, gap, opening"
+      ],
+      "pos": "noun",
+      "ipa": "[näpʼɾäli]",
+      "audio": null,
+      "audioLocal": "audio/school/129.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნარდი",
+      "roman": "nardi",
+      "en": "A job that is taken upon oneself, and is paid off by the job that is fulfilled (and not by time spent), piece work",
+      "glosses": [
+        "A job that is taken upon oneself, and is paid off by the job that is fulfilled (and not by time spent), piece work"
+      ],
+      "pos": "noun",
+      "ipa": "[näɾdi]",
+      "audio": null,
+      "audioLocal": "audio/school/130.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნარკოდამოკიდებულება",
+      "roman": "narḳodamoḳidebuleba",
+      "en": "drug dependence, drug dependency, drug addiction",
+      "glosses": [
+        "drug dependence, drug dependency, drug addiction"
+      ],
+      "pos": "noun",
+      "ipa": "[näɾkʼo̞dämo̞kʼide̞bule̞bä]",
+      "audio": null,
+      "audioLocal": "audio/school/131.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ნარკო- (narḳo-) + დამოკიდებულება (damoḳidebuleba) or ნარკოდამოკიდებული (narḳodamoḳidebuli) + -ება (-eba)."
+    },
+    {
+      "ka": "ნარკოდამოკიდებული",
+      "roman": "narḳodamoḳidebuli",
+      "en": "drug-dependent, drug-addicted",
+      "glosses": [
+        "drug-dependent, drug-addicted"
+      ],
+      "pos": "adj",
+      "ipa": "[näɾkʼo̞dämo̞kʼide̞buli]",
+      "audio": null,
+      "audioLocal": "audio/school/132.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ნარკო- (narḳo-) + დამოკიდებული (damoḳidebuli)."
+    },
+    {
+      "ka": "ნახევარკუნძული",
+      "roman": "naxevarḳunʒuli",
+      "en": "peninsula",
+      "glosses": [
+        "peninsula"
+      ],
+      "pos": "noun",
+      "ipa": "[näχe̞väɾkʼund͡zuli]",
+      "audio": null,
+      "audioLocal": "audio/school/133.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ნახევარი (naxevari, “half”) + კუნძული (ḳunʒuli, “island”)."
+    },
+    {
+      "ka": "ნახევარკუნძულოვანი",
+      "roman": "naxevarḳunʒulovani",
+      "en": "peninsular",
+      "glosses": [
+        "peninsular"
+      ],
+      "pos": "adj",
+      "ipa": "[näχe̞väɾkʼund͡zuɫo̞väni]",
+      "audio": null,
+      "audioLocal": "audio/school/134.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ნახევარკუნძული (naxevarḳunʒuli) + -ოვანი (-ovani)."
+    },
+    {
+      "ka": "ნახევრად ამდგარი",
+      "roman": "naxevrad amdgari",
+      "en": "semierect (of aroused penis)",
+      "glosses": [
+        "semierect (of aroused penis)"
+      ],
+      "pos": "adj",
+      "ipa": "[näχe̞vɾätʰ ämdɡäɾi]",
+      "audio": null,
+      "audioLocal": "audio/school/135.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნოუთბუქი",
+      "roman": "noutbuki",
+      "en": "notebook, notebook computer",
+      "glosses": [
+        "notebook, notebook computer"
+      ],
+      "pos": "noun",
+      "ipa": "[no̞utʰbukʰi]",
+      "audio": null,
+      "audioLocal": "audio/school/136.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from English notebook."
+    },
+    {
+      "ka": "ომბალო",
+      "roman": "ombalo",
+      "en": "Mentha pulegium: pennyroyal",
+      "glosses": [
+        "Mentha pulegium: pennyroyal"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞mbäɫo̞]",
+      "audio": null,
+      "audioLocal": "audio/school/137.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პაკეტი",
+      "roman": "ṗaḳeṭi",
+      "en": "paper bag",
+      "glosses": [
+        "paper bag"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼäkʼe̞tʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/138.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian пакет (paket)."
+    },
+    {
+      "ka": "პანსიონი",
+      "roman": "ṗansioni",
+      "en": "boarding house, boarding school, guesthouse, pension",
+      "glosses": [
+        "boarding house, boarding school, guesthouse, pension"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼänsio̞ni]",
+      "audio": null,
+      "audioLocal": "audio/school/139.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "პასტა",
+      "roman": "ṗasṭa",
+      "en": "pen",
+      "glosses": [
+        "pen"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼästʼä]",
+      "audio": null,
+      "audioLocal": "audio/school/140.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian паста (pasta), ultimately from Italian pasta. The colloquial sense of “pen” is similar to the Russian slang sense of “ink for a pen, ink refill”."
+    },
+    {
+      "ka": "პედაგოგი",
+      "roman": "ṗedagogi",
+      "en": "pedagogue, schoolteacher",
+      "glosses": [
+        "pedagogue, schoolteacher"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞däɡo̞ɡi]",
+      "audio": null,
+      "audioLocal": "audio/school/141.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian педаго́г (pedagóg), from Ancient Greek παιδαγωγός (paidagōgós)."
+    },
+    {
+      "ka": "პედანტი",
+      "roman": "ṗedanṭi",
+      "en": "bluestocking, bookworm, disciplinarian, fuddy-duddy, pedant, prig",
+      "glosses": [
+        "bluestocking, bookworm, disciplinarian, fuddy-duddy, pedant, prig"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞däntʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/142.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Italian."
+    },
+    {
+      "ka": "პენალტი",
+      "roman": "ṗenalṭi",
+      "en": "penalty, penalty kick, spot kick",
+      "glosses": [
+        "penalty, penalty kick, spot kick"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞nältʼi]",
+      "audio": null,
+      "audioLocal": "audio/school/143.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from English penalty."
+    },
+    {
+      "ka": "პენი",
+      "roman": "ṗeni",
+      "en": "penny, Penny",
+      "glosses": [
+        "penny, Penny"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞ni]",
+      "audio": null,
+      "audioLocal": "audio/school/144.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from English."
+    },
+    {
+      "ka": "პენისი",
+      "roman": "ṗenisi",
+      "en": "penis",
+      "glosses": [
+        "penis"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞nisi]",
+      "audio": null,
+      "audioLocal": "audio/school/145.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin pēnis."
+    },
+    {
+      "ka": "პენისის თავი",
+      "roman": "ṗenisis tavi",
+      "en": "glans penis",
+      "glosses": [
+        "glans penis"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞nisis tʰävi]",
+      "audio": null,
+      "audioLocal": "audio/school/146.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პენიცილინი",
+      "roman": "ṗenicilini",
+      "en": "penicillin",
+      "glosses": [
+        "penicillin"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞nit͡sʰilini]",
+      "audio": null,
+      "audioLocal": "audio/school/147.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "პენსი",
+      "roman": "ṗensi",
+      "en": "pence",
+      "glosses": [
+        "pence"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞nsi]",
+      "audio": null,
+      "audioLocal": "audio/school/148.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from English."
+    },
+    {
+      "ka": "პენსია",
+      "roman": "ṗensia",
+      "en": "benefit, pension, superannuation",
+      "glosses": [
+        "benefit, pension, superannuation"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼe̞nsiä]",
+      "audio": null,
+      "audioLocal": "audio/school/149.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian пе́нсия (pénsija)."
     }
   ]
 }

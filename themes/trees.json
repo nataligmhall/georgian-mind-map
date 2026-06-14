@@ -3,8 +3,38 @@
   "name": "Trees",
   "nameKa": "ხეები",
   "icon": "🌲",
-  "count": 22,
+  "count": 142,
   "words": [
+    {
+      "ka": "აკუთა",
+      "roman": "aḳuta",
+      "en": "cookstove, hearth (a fireplace made with stones for pots/cauldrons)",
+      "glosses": [
+        "cookstove, hearth (a fireplace made with stones for pots/cauldrons)"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʼutʰä]",
+      "audio": "audio/trees/000.mp3",
+      "audioLocal": "audio/trees/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ossetian агуат (agwat)."
+    },
+    {
+      "ka": "ალვა",
+      "roman": "alva",
+      "en": "Populus alba, white poplar",
+      "glosses": [
+        "Populus alba, white poplar"
+      ],
+      "pos": "noun",
+      "ipa": "[älʷä]",
+      "audio": "audio/trees/001.mp3",
+      "audioLocal": "audio/trees/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian ალვა (alva)."
+    },
     {
       "ka": "ალვის ხე",
       "roman": "alvis xe",
@@ -14,11 +44,71 @@
       ],
       "pos": "noun",
       "ipa": "[älʷis χe̞]",
-      "audio": "audio/trees/000.mp3",
-      "audioLocal": "audio/trees/000.mp3",
+      "audio": "audio/trees/002.mp3",
+      "audioLocal": "audio/trees/002.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
+    },
+    {
+      "ka": "ალი",
+      "roman": "ali",
+      "en": "blaze, flame, fire",
+      "glosses": [
+        "blaze, flame, fire"
+      ],
+      "pos": "noun",
+      "ipa": "[äli]",
+      "audio": "audio/trees/003.mp3",
+      "audioLocal": "audio/trees/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ალი (ali). Related to Mingrelian ალი (ali, “blaze, flame, fire”), Laz ალი (ali), Svan ჰელ (hel); Chechen алу (alu, “fire”), Ingush ала (ala), Ossetian ала (ala, “soot”), and, possibly, Avar лахӏ (laḥʳ, “soot”)."
+    },
+    {
+      "ka": "ალმოდებული",
+      "roman": "almodebuli",
+      "en": "ablaze, afire, flaming",
+      "glosses": [
+        "ablaze, afire, flaming"
+      ],
+      "pos": "adj",
+      "ipa": "[älmo̞de̞buli]",
+      "audio": "audio/trees/004.mp3",
+      "audioLocal": "audio/trees/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ალპური",
+      "roman": "alṗuri",
+      "en": "alpine",
+      "glosses": [
+        "alpine"
+      ],
+      "pos": "adj",
+      "ipa": "[älpʼuɾi]",
+      "audio": "audio/trees/005.mp3",
+      "audioLocal": "audio/trees/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანანასი",
+      "roman": "ananasi",
+      "en": "pineapple",
+      "glosses": [
+        "pineapple"
+      ],
+      "pos": "noun",
+      "ipa": "[änänäsi]",
+      "audio": "audio/trees/006.mp3",
+      "audioLocal": "audio/trees/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian анана́с (ananás), ultimately from Portuguese ananás; see there for more."
     },
     {
       "ka": "არყი",
@@ -29,11 +119,341 @@
       ],
       "pos": "noun",
       "ipa": "[äɾχʼi]",
-      "audio": "audio/trees/001.mp3",
-      "audioLocal": "audio/trees/001.mp3",
+      "audio": "audio/trees/007.mp3",
+      "audioLocal": "audio/trees/007.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Uncertain. Has been compared to Laz ანკრა (anǩra), Old Armenian յակրի (yakri), Armenian ակրի (akri), ակռի (akṙi). Artvinli also compares to Borçka Georgian ანკრი (anḳri, “juniper”)."
+    },
+    {
+      "ka": "ბაზმა",
+      "roman": "bazma",
+      "en": "burning walnut placed before a child ill with smallpox, scarlet fever or measles, to save it from death",
+      "glosses": [
+        "burning walnut placed before a child ill with smallpox, scarlet fever or measles, to save it from death"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/trees/008.mp3",
+      "audioLocal": "audio/trees/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ბაზმაკი (bazmaḳi). For the development of the ending see -აკი (-aḳi)."
+    },
+    {
+      "ka": "ბაჟე",
+      "roman": "baže",
+      "en": "raw walnut sauce with garlic; a variety of satsivi",
+      "glosses": [
+        "raw walnut sauce with garlic; a variety of satsivi"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äʒe̞]",
+      "audio": "audio/trees/009.mp3",
+      "audioLocal": "audio/trees/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბედნიერება",
+      "roman": "bedniereba",
+      "en": "happiness",
+      "glosses": [
+        "happiness"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞dnie̞ɾe̞bä]",
+      "audio": "audio/trees/010.mp3",
+      "audioLocal": "audio/trees/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბედნიერი (bednieri, “happy”) + -ება (-eba)."
+    },
+    {
+      "ka": "ბერყენა",
+      "roman": "berq̇ena",
+      "en": "willow-leaved pear (Pyrus salicifolia)",
+      "glosses": [
+        "willow-leaved pear (Pyrus salicifolia)"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞ɾχʼe̞nä]",
+      "audio": "audio/trees/011.mp3",
+      "audioLocal": "audio/trees/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Proto-Kartvelian *berq̇en-."
+    },
+    {
+      "ka": "ბერძნული ცეცხლი",
+      "roman": "berʒnuli cecxli",
+      "en": "Greek fire",
+      "glosses": [
+        "Greek fire"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞ɾd͡znuli t͡sʰe̞t͡sʰχli]",
+      "audio": "audio/trees/012.mp3",
+      "audioLocal": "audio/trees/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბორბოქი",
+      "roman": "borboki",
+      "en": "grumbling, grumpiness",
+      "glosses": [
+        "grumbling, grumpiness"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/trees/013.mp3",
+      "audioLocal": "audio/trees/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Armenian բորբոք (borbokʻ), բորբոքիմ (borbokʻim)."
+    },
+    {
+      "ka": "ბრანდმაუერი",
+      "roman": "brandmaueri",
+      "en": "firewall (construction)",
+      "glosses": [
+        "firewall (construction)"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ɾändmäue̞ɾi]",
+      "audio": "audio/trees/014.mp3",
+      "audioLocal": "audio/trees/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბრწყინვალედ",
+      "roman": "brc̣q̇invaled",
+      "en": "first-rate, gloriously, gorgeously",
+      "glosses": [
+        "first-rate, gloriously, gorgeously"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥ɾt͡sʼχʼinʷäle̞tʰ]",
+      "audio": "audio/trees/015.mp3",
+      "audioLocal": "audio/trees/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბუხარი",
+      "roman": "buxari",
+      "en": "fireplace, mantel, mantelpiece",
+      "glosses": [
+        "fireplace, mantel, mantelpiece"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥uχäɾi]",
+      "audio": "audio/trees/016.mp3",
+      "audioLocal": "audio/trees/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian بخارى (“fireplace”)."
+    },
+    {
+      "ka": "გადაუდებელი დახმარება",
+      "roman": "gadaudebeli daxmareba",
+      "en": "emergency aid, first aid",
+      "glosses": [
+        "emergency aid, first aid"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäude̞be̞li d̥äχmäɾe̞bä]",
+      "audio": "audio/trees/017.mp3",
+      "audioLocal": "audio/trees/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "განთავისუფლება",
+      "roman": "gantavisupleba",
+      "en": "dismissal, firing, layoff",
+      "glosses": [
+        "dismissal, firing, layoff"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äntʰävisupʰle̞bä]",
+      "audio": "audio/trees/018.mp3",
+      "audioLocal": "audio/trees/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "გან- (gan-) + თავისუფლება (tavisupleba)."
+    },
+    {
+      "ka": "გაჟღენთილი",
+      "roman": "gažɣentili",
+      "en": "soaked, drenched, saturated",
+      "glosses": [
+        "soaked, drenched, saturated"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊äʒʁe̞ntʰili]",
+      "audio": "audio/trees/019.mp3",
+      "audioLocal": "audio/trees/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დადასტურება",
+      "roman": "dadasṭureba",
+      "en": "confirmation, affirmation, approval, acknowledgement, corroboration",
+      "glosses": [
+        "confirmation, affirmation, approval, acknowledgement, corroboration"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ädästʼuɾe̞bä]",
+      "audio": "audio/trees/020.mp3",
+      "audioLocal": "audio/trees/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From და- (da-) + დასტურება (dasṭureba)."
+    },
+    {
+      "ka": "დადებითი",
+      "roman": "dadebiti",
+      "en": "positive, affirmative (characterized by affirmation)",
+      "glosses": [
+        "positive, affirmative (characterized by affirmation)"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äde̞bitʰi]",
+      "audio": "audio/trees/021.mp3",
+      "audioLocal": "audio/trees/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამტკიცებული",
+      "roman": "damṭḳicebuli",
+      "en": "confirmed (verified or ratified)",
+      "glosses": [
+        "confirmed (verified or ratified)"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ämtʼkʼit͡sʰe̞buli]",
+      "audio": "audio/trees/022.mp3",
+      "audioLocal": "audio/trees/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დამტკიცება (damṭḳiceba) + -ული (-uli, past passive participle-forming suffix)."
+    },
+    {
+      "ka": "დაუდასტურებელი",
+      "roman": "daudasṭurebeli",
+      "en": "unconfirmed",
+      "glosses": [
+        "unconfirmed"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äudästʼuɾe̞be̞li]",
+      "audio": "audio/trees/023.mp3",
+      "audioLocal": "audio/trees/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დადასტურება (dadasṭureba) + უ- -ელი (u- -eli)."
+    },
+    {
+      "ka": "დაუძლეველი",
+      "roman": "dauʒleveli",
+      "en": "overpowering, overwhelming",
+      "glosses": [
+        "overpowering, overwhelming"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äud͡zle̞ve̞li]",
+      "audio": "audio/trees/024.mp3",
+      "audioLocal": "audio/trees/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაუძლევლად",
+      "roman": "dauʒlevlad",
+      "en": "overwhelmingly",
+      "glosses": [
+        "overwhelmingly"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥äud͡zle̞vɫätʰ]",
+      "audio": "audio/trees/025.mp3",
+      "audioLocal": "audio/trees/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დიდებულად",
+      "roman": "didebulad",
+      "en": "first-class, imperially, magnificently, majestically, rankly, splendidly",
+      "glosses": [
+        "first-class, imperially, magnificently, majestically, rankly, splendidly"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ide̞buɫätʰ]",
+      "audio": "audio/trees/026.mp3",
+      "audioLocal": "audio/trees/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზავი",
+      "roman": "zavi",
+      "en": "armistice, ceasefire, truce",
+      "glosses": [
+        "armistice, ceasefire, truce"
+      ],
+      "pos": "noun",
+      "ipa": "[zävi]",
+      "audio": "audio/trees/027.mp3",
+      "audioLocal": "audio/trees/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზვარა",
+      "roman": "zvara",
+      "en": "cow's first calf",
+      "glosses": [
+        "cow's first calf"
+      ],
+      "pos": "noun",
+      "ipa": "[zʷäɾä]",
+      "audio": "audio/trees/028.mp3",
+      "audioLocal": "audio/trees/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ზვარაკი (zvaraḳi). For the loss of -კ- (-ḳ-), see -აკი (-aḳi)."
+    },
+    {
+      "ka": "თავდაჯერებულად",
+      "roman": "tavdaǯerebulad",
+      "en": "bumptiously, confidently, presumptuously, anew, first",
+      "glosses": [
+        "bumptiously, confidently, presumptuously, anew, first"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰävdäd͡ʒe̞ɾe̞buɫätʰ]",
+      "audio": "audio/trees/029.mp3",
+      "audioLocal": "audio/trees/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
     },
     {
       "ka": "თელა",
@@ -44,26 +464,122 @@
       ],
       "pos": "noun",
       "ipa": "[tʰe̞ɫä]",
-      "audio": "audio/trees/002.mp3",
-      "audioLocal": "audio/trees/002.mp3",
+      "audio": "audio/trees/030.mp3",
+      "audioLocal": "audio/trees/030.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian თელაჲ (telay)."
     },
     {
+      "ka": "იფანი",
+      "roman": "ipani",
+      "en": "ash tree",
+      "glosses": [
+        "ash tree"
+      ],
+      "pos": "noun",
+      "ipa": "[ipʰäni]",
+      "audio": "audio/trees/031.mp3",
+      "audioLocal": "audio/trees/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Proto-Kartvelian *ip- (“ash tree”). Cognate with Mingrelian იფონი (iponi) and Svan იფ (ip, “ash tree”)."
+    },
+    {
       "ka": "კაკალი",
       "roman": "ḳaḳali",
-      "en": "walnut-tree, Juglans regia",
+      "en": "walnut (whole)",
       "glosses": [
-        "walnut-tree, Juglans regia"
+        "walnut (whole)"
       ],
       "pos": "noun",
       "ipa": "[kʼäkʼäli]",
-      "audio": "audio/trees/003.mp3",
-      "audioLocal": "audio/trees/003.mp3",
+      "audio": "audio/trees/032.mp3",
+      "audioLocal": "audio/trees/032.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "თვალის კაკალი",
+          "roman": "tvalis ḳaḳali",
+          "en": "eyeball"
+        }
+      ],
+      "etymology": "From Proto-Georgian-Zan *ḳaḳ-. Cognate with Mingrelian კაკალი (ḳaḳali), Laz კაკალი (ǩaǩali). Armenian կակալ (kakal), կակըլ (kakəl) are probably borrowed from Kartvelian."
+    },
+    {
+      "ka": "კაკნატელა",
+      "roman": "ḳaḳnaṭela",
+      "en": "something thin and firm",
+      "glosses": [
+        "something thin and firm"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäkʼnätʼe̞ɫä]",
+      "audio": "audio/trees/033.mp3",
+      "audioLocal": "audio/trees/033.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Proto-Georgian-Zan *ḳaḳ-. Cognate with Mingrelian კაკალი (ḳaḳali), Laz კაკალი (ǩaǩali). Armenian կակալ (kakal), կակըլ (kakəl) are probably borrowed from Kartvelian."
+      "etymology": null
+    },
+    {
+      "ka": "კატარი",
+      "roman": "ḳaṭari",
+      "en": "Caucasian pine, Pinus sosnowskyi",
+      "glosses": [
+        "Caucasian pine, Pinus sosnowskyi"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼätʼäɾi]",
+      "audio": "audio/trees/034.mp3",
+      "audioLocal": "audio/trees/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Most probably from Middle Georgian კატარი (ḳaṭari, “'bad' pine”)."
+    },
+    {
+      "ka": "კედარი",
+      "roman": "ḳedari",
+      "en": "cedar",
+      "glosses": [
+        "cedar"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼe̞däɾi]",
+      "audio": "audio/trees/035.mp3",
+      "audioLocal": "audio/trees/035.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კერაკანი",
+      "roman": "ḳeraḳani",
+      "en": "bonfire",
+      "glosses": [
+        "bonfire"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/trees/036.mp3",
+      "audioLocal": "audio/trees/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Compare Old Armenian կրակ (krak)."
+    },
+    {
+      "ka": "კვარი",
+      "roman": "ḳvari",
+      "en": "Fragment of spruce or pine easily set on fire (used to be an alternative for candle in villages)",
+      "glosses": [
+        "Fragment of spruce or pine easily set on fire (used to be an alternative for candle in villages)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼʷäɾi]",
+      "audio": "audio/trees/037.mp3",
+      "audioLocal": "audio/trees/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
     },
     {
       "ka": "კვიპაროსი",
@@ -74,11 +590,41 @@
       ],
       "pos": "noun",
       "ipa": "[kʼʷipʼäɾo̞si]",
-      "audio": "audio/trees/004.mp3",
-      "audioLocal": "audio/trees/004.mp3",
+      "audio": "audio/trees/038.mp3",
+      "audioLocal": "audio/trees/038.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian კჳპაროსი (ḳwiṗarosi)~კჳპაროზი (ḳwiṗarozi), from Ancient Greek κυπάρισσος (kupárissos)."
+    },
+    {
+      "ka": "კლასიკური",
+      "roman": "ḳlasiḳuri",
+      "en": "classical, classic (of or relating to the first class or rank, especially in literature or art)",
+      "glosses": [
+        "classical, classic (of or relating to the first class or rank, especially in literature or art)"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼɫäsikʼuɾi]",
+      "audio": "audio/trees/039.mp3",
+      "audioLocal": "audio/trees/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Latin classicus. By surface analysis, კლასიკა (ḳlasiḳa) + -ური (-uri)."
+    },
+    {
+      "ka": "კოცონი",
+      "roman": "ḳoconi",
+      "en": "bonfire, camp-fire, smudge",
+      "glosses": [
+        "bonfire, camp-fire, smudge"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞t͡sʰo̞ni]",
+      "audio": "audio/trees/040.mp3",
+      "audioLocal": "audio/trees/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
     },
     {
       "ka": "კუნძი",
@@ -89,11 +635,236 @@
       ],
       "pos": "noun",
       "ipa": "[kʼund͡zi]",
-      "audio": "audio/trees/005.mp3",
-      "audioLocal": "audio/trees/005.mp3",
+      "audio": "audio/trees/041.mp3",
+      "audioLocal": "audio/trees/041.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
+    },
+    {
+      "ka": "ლაზარეთი",
+      "roman": "lazareti",
+      "en": "infirmary",
+      "glosses": [
+        "infirmary"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäzäɾe̞tʰi]",
+      "audio": "audio/trees/042.mp3",
+      "audioLocal": "audio/trees/042.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Italian."
+    },
+    {
+      "ka": "ლაფანი",
+      "roman": "lapani",
+      "en": "velvet maple (Acer velutinum)",
+      "glosses": [
+        "velvet maple (Acer velutinum)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäpʰäni]",
+      "audio": "audio/trees/043.mp3",
+      "audioLocal": "audio/trees/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Proto-Georgian-Zan *lap-an-."
+    },
+    {
+      "ka": "მაგარი",
+      "roman": "magari",
+      "en": "hard, firm, strong",
+      "glosses": [
+        "hard, firm, strong"
+      ],
+      "pos": "adj",
+      "ipa": "[mäɡäɾi]",
+      "audio": "audio/trees/044.mp3",
+      "audioLocal": "audio/trees/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგრად",
+      "roman": "magrad",
+      "en": "firm, firmly, hard, robustly",
+      "glosses": [
+        "firm, firmly, hard, robustly"
+      ],
+      "pos": "adv",
+      "ipa": "[mäɡɾätʰ]",
+      "audio": "audio/trees/045.mp3",
+      "audioLocal": "audio/trees/045.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაჩვზღარბა",
+      "roman": "mačvzɣarba",
+      "en": "porcupine",
+      "glosses": [
+        "porcupine"
+      ],
+      "pos": "noun",
+      "ipa": "[mät͡ʃʰʷzʁäɾbä]",
+      "audio": "audio/trees/046.mp3",
+      "audioLocal": "audio/trees/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეგობრული ცეცხლი",
+      "roman": "megobruli cecxli",
+      "en": "friendly fire",
+      "glosses": [
+        "friendly fire"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞ɡo̞bɾuli t͡sʰe̞t͡sʰχli]",
+      "audio": "audio/trees/047.mp3",
+      "audioLocal": "audio/trees/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეკასრე",
+      "roman": "meḳasre",
+      "en": "cooper, barrelmaker",
+      "glosses": [
+        "cooper, barrelmaker"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞kʼäsɾe̞]",
+      "audio": "audio/trees/048.mp3",
+      "audioLocal": "audio/trees/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კასრი (ḳasri, “barrel”) + მე- -ე (me- -e, occupational circumfix)."
+    },
+    {
+      "ka": "მეკვლე",
+      "roman": "meḳvle",
+      "en": "first-foot",
+      "glosses": [
+        "first-foot"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞kʼʷle̞]",
+      "audio": "audio/trees/049.mp3",
+      "audioLocal": "audio/trees/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მესაჭე",
+      "roman": "mesač̣e",
+      "en": "helmsman, steersman",
+      "glosses": [
+        "helmsman, steersman"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞sät͡ʃʼe̞]",
+      "audio": "audio/trees/050.mp3",
+      "audioLocal": "audio/trees/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მთის ბოკვი",
+      "roman": "mtis boḳvi",
+      "en": "sycamore maple (Acer pseudoplatanus)",
+      "glosses": [
+        "sycamore maple (Acer pseudoplatanus)"
+      ],
+      "pos": "noun",
+      "ipa": "[mtʰis b̥o̞kʼʷi]",
+      "audio": "audio/trees/051.mp3",
+      "audioLocal": "audio/trees/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მთის ნეკერჩხალი",
+      "roman": "mtis neḳerčxali",
+      "en": "sycamore maple (Acer pseudoplatanus)",
+      "glosses": [
+        "sycamore maple (Acer pseudoplatanus)"
+      ],
+      "pos": "noun",
+      "ipa": "[mtʰis ne̞kʼe̞ɾt͡ʃʰχäli]",
+      "audio": "audio/trees/052.mp3",
+      "audioLocal": "audio/trees/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოთენთილობა",
+      "roman": "motentiloba",
+      "en": "drowsiness, weariness, sleepiness, fatigue, weakening, enfeeblement, lassitude",
+      "glosses": [
+        "drowsiness, weariness, sleepiness, fatigue, weakening, enfeeblement, lassitude"
+      ],
+      "pos": "noun",
+      "ipa": "[mo̞tʰe̞ntʰiɫo̞bä]",
+      "audio": "audio/trees/053.mp3",
+      "audioLocal": "audio/trees/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მოთენთილი (motentili) + -ობა (-oba)."
+    },
+    {
+      "ka": "მტკიცება",
+      "roman": "mṭḳiceba",
+      "en": "assertion, statement, affirmation",
+      "glosses": [
+        "assertion, statement, affirmation"
+      ],
+      "pos": "noun",
+      "ipa": "[mtʼkʼit͡sʰe̞bä]",
+      "audio": "audio/trees/054.mp3",
+      "audioLocal": "audio/trees/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მუგუზალი",
+      "roman": "muguzali",
+      "en": "a piece of burning wood; firebrand",
+      "glosses": [
+        "a piece of burning wood; firebrand"
+      ],
+      "pos": "noun",
+      "ipa": "[muɡuzäli]",
+      "audio": "audio/trees/055.mp3",
+      "audioLocal": "audio/trees/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Derived from Proto-Georgian-Zan *guz- (“to set on fire”)."
+    },
+    {
+      "ka": "მუზარადი",
+      "roman": "muzaradi",
+      "en": "warrior helmet",
+      "glosses": [
+        "warrior helmet"
+      ],
+      "pos": "noun",
+      "ipa": "[muzäɾädi]",
+      "audio": "audio/trees/056.mp3",
+      "audioLocal": "audio/trees/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Arabic مُزَرَّد (muzarrad)."
     },
     {
       "ka": "მურყანი",
@@ -104,8 +875,8 @@
       ],
       "pos": "noun",
       "ipa": "[muɾχʼäni]",
-      "audio": "audio/trees/006.mp3",
-      "audioLocal": "audio/trees/006.mp3",
+      "audio": "audio/trees/057.mp3",
+      "audioLocal": "audio/trees/057.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -119,11 +890,62 @@
       ],
       "pos": "noun",
       "ipa": "[muχä]",
-      "audio": "audio/trees/007.mp3",
-      "audioLocal": "audio/trees/007.mp3",
+      "audio": "audio/trees/058.mp3",
+      "audioLocal": "audio/trees/058.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian მუხაჲ (muxay), borrowed from a Northeast Caucasian language. See there for more."
+    },
+    {
+      "ka": "მუხნარი",
+      "roman": "muxnari",
+      "en": "oakwood, oak grove, an open area covered with oak trees (not necessarily a forest)",
+      "glosses": [
+        "oakwood, oak grove, an open area covered with oak trees (not necessarily a forest)"
+      ],
+      "pos": "noun",
+      "ipa": "[muχnäɾi]",
+      "audio": "audio/trees/059.mp3",
+      "audioLocal": "audio/trees/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნაბადი",
+      "roman": "nabadi",
+      "en": "shepherd's cloak made of wool",
+      "glosses": [
+        "shepherd's cloak made of wool"
+      ],
+      "pos": "noun",
+      "ipa": "[näbädi]",
+      "audio": "audio/trees/060.mp3",
+      "audioLocal": "audio/trees/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნათლობა",
+      "roman": "natloba",
+      "en": "baptism of fire",
+      "glosses": [
+        "baptism of fire"
+      ],
+      "pos": "noun",
+      "ipa": "[nätʰɫo̞bä]",
+      "audio": "audio/trees/061.mp3",
+      "audioLocal": "audio/trees/061.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "გუშინ დანიელის ნათლობა შედგა — მან პირველად დალია სასმელი!",
+          "roman": "gušin danielis natloba šedga — man ṗirvelad dalia sasmeli!",
+          "en": "Yesterday was Daniel's baptism of fire, he drank booze for the first time!"
+        }
+      ],
+      "etymology": "From Old Georgian [Term?], ultimately from ნათელი (nateli)."
     },
     {
       "ka": "ნეკერჩხალი",
@@ -134,11 +956,332 @@
       ],
       "pos": "noun",
       "ipa": "[ne̞kʼe̞ɾt͡ʃʰχäli]",
-      "audio": "audio/trees/008.mp3",
-      "audioLocal": "audio/trees/008.mp3",
+      "audio": "audio/trees/062.mp3",
+      "audioLocal": "audio/trees/062.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Proto-Kartvelian *ḳerčx-."
+    },
+    {
+      "ka": "ნერვულობა",
+      "roman": "nervuloba",
+      "en": "jumpiness, nervousness",
+      "glosses": [
+        "jumpiness, nervousness"
+      ],
+      "pos": "noun",
+      "ipa": "[ne̞ɾʷuɫo̞bä]",
+      "audio": "audio/trees/063.mp3",
+      "audioLocal": "audio/trees/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნერვული (nervuli) + -ობა (-oba)."
+    },
+    {
+      "ka": "ნიგვზიანი",
+      "roman": "nigvziani",
+      "en": "consisting of walnuts",
+      "glosses": [
+        "consisting of walnuts"
+      ],
+      "pos": "adj",
+      "ipa": "[niɡʷziäni]",
+      "audio": "audio/trees/064.mp3",
+      "audioLocal": "audio/trees/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ოთხმოცდამეთერთმეტე",
+      "roman": "otxmocdametertmeṭe",
+      "en": "ninety-first",
+      "glosses": [
+        "ninety-first"
+      ],
+      "pos": "adj",
+      "ipa": "[o̞tʰχmo̞t͡sʰdäme̞tʰe̞ɾtʰme̞tʼe̞]",
+      "audio": "audio/trees/065.mp3",
+      "audioLocal": "audio/trees/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ოთხმოცი (otxmoci, “eighty”) + და (da, “and”) + მეთერთმეტე (metertmeṭe, “eleventh”)."
+    },
+    {
+      "ka": "ოფი",
+      "roman": "opi",
+      "en": "black poplar (Populus nigra)",
+      "glosses": [
+        "black poplar (Populus nigra)"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞pʰi]",
+      "audio": "audio/trees/066.mp3",
+      "audioLocal": "audio/trees/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Old Armenian ոփի (opʻi)."
+    },
+    {
+      "ka": "პირადობის დამადასტურებელი ბარათი",
+      "roman": "ṗiradobis damadasṭurebeli barati",
+      "en": "ID, ID card, identity card, ID confirmation card",
+      "glosses": [
+        "ID, ID card, identity card, ID confirmation card"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾädo̞bis d̥ämädästʼuɾe̞be̞li b̥äɾätʰi]",
+      "audio": "audio/trees/067.mp3",
+      "audioLocal": "audio/trees/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირადობის დამადასტურებელი მოწმობა",
+      "roman": "ṗiradobis damadasṭurebeli moc̣moba",
+      "en": "ID, ID card, identity card, ID confirmation certificate",
+      "glosses": [
+        "ID, ID card, identity card, ID confirmation certificate"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾädo̞bis d̥ämädästʼuɾe̞be̞li mo̞t͡sʼmo̞bä]",
+      "audio": "audio/trees/068.mp3",
+      "audioLocal": "audio/trees/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველად",
+      "roman": "ṗirvelad",
+      "en": "firstly",
+      "glosses": [
+        "firstly"
+      ],
+      "pos": "adv",
+      "ipa": "[pʼiɾʷe̞ɫätʰ]",
+      "audio": "audio/trees/069.mp3",
+      "audioLocal": "audio/trees/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From პირველი (ṗirveli) + -ად (-ad)."
+    },
+    {
+      "ka": "პირველადი დახმარება",
+      "roman": "ṗirveladi daxmareba",
+      "en": "first aid",
+      "glosses": [
+        "first aid"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞ɫädi d̥äχmäɾe̞bä]",
+      "audio": "audio/trees/070.mp3",
+      "audioLocal": "audio/trees/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველადი სამედიცინო დახმარება",
+      "roman": "ṗirveladi samedicino daxmareba",
+      "en": "first aid, first medical aid",
+      "glosses": [
+        "first aid, first medical aid"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞ɫädi säme̞dit͡sʰino̞ d̥äχmäɾe̞bä]",
+      "audio": "audio/trees/071.mp3",
+      "audioLocal": "audio/trees/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი",
+      "roman": "ṗirveli",
+      "en": "first",
+      "glosses": [
+        "first"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li]",
+      "audio": "audio/trees/072.mp3",
+      "audioLocal": "audio/trees/072.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "პირველის ნახევარი",
+          "roman": "ṗirvelis naxevari",
+          "en": "half past twelve"
+        }
+      ],
+      "etymology": "Possibly by suffixing Proto-Kartvelian *ṗir- (“mouth, face; forward-facing”) with the word-forming affix *-el. Cf. პირი (ṗiri, “face”), პირდაპირ (ṗirdaṗir, “opposite; straight ahead”). Typologically compare Old Armenian առաջին (aṙaǰin, “first”) deriving from առաջ (aṙaǰ, “front part; front, anterior”). Surprisingly similar to Proto-Slavic *pьrvъ and other IE words for \"first\", descended from Proto-…"
+    },
+    {
+      "ka": "პირველი დახმარება",
+      "roman": "ṗirveli daxmareba",
+      "en": "first aid",
+      "glosses": [
+        "first aid"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li d̥äχmäɾe̞bä]",
+      "audio": "audio/trees/073.mp3",
+      "audioLocal": "audio/trees/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი თანასწორთა შორის",
+      "roman": "ṗirveli tanasc̣orta šoris",
+      "en": "first among equals",
+      "glosses": [
+        "first among equals"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li tʰänäst͡sʼo̞ɾtʰä ʃo̞ɾis]",
+      "audio": "audio/trees/074.mp3",
+      "audioLocal": "audio/trees/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი ინსტანციის სასამართლო",
+      "roman": "ṗirveli insṭanciis sasamartlo",
+      "en": "court of first instance",
+      "glosses": [
+        "court of first instance"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li instʼänt͡sʰiis säsämäɾtʰɫo̞]",
+      "audio": "audio/trees/075.mp3",
+      "audioLocal": "audio/trees/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი ლედი",
+      "roman": "ṗirveli ledi",
+      "en": "First Lady",
+      "glosses": [
+        "First Lady"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li le̞di]",
+      "audio": "audio/trees/076.mp3",
+      "audioLocal": "audio/trees/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი მსოფლიო ომი",
+      "roman": "ṗirveli msoplio omi",
+      "en": "First World War, World War I, WWI",
+      "glosses": [
+        "First World War, World War I, WWI"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li mso̞pʰlio̞ o̞mi]",
+      "audio": "audio/trees/077.mp3",
+      "audioLocal": "audio/trees/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი პირი",
+      "roman": "ṗirveli ṗiri",
+      "en": "first person",
+      "glosses": [
+        "first person"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li pʼiɾi]",
+      "audio": "audio/trees/078.mp3",
+      "audioLocal": "audio/trees/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი სამყარო",
+      "roman": "ṗirveli samq̇aro",
+      "en": "First World",
+      "glosses": [
+        "First World"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li sämχʼäɾo̞]",
+      "audio": "audio/trees/079.mp3",
+      "audioLocal": "audio/trees/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი სამყაროს პრობლემა",
+      "roman": "ṗirveli samq̇aros ṗroblema",
+      "en": "first world problem",
+      "glosses": [
+        "first world problem"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li sämχʼäɾo̞s pʼɾo̞ble̞mä]",
+      "audio": "audio/trees/080.mp3",
+      "audioLocal": "audio/trees/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველი ჯენტლმენი",
+      "roman": "ṗirveli ǯenṭlmeni",
+      "en": "First Gentleman",
+      "glosses": [
+        "First Gentleman"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾʷe̞li d͡ʒe̞ntʼlme̞ni]",
+      "audio": "audio/trees/081.mp3",
+      "audioLocal": "audio/trees/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირველშობილი",
+      "roman": "ṗirvelšobili",
+      "en": "eldest, firstborn",
+      "glosses": [
+        "eldest, firstborn"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼiɾʷe̞lʃo̞bili]",
+      "audio": "audio/trees/082.mp3",
+      "audioLocal": "audio/trees/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პირმშო",
+      "roman": "ṗirmšo",
+      "en": "firstborn child",
+      "glosses": [
+        "firstborn child"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾmʃo̞]",
+      "audio": "audio/trees/083.mp3",
+      "audioLocal": "audio/trees/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian პირმშოჲ (ṗirmšoy), a compound of პირი (ṗiri, “before, first”) + *მშო (*mšo, “child”), both from Proto-Kartvelian. Second part is akin to შვილი (švili), შობა (šoba), შვა (šva), etc."
     },
     {
       "ka": "რკო",
@@ -149,8 +1292,8 @@
       ],
       "pos": "noun",
       "ipa": "[ɾkʼo̞]",
-      "audio": "audio/trees/009.mp3",
-      "audioLocal": "audio/trees/009.mp3",
+      "audio": "audio/trees/084.mp3",
+      "audioLocal": "audio/trees/084.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian რკოჲ (rḳoy), from Proto-Georgian-Zan *krko-. Cognate with Mingrelian კჷ (ḳə)."
@@ -164,11 +1307,47 @@
       ],
       "pos": "noun",
       "ipa": "[ɾo̞zɡi]",
-      "audio": "audio/trees/010.mp3",
-      "audioLocal": "audio/trees/010.mp3",
+      "audio": "audio/trees/085.mp3",
+      "audioLocal": "audio/trees/085.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Russian ро́зги (rózgi), singular ро́зга (rózga)."
+    },
+    {
+      "ka": "საადრეო",
+      "roman": "saadreo",
+      "en": "early, first (fruit etc of season)",
+      "glosses": [
+        "early, first (fruit etc of season)"
+      ],
+      "pos": "adj",
+      "ipa": "[säädɾe̞o̞]",
+      "audio": "audio/trees/086.mp3",
+      "audioLocal": "audio/trees/086.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "კომბოსტოს საადრეო ჯიში",
+          "roman": "ḳombosṭos saadreo ǯiši",
+          "en": "early variety of cabbage"
+        }
+      ],
+      "etymology": "From ადრე (adre, “early, before”) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "საბედნიერო",
+      "roman": "sabedniero",
+      "en": "happy (bringing happiness; fortunate, felicitous)",
+      "glosses": [
+        "happy (bringing happiness; fortunate, felicitous)"
+      ],
+      "pos": "adj",
+      "ipa": "[säbe̞dnie̞ɾo̞]",
+      "audio": "audio/trees/087.mp3",
+      "audioLocal": "audio/trees/087.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბედნიერი (bednieri) + სა- -ო (sa- -o)."
     },
     {
       "ka": "სარო",
@@ -179,11 +1358,26 @@
       ],
       "pos": "noun",
       "ipa": "[säɾo̞]",
-      "audio": "audio/trees/011.mp3",
-      "audioLocal": "audio/trees/011.mp3",
+      "audio": "audio/trees/088.mp3",
+      "audioLocal": "audio/trees/088.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian საროჲ (saroy), from Old Armenian սարոյ (saroy), from Iranian: compare Persian سرو (sarw)."
+    },
+    {
+      "ka": "სასწრაფო დახმარება",
+      "roman": "sasc̣rapo daxmareba",
+      "en": "emergency aid, first aid",
+      "glosses": [
+        "emergency aid, first aid"
+      ],
+      "pos": "noun",
+      "ipa": "[säst͡sʼɾäpʰo̞ d̥äχmäɾe̞bä]",
+      "audio": "audio/trees/089.mp3",
+      "audioLocal": "audio/trees/089.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
     },
     {
       "ka": "საშობაო ნაძვის ხე",
@@ -194,11 +1388,71 @@
       ],
       "pos": "noun",
       "ipa": "[säʃo̞bäo̞ näd͡zʷis χe̞]",
-      "audio": "audio/trees/012.mp3",
-      "audioLocal": "audio/trees/012.mp3",
+      "audio": "audio/trees/090.mp3",
+      "audioLocal": "audio/trees/090.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
+    },
+    {
+      "ka": "საწყისი",
+      "roman": "sac̣q̇isi",
+      "en": "initial, first",
+      "glosses": [
+        "initial, first"
+      ],
+      "pos": "adj",
+      "ipa": "[sät͡sʼχʼisi]",
+      "audio": "audio/trees/091.mp3",
+      "audioLocal": "audio/trees/091.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საჭე",
+      "roman": "sač̣e",
+      "en": "helm, rudder, handlebar, steering wheel",
+      "glosses": [
+        "helm, rudder, handlebar, steering wheel"
+      ],
+      "pos": "noun",
+      "ipa": "[sät͡ʃʼe̞]",
+      "audio": "audio/trees/092.mp3",
+      "audioLocal": "audio/trees/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სიმაგრე",
+      "roman": "simagre",
+      "en": "firmness, robustness, strength",
+      "glosses": [
+        "firmness, robustness, strength"
+      ],
+      "pos": "noun",
+      "ipa": "[simäɡɾe̞]",
+      "audio": "audio/trees/093.mp3",
+      "audioLocal": "audio/trees/093.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მაგარი (magari, “hard, firm”) + სი- -ე (si- -e, abstract noun-forming circumfix)."
+    },
+    {
+      "ka": "სიხალისე",
+      "roman": "sixalise",
+      "en": "happiness, cheerfulness",
+      "glosses": [
+        "happiness, cheerfulness"
+      ],
+      "pos": "noun",
+      "ipa": "[siχälise̞]",
+      "audio": "audio/trees/094.mp3",
+      "audioLocal": "audio/trees/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ხალისი (xalisi, “joy”) + სი- -ე (si- -e, abstract noun-forming circumfix)."
     },
     {
       "ka": "სოჭი",
@@ -209,8 +1463,8 @@
       ],
       "pos": "noun",
       "ipa": "[so̞t͡ʃʼi]",
-      "audio": "audio/trees/013.mp3",
-      "audioLocal": "audio/trees/013.mp3",
+      "audio": "audio/trees/095.mp3",
+      "audioLocal": "audio/trees/095.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Possibly from Old Armenian սոճի (soči) or directly from its Iranian source."
@@ -224,11 +1478,176 @@
       ],
       "pos": "noun",
       "ipa": "[tʼiɾipʰi]",
-      "audio": "audio/trees/014.mp3",
-      "audioLocal": "audio/trees/014.mp3",
+      "audio": "audio/trees/096.mp3",
+      "audioLocal": "audio/trees/096.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian ტირიფი (ṭiripi). Further etymology unknown. Possibly from the root -ტირ- (-ṭir-, “to cry”)."
+    },
+    {
+      "ka": "ტყის ხანძარი",
+      "roman": "ṭq̇is xanʒari",
+      "en": "forest fire, wildfire",
+      "glosses": [
+        "forest fire, wildfire"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼχʼis χänd͡zäɾi]",
+      "audio": "audio/trees/097.mp3",
+      "audioLocal": "audio/trees/097.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უბედურება",
+      "roman": "ubedureba",
+      "en": "adversity, affliction, bale, blow, calamity, distress, misadventure, misery, misfortune, unhappiness, woe, wretchedness",
+      "glosses": [
+        "adversity, affliction, bale, blow, calamity, distress, misadventure, misery, misfortune, unhappiness, woe, wretchedness"
+      ],
+      "pos": "noun",
+      "ipa": "[ube̞duɾe̞bä]",
+      "audio": "audio/trees/098.mp3",
+      "audioLocal": "audio/trees/098.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უთენია",
+      "roman": "utenia",
+      "en": "at a daybreak, at first light",
+      "glosses": [
+        "at a daybreak, at first light"
+      ],
+      "pos": "adv",
+      "ipa": "[utʰe̞niä]",
+      "audio": "audio/trees/099.mp3",
+      "audioLocal": "audio/trees/099.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ურთხმელი",
+      "roman": "urtxmeli",
+      "en": "yew, yew-tree",
+      "glosses": [
+        "yew, yew-tree"
+      ],
+      "pos": "noun",
+      "ipa": "[uɾtʰχme̞li]",
+      "audio": "audio/trees/100.mp3",
+      "audioLocal": "audio/trees/100.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უშუალო",
+      "roman": "ušualo",
+      "en": "first-hand, immediate",
+      "glosses": [
+        "first-hand, immediate"
+      ],
+      "pos": "adj",
+      "ipa": "[uʃuäɫo̞]",
+      "audio": "audio/trees/101.mp3",
+      "audioLocal": "audio/trees/101.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უშუალოდ",
+      "roman": "ušualod",
+      "en": "first-hand",
+      "glosses": [
+        "first-hand"
+      ],
+      "pos": "adv",
+      "ipa": "[uʃuäɫo̞tʰ]",
+      "audio": "audio/trees/102.mp3",
+      "audioLocal": "audio/trees/102.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უძლურება",
+      "roman": "uʒlureba",
+      "en": "decrepitude, infirmity",
+      "glosses": [
+        "decrepitude, infirmity"
+      ],
+      "pos": "noun",
+      "ipa": "[ud͡zɫuɾe̞bä]",
+      "audio": "audio/trees/103.mp3",
+      "audioLocal": "audio/trees/103.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უძლური",
+      "roman": "uʒluri",
+      "en": "impotent, infirm, knock-kneed, powerless",
+      "glosses": [
+        "impotent, infirm, knock-kneed, powerless"
+      ],
+      "pos": "adj",
+      "ipa": "[ud͡zɫuɾi]",
+      "audio": "audio/trees/104.mp3",
+      "audioLocal": "audio/trees/104.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უხერხემლო",
+      "roman": "uxerxemlo",
+      "en": "invertebrate, spineless",
+      "glosses": [
+        "invertebrate, spineless"
+      ],
+      "pos": "adj",
+      "ipa": "[uχe̞ɾχe̞mɫo̞]",
+      "audio": "audio/trees/105.mp3",
+      "audioLocal": "audio/trees/105.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ფილიპინური",
+      "roman": "piliṗinuri",
+      "en": "Filipino, Philippine",
+      "glosses": [
+        "Filipino, Philippine"
+      ],
+      "pos": "adj",
+      "ipa": "[pʰilipʼinuɾi]",
+      "audio": "audio/trees/106.mp3",
+      "audioLocal": "audio/trees/106.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ფირმა",
+      "roman": "pirma",
+      "en": "firm",
+      "glosses": [
+        "firm"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰiɾmä]",
+      "audio": "audio/trees/107.mp3",
+      "audioLocal": "audio/trees/107.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian фирма (firma)."
     },
     {
       "ka": "ფიჭვი",
@@ -239,11 +1658,92 @@
       ],
       "pos": "noun",
       "ipa": "[pʰit͡ʃʼʷi]",
-      "audio": "audio/trees/015.mp3",
-      "audioLocal": "audio/trees/015.mp3",
+      "audio": "audio/trees/108.mp3",
+      "audioLocal": "audio/trees/108.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian ფიჭჳ (pič̣wi), see there for more."
+    },
+    {
+      "ka": "ფოიერვერკი",
+      "roman": "poierverḳi",
+      "en": "firework",
+      "glosses": [
+        "firework"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰo̞ie̞ɾʷe̞ɾkʼi]",
+      "audio": "audio/trees/109.mp3",
+      "audioLocal": "audio/trees/109.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From the older form above, which was borrowed from Russian фейерверк (fejjerverk), itself from German Feuerwerk.\nSubsequently /ei/ was adjusted to /oi/ in Georgian to better match the German /ɔɪ̯/."
+    },
+    {
+      "ka": "ფუფუნება",
+      "roman": "pupuneba",
+      "en": "life of Riley, excellent living condition (including riches, healthiness, and happiness)",
+      "glosses": [
+        "life of Riley, excellent living condition (including riches, healthiness, and happiness)"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰupʰune̞bä]",
+      "audio": "audio/trees/110.mp3",
+      "audioLocal": "audio/trees/110.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "სულ ფუფუნებაში უცხოვრია.",
+          "roman": "sul pupunebaši ucxovria.",
+          "en": "He's apparently lived the life of Riley his whole life."
+        }
+      ],
+      "etymology": "From Old Georgian ფუფუნებაჲ (pupunebay, “taking care, bringing up (feeding, caressing...); living a good life”), which was originally a verbal noun of აფუფუნებს (apupunebs)."
+    },
+    {
+      "ka": "ქვამუხა",
+      "roman": "kvamuxa",
+      "en": "holm oak",
+      "glosses": [
+        "holm oak"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰʷämuχä]",
+      "audio": "audio/trees/111.mp3",
+      "audioLocal": "audio/trees/111.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ქვა (kva, “stone”) + მუხა (muxa, “oak”)."
+    },
+    {
+      "ka": "ქორაფი",
+      "roman": "korapi",
+      "en": "cappadocian maple (Acer cappadocicum)",
+      "glosses": [
+        "cappadocian maple (Acer cappadocicum)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰo̞ɾäpʰi]",
+      "audio": "audio/trees/112.mp3",
+      "audioLocal": "audio/trees/112.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ქრობა",
+      "roman": "kroba",
+      "en": "extinguishing, putting out (fire, light), slaking (lime)",
+      "glosses": [
+        "extinguishing, putting out (fire, light), slaking (lime)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰɾo̞bä]",
+      "audio": "audio/trees/113.mp3",
+      "audioLocal": "audio/trees/113.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
     },
     {
       "ka": "ღვია",
@@ -254,11 +1754,86 @@
       ],
       "pos": "noun",
       "ipa": "[ʁʷiä]",
-      "audio": "audio/trees/016.mp3",
-      "audioLocal": "audio/trees/016.mp3",
+      "audio": "audio/trees/114.mp3",
+      "audioLocal": "audio/trees/114.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian ღჳვი (ɣwivi), from Proto-Kartvelian *ɣwiw-, see the latter for more."
+    },
+    {
+      "ka": "ყიყინი",
+      "roman": "q̇iq̇ini",
+      "en": "croak, croaking",
+      "glosses": [
+        "croak, croaking"
+      ],
+      "pos": "noun",
+      "ipa": "[χʼiχʼini]",
+      "audio": "audio/trees/115.mp3",
+      "audioLocal": "audio/trees/115.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Onomatopoeic."
+    },
+    {
+      "ka": "ყოველმხრივ",
+      "roman": "q̇ovelmxriv",
+      "en": "dative/adverbial of ყოველმხრივი (q̇ovelmxrivi)",
+      "glosses": [
+        "dative/adverbial of ყოველმხრივი (q̇ovelmxrivi)"
+      ],
+      "pos": "adj",
+      "ipa": "[χʼo̞ve̞lmχɾiv]",
+      "audio": "audio/trees/116.mp3",
+      "audioLocal": "audio/trees/116.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ყუა",
+      "roman": "q̇ua",
+      "en": "spine (of a book, notebook, etc.)",
+      "glosses": [
+        "spine (of a book, notebook, etc.)"
+      ],
+      "pos": "noun",
+      "ipa": "[χʼuä]",
+      "audio": "audio/trees/117.mp3",
+      "audioLocal": "audio/trees/117.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Proto-Georgian-Zan *q̇ua- (“handle of an axe”)."
+    },
+    {
+      "ka": "შეშა",
+      "roman": "šeša",
+      "en": "firewood",
+      "glosses": [
+        "firewood"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃe̞ʃä]",
+      "audio": "audio/trees/118.mp3",
+      "audioLocal": "audio/trees/118.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian შეშაჲ (šešay), from Proto-Georgian-Zan *ʒeša-. Cognate with Mingrelian დიშქა (diška) and Laz დიშქა (dişka)."
+    },
+    {
+      "ka": "ჩაფხუტი",
+      "roman": "čapxuṭi",
+      "en": "helmet",
+      "glosses": [
+        "helmet"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰäpʰχutʼi]",
+      "audio": "audio/trees/119.mp3",
+      "audioLocal": "audio/trees/119.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
     },
     {
       "ka": "ჩინარი",
@@ -269,11 +1844,176 @@
       ],
       "pos": "noun",
       "ipa": "[t͡ʃʰinäɾi]",
-      "audio": "audio/trees/017.mp3",
-      "audioLocal": "audio/trees/017.mp3",
+      "audio": "audio/trees/120.mp3",
+      "audioLocal": "audio/trees/120.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Etymology tree\nClassical Persian چِنَار (činār)bor.\nGeorgian ჩინარი\nBorrowed from Classical Persian چِنَار (činār)."
+    },
+    {
+      "ka": "ცა",
+      "roman": "ca",
+      "en": "sky, firmament",
+      "glosses": [
+        "sky, firmament"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰä]",
+      "audio": "audio/trees/121.mp3",
+      "audioLocal": "audio/trees/121.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ცაჲ (cay), from Proto-Kartvelian *ca-."
+    },
+    {
+      "ka": "ცაცხვი",
+      "roman": "cacxvi",
+      "en": "lime tree, linden",
+      "glosses": [
+        "lime tree, linden"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰät͡sʰχʷi]",
+      "audio": "audio/trees/122.mp3",
+      "audioLocal": "audio/trees/122.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ცაცხჳ (cacxwi), by regressive assimilation from *ძაცხჳ (*ʒacxwi), from Proto-Kartvelian *ʒacxw-."
+    },
+    {
+      "ka": "ცაცხვისფერი",
+      "roman": "cacxvisperi",
+      "en": "lime, lime green, literally linden-colored",
+      "glosses": [
+        "lime, lime green, literally linden-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰät͡sʰχʷispʰe̞ɾi]",
+      "audio": "audio/trees/123.mp3",
+      "audioLocal": "audio/trees/123.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცაცხვი (cacxvi) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ცეცხლგამძლე",
+      "roman": "cecxlgamʒle",
+      "en": "fireproof",
+      "glosses": [
+        "fireproof"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰe̞t͡sʰχlɡämd͡zle̞]",
+      "audio": "audio/trees/124.mp3",
+      "audioLocal": "audio/trees/124.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ცეცხლგამძლე კედელი",
+      "roman": "cecxlgamʒle ḳedeli",
+      "en": "firewall, fireproof wall (construction)",
+      "glosses": [
+        "firewall, fireproof wall (construction)"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰe̞t͡sʰχlɡämd͡zle̞ kʼe̞de̞li]",
+      "audio": "audio/trees/125.mp3",
+      "audioLocal": "audio/trees/125.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ცეცხლზე ნავთის დასხმა",
+      "roman": "cecxlze navtis dasxma",
+      "en": "add fuel to the fire",
+      "glosses": [
+        "add fuel to the fire"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/trees/126.mp3",
+      "audioLocal": "audio/trees/126.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ცეცხლი",
+      "roman": "cecxli",
+      "en": "fire",
+      "glosses": [
+        "fire"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰe̞t͡sʰχli]",
+      "audio": "audio/trees/127.mp3",
+      "audioLocal": "audio/trees/127.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ცეცხლი (cecxli), from Proto-Georgian-Zan *ʒec₁xl-. Cognate with Mingrelian დაჩხირი (dačxiri) and Laz დაჩხირი (daçxiri)."
+    },
+    {
+      "ka": "ციცინათელა",
+      "roman": "cicinatela",
+      "en": "firefly, glowworm (Lampyris noctiluca)",
+      "glosses": [
+        "firefly, glowworm (Lampyris noctiluca)"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰit͡sʰinätʰe̞ɫä]",
+      "audio": "audio/trees/128.mp3",
+      "audioLocal": "audio/trees/128.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "An old compound where the first element goes back to Proto-Georgian-Zan *c₁ic₁- (“small insect, moth”) (akin to Mingrelian ჩიჩი (čiči), ჩინჩი (činči) and Laz ჩიჩი (çiçi)), while the second part reflects Georgian ნათელი (nateli, “light”)."
+    },
+    {
+      "ka": "ძეწნა",
+      "roman": "ʒec̣na",
+      "en": "weeping willow, a willow with very pendulous twigs, of cultivars or hybrids of Salix babylonica",
+      "glosses": [
+        "weeping willow, a willow with very pendulous twigs, of cultivars or hybrids of Salix babylonica"
+      ],
+      "pos": "noun",
+      "ipa": "[d͡ze̞t͡sʼnä]",
+      "audio": "audio/trees/129.mp3",
+      "audioLocal": "audio/trees/129.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ძეწნი (ʒec̣ni, “willow”) + -ა (-a), from Proto-Georgian-Zan *ʒec̣₁n- / Proto-Kartvelian *ʒ₁ec̣₁(w)n- (“willow”). Cognate with Mingrelian ზიჭონი (zič̣oni). Svan ჭჷჭჷნდ (č̣əč̣ənd) is possibly borrowed from Mingrelian."
+    },
+    {
+      "ka": "ძილიანობა",
+      "roman": "ʒilianoba",
+      "en": "drowsiness, sleepiness, somnolence",
+      "glosses": [
+        "drowsiness, sleepiness, somnolence"
+      ],
+      "pos": "noun",
+      "ipa": "[d͡ziliäno̞bä]",
+      "audio": "audio/trees/130.mp3",
+      "audioLocal": "audio/trees/130.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ძილი (ʒili) + -იანი (-iani) + -ობა (-oba)."
+    },
+    {
+      "ka": "წითელკანიანი",
+      "roman": "c̣itelḳaniani",
+      "en": "a person belonging to Native Americans, American Indians, Aboriginal Americans, First Nations",
+      "glosses": [
+        "a person belonging to Native Americans, American Indians, Aboriginal Americans, First Nations"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʼitʰe̞lkʼäniäni]",
+      "audio": "audio/trees/131.mp3",
+      "audioLocal": "audio/trees/131.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From წითელი (c̣iteli, “red”) + კანიანი (ḳaniani, “skinned, someone with a skin [of a certain type]”)."
     },
     {
       "ka": "წიფელი",
@@ -284,8 +2024,8 @@
       ],
       "pos": "noun",
       "ipa": "[t͡sʼipʰe̞li]",
-      "audio": "audio/trees/018.mp3",
-      "audioLocal": "audio/trees/018.mp3",
+      "audio": "audio/trees/132.mp3",
+      "audioLocal": "audio/trees/132.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Proto-Kartvelian *c̣ip-."
@@ -293,17 +2033,77 @@
     {
       "ka": "ჭადარი",
       "roman": "č̣adari",
-      "en": "plane tree",
+      "en": "poplar",
       "glosses": [
-        "plane tree"
+        "poplar"
       ],
       "pos": "noun",
       "ipa": "[t͡ʃʼädäɾi]",
-      "audio": "audio/trees/019.mp3",
-      "audioLocal": "audio/trees/019.mp3",
+      "audio": "audio/trees/133.mp3",
+      "audioLocal": "audio/trees/133.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Middle Georgian ჭანდარი (č̣andari). The word was also attested in Bible of Bakar as ჭანდარი (č̣andari, “plane tree”), however the bible doesn't have an exact date. Of the same Iranian origin as Middle Armenian ճանդարի (čandari)."
+    },
+    {
+      "ka": "ჭიაკოკონა",
+      "roman": "č̣iaḳoḳona",
+      "en": "bonfire",
+      "glosses": [
+        "bonfire"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/trees/134.mp3",
+      "audioLocal": "audio/trees/134.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ხანძარსაწინააღმდეგო კედელი",
+      "roman": "xanʒarsac̣inaaɣmdego ḳedeli",
+      "en": "firewall, fire-resistant wall (construction)",
+      "glosses": [
+        "firewall, fire-resistant wall (construction)"
+      ],
+      "pos": "noun",
+      "ipa": "[χänd͡zäɾsät͡sʼinääʁmde̞ɡo̞ kʼe̞de̞li]",
+      "audio": "audio/trees/135.mp3",
+      "audioLocal": "audio/trees/135.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ხარჩო",
+      "roman": "xarčo",
+      "en": "kharcho (a spicy meat and vegetables Georgian soup with grated walnuts)",
+      "glosses": [
+        "kharcho (a spicy meat and vegetables Georgian soup with grated walnuts)"
+      ],
+      "pos": "noun",
+      "ipa": "[χäɾt͡ʃʰo̞]",
+      "audio": "audio/trees/136.mp3",
+      "audioLocal": "audio/trees/136.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ხაჭა",
+      "roman": "xač̣a",
+      "en": "long, thick stick for knocking down walnuts",
+      "glosses": [
+        "long, thick stick for knocking down walnuts"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/trees/137.mp3",
+      "audioLocal": "audio/trees/137.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Probably akin to Old Armenian խաչ (xačʻ). Note also Turkish haça."
     },
     {
       "ka": "ხე",
@@ -315,10 +2115,46 @@
       "pos": "noun",
       "ipa": "[χe̞]",
       "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/Ka-%E1%83%AE%E1%83%94.ogg/Ka-%E1%83%AE%E1%83%94.ogg.mp3",
-      "audioLocal": "audio/trees/020.mp3",
+      "audioLocal": "audio/trees/138.mp3",
       "audioSource": "wiktionary",
       "examples": [],
       "etymology": "Inherited from Old Georgian ხჱ (xē)."
+    },
+    {
+      "ka": "ხერხემალი",
+      "roman": "xerxemali",
+      "en": "backbone, spine",
+      "glosses": [
+        "backbone, spine"
+      ],
+      "pos": "noun",
+      "ipa": "[χe̞ɾχe̞mäli]",
+      "audio": "audio/trees/139.mp3",
+      "audioLocal": "audio/trees/139.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჯერ",
+      "roman": "ǯer",
+      "en": "first",
+      "glosses": [
+        "first"
+      ],
+      "pos": "adv",
+      "ipa": "[d͡ʒe̞ɾ]",
+      "audio": "audio/trees/140.mp3",
+      "audioLocal": "audio/trees/140.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ჯერ მწარე ჭამე, კვლავ ტკბილი.",
+          "roman": "sc̣avla mosc̣avleta",
+          "en": "First taste the spicy, then the sweet."
+        }
+      ],
+      "etymology": null
     },
     {
       "ka": "ჯონჯოლი",
@@ -329,8 +2165,8 @@
       ],
       "pos": "noun",
       "ipa": "[d͡ʒo̞nd͡ʒo̞li]",
-      "audio": "audio/trees/021.mp3",
-      "audioLocal": "audio/trees/021.mp3",
+      "audio": "audio/trees/141.mp3",
+      "audioLocal": "audio/trees/141.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null

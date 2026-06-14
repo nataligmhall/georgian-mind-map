@@ -1,0 +1,2289 @@
+{
+  "id": "prepositions",
+  "name": "Prepositions",
+  "nameKa": "მიმღევრები",
+  "icon": "→",
+  "count": 150,
+  "words": [
+    {
+      "ka": "40-იანები",
+      "roman": "40-ianebi",
+      "en": "'40s, forties",
+      "glosses": [
+        "'40s, forties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/000.mp3",
+      "audioLocal": "audio/prepositions/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "40-იანი წლები",
+      "roman": "40-iani c̣lebi",
+      "en": "'40s, forties",
+      "glosses": [
+        "'40s, forties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/001.mp3",
+      "audioLocal": "audio/prepositions/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "90-იანები",
+      "roman": "90-ianebi",
+      "en": "'90s, nineties",
+      "glosses": [
+        "'90s, nineties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/002.mp3",
+      "audioLocal": "audio/prepositions/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "90-იანი წლები",
+      "roman": "90-iani c̣lebi",
+      "en": "'90s, nineties",
+      "glosses": [
+        "'90s, nineties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/003.mp3",
+      "audioLocal": "audio/prepositions/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "A ვიტამინი",
+      "roman": "A viṭamini",
+      "en": "vitamin A",
+      "glosses": [
+        "vitamin A"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/004.mp3",
+      "audioLocal": "audio/prepositions/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B ვიტამინი",
+      "roman": "B viṭamini",
+      "en": "vitamin B (any of the vitamins in the vitamin B complex)",
+      "glosses": [
+        "vitamin B (any of the vitamins in the vitamin B complex)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/005.mp3",
+      "audioLocal": "audio/prepositions/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B ჯგუფის ვიტამინების კომპლექსი",
+      "roman": "B ǯgupis viṭaminebis ḳomṗleksi",
+      "en": "vitamin B complex",
+      "glosses": [
+        "vitamin B complex"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/006.mp3",
+      "audioLocal": "audio/prepositions/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B-ვიტამინების კომპლექსი",
+      "roman": "B-viṭaminebis ḳomṗleksi",
+      "en": "vitamin B complex",
+      "glosses": [
+        "vitamin B complex"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/007.mp3",
+      "audioLocal": "audio/prepositions/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B-ჯგუფის ვიტამინები",
+      "roman": "B-ǯgupis viṭaminebi",
+      "en": "vitamin B complex (vitamins belonging to group B)",
+      "glosses": [
+        "vitamin B complex (vitamins belonging to group B)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/008.mp3",
+      "audioLocal": "audio/prepositions/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "C ვიტამინი",
+      "roman": "C viṭamini",
+      "en": "vitamin C",
+      "glosses": [
+        "vitamin C"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/009.mp3",
+      "audioLocal": "audio/prepositions/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "D ვიტამინი",
+      "roman": "D viṭamini",
+      "en": "vitamin D",
+      "glosses": [
+        "vitamin D"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/010.mp3",
+      "audioLocal": "audio/prepositions/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "E ვიტამინი",
+      "roman": "E viṭamini",
+      "en": "vitamin E",
+      "glosses": [
+        "vitamin E"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/011.mp3",
+      "audioLocal": "audio/prepositions/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "K ვიტამინი",
+      "roman": "K viṭamini",
+      "en": "vitamin K",
+      "glosses": [
+        "vitamin K"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/012.mp3",
+      "audioLocal": "audio/prepositions/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აალება",
+      "roman": "aaleba",
+      "en": "ignition",
+      "glosses": [
+        "ignition"
+      ],
+      "pos": "noun",
+      "ipa": "[ääle̞bä]",
+      "audio": "audio/prepositions/013.mp3",
+      "audioLocal": "audio/prepositions/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბაზანა",
+      "roman": "abazana",
+      "en": "bathtub",
+      "glosses": [
+        "bathtub"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäzänä]",
+      "audio": "audio/prepositions/014.mp3",
+      "audioLocal": "audio/prepositions/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "An Iranian borrowing. Compare Persian آبزن (âbzan, “bathtub”) and see there for more. Doublet of ავაზანი (avazani)."
+    },
+    {
+      "ka": "აბაზი",
+      "roman": "abazi",
+      "en": "abazi, 20 kopeck coin",
+      "glosses": [
+        "abazi, 20 kopeck coin"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäzi]",
+      "audio": "audio/prepositions/015.mp3",
+      "audioLocal": "audio/prepositions/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Classical Persian عَبَّاسِی (abbāsī)."
+    },
+    {
+      "ka": "აბანო",
+      "roman": "abano",
+      "en": "bathroom",
+      "glosses": [
+        "bathroom"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäno̞]",
+      "audio": "audio/prepositions/016.mp3",
+      "audioLocal": "audio/prepositions/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian აბანოჲ (abanoy), from Proto-Georgian-Zan *ban- (whence also ბანაობს (banaobs), ბანა (bana) and their derivatives). Cognate with Mingrelian ბონუა (bonua, “to wash oneself”), აბანა (abana) and Laz ობონუ (obonu, “to wash oneself”)."
+    },
+    {
+      "ka": "აბანოზი",
+      "roman": "abanozi",
+      "en": "ebony (wood and tree)",
+      "glosses": [
+        "ebony (wood and tree)"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäno̞zi]",
+      "audio": "audio/prepositions/017.mp3",
+      "audioLocal": "audio/prepositions/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish آبانوز; compare modern Turkish abanoz."
+    },
+    {
+      "ka": "აბატი",
+      "roman": "abaṭi",
+      "en": "abbot in the catholic church",
+      "glosses": [
+        "abbot in the catholic church"
+      ],
+      "pos": "noun",
+      "ipa": "[äbätʼi]",
+      "audio": "audio/prepositions/018.mp3",
+      "audioLocal": "audio/prepositions/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian аббат (abbat)."
+    },
+    {
+      "ka": "აბდაუბდა",
+      "roman": "abdaubda",
+      "en": "nonsense",
+      "glosses": [
+        "nonsense"
+      ],
+      "pos": "noun",
+      "ipa": "[äbdäubdä]",
+      "audio": "audio/prepositions/019.mp3",
+      "audioLocal": "audio/prepositions/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბედი",
+      "roman": "abedi",
+      "en": "tinder, touchwood; amadou",
+      "glosses": [
+        "tinder, touchwood; amadou"
+      ],
+      "pos": "noun",
+      "ipa": "[äbe̞di]",
+      "audio": "audio/prepositions/020.mp3",
+      "audioLocal": "audio/prepositions/020.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "აბედის სოკო",
+          "roman": "abedis soḳo",
+          "en": "tinder fungus (Fomes fomentarius and Phellinus igniarius (syn. Fomes igniarius))"
+        }
+      ],
+      "etymology": "Inherited from Old Georgian აბედი (abedi). Further etymology is unknown."
+    },
+    {
+      "ka": "აბეზარი",
+      "roman": "abezari",
+      "en": "annoying",
+      "glosses": [
+        "annoying"
+      ],
+      "pos": "adj",
+      "ipa": null,
+      "audio": "audio/prepositions/021.mp3",
+      "audioLocal": "audio/prepositions/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბზილაკი",
+      "roman": "abzilaḳi",
+      "en": "synonym of აზიზი (azizi)",
+      "glosses": [
+        "synonym of აზიზი (azizi)"
+      ],
+      "pos": "adj",
+      "ipa": "[äbziɫäkʼi]",
+      "audio": "audio/prepositions/022.mp3",
+      "audioLocal": "audio/prepositions/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბზინდა",
+      "roman": "abzinda",
+      "en": "absinthe wormwood (Artemisia absinthium)",
+      "glosses": [
+        "absinthe wormwood (Artemisia absinthium)"
+      ],
+      "pos": "noun",
+      "ipa": "[äbzindä]",
+      "audio": "audio/prepositions/023.mp3",
+      "audioLocal": "audio/prepositions/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin absinthium. Replaced Old Georgian აფსინდი (apsindi)."
+    },
+    {
+      "ka": "აბი",
+      "roman": "abi",
+      "en": "pill (small portion of a drug or drugs to be taken orally)",
+      "glosses": [
+        "pill (small portion of a drug or drugs to be taken orally)"
+      ],
+      "pos": "noun",
+      "ipa": "[äbi]",
+      "audio": "audio/prepositions/024.mp3",
+      "audioLocal": "audio/prepositions/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic حَبّ (ḥabb)."
+    },
+    {
+      "ka": "აბიტურიენტი",
+      "roman": "abiṭurienṭi",
+      "en": "college applicant, candidate for qualifying examination for admission to a university",
+      "glosses": [
+        "college applicant, candidate for qualifying examination for admission to a university"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/025.mp3",
+      "audioLocal": "audio/prepositions/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Russian абитурие́нт (abiturijént) or German Abiturient."
+    },
+    {
+      "ka": "აბლაკი",
+      "roman": "ablaḳi",
+      "en": "thin, badly knitted",
+      "glosses": [
+        "thin, badly knitted"
+      ],
+      "pos": "adj",
+      "ipa": "[äbɫäkʼi]",
+      "audio": "audio/prepositions/026.mp3",
+      "audioLocal": "audio/prepositions/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic أَبْلَه (ʔablah, “careless; foolish”)."
+    },
+    {
+      "ka": "აბლაყი",
+      "roman": "ablaq̇i",
+      "en": "tall, large but useless person",
+      "glosses": [
+        "tall, large but useless person"
+      ],
+      "pos": "noun",
+      "ipa": "[äbɫäχʼi]",
+      "audio": "audio/prepositions/027.mp3",
+      "audioLocal": "audio/prepositions/027.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "აბლაყის ერთია. არაფერში არ გამოგადგება",
+          "roman": "ablaq̇is ertia. araperši ar gamogadgeba",
+          "en": ""
+        }
+      ],
+      "etymology": "Uncertain"
+    },
+    {
+      "ka": "აბონემენტი",
+      "roman": "abonemenṭi",
+      "en": "season ticket",
+      "glosses": [
+        "season ticket"
+      ],
+      "pos": "noun",
+      "ipa": "[äbo̞ne̞me̞ntʼi]",
+      "audio": "audio/prepositions/028.mp3",
+      "audioLocal": "audio/prepositions/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian абонемент (abonement)."
+    },
+    {
+      "ka": "აბორიგენი",
+      "roman": "aborigeni",
+      "en": "Aborigine",
+      "glosses": [
+        "Aborigine"
+      ],
+      "pos": "noun",
+      "ipa": "[äbo̞ɾiɡe̞ni]",
+      "audio": "audio/prepositions/029.mp3",
+      "audioLocal": "audio/prepositions/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "აბორიგენი ამერიკელი",
+      "roman": "aborigeni ameriḳeli",
+      "en": "Native American, Indigenous American",
+      "glosses": [
+        "Native American, Indigenous American"
+      ],
+      "pos": "noun",
+      "ipa": "[äbo̞ɾiɡe̞ni äme̞ɾikʼe̞li]",
+      "audio": "audio/prepositions/030.mp3",
+      "audioLocal": "audio/prepositions/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბორიგენული",
+      "roman": "aborigenuli",
+      "en": "aboriginal",
+      "glosses": [
+        "aboriginal"
+      ],
+      "pos": "adj",
+      "ipa": "[äbo̞ɾiɡe̞nuli]",
+      "audio": "audio/prepositions/031.mp3",
+      "audioLocal": "audio/prepositions/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბრაში",
+      "roman": "abraši",
+      "en": "a bay horse coat",
+      "glosses": [
+        "a bay horse coat"
+      ],
+      "pos": "adj",
+      "ipa": "[äbɾäʃi]",
+      "audio": "audio/prepositions/032.mp3",
+      "audioLocal": "audio/prepositions/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian ابرش"
+    },
+    {
+      "ka": "აბრევიატურა",
+      "roman": "abreviaṭura",
+      "en": "abbreviation",
+      "glosses": [
+        "abbreviation"
+      ],
+      "pos": "noun",
+      "ipa": "[äbɾe̞viätʼuɾä]",
+      "audio": "audio/prepositions/033.mp3",
+      "audioLocal": "audio/prepositions/033.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "აბსოლუტური მონარქია",
+      "roman": "absoluṭuri monarkia",
+      "en": "absolute monarchy",
+      "glosses": [
+        "absolute monarchy"
+      ],
+      "pos": "noun",
+      "ipa": "[äbso̞ɫutʼuɾi mo̞näɾkʰiä]",
+      "audio": "audio/prepositions/034.mp3",
+      "audioLocal": "audio/prepositions/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბსტრაქცია",
+      "roman": "absṭrakcia",
+      "en": "abstract, abstraction",
+      "glosses": [
+        "abstract, abstraction"
+      ],
+      "pos": "noun",
+      "ipa": "[äbstʼɾäkʰt͡sʰiä]",
+      "audio": "audio/prepositions/035.mp3",
+      "audioLocal": "audio/prepositions/035.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian абстра́кция (abstrákcija)."
+    },
+    {
+      "ka": "აგდებულად",
+      "roman": "agdebulad",
+      "en": "disparagingly",
+      "glosses": [
+        "disparagingly"
+      ],
+      "pos": "adv",
+      "ipa": "[äɡde̞buɫätʰ]",
+      "audio": "audio/prepositions/036.mp3",
+      "audioLocal": "audio/prepositions/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგდებული",
+      "roman": "agdebuli",
+      "en": "contemptuous",
+      "glosses": [
+        "contemptuous"
+      ],
+      "pos": "adj",
+      "ipa": "[äɡde̞buli]",
+      "audio": "audio/prepositions/037.mp3",
+      "audioLocal": "audio/prepositions/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგენტურა",
+      "roman": "agenṭura",
+      "en": "espionage",
+      "glosses": [
+        "espionage"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡe̞ntʼuɾä]",
+      "audio": "audio/prepositions/038.mp3",
+      "audioLocal": "audio/prepositions/038.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგიტატორი",
+      "roman": "agiṭaṭori",
+      "en": "agitator",
+      "glosses": [
+        "agitator"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡitʼätʼo̞ɾi]",
+      "audio": "audio/prepositions/039.mp3",
+      "audioLocal": "audio/prepositions/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგლომერაცია",
+      "roman": "aglomeracia",
+      "en": "agglomeration, conurbation",
+      "glosses": [
+        "agglomeration, conurbation"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡɫo̞me̞ɾät͡sʰiä]",
+      "audio": "audio/prepositions/040.mp3",
+      "audioLocal": "audio/prepositions/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგლუტინაციური",
+      "roman": "agluṭinaciuri",
+      "en": "agglutinative",
+      "glosses": [
+        "agglutinative"
+      ],
+      "pos": "adj",
+      "ipa": "[äɡɫutʼinät͡sʰiuɾi]",
+      "audio": "audio/prepositions/041.mp3",
+      "audioLocal": "audio/prepositions/041.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგნოსტიკოსი",
+      "roman": "agnosṭiḳosi",
+      "en": "agnostic (person)",
+      "glosses": [
+        "agnostic (person)"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡno̞stʼikʼo̞si]",
+      "audio": "audio/prepositions/042.mp3",
+      "audioLocal": "audio/prepositions/042.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Russian агно́стик (agnóstik) + -ოსი (-osi, hellenizing occupational suffix)."
+    },
+    {
+      "ka": "აგონია",
+      "roman": "agonia",
+      "en": "agony",
+      "glosses": [
+        "agony"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡo̞niä]",
+      "audio": "audio/prepositions/043.mp3",
+      "audioLocal": "audio/prepositions/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian агония (agonija)."
+    },
+    {
+      "ka": "აგრარული რევოლუცია",
+      "roman": "agraruli revolucia",
+      "en": "agricultural revolution",
+      "glosses": [
+        "agricultural revolution"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡɾäɾuli ɾe̞vo̞ɫut͡sʰiä]",
+      "audio": "audio/prepositions/044.mp3",
+      "audioLocal": "audio/prepositions/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აგრეთვე",
+      "roman": "agretve",
+      "en": "also, too, likewise",
+      "glosses": [
+        "also, too, likewise"
+      ],
+      "pos": "adv",
+      "ipa": "[äɡɾe̞tʰʷe̞]",
+      "audio": "audio/prepositions/045.mp3",
+      "audioLocal": "audio/prepositions/045.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "იხილეთ აგრეთვე",
+          "roman": "ixilet agretve",
+          "en": "see also"
+        }
+      ],
+      "etymology": "From აგრეთი (agreti) + -ვე (-ve)."
+    },
+    {
+      "ka": "აგრესია",
+      "roman": "agresia",
+      "en": "aggression",
+      "glosses": [
+        "aggression"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡɾe̞siä]",
+      "audio": "audio/prepositions/046.mp3",
+      "audioLocal": "audio/prepositions/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin aggressiō."
+    },
+    {
+      "ka": "აგური",
+      "roman": "aguri",
+      "en": "diamonds",
+      "glosses": [
+        "diamonds"
+      ],
+      "pos": "noun",
+      "ipa": "[äɡuɾi]",
+      "audio": "audio/prepositions/047.mp3",
+      "audioLocal": "audio/prepositions/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian აგური (aguri), see there for more. For the development of the sense “diamonds”, compare Armenian ագուռ (aguṙ, “brick; diamonds”), քյարփինջ (kʻyarpʻinǰ, “brick; diamonds”)."
+    },
+    {
+      "ka": "ადათი",
+      "roman": "adati",
+      "en": "custom",
+      "glosses": [
+        "custom"
+      ],
+      "pos": "noun",
+      "ipa": "[ädätʰi]",
+      "audio": "audio/prepositions/048.mp3",
+      "audioLocal": "audio/prepositions/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Persian عادت."
+    },
+    {
+      "ka": "ადამიანებისადმი",
+      "roman": "adamianebisadmi",
+      "en": "plural postpositional with -ადმი of ადამიანი (adamiani)",
+      "glosses": [
+        "plural postpositional with -ადმი of ადამიანი (adamiani)"
+      ],
+      "pos": "noun",
+      "ipa": "[ädämiäne̞bisädmi]",
+      "audio": "audio/prepositions/049.mp3",
+      "audioLocal": "audio/prepositions/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადამიანების (adamianebis) + -ადმი (-admi)."
+    },
+    {
+      "ka": "ადამიანთა მოდგმა",
+      "roman": "adamianta modgma",
+      "en": "human race, mankind",
+      "glosses": [
+        "human race, mankind"
+      ],
+      "pos": "noun",
+      "ipa": "[ädämiäntʰä mo̞dɡmä]",
+      "audio": "audio/prepositions/050.mp3",
+      "audioLocal": "audio/prepositions/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადამიანთაშორისი",
+      "roman": "adamiantašorisi",
+      "en": "interpersonal",
+      "glosses": [
+        "interpersonal"
+      ],
+      "pos": "adj",
+      "ipa": "[ädämiäntʰäʃo̞ɾisi]",
+      "audio": "audio/prepositions/051.mp3",
+      "audioLocal": "audio/prepositions/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადამიანი",
+      "roman": "adamiani",
+      "en": "human, person",
+      "glosses": [
+        "human, person"
+      ],
+      "pos": "noun",
+      "ipa": "[ädämiäni]",
+      "audio": "audio/prepositions/052.mp3",
+      "audioLocal": "audio/prepositions/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian ადამიანი (adamiani), from Old Georgian ადამეანი (adameani), where the suffix soon shifted to -იანი (cf. ქრისტიანი (krisṭiani)). Equivalent to ადამი (adami) + -იანი (-iani), literally “descendant of Adam, the first human”."
+    },
+    {
+      "ka": "ადამიანის განვითარების ინდექსი",
+      "roman": "adamianis ganvitarebis indeksi",
+      "en": "Human Development Index",
+      "glosses": [
+        "Human Development Index"
+      ],
+      "pos": "noun",
+      "ipa": "[ädämiänis ɡ̊änʷitʰäɾe̞bis inde̞kʰsi]",
+      "audio": "audio/prepositions/053.mp3",
+      "audioLocal": "audio/prepositions/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადამის ვაშლი",
+      "roman": "adamis vašli",
+      "en": "Adam's apple, laryngeal prominence",
+      "glosses": [
+        "Adam's apple, laryngeal prominence"
+      ],
+      "pos": "noun",
+      "ipa": "[ädämis väʃli]",
+      "audio": "audio/prepositions/054.mp3",
+      "audioLocal": "audio/prepositions/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადაპტაცია",
+      "roman": "adaṗṭacia",
+      "en": "adaptation",
+      "glosses": [
+        "adaptation"
+      ],
+      "pos": "noun",
+      "ipa": "[ädäpʼtʼät͡sʰiä]",
+      "audio": "audio/prepositions/055.mp3",
+      "audioLocal": "audio/prepositions/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian адапта́ция (adaptácija)."
+    },
+    {
+      "ka": "ადაშურა",
+      "roman": "adašura",
+      "en": "speed, acceleration",
+      "glosses": [
+        "speed, acceleration"
+      ],
+      "pos": "noun",
+      "ipa": "[ädäʃuɾä]",
+      "audio": "audio/prepositions/056.mp3",
+      "audioLocal": "audio/prepositions/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადგილობითი",
+      "roman": "adgilobiti",
+      "en": "locative (as in locative case)",
+      "glosses": [
+        "locative (as in locative case)"
+      ],
+      "pos": "adj",
+      "ipa": "[ädɡiɫo̞bitʰi]",
+      "audio": "audio/prepositions/057.mp3",
+      "audioLocal": "audio/prepositions/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადგილობა (adgiloba) + -ითი (-iti)."
+    },
+    {
+      "ka": "ადგილობითი ბრუნვა",
+      "roman": "adgilobiti brunva",
+      "en": "the locative case",
+      "glosses": [
+        "the locative case"
+      ],
+      "pos": "noun",
+      "ipa": "[ädɡiɫo̞bitʰi b̥ɾunʷä]",
+      "audio": "audio/prepositions/058.mp3",
+      "audioLocal": "audio/prepositions/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადგილობრივად",
+      "roman": "adgilobrivad",
+      "en": "topically",
+      "glosses": [
+        "topically"
+      ],
+      "pos": "adv",
+      "ipa": "[ädɡiɫo̞bɾivätʰ]",
+      "audio": "audio/prepositions/059.mp3",
+      "audioLocal": "audio/prepositions/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადგილობრივი",
+      "roman": "adgilobrivi",
+      "en": "local, topical, vernacular",
+      "glosses": [
+        "local, topical, vernacular"
+      ],
+      "pos": "adj",
+      "ipa": "[ädɡiɫo̞bɾivi]",
+      "audio": "audio/prepositions/060.mp3",
+      "audioLocal": "audio/prepositions/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადგილობრივი ამერიკელი",
+      "roman": "adgilobrivi ameriḳeli",
+      "en": "Native American, Indigenous American",
+      "glosses": [
+        "Native American, Indigenous American"
+      ],
+      "pos": "noun",
+      "ipa": "[ädɡiɫo̞bɾivi äme̞ɾikʼe̞li]",
+      "audio": "audio/prepositions/061.mp3",
+      "audioLocal": "audio/prepositions/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადგილობრივი მთავრობა",
+      "roman": "adgilobrivi mtavroba",
+      "en": "local government",
+      "glosses": [
+        "local government"
+      ],
+      "pos": "noun",
+      "ipa": "[ädɡiɫo̞bɾivi mtʰävɾo̞bä]",
+      "audio": "audio/prepositions/062.mp3",
+      "audioLocal": "audio/prepositions/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადგილობრივი სახეობა",
+      "roman": "adgilobrivi saxeoba",
+      "en": "native species",
+      "glosses": [
+        "native species"
+      ],
+      "pos": "noun",
+      "ipa": "[ädɡiɫo̞bɾivi säχe̞o̞bä]",
+      "audio": "audio/prepositions/063.mp3",
+      "audioLocal": "audio/prepositions/063.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ეს მცენარე კავკასიის ადგილობრივი სახეობაა.",
+          "roman": "es mcenare ḳavḳasiis adgilobrivi saxeobaa.",
+          "en": "This plant is a native species of the Caucasus."
+        }
+      ],
+      "etymology": "ადგილობრივი (adgilobrivi, “local; native”) + სახეობა (saxeoba, “species”)"
+    },
+    {
+      "ka": "ადგილობრივი ხელისუფლება",
+      "roman": "adgilobrivi xelisupleba",
+      "en": "local government",
+      "glosses": [
+        "local government"
+      ],
+      "pos": "noun",
+      "ipa": "[ädɡiɫo̞bɾivi χe̞lisupʰle̞bä]",
+      "audio": "audio/prepositions/064.mp3",
+      "audioLocal": "audio/prepositions/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადეკვატურად",
+      "roman": "adeḳvaṭurad",
+      "en": "adequately",
+      "glosses": [
+        "adequately"
+      ],
+      "pos": "adv",
+      "ipa": "[äde̞kʼʷätʼuɾätʰ]",
+      "audio": "audio/prepositions/065.mp3",
+      "audioLocal": "audio/prepositions/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადეკვატური",
+      "roman": "adeḳvaṭuri",
+      "en": "adequate",
+      "glosses": [
+        "adequate"
+      ],
+      "pos": "adj",
+      "ipa": "[äde̞kʼʷätʼuɾi]",
+      "audio": "audio/prepositions/066.mp3",
+      "audioLocal": "audio/prepositions/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Latin adaequatus + -ური (-uri), the first part of which likely comes from Russian адеква́тный (adekvátnyj)."
+    },
+    {
+      "ka": "ადვენტი",
+      "roman": "advenṭi",
+      "en": "Advent (Christmas festive season)",
+      "glosses": [
+        "Advent (Christmas festive season)"
+      ],
+      "pos": "noun",
+      "ipa": "[ädʷe̞ntʼi]",
+      "audio": "audio/prepositions/067.mp3",
+      "audioLocal": "audio/prepositions/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადლი",
+      "roman": "adli",
+      "en": "a unit of length equal to about 101,15 cm, later displaced by არშინი (aršini)",
+      "glosses": [
+        "a unit of length equal to about 101,15 cm, later displaced by არშინი (aršini)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/068.mp3",
+      "audioLocal": "audio/prepositions/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic عَدْل (ʕadl, “justice; right measure; in numismatics (coin) of just weight; of equal value”). The sense development is comparable to the one that happened in the hapax Middle Armenian ատիլ (atil, “a unit of weight”) from the same source, if it is not a misspelling for աւղիւ (awłiw)."
+    },
+    {
+      "ka": "ადმინისტრატორი",
+      "roman": "adminisṭraṭori",
+      "en": "administrator",
+      "glosses": [
+        "administrator"
+      ],
+      "pos": "noun",
+      "ipa": "[ädministʼɾätʼo̞ɾi]",
+      "audio": "audio/prepositions/069.mp3",
+      "audioLocal": "audio/prepositions/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადმინისტრაცია",
+      "roman": "adminisṭracia",
+      "en": "administration",
+      "glosses": [
+        "administration"
+      ],
+      "pos": "noun",
+      "ipa": "[ädministʼɾät͡sʰiä]",
+      "audio": "audio/prepositions/070.mp3",
+      "audioLocal": "audio/prepositions/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადმინისტრაციულად",
+      "roman": "adminisṭraciulad",
+      "en": "administratively",
+      "glosses": [
+        "administratively"
+      ],
+      "pos": "adv",
+      "ipa": "[ädministʼɾät͡sʰiuɫätʰ]",
+      "audio": "audio/prepositions/071.mp3",
+      "audioLocal": "audio/prepositions/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადმინისტრაციული",
+      "roman": "adminisṭraciuli",
+      "en": "administrative",
+      "glosses": [
+        "administrative"
+      ],
+      "pos": "adj",
+      "ipa": "[ädministʼɾät͡sʰiuli]",
+      "audio": "audio/prepositions/072.mp3",
+      "audioLocal": "audio/prepositions/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადმინისტრაცია (adminisṭracia) + -ული (-uli)."
+    },
+    {
+      "ka": "ადმინისტრაციული სამართალი",
+      "roman": "adminisṭraciuli samartali",
+      "en": "administrative law",
+      "glosses": [
+        "administrative law"
+      ],
+      "pos": "noun",
+      "ipa": "[ädministʼɾät͡sʰiuli sämäɾtʰäli]",
+      "audio": "audio/prepositions/073.mp3",
+      "audioLocal": "audio/prepositions/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადრე",
+      "roman": "adre",
+      "en": "in the past",
+      "glosses": [
+        "in the past"
+      ],
+      "pos": "adv",
+      "ipa": "[ädɾe̞]",
+      "audio": "audio/prepositions/074.mp3",
+      "audioLocal": "audio/prepositions/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ადრე (adre), from Proto-Georgian-Zan *adr-. Cognate with Mingrelian ორდო (ordo, “morning”), Laz ოდრო (odro), ორდო (ordo, “quick, fast; incessantly”)."
+    },
+    {
+      "ka": "ადრევე",
+      "roman": "adreve",
+      "en": "beforehand, from the start",
+      "glosses": [
+        "beforehand, from the start"
+      ],
+      "pos": "adv",
+      "ipa": "[ädɾe̞ve̞]",
+      "audio": "audio/prepositions/075.mp3",
+      "audioLocal": "audio/prepositions/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადრე (adre, “early, before”) + -ვე (-ve, emphatic suffix)."
+    },
+    {
+      "ka": "ადრენალინი",
+      "roman": "adrenalini",
+      "en": "adrenalin",
+      "glosses": [
+        "adrenalin"
+      ],
+      "pos": "noun",
+      "ipa": "[ädɾe̞nälini]",
+      "audio": "audio/prepositions/076.mp3",
+      "audioLocal": "audio/prepositions/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "ადრეულა",
+      "roman": "adreula",
+      "en": "early (fruit/vegetable/vine variety)",
+      "glosses": [
+        "early (fruit/vegetable/vine variety)"
+      ],
+      "pos": "adj",
+      "ipa": "[ädɾe̞uɫä]",
+      "audio": "audio/prepositions/077.mp3",
+      "audioLocal": "audio/prepositions/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადრე (adre, “early, before”) + -ული (-uli, adjectival suffix) + -ა (-a)."
+    },
+    {
+      "ka": "ადრეულად",
+      "roman": "adreulad",
+      "en": "early, in advance",
+      "glosses": [
+        "early, in advance"
+      ],
+      "pos": "adv",
+      "ipa": "[ädɾe̞uɫätʰ]",
+      "audio": "audio/prepositions/078.mp3",
+      "audioLocal": "audio/prepositions/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადრე (adre, “early, before”) + -ული (-uli, adjectival suffix) + -ად (-ad, adverbial suffix)."
+    },
+    {
+      "ka": "აეროსტატი",
+      "roman": "aerosṭaṭi",
+      "en": "balloon",
+      "glosses": [
+        "balloon"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/079.mp3",
+      "audioLocal": "audio/prepositions/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian аэроста́т (aerostát)."
+    },
+    {
+      "ka": "ავადმყოფი",
+      "roman": "avadmq̇opi",
+      "en": "ill, invalid, sick, unhealthy, valetudinarian",
+      "glosses": [
+        "ill, invalid, sick, unhealthy, valetudinarian"
+      ],
+      "pos": "adj",
+      "ipa": "[ävädmχʼo̞pʰi]",
+      "audio": "audio/prepositions/080.mp3",
+      "audioLocal": "audio/prepositions/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავად (avad, “sickly”) + მყოფი (mq̇opi, “being”)."
+    },
+    {
+      "ka": "ავაზანი",
+      "roman": "avazani",
+      "en": "large, elongated trough under a spring collecting water for the cattle",
+      "glosses": [
+        "large, elongated trough under a spring collecting water for the cattle"
+      ],
+      "pos": "noun",
+      "ipa": "[äväzäni]",
+      "audio": "audio/prepositions/081.mp3",
+      "audioLocal": "audio/prepositions/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ავაზანი (avazani). Doublet of აბაზანა (abazana)."
+    },
+    {
+      "ka": "ავბედითი",
+      "roman": "avbediti",
+      "en": "sinister",
+      "glosses": [
+        "sinister"
+      ],
+      "pos": "adj",
+      "ipa": "[ävbe̞ditʰi]",
+      "audio": "audio/prepositions/082.mp3",
+      "audioLocal": "audio/prepositions/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავდარი",
+      "roman": "avdari",
+      "en": "bad weather, rainy weather",
+      "glosses": [
+        "bad weather, rainy weather"
+      ],
+      "pos": "noun",
+      "ipa": "[ävdäɾi]",
+      "audio": "audio/prepositions/083.mp3",
+      "audioLocal": "audio/prepositions/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავი (avi) + დარი (dari)."
+    },
+    {
+      "ka": "ავზი",
+      "roman": "avzi",
+      "en": "sink, tank",
+      "glosses": [
+        "sink, tank"
+      ],
+      "pos": "noun",
+      "ipa": "[ävzi]",
+      "audio": "audio/prepositions/084.mp3",
+      "audioLocal": "audio/prepositions/084.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავზნიანი",
+      "roman": "avzniani",
+      "en": "ill-natured",
+      "glosses": [
+        "ill-natured"
+      ],
+      "pos": "adj",
+      "ipa": "[ävzniäni]",
+      "audio": "audio/prepositions/085.mp3",
+      "audioLocal": "audio/prepositions/085.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავიაბილეთი",
+      "roman": "aviabileti",
+      "en": "air ticket, airline ticket, flight ticket, plane ticket",
+      "glosses": [
+        "air ticket, airline ticket, flight ticket, plane ticket"
+      ],
+      "pos": "noun",
+      "ipa": "[äviäbile̞tʰi]",
+      "audio": "audio/prepositions/086.mp3",
+      "audioLocal": "audio/prepositions/086.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian авиабиле́т (aviabilét)."
+    },
+    {
+      "ka": "ავიაკომპანია",
+      "roman": "aviaḳomṗania",
+      "en": "airline",
+      "glosses": [
+        "airline"
+      ],
+      "pos": "noun",
+      "ipa": "[äviäkʼo̞mpʼäniä]",
+      "audio": "audio/prepositions/087.mp3",
+      "audioLocal": "audio/prepositions/087.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავიატორი",
+      "roman": "aviaṭori",
+      "en": "aviator",
+      "glosses": [
+        "aviator"
+      ],
+      "pos": "noun",
+      "ipa": "[äviätʼo̞ɾi]",
+      "audio": "audio/prepositions/088.mp3",
+      "audioLocal": "audio/prepositions/088.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian авиа́тор (aviátor), from French aviateur."
+    },
+    {
+      "ka": "ავიაქარხანა",
+      "roman": "aviakarxana",
+      "en": "aircraft factory",
+      "glosses": [
+        "aircraft factory"
+      ],
+      "pos": "noun",
+      "ipa": "[äviäkʰäɾχänä]",
+      "audio": "audio/prepositions/089.mp3",
+      "audioLocal": "audio/prepositions/089.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავიაცია",
+      "roman": "aviacia",
+      "en": "aviation",
+      "glosses": [
+        "aviation"
+      ],
+      "pos": "noun",
+      "ipa": "[äviät͡sʰiä]",
+      "audio": "audio/prepositions/090.mp3",
+      "audioLocal": "audio/prepositions/090.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian авиация (aviacija)."
+    },
+    {
+      "ka": "ავიახაზები",
+      "roman": "aviaxazebi",
+      "en": "airlines (usually as a proper noun)",
+      "glosses": [
+        "airlines (usually as a proper noun)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/091.mp3",
+      "audioLocal": "audio/prepositions/091.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავიახაზი",
+      "roman": "aviaxazi",
+      "en": "airline",
+      "glosses": [
+        "airline"
+      ],
+      "pos": "noun",
+      "ipa": "[äviäχäzi]",
+      "audio": "audio/prepositions/092.mp3",
+      "audioLocal": "audio/prepositions/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავინიონი",
+      "roman": "avinioni",
+      "en": "Avignon",
+      "glosses": [
+        "Avignon"
+      ],
+      "pos": "noun",
+      "ipa": "[ävinio̞ni]",
+      "audio": "audio/prepositions/093.mp3",
+      "audioLocal": "audio/prepositions/093.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავისმომასწავებლად",
+      "roman": "avismomasc̣aveblad",
+      "en": "inauspiciously, ominously",
+      "glosses": [
+        "inauspiciously, ominously"
+      ],
+      "pos": "adv",
+      "ipa": "[ävismo̞mäst͡sʼäve̞bɫätʰ]",
+      "audio": "audio/prepositions/094.mp3",
+      "audioLocal": "audio/prepositions/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავკაცი",
+      "roman": "avḳaci",
+      "en": "evil-doer, villain",
+      "glosses": [
+        "evil-doer, villain"
+      ],
+      "pos": "noun",
+      "ipa": "[äfkʼät͡sʰi]",
+      "audio": "audio/prepositions/095.mp3",
+      "audioLocal": "audio/prepositions/095.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავი (avi, “evil”) + კაცი (ḳaci, “man”)."
+    },
+    {
+      "ka": "ავლი",
+      "roman": "avli",
+      "en": "sweepings",
+      "glosses": [
+        "sweepings"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/096.mp3",
+      "audioLocal": "audio/prepositions/096.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Armenian աւել (awel)."
+    },
+    {
+      "ka": "ავსტრალიელი",
+      "roman": "avsṭralieli",
+      "en": "Australian (native or inhabitant of Australia)",
+      "glosses": [
+        "Australian (native or inhabitant of Australia)"
+      ],
+      "pos": "noun",
+      "ipa": "[äfstʼɾälie̞li]",
+      "audio": "audio/prepositions/097.mp3",
+      "audioLocal": "audio/prepositions/097.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავსტრიელი",
+      "roman": "avsṭrieli",
+      "en": "Austrian person",
+      "glosses": [
+        "Austrian person"
+      ],
+      "pos": "noun",
+      "ipa": "[äfstʼɾie̞li]",
+      "audio": "audio/prepositions/098.mp3",
+      "audioLocal": "audio/prepositions/098.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავსტრია (avsṭria) + -ელი (-eli)."
+    },
+    {
+      "ka": "ავტობიოგრაფია",
+      "roman": "avṭobiograpia",
+      "en": "autobiography",
+      "glosses": [
+        "autobiography"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞bio̞ɡɾäpʰiä]",
+      "audio": "audio/prepositions/099.mp3",
+      "audioLocal": "audio/prepositions/099.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტობიოგრაფიულად",
+      "roman": "avṭobiograpiulad",
+      "en": "autobiographically",
+      "glosses": [
+        "autobiographically"
+      ],
+      "pos": "adv",
+      "ipa": "[äftʼo̞bio̞ɡɾäpʰiuɫätʰ]",
+      "audio": "audio/prepositions/100.mp3",
+      "audioLocal": "audio/prepositions/100.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავტობიოგრაფიული (avṭobiograpiuli) + -ად (-ad)."
+    },
+    {
+      "ka": "ავტობიოგრაფიული",
+      "roman": "avṭobiograpiuli",
+      "en": "autobiographic, autobiographical",
+      "glosses": [
+        "autobiographic, autobiographical"
+      ],
+      "pos": "adj",
+      "ipa": "[äftʼo̞bio̞ɡɾäpʰiuli]",
+      "audio": "audio/prepositions/101.mp3",
+      "audioLocal": "audio/prepositions/101.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავტობიოგრაფია (avṭobiograpia) + -ული (-uli)."
+    },
+    {
+      "ka": "ავტობუსის გაჩერება",
+      "roman": "avṭobusis gačereba",
+      "en": "bus stop",
+      "glosses": [
+        "bus stop"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞busis ɡ̊ät͡ʃʰe̞ɾe̞bä]",
+      "audio": "audio/prepositions/102.mp3",
+      "audioLocal": "audio/prepositions/102.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტობუსში",
+      "roman": "avṭobusši",
+      "en": "postpositional suffixed with -ში of ავტობუსი (avṭobusi)",
+      "glosses": [
+        "postpositional suffixed with -ში of ავტობუსი (avṭobusi)"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞busʃi]",
+      "audio": "audio/prepositions/103.mp3",
+      "audioLocal": "audio/prepositions/103.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოგრაფი",
+      "roman": "avṭograpi",
+      "en": "autograph",
+      "glosses": [
+        "autograph"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞ɡɾäpʰi]",
+      "audio": "audio/prepositions/104.mp3",
+      "audioLocal": "audio/prepositions/104.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian авто́граф (avtógraf)."
+    },
+    {
+      "ka": "ავტოკალამი",
+      "roman": "avṭoḳalami",
+      "en": "fountain pen",
+      "glosses": [
+        "fountain pen"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞kʼäɫämi]",
+      "audio": "audio/prepositions/105.mp3",
+      "audioLocal": "audio/prepositions/105.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოკეფალია",
+      "roman": "avṭoḳepalia",
+      "en": "autocephaly",
+      "glosses": [
+        "autocephaly"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞kʼe̞pʰäliä]",
+      "audio": "audio/prepositions/106.mp3",
+      "audioLocal": "audio/prepositions/106.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოკეფალიური",
+      "roman": "avṭoḳepaliuri",
+      "en": "autocephalous, autocephalic",
+      "glosses": [
+        "autocephalous, autocephalic"
+      ],
+      "pos": "adj",
+      "ipa": "[äftʼo̞kʼe̞pʰäliuɾi]",
+      "audio": "audio/prepositions/107.mp3",
+      "audioLocal": "audio/prepositions/107.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავტოკეფალია (avṭoḳepalia) + -ური (-uri)."
+    },
+    {
+      "ka": "ავტოკეფალურობა",
+      "roman": "avṭoḳepaluroba",
+      "en": "autocephality",
+      "glosses": [
+        "autocephality"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞kʼe̞pʰäɫuɾo̞bä]",
+      "audio": "audio/prepositions/108.mp3",
+      "audioLocal": "audio/prepositions/108.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოკოლონა",
+      "roman": "avṭoḳolona",
+      "en": "motorcade",
+      "glosses": [
+        "motorcade"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞kʼo̞ɫo̞nä]",
+      "audio": "audio/prepositions/109.mp3",
+      "audioLocal": "audio/prepositions/109.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოკრატი",
+      "roman": "avṭoḳraṭi",
+      "en": "autocrat",
+      "glosses": [
+        "autocrat"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞kʼɾätʼi]",
+      "audio": "audio/prepositions/110.mp3",
+      "audioLocal": "audio/prepositions/110.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოკრატიზაცია",
+      "roman": "avṭoḳraṭizacia",
+      "en": "autocratization, democratic backsliding",
+      "glosses": [
+        "autocratization, democratic backsliding"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞kʼɾätʼizät͡sʰiä]",
+      "audio": "audio/prepositions/111.mp3",
+      "audioLocal": "audio/prepositions/111.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოკრატიული",
+      "roman": "avṭoḳraṭiuli",
+      "en": "autocratic",
+      "glosses": [
+        "autocratic"
+      ],
+      "pos": "adj",
+      "ipa": "[äftʼo̞kʼɾätʼiuli]",
+      "audio": "audio/prepositions/112.mp3",
+      "audioLocal": "audio/prepositions/112.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტომანქანა",
+      "roman": "avṭomankana",
+      "en": "synonym of ავტომობილი (avṭomobili, “automobile, car”)",
+      "glosses": [
+        "synonym of ავტომობილი (avṭomobili, “automobile, car”)"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞mäŋkʰänä]",
+      "audio": "audio/prepositions/113.mp3",
+      "audioLocal": "audio/prepositions/113.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავტო- (avṭo-) + მანქანა (mankana). Possibly a calque of Russian автомаши́на (avtomašína)."
+    },
+    {
+      "ka": "ავტომატარებელი",
+      "roman": "avṭomaṭarebeli",
+      "en": "road train (transport concept)",
+      "glosses": [
+        "road train (transport concept)"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞mätʼäɾe̞be̞li]",
+      "audio": "audio/prepositions/114.mp3",
+      "audioLocal": "audio/prepositions/114.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტომატი",
+      "roman": "avṭomaṭi",
+      "en": "automaton",
+      "glosses": [
+        "automaton"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞mätʼi]",
+      "audio": "audio/prepositions/115.mp3",
+      "audioLocal": "audio/prepositions/115.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian автомат (avtomat)."
+    },
+    {
+      "ka": "ავტომატიზაცია",
+      "roman": "avṭomaṭizacia",
+      "en": "automation",
+      "glosses": [
+        "automation"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞mätʼizät͡sʰiä]",
+      "audio": "audio/prepositions/116.mp3",
+      "audioLocal": "audio/prepositions/116.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტომატურად",
+      "roman": "avṭomaṭurad",
+      "en": "automatically",
+      "glosses": [
+        "automatically"
+      ],
+      "pos": "adv",
+      "ipa": "[äftʼo̞mätʼuɾätʰ]",
+      "audio": "audio/prepositions/117.mp3",
+      "audioLocal": "audio/prepositions/117.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტომატური",
+      "roman": "avṭomaṭuri",
+      "en": "automatic, self-acting",
+      "glosses": [
+        "automatic, self-acting"
+      ],
+      "pos": "adj",
+      "ipa": "[äftʼo̞mätʼuɾi]",
+      "audio": "audio/prepositions/118.mp3",
+      "audioLocal": "audio/prepositions/118.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტომობილი",
+      "roman": "avṭomobili",
+      "en": "automobile, passenger car",
+      "glosses": [
+        "automobile, passenger car"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞mo̞bili]",
+      "audio": "audio/prepositions/119.mp3",
+      "audioLocal": "audio/prepositions/119.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian автомоби́ль (avtomobílʹ), from French automobile."
+    },
+    {
+      "ka": "ავტონომია",
+      "roman": "avṭonomia",
+      "en": "autonomy",
+      "glosses": [
+        "autonomy"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞no̞miä]",
+      "audio": "audio/prepositions/120.mp3",
+      "audioLocal": "audio/prepositions/120.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek αὐτονομία (autonomía)."
+    },
+    {
+      "ka": "ავტონომიური",
+      "roman": "avṭonomiuri",
+      "en": "autonomous",
+      "glosses": [
+        "autonomous"
+      ],
+      "pos": "adj",
+      "ipa": "[äftʼo̞no̞miuɾi]",
+      "audio": "audio/prepositions/121.mp3",
+      "audioLocal": "audio/prepositions/121.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian автономный (avtonomnyj). By surface analysis, ავტონომია (avṭonomia) + -ური (-uri)."
+    },
+    {
+      "ka": "ავტონომიური ოლქი",
+      "roman": "avṭonomiuri olki",
+      "en": "autonomous oblast",
+      "glosses": [
+        "autonomous oblast"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞no̞miuɾi o̞lkʰi]",
+      "audio": "audio/prepositions/122.mp3",
+      "audioLocal": "audio/prepositions/122.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტონომიური საბჭოთა სოციალისტური რესპუბლიკა",
+      "roman": "avṭonomiuri sabč̣ota socialisṭuri resṗubliḳa",
+      "en": "Autonomous Soviet Socialist Republic",
+      "glosses": [
+        "Autonomous Soviet Socialist Republic"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞no̞miuɾi säbt͡ʃʼo̞tʰä so̞t͡sʰiälistʼuɾi ɾe̞spʼublikʼä]",
+      "audio": "audio/prepositions/123.mp3",
+      "audioLocal": "audio/prepositions/123.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტორი",
+      "roman": "avṭori",
+      "en": "author, authoress, originator",
+      "glosses": [
+        "author, authoress, originator"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞ɾi]",
+      "audio": "audio/prepositions/124.mp3",
+      "audioLocal": "audio/prepositions/124.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian автор (avtor)."
+    },
+    {
+      "ka": "ავტორიზაციის ინფორმაცია",
+      "roman": "avṭorizaciis inpormacia",
+      "en": "credentials, login info",
+      "glosses": [
+        "credentials, login info"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞ɾizät͡sʰiis inpʰo̞ɾmät͡sʰiä]",
+      "audio": "audio/prepositions/125.mp3",
+      "audioLocal": "audio/prepositions/125.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტორიზაციის მონაცემები",
+      "roman": "avṭorizaciis monacemebi",
+      "en": "credentials, login data, login info",
+      "glosses": [
+        "credentials, login data, login info"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞ɾizät͡sʰiis mo̞nät͡sʰe̞me̞bi]",
+      "audio": "audio/prepositions/126.mp3",
+      "audioLocal": "audio/prepositions/126.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტორიტეტულად",
+      "roman": "avṭoriṭeṭulad",
+      "en": "authoritatively",
+      "glosses": [
+        "authoritatively"
+      ],
+      "pos": "adv",
+      "ipa": "[äftʼo̞ɾitʼe̞tʼuɫätʰ]",
+      "audio": "audio/prepositions/127.mp3",
+      "audioLocal": "audio/prepositions/127.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტორიტეტული",
+      "roman": "avṭoriṭeṭuli",
+      "en": "authoritative",
+      "glosses": [
+        "authoritative"
+      ],
+      "pos": "adj",
+      "ipa": "[äftʼo̞ɾitʼe̞tʼuli]",
+      "audio": "audio/prepositions/128.mp3",
+      "audioLocal": "audio/prepositions/128.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Calque of Russian авторитетный (avtoritetnyj). By surface analysis, ავტორიტეტი (avṭoriṭeṭi, “authority”) + -ული (-uli, adjective-forming suffix)."
+    },
+    {
+      "ka": "ავტოსადგომი",
+      "roman": "avṭosadgomi",
+      "en": "layby, parking",
+      "glosses": [
+        "layby, parking"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞sädɡo̞mi]",
+      "audio": "audio/prepositions/129.mp3",
+      "audioLocal": "audio/prepositions/129.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოსპორტი",
+      "roman": "avṭosṗorṭi",
+      "en": "motorsport, car racing",
+      "glosses": [
+        "motorsport, car racing"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞spʼo̞ɾtʼi]",
+      "audio": "audio/prepositions/130.mp3",
+      "audioLocal": "audio/prepositions/130.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოსტოპი",
+      "roman": "avṭosṭoṗi",
+      "en": "hitchhiking",
+      "glosses": [
+        "hitchhiking"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞stʼo̞pʼi]",
+      "audio": "audio/prepositions/131.mp3",
+      "audioLocal": "audio/prepositions/131.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავტოსტრადა",
+      "roman": "avṭosṭrada",
+      "en": "autobahn, autostrada, autostrade",
+      "glosses": [
+        "autobahn, autostrada, autostrade"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞stʼɾädä]",
+      "audio": "audio/prepositions/132.mp3",
+      "audioLocal": "audio/prepositions/132.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Italian."
+    },
+    {
+      "ka": "ავტოფობია",
+      "roman": "avṭopobia",
+      "en": "autophobia (fear of being alone)",
+      "glosses": [
+        "autophobia (fear of being alone)"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞pʰo̞biä]",
+      "audio": "audio/prepositions/133.mp3",
+      "audioLocal": "audio/prepositions/133.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავღანელი",
+      "roman": "avɣaneli",
+      "en": "Afghan (a person from Afghanistan)",
+      "glosses": [
+        "Afghan (a person from Afghanistan)"
+      ],
+      "pos": "noun",
+      "ipa": "[ävʁäne̞li]",
+      "audio": "audio/prepositions/134.mp3",
+      "audioLocal": "audio/prepositions/134.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აზარტი",
+      "roman": "azarṭi",
+      "en": "passion (in game)",
+      "glosses": [
+        "passion (in game)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/prepositions/135.mp3",
+      "audioLocal": "audio/prepositions/135.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian аза́рт (azárt), from French hasard."
+    },
+    {
+      "ka": "აზატი",
+      "roman": "azaṭi",
+      "en": "emancipated serf",
+      "glosses": [
+        "emancipated serf"
+      ],
+      "pos": "noun",
+      "ipa": "[äzätʼi]",
+      "audio": "audio/prepositions/136.mp3",
+      "audioLocal": "audio/prepositions/136.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "An Iranian borrowing from Persian آزاد (āzād / âzâd, “independent”). Compare Armenian ազատ (azat)."
+    },
+    {
+      "ka": "აზატობა",
+      "roman": "azaṭoba",
+      "en": "emancipation, freedom (of serfs)",
+      "glosses": [
+        "emancipation, freedom (of serfs)"
+      ],
+      "pos": "noun",
+      "ipa": "[äzätʼo̞bä]",
+      "audio": "audio/prepositions/137.mp3",
+      "audioLocal": "audio/prepositions/137.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აზატი (azaṭi) + -ობა (-oba)."
+    },
+    {
+      "ka": "აზბესტი",
+      "roman": "azbesṭi",
+      "en": "asbestos",
+      "glosses": [
+        "asbestos"
+      ],
+      "pos": "noun",
+      "ipa": "[äzbe̞stʼi]",
+      "audio": "audio/prepositions/138.mp3",
+      "audioLocal": "audio/prepositions/138.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian азбе́ст (azbést), a dated form of асбе́ст (asbést)."
+    },
+    {
+      "ka": "აზერბაიჯანელი",
+      "roman": "azerbaiǯaneli",
+      "en": "Azerbaijani (native or inhabitant of Azerbaijan)",
+      "glosses": [
+        "Azerbaijani (native or inhabitant of Azerbaijan)"
+      ],
+      "pos": "noun",
+      "ipa": "[äze̞ɾbäid͡ʒäne̞li]",
+      "audio": "audio/prepositions/139.mp3",
+      "audioLocal": "audio/prepositions/139.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აზერბაიჯანული",
+      "roman": "azerbaiǯanuli",
+      "en": "Azerbaijani (of, from, or pertaining to Azerbaijan or the Azerbaijani language)",
+      "glosses": [
+        "Azerbaijani (of, from, or pertaining to Azerbaijan or the Azerbaijani language)"
+      ],
+      "pos": "adj",
+      "ipa": "[äze̞ɾbäid͡ʒänuli]",
+      "audio": "audio/prepositions/140.mp3",
+      "audioLocal": "audio/prepositions/140.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აზერბაიჯანი (azerbaiǯani) + -ული (-uli)."
+    },
+    {
+      "ka": "აზიელი",
+      "roman": "azieli",
+      "en": "Asian (person)",
+      "glosses": [
+        "Asian (person)"
+      ],
+      "pos": "noun",
+      "ipa": "[äzie̞li]",
+      "audio": "audio/prepositions/141.mp3",
+      "audioLocal": "audio/prepositions/141.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აზია (azia, “Asia”) + -ელი (-eli)."
+    },
+    {
+      "ka": "აზიზი",
+      "roman": "azizi",
+      "en": "delicate, tender, soft",
+      "glosses": [
+        "delicate, tender, soft"
+      ],
+      "pos": "adj",
+      "ipa": "[äzizi]",
+      "audio": "audio/prepositions/142.mp3",
+      "audioLocal": "audio/prepositions/142.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ისრე აზიზათ არი გაზრდილი, ცოტათიც ქარმა შემოუბეროს, ხელაჩი ავათ გახდება",
+          "roman": "isre azizat ari gazrdili, coṭatic karma šemouberos, xelači avat gaxdeba",
+          "en": "They was raised to delicately that even a slight breeze will make them sick immediately"
+        }
+      ],
+      "etymology": "Ultimately, likely from Arabic عزيز (ʕazīz, “dear”). Compare Armenian ազիզ (aziz)."
+    },
+    {
+      "ka": "აზიური",
+      "roman": "aziuri",
+      "en": "Asian, Asiatic",
+      "glosses": [
+        "Asian, Asiatic"
+      ],
+      "pos": "adj",
+      "ipa": "[äziuɾi]",
+      "audio": "audio/prepositions/143.mp3",
+      "audioLocal": "audio/prepositions/143.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აზმა",
+      "roman": "azma",
+      "en": "praise, glorification, eulogy",
+      "glosses": [
+        "praise, glorification, eulogy"
+      ],
+      "pos": "noun",
+      "ipa": "[äzmä]",
+      "audio": "audio/prepositions/144.mp3",
+      "audioLocal": "audio/prepositions/144.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აზნაური",
+      "roman": "aznauri",
+      "en": "noble, belonging to the aznauri class of Georgian nobility",
+      "glosses": [
+        "noble, belonging to the aznauri class of Georgian nobility"
+      ],
+      "pos": "noun",
+      "ipa": "[äznäuɾi]",
+      "audio": "audio/prepositions/145.mp3",
+      "audioLocal": "audio/prepositions/145.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian აზნაური (aznauri)."
+    },
+    {
+      "ka": "აზრი",
+      "roman": "azri",
+      "en": "opinion",
+      "glosses": [
+        "opinion"
+      ],
+      "pos": "noun",
+      "ipa": "[äzɾi]",
+      "audio": "audio/prepositions/146.mp3",
+      "audioLocal": "audio/prepositions/146.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჰაზრი (hazri)."
+    },
+    {
+      "ka": "აზრიანად",
+      "roman": "azrianad",
+      "en": "meaningfully",
+      "glosses": [
+        "meaningfully"
+      ],
+      "pos": "adv",
+      "ipa": "[äzɾiänätʰ]",
+      "audio": "audio/prepositions/147.mp3",
+      "audioLocal": "audio/prepositions/147.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აზრიანი",
+      "roman": "azriani",
+      "en": "meaningful, reasonable",
+      "glosses": [
+        "meaningful, reasonable"
+      ],
+      "pos": "adj",
+      "ipa": "[äzɾiäni]",
+      "audio": "audio/prepositions/148.mp3",
+      "audioLocal": "audio/prepositions/148.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აზრი (azri) + -იანი (-iani)."
+    },
+    {
+      "ka": "აზრის თავისუფლება",
+      "roman": "azris tavisupleba",
+      "en": "freedom of thought, freedom of opinion",
+      "glosses": [
+        "freedom of thought, freedom of opinion"
+      ],
+      "pos": "noun",
+      "ipa": "[äzɾis tʰävisupʰle̞bä]",
+      "audio": "audio/prepositions/149.mp3",
+      "audioLocal": "audio/prepositions/149.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

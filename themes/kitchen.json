@@ -1,0 +1,2287 @@
+{
+  "id": "kitchen",
+  "name": "Kitchen",
+  "nameKa": "სამზარეულო",
+  "icon": "🍳",
+  "count": 150,
+  "words": [
+    {
+      "ka": "აბრაში",
+      "roman": "abraši",
+      "en": "having white, reddish, brown or black spots.",
+      "glosses": [
+        "having white, reddish, brown or black spots."
+      ],
+      "pos": "adj",
+      "ipa": "[äbɾäʃi]",
+      "audio": "audio/kitchen/000.mp3",
+      "audioLocal": "audio/kitchen/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian ابرش"
+    },
+    {
+      "ka": "ავზი",
+      "roman": "avzi",
+      "en": "sink, tank",
+      "glosses": [
+        "sink, tank"
+      ],
+      "pos": "noun",
+      "ipa": "[ävzi]",
+      "audio": "audio/kitchen/001.mp3",
+      "audioLocal": "audio/kitchen/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ათმაგად",
+      "roman": "atmagad",
+      "en": "decuply",
+      "glosses": [
+        "decuply"
+      ],
+      "pos": "adv",
+      "ipa": "[ätʰmäɡätʰ]",
+      "audio": "audio/kitchen/002.mp3",
+      "audioLocal": "audio/kitchen/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ათმაგი (atmagi) + -ად (-ad)."
+    },
+    {
+      "ka": "ათმაგი",
+      "roman": "atmagi",
+      "en": "decuple, tenfold",
+      "glosses": [
+        "decuple, tenfold"
+      ],
+      "pos": "adj",
+      "ipa": "[ätʰmäɡi]",
+      "audio": "audio/kitchen/003.mp3",
+      "audioLocal": "audio/kitchen/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ათქვეფილი",
+      "roman": "atkvepili",
+      "en": "whisked",
+      "glosses": [
+        "whisked"
+      ],
+      "pos": "adj",
+      "ipa": "[ätʰkʰʷe̞pʰili]",
+      "audio": "audio/kitchen/004.mp3",
+      "audioLocal": "audio/kitchen/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აირღუმელი",
+      "roman": "airɣumeli",
+      "en": "gas-oven",
+      "glosses": [
+        "gas-oven"
+      ],
+      "pos": "noun",
+      "ipa": "[äiɾʁume̞li]",
+      "audio": "audio/kitchen/005.mp3",
+      "audioLocal": "audio/kitchen/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აკომპანირება",
+      "roman": "aḳomṗanireba",
+      "en": "accompaniment",
+      "glosses": [
+        "accompaniment"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʼo̞mpʼäniɾe̞bä]",
+      "audio": "audio/kitchen/006.mp3",
+      "audioLocal": "audio/kitchen/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აკუთა",
+      "roman": "aḳuta",
+      "en": "small oven",
+      "glosses": [
+        "small oven"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʼutʰä]",
+      "audio": "audio/kitchen/007.mp3",
+      "audioLocal": "audio/kitchen/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ossetian агуат (agwat)."
+    },
+    {
+      "ka": "ალერსი",
+      "roman": "alersi",
+      "en": "underwear, underpants",
+      "glosses": [
+        "underwear, underpants"
+      ],
+      "pos": "noun",
+      "ipa": "[äle̞ɾsi]",
+      "audio": "audio/kitchen/008.mp3",
+      "audioLocal": "audio/kitchen/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ალტერნატიული ისტორია",
+      "roman": "alṭernaṭiuli isṭoria",
+      "en": "counterfactual or somehow falsified or embellished history",
+      "glosses": [
+        "counterfactual or somehow falsified or embellished history"
+      ],
+      "pos": "noun",
+      "ipa": "[ältʼe̞ɾnätʼiuli istʼo̞ɾiä]",
+      "audio": "audio/kitchen/009.mp3",
+      "audioLocal": "audio/kitchen/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ამლაყი",
+      "roman": "amlaq̇i",
+      "en": "horse with colored spots.",
+      "glosses": [
+        "horse with colored spots."
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/kitchen/010.mp3",
+      "audioLocal": "audio/kitchen/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic أَبْلَق (ʔablaq, “piebald”)."
+    },
+    {
+      "ka": "ანტიკონტრზომა",
+      "roman": "anṭiḳonṭrzoma",
+      "en": "anticountermeasure",
+      "glosses": [
+        "anticountermeasure"
+      ],
+      "pos": "noun",
+      "ipa": "[äntʼikʼo̞ntʼɾzo̞mä]",
+      "audio": "audio/kitchen/011.mp3",
+      "audioLocal": "audio/kitchen/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ანტი- (anṭi-) + კონტრზომა (ḳonṭrzoma)."
+    },
+    {
+      "ka": "არამართალი",
+      "roman": "aramartali",
+      "en": "unjust, dishonest",
+      "glosses": [
+        "unjust, dishonest"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾämäɾtʰäli]",
+      "audio": "audio/kitchen/012.mp3",
+      "audioLocal": "audio/kitchen/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-, non-”) + მართალი (martali, “true, just”)."
+    },
+    {
+      "ka": "არამზადა",
+      "roman": "aramzada",
+      "en": "swindler, scoundrel, villain, dishonest person",
+      "glosses": [
+        "swindler, scoundrel, villain, dishonest person"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾämzädä]",
+      "audio": "audio/kitchen/013.mp3",
+      "audioLocal": "audio/kitchen/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ჰარამზადა (haramzada), from Persian حرامزاده (harâm-zâda), compound of حرام (harâm, “fornication”) and زاده (zâda, “child”)."
+    },
+    {
+      "ka": "არმაზი",
+      "roman": "armazi",
+      "en": "Armazi (the supreme deity in the Georgian pantheon)",
+      "glosses": [
+        "Armazi (the supreme deity in the Georgian pantheon)"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾmäzi]",
+      "audio": "audio/kitchen/014.mp3",
+      "audioLocal": "audio/kitchen/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არტალა",
+      "roman": "arṭala",
+      "en": "dish made from beef shank",
+      "glosses": [
+        "dish made from beef shank"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾtʼäɫä]",
+      "audio": "audio/kitchen/015.mp3",
+      "audioLocal": "audio/kitchen/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from the Old Anatolian Turkish parent of dialectal Turkish ardala, possibly via Armenian արտալա (artala)."
+    },
+    {
+      "ka": "არშია",
+      "roman": "aršia",
+      "en": "decorative fringe of garments, tablecloths, etc.",
+      "glosses": [
+        "decorative fringe of garments, tablecloths, etc."
+      ],
+      "pos": "noun",
+      "ipa": "[äɾʃiä]",
+      "audio": "audio/kitchen/016.mp3",
+      "audioLocal": "audio/kitchen/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აქანდაზი",
+      "roman": "akandazi",
+      "en": "dustpan, scoop",
+      "glosses": [
+        "dustpan, scoop"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʰändäzi]",
+      "audio": "audio/kitchen/017.mp3",
+      "audioLocal": "audio/kitchen/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Persian خاکانداز (xâkandâz). The absence of ხ- (x-) is probably explained by a borrowing from the dialectal form hâkandâz recorded by Asatrian in Central Iran."
+    },
+    {
+      "ka": "ახალზელანდიური",
+      "roman": "axalzelandiuri",
+      "en": "of New Zealand, New Zealandic, New Zealandish",
+      "glosses": [
+        "of New Zealand, New Zealandic, New Zealandish"
+      ],
+      "pos": "adj",
+      "ipa": "[äχälze̞ɫändiuɾi]",
+      "audio": "audio/kitchen/018.mp3",
+      "audioLocal": "audio/kitchen/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბავშვურად",
+      "roman": "bavšvurad",
+      "en": "childishly",
+      "glosses": [
+        "childishly"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥äfʃʷuɾätʰ]",
+      "audio": "audio/kitchen/019.mp3",
+      "audioLocal": "audio/kitchen/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბავშვური",
+      "roman": "bavšvuri",
+      "en": "childish, puerile, childlike",
+      "glosses": [
+        "childish, puerile, childlike"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥äfʃʷuɾi]",
+      "audio": "audio/kitchen/020.mp3",
+      "audioLocal": "audio/kitchen/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბავშვი (bavšvi) + -ური (-uri)."
+    },
+    {
+      "ka": "ბაია",
+      "roman": "baia",
+      "en": "buttercup",
+      "glosses": [
+        "buttercup"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äiä]",
+      "audio": "audio/kitchen/021.mp3",
+      "audioLocal": "audio/kitchen/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Compare Mingrelian ბაიე (baie)."
+    },
+    {
+      "ka": "ბაკანა",
+      "roman": "baḳana",
+      "en": "wooden or clay bowl",
+      "glosses": [
+        "wooden or clay bowl"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äkʼänä]",
+      "audio": "audio/kitchen/022.mp3",
+      "audioLocal": "audio/kitchen/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Presumably from ბაკანი (baḳani) + -ა (-a)."
+    },
+    {
+      "ka": "ბაჟა",
+      "roman": "baža",
+      "en": "sour sauce for meat dishes",
+      "glosses": [
+        "sour sauce for meat dishes"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äʒä]",
+      "audio": "audio/kitchen/023.mp3",
+      "audioLocal": "audio/kitchen/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბარომეტრი",
+      "roman": "baromeṭri",
+      "en": "barometer, weather-glass",
+      "glosses": [
+        "barometer, weather-glass"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äɾo̞me̞tʼɾi]",
+      "audio": "audio/kitchen/024.mp3",
+      "audioLocal": "audio/kitchen/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ბატატი",
+      "roman": "baṭaṭi",
+      "en": "sweet potato",
+      "glosses": [
+        "sweet potato"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ätʼätʼi]",
+      "audio": "audio/kitchen/025.mp3",
+      "audioLocal": "audio/kitchen/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბერა",
+      "roman": "bera",
+      "en": "base, goal, spot, marked place (in children’s games: to hit a ball, to stand with eyes shut, etc.)",
+      "glosses": [
+        "base, goal, spot, marked place (in children’s games: to hit a ball, to stand with eyes shut, etc.)"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞ɾä]",
+      "audio": "audio/kitchen/026.mp3",
+      "audioLocal": "audio/kitchen/026.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ბავშვებს ბერად მუხის ხე აერჩიათ",
+          "roman": "bavšvebs berad muxis xe aerčiat",
+          "en": "The children have chosen an oak tree as a spot"
+        },
+        {
+          "ka": "გახსოვს, აქ რომ ბურთობას თამაშობდი და მე მუდამ «ბერა ქვად» დამნიშნავდით ხოლმე",
+          "roman": "gaxsovs, ak rom burtobas tamašobdi da me mudam «bera kvad» damnišnavdit xolme",
+          "en": "Do you remember how you used to play ball here and always made me be the \"base rock\"?"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "ბეჰემოთი",
+      "roman": "behemoti",
+      "en": "hippopotamus",
+      "glosses": [
+        "hippopotamus"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞he̞mo̞tʰi]",
+      "audio": "audio/kitchen/027.mp3",
+      "audioLocal": "audio/kitchen/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Hebrew בְּהֵמוֹת (behemót)."
+    },
+    {
+      "ka": "ბიზნესი",
+      "roman": "biznesi",
+      "en": "business, company, commercial enterprise",
+      "glosses": [
+        "business, company, commercial enterprise"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥izne̞si]",
+      "audio": "audio/kitchen/028.mp3",
+      "audioLocal": "audio/kitchen/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English business."
+    },
+    {
+      "ka": "ბლინი",
+      "roman": "blini",
+      "en": "pancake",
+      "glosses": [
+        "pancake"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/kitchen/029.mp3",
+      "audioLocal": "audio/kitchen/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian блин (blin)."
+    },
+    {
+      "ka": "ბოვი",
+      "roman": "bovi",
+      "en": "cupola furnace",
+      "glosses": [
+        "cupola furnace"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥o̞vi]",
+      "audio": "audio/kitchen/030.mp3",
+      "audioLocal": "audio/kitchen/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Armenian բով (bov, “furnace”)."
+    },
+    {
+      "ka": "ბოლოკი",
+      "roman": "boloḳi",
+      "en": "radish (Raphanus raphanistrum subsp. sativus syn. Raphanus sativus)",
+      "glosses": [
+        "radish (Raphanus raphanistrum subsp. sativus syn. Raphanus sativus)"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥o̞ɫo̞kʼi]",
+      "audio": "audio/kitchen/031.mp3",
+      "audioLocal": "audio/kitchen/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Compare Middle Armenian բողկ (boġk)."
+    },
+    {
+      "ka": "ბოძალი",
+      "roman": "boʒali",
+      "en": "forked tree",
+      "glosses": [
+        "forked tree"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥o̞d͡zäli]",
+      "audio": "audio/kitchen/032.mp3",
+      "audioLocal": "audio/kitchen/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბრაწი",
+      "roman": "brac̣i",
+      "en": "reddish",
+      "glosses": [
+        "reddish"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥ɾät͡sʼi]",
+      "audio": "audio/kitchen/033.mp3",
+      "audioLocal": "audio/kitchen/033.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბრუნი",
+      "roman": "bruni",
+      "en": "rev, span, turn, wind",
+      "glosses": [
+        "rev, span, turn, wind"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ɾuni]",
+      "audio": "audio/kitchen/034.mp3",
+      "audioLocal": "audio/kitchen/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბუფეტი",
+      "roman": "bupeṭi",
+      "en": "china-closet, pantry, sideboard",
+      "glosses": [
+        "china-closet, pantry, sideboard"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥upʰe̞tʼi]",
+      "audio": "audio/kitchen/035.mp3",
+      "audioLocal": "audio/kitchen/035.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian буфет (bufet)."
+    },
+    {
+      "ka": "გაბღენძილი",
+      "roman": "gabɣenʒili",
+      "en": "smug, tumid, swaggered",
+      "glosses": [
+        "smug, tumid, swaggered"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊äbʁe̞nd͡zili]",
+      "audio": "audio/kitchen/036.mp3",
+      "audioLocal": "audio/kitchen/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადაცივება",
+      "roman": "gadaciveba",
+      "en": "overcooling, hypothermia (in general, not necessarily of the body)",
+      "glosses": [
+        "overcooling, hypothermia (in general, not necessarily of the body)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädät͡sʰive̞bä]",
+      "audio": "audio/kitchen/037.mp3",
+      "audioLocal": "audio/kitchen/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადმოსაკონტრრევოლუციონერებლებისნაირებისათვისაცო",
+      "roman": "gadmosaḳonṭrrevolucionereblebisnairebisatvisaco",
+      "en": "said that it is also for those who are like the ones that need to be re-counter-revolutionized",
+      "glosses": [
+        "said that it is also for those who are like the ones that need to be re-counter-revolutionized"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ädmo̞säkʼo̞ntʼɾɾe̞vo̞ɫut͡sʰio̞ne̞ɾe̞ble̞bisnäiɾe̞bisätʰʷisät͡sʰo̞]",
+      "audio": "audio/kitchen/038.mp3",
+      "audioLocal": "audio/kitchen/038.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გადმო- (gadmo-) + სა- (sa-) + კონტრრევოლუციონერი (ḳonṭrrevolucioneri) + -ება (-eba) + -ელი (-eli) + -ები (-ebi) + -ნაირი (-nairi) + -ები (-ebi) + -თვის (-tvis) + -ა (-a) + -ც (-c) + -ო (-o).\nThe word is constructed in the following steps:\n* Nominal root: ḳonṭrrevolucioneri \"a counter-revolutionary\"\n* Denominal verb with preverb: gadmoḳonṭrrevolucionereba \"to re-counter-revolutionize\"\n* Nomina…"
+    },
+    {
+      "ka": "გაზქურა",
+      "roman": "gazkura",
+      "en": "gas-cooker, gas-stove",
+      "glosses": [
+        "gas-cooker, gas-stove"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äzkʰuɾä]",
+      "audio": "audio/kitchen/039.mp3",
+      "audioLocal": "audio/kitchen/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამადიდებელი მინა",
+      "roman": "gamadidebeli mina",
+      "en": "magnifying glass",
+      "glosses": [
+        "magnifying glass"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ämädide̞be̞li minä]",
+      "audio": "audio/kitchen/040.mp3",
+      "audioLocal": "audio/kitchen/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამადიდებელი შუშა",
+      "roman": "gamadidebeli šuša",
+      "en": "magnifying glass",
+      "glosses": [
+        "magnifying glass"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ämädide̞be̞li ʃuʃä]",
+      "audio": "audio/kitchen/041.mp3",
+      "audioLocal": "audio/kitchen/041.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გარნირი",
+      "roman": "garniri",
+      "en": "garnish, side-dish",
+      "glosses": [
+        "garnish, side-dish"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äɾniɾi]",
+      "audio": "audio/kitchen/042.mp3",
+      "audioLocal": "audio/kitchen/042.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გატაცება",
+      "roman": "gaṭaceba",
+      "en": "hobby (i.e. something that captures one's attention and preoccupies one's time)",
+      "glosses": [
+        "hobby (i.e. something that captures one's attention and preoccupies one's time)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ätʼät͡sʰe̞bä]",
+      "audio": "audio/kitchen/043.mp3",
+      "audioLocal": "audio/kitchen/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაყალბება",
+      "roman": "gaq̇albeba",
+      "en": "falsification, fabrication, counterfeiting, faking, forgery",
+      "glosses": [
+        "falsification, fabrication, counterfeiting, faking, forgery"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äχʼälbe̞bä]",
+      "audio": "audio/kitchen/044.mp3",
+      "audioLocal": "audio/kitchen/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ყალბი (q̇albi, “fake”)."
+    },
+    {
+      "ka": "გაჩერება",
+      "roman": "gačereba",
+      "en": "stand (a designated spot where someone or something may stand or wait)",
+      "glosses": [
+        "stand (a designated spot where someone or something may stand or wait)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ät͡ʃʰe̞ɾe̞bä]",
+      "audio": "audio/kitchen/045.mp3",
+      "audioLocal": "audio/kitchen/045.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ტაქსის გაჩერება",
+          "roman": "ṭaksis gačereba",
+          "en": "taxi stand"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "გლუვი",
+      "roman": "gluvi",
+      "en": "glacé, glassy, smooth",
+      "glosses": [
+        "glacé, glassy, smooth"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ɫuvi]",
+      "audio": "audio/kitchen/046.mp3",
+      "audioLocal": "audio/kitchen/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გობი",
+      "roman": "gobi",
+      "en": "Large plate-like wooden container",
+      "glosses": [
+        "Large plate-like wooden container"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊o̞bi]",
+      "audio": "audio/kitchen/047.mp3",
+      "audioLocal": "audio/kitchen/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Proto-Kartvelian *gob-."
+    },
+    {
+      "ka": "გულგატეხილი",
+      "roman": "gulgaṭexili",
+      "en": "broken-hearted, disappointed, downhearted, heartbroken, baffled, disappointed, disheartened, disillusioned, dispirited",
+      "glosses": [
+        "broken-hearted, disappointed, downhearted, heartbroken, baffled, disappointed, disheartened, disillusioned, dispirited"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ulɡätʼe̞χili]",
+      "audio": "audio/kitchen/048.mp3",
+      "audioLocal": "audio/kitchen/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გულ- (gul-) + გატეხილი (gaṭexili)."
+    },
+    {
+      "ka": "გუმბათი",
+      "roman": "gumbati",
+      "en": "cupola, dome",
+      "glosses": [
+        "cupola, dome"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/kitchen/049.mp3",
+      "audioLocal": "audio/kitchen/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Persian gwmbt' (gumbat, gumbad). Compare Persian گنبد (gonbad)."
+    },
+    {
+      "ka": "გუფთა",
+      "roman": "gupta",
+      "en": "kofta (meatball or meatloaf dish)",
+      "glosses": [
+        "kofta (meatball or meatloaf dish)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊upʰtʰä]",
+      "audio": "audio/kitchen/050.mp3",
+      "audioLocal": "audio/kitchen/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაკავებული",
+      "roman": "daḳavebuli",
+      "en": "busy, occupied",
+      "glosses": [
+        "busy, occupied"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äkʼäve̞buli]",
+      "audio": "audio/kitchen/051.mp3",
+      "audioLocal": "audio/kitchen/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დაკავება (daḳaveba) + -ული (-uli, past-passive participle forming suffix)."
+    },
+    {
+      "ka": "დალაბრა",
+      "roman": "dalabra",
+      "en": "blunt (of an axe, knife etc.)",
+      "glosses": [
+        "blunt (of an axe, knife etc.)"
+      ],
+      "pos": "adj",
+      "ipa": null,
+      "audio": "audio/kitchen/052.mp3",
+      "audioLocal": "audio/kitchen/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Vulgar Latin dalabra, from Latin dolābra (“pickaxe”), perhaps via an unattested Byzantine Greek term. Very close in form to Old Armenian դալապր (dalapr) borrowed from the same source.\nThe word must have originally referred to a kind of axe, whence Old Georgian გამოდალაბრვა (gamodalabrva, “to dig, cut, gouge out”)."
+    },
+    {
+      "ka": "დალაქული",
+      "roman": "dalakuli",
+      "en": "specked, spotted, spotty, blotted, spotted",
+      "glosses": [
+        "specked, spotted, spotty, blotted, spotted"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äɫäkʰuli]",
+      "audio": "audio/kitchen/053.mp3",
+      "audioLocal": "audio/kitchen/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამტკიცებული",
+      "roman": "damṭḳicebuli",
+      "en": "proven",
+      "glosses": [
+        "proven"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ämtʼkʼit͡sʰe̞buli]",
+      "audio": "audio/kitchen/054.mp3",
+      "audioLocal": "audio/kitchen/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დამტკიცება (damṭḳiceba) + -ული (-uli, past passive participle-forming suffix)."
+    },
+    {
+      "ka": "დანა",
+      "roman": "dana",
+      "en": "knife",
+      "glosses": [
+        "knife"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥änä]",
+      "audio": "audio/kitchen/055.mp3",
+      "audioLocal": "audio/kitchen/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian დანაკი (danaḳi), from Iranian (see the Old Georgian entry for more). For the development of the ending see -აკი (-aḳi)."
+    },
+    {
+      "ka": "დასაქმებული",
+      "roman": "dasakmebuli",
+      "en": "employed, occupied",
+      "glosses": [
+        "employed, occupied"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äsäkʰme̞buli]",
+      "audio": "audio/kitchen/056.mp3",
+      "audioLocal": "audio/kitchen/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასვენება",
+      "roman": "dasveneba",
+      "en": "rest, relaxation, unburdening, recuperation, repose, recharging, recreation",
+      "glosses": [
+        "rest, relaxation, unburdening, recuperation, repose, recharging, recreation"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äsʷe̞ne̞bä]",
+      "audio": "audio/kitchen/057.mp3",
+      "audioLocal": "audio/kitchen/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაფა",
+      "roman": "dapa",
+      "en": "plate, table, tablet, bench",
+      "glosses": [
+        "plate, table, tablet, bench"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äpʰä]",
+      "audio": "audio/kitchen/058.mp3",
+      "audioLocal": "audio/kitchen/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დახლი",
+      "roman": "daxli",
+      "en": "counter (shop tabletop)",
+      "glosses": [
+        "counter (shop tabletop)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äχli]",
+      "audio": "audio/kitchen/059.mp3",
+      "audioLocal": "audio/kitchen/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Arabic دَخْل (daḵl)."
+    },
+    {
+      "ka": "დესპოტი",
+      "roman": "desṗoṭi",
+      "en": "despot",
+      "glosses": [
+        "despot"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥e̞spʼo̞tʼi]",
+      "audio": "audio/kitchen/060.mp3",
+      "audioLocal": "audio/kitchen/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დესპოტიზმი",
+      "roman": "desṗoṭizmi",
+      "en": "despotism",
+      "glosses": [
+        "despotism"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥e̞spʼo̞tʼizmi]",
+      "audio": "audio/kitchen/061.mp3",
+      "audioLocal": "audio/kitchen/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დესპოტური",
+      "roman": "desṗoṭuri",
+      "en": "despotic, domineering",
+      "glosses": [
+        "despotic, domineering"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥e̞spʼo̞tʼuɾi]",
+      "audio": "audio/kitchen/062.mp3",
+      "audioLocal": "audio/kitchen/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დრონსაწინააღმდეგო",
+      "roman": "dronsac̣inaaɣmdego",
+      "en": "counterdrone, antidrone",
+      "glosses": [
+        "counterdrone, antidrone"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ɾo̞nsät͡sʼinääʁmde̞ɡo̞]",
+      "audio": "audio/kitchen/063.mp3",
+      "audioLocal": "audio/kitchen/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ელარჯი",
+      "roman": "elarǯi",
+      "en": "A traditional Mingrelian dish made from cornmeal and suluguni cheese",
+      "glosses": [
+        "A traditional Mingrelian dish made from cornmeal and suluguni cheese"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞ɫäɾd͡ʒi]",
+      "audio": "audio/kitchen/064.mp3",
+      "audioLocal": "audio/kitchen/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ესპანელი",
+      "roman": "esṗaneli",
+      "en": "Spaniard (Spanish person)",
+      "glosses": [
+        "Spaniard (Spanish person)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞spʼäne̞li]",
+      "audio": "audio/kitchen/065.mp3",
+      "audioLocal": "audio/kitchen/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ესპანეთი (esṗaneti) + -ელი (-eli)."
+    },
+    {
+      "ka": "ესპანური",
+      "roman": "esṗanuri",
+      "en": "Spanish (inanimate things and non-human animals)",
+      "glosses": [
+        "Spanish (inanimate things and non-human animals)"
+      ],
+      "pos": "adj",
+      "ipa": "[e̞spʼänuɾi]",
+      "audio": "audio/kitchen/066.mp3",
+      "audioLocal": "audio/kitchen/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ესპანეთი (esṗaneti) + -ური (-uri)."
+    },
+    {
+      "ka": "ექსპანსიურად",
+      "roman": "eksṗansiurad",
+      "en": "effusively, expansively",
+      "glosses": [
+        "effusively, expansively"
+      ],
+      "pos": "adv",
+      "ipa": "[e̞kʰspʼänsiuɾätʰ]",
+      "audio": "audio/kitchen/067.mp3",
+      "audioLocal": "audio/kitchen/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვადა",
+      "roman": "vada",
+      "en": "term (timespan)",
+      "glosses": [
+        "term (timespan)"
+      ],
+      "pos": "noun",
+      "ipa": "[vädä]",
+      "audio": "audio/kitchen/068.mp3",
+      "audioLocal": "audio/kitchen/068.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ვადის გასვლა",
+          "roman": "vadis gasvla",
+          "en": "expiration"
+        },
+        {
+          "ka": "პრეზიდენტს ოთხი წლის ვადით ირჩევენ.",
+          "roman": "ṗrezidenṭs otxi c̣lis vadit irčeven.",
+          "en": "The president is elected for a 4-year term."
+        }
+      ],
+      "etymology": "Borrowed from Persian وعده."
+    },
+    {
+      "ka": "ვაშტი",
+      "roman": "vašṭi",
+      "en": "company (military unit)",
+      "glosses": [
+        "company (military unit)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/kitchen/069.mp3",
+      "audioLocal": "audio/kitchen/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Armenian վաշտ (vašt)."
+    },
+    {
+      "ka": "ვიტრინა",
+      "roman": "viṭrina",
+      "en": "glass display case",
+      "glosses": [
+        "glass display case"
+      ],
+      "pos": "noun",
+      "ipa": "[vitʼɾinä]",
+      "audio": "audio/kitchen/070.mp3",
+      "audioLocal": "audio/kitchen/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian витрина (vitrina), from French vitrine."
+    },
+    {
+      "ka": "ზარდახშა",
+      "roman": "zardaxša",
+      "en": "cabinet, casket",
+      "glosses": [
+        "cabinet, casket"
+      ],
+      "pos": "noun",
+      "ipa": "[zäɾdäχʃä]",
+      "audio": "audio/kitchen/071.mp3",
+      "audioLocal": "audio/kitchen/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian صندوقچه (sandoqče)."
+    },
+    {
+      "ka": "ზეგანი",
+      "roman": "zegani",
+      "en": "plateau",
+      "glosses": [
+        "plateau"
+      ],
+      "pos": "noun",
+      "ipa": "[ze̞ɡäni]",
+      "audio": "audio/kitchen/072.mp3",
+      "audioLocal": "audio/kitchen/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავისუფალი",
+      "roman": "tavisupali",
+      "en": "free (not currently in use; not taken; unoccupied)",
+      "glosses": [
+        "free (not currently in use; not taken; unoccupied)"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰävisupʰäli]",
+      "audio": "audio/kitchen/073.mp3",
+      "audioLocal": "audio/kitchen/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian თავისუფალი (tavisupali)."
+    },
+    {
+      "ka": "თანაბარძალიანი",
+      "roman": "tanabarʒaliani",
+      "en": "equipotent, equipollent, equivalent",
+      "glosses": [
+        "equipotent, equipollent, equivalent"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰänäbäɾd͡zäliäni]",
+      "audio": "audio/kitchen/074.mp3",
+      "audioLocal": "audio/kitchen/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თანამგზავრი",
+      "roman": "tanamgzavri",
+      "en": "fellow-traveller, travelling companion",
+      "glosses": [
+        "fellow-traveller, travelling companion"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰänämɡzävɾi]",
+      "audio": "audio/kitchen/075.mp3",
+      "audioLocal": "audio/kitchen/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Calque of Russian спу́тник (spútnik). By surface analysis, თანა- (tana-, “co-”) + მგზავრი (mgzavri, “passenger, traveller”)."
+    },
+    {
+      "ka": "თანამოგზაური",
+      "roman": "tanamogzauri",
+      "en": "co-traveller, fellow traveller, travelling companion",
+      "glosses": [
+        "co-traveller, fellow traveller, travelling companion"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰänämo̞ɡzäuɾi]",
+      "audio": "audio/kitchen/076.mp3",
+      "audioLocal": "audio/kitchen/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თანხლება",
+      "roman": "tanxleba",
+      "en": "accompaniment, convoy, convoys, accompanied, convoy, escort, escorts",
+      "glosses": [
+        "accompaniment, convoy, convoys, accompanied, convoy, escort, escorts"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰänχle̞bä]",
+      "audio": "audio/kitchen/077.mp3",
+      "audioLocal": "audio/kitchen/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თარგი",
+      "roman": "targi",
+      "en": "template",
+      "glosses": [
+        "template"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäɾɡi]",
+      "audio": "audio/kitchen/078.mp3",
+      "audioLocal": "audio/kitchen/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თასი",
+      "roman": "tasi",
+      "en": "bowl, chalice",
+      "glosses": [
+        "bowl, chalice"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäsi]",
+      "audio": "audio/kitchen/079.mp3",
+      "audioLocal": "audio/kitchen/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Arabic طَاس (ṭās). See also ტაშტი."
+    },
+    {
+      "ka": "თაშმიჯაბი",
+      "roman": "tašmiǯabi",
+      "en": "A traditional Svan dish",
+      "glosses": [
+        "A traditional Svan dish"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/kitchen/080.mp3",
+      "audioLocal": "audio/kitchen/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თაჯი",
+      "roman": "taǯi",
+      "en": "bread baking tool, convex round cast iron cookware",
+      "glosses": [
+        "bread baking tool, convex round cast iron cookware"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäd͡ʒi]",
+      "audio": "audio/kitchen/081.mp3",
+      "audioLocal": "audio/kitchen/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Arabic تاج (tāj, “crown”)."
+    },
+    {
+      "ka": "თბე",
+      "roman": "tbe",
+      "en": "plate of a millwheel",
+      "glosses": [
+        "plate of a millwheel"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰbe̞]",
+      "audio": "audio/kitchen/082.mp3",
+      "audioLocal": "audio/kitchen/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თეფში",
+      "roman": "tepši",
+      "en": "plate",
+      "glosses": [
+        "plate"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰe̞pʰʃi]",
+      "audio": "audio/kitchen/083.mp3",
+      "audioLocal": "audio/kitchen/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish تپسی (tepsi, “tray”), ultimately from Middle Chinese 疊子 (MC dep tsiX, “plate”)."
+    },
+    {
+      "ka": "თექა",
+      "roman": "teka",
+      "en": "garment woven out of felt",
+      "glosses": [
+        "garment woven out of felt"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰe̞kʰä]",
+      "audio": "audio/kitchen/084.mp3",
+      "audioLocal": "audio/kitchen/084.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თვითკმაყოფილი",
+      "roman": "tvitḳmaq̇opili",
+      "en": "self-satisfied, smug, arrogant",
+      "glosses": [
+        "self-satisfied, smug, arrogant"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰʷitʰkʼmäχʼo̞pʰili]",
+      "audio": "audio/kitchen/085.mp3",
+      "audioLocal": "audio/kitchen/085.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From თვით- (tvit-, “self-”) + კმაყოფილი (ḳmaq̇opili, “content, contented, satisfied”)."
+    },
+    {
+      "ka": "თინათინი",
+      "roman": "tinatini",
+      "en": "the shape shed by a spotlight, spotlight",
+      "glosses": [
+        "the shape shed by a spotlight, spotlight"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰinätʰini]",
+      "audio": "audio/kitchen/086.mp3",
+      "audioLocal": "audio/kitchen/086.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Attested in The Knight in the Panther's Skin as the name of a character."
+    },
+    {
+      "ka": "თირი",
+      "roman": "tiri",
+      "en": "Gray floppy stone, usually used to make pots",
+      "glosses": [
+        "Gray floppy stone, usually used to make pots"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰiɾi]",
+      "audio": "audio/kitchen/087.mp3",
+      "audioLocal": "audio/kitchen/087.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თუნუქი",
+      "roman": "tunuki",
+      "en": "tin-plate",
+      "glosses": [
+        "tin-plate"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰunukʰi]",
+      "audio": "audio/kitchen/088.mp3",
+      "audioLocal": "audio/kitchen/088.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Classical Persian تُنُک (tunuk)."
+    },
+    {
+      "ka": "თუშფალანგი",
+      "roman": "tušpalangi",
+      "en": "colander, cullender",
+      "glosses": [
+        "colander, cullender"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰuʃpʰäɫäŋɡi]",
+      "audio": "audio/kitchen/089.mp3",
+      "audioLocal": "audio/kitchen/089.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იაპონელი",
+      "roman": "iaṗoneli",
+      "en": "Japanese (native or inhabitant of Japan)",
+      "glosses": [
+        "Japanese (native or inhabitant of Japan)"
+      ],
+      "pos": "noun",
+      "ipa": "[iäpʼo̞ne̞li]",
+      "audio": "audio/kitchen/090.mp3",
+      "audioLocal": "audio/kitchen/090.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From იაპონ(ია) (iaṗon(ia)) + -ელი (-eli)."
+    },
+    {
+      "ka": "იაპონისტიკა",
+      "roman": "iaṗonisṭiḳa",
+      "en": "Japanese studies, Japanology",
+      "glosses": [
+        "Japanese studies, Japanology"
+      ],
+      "pos": "noun",
+      "ipa": "[iäpʼo̞nistʼikʼä]",
+      "audio": "audio/kitchen/091.mp3",
+      "audioLocal": "audio/kitchen/091.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იაპონოლოგია",
+      "roman": "iaṗonologia",
+      "en": "Japanology, Japanese studies",
+      "glosses": [
+        "Japanology, Japanese studies"
+      ],
+      "pos": "noun",
+      "ipa": "[iäpʼo̞no̞ɫo̞ɡiä]",
+      "audio": "audio/kitchen/092.mp3",
+      "audioLocal": "audio/kitchen/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იაპონური",
+      "roman": "iaṗonuri",
+      "en": "Japanese",
+      "glosses": [
+        "Japanese"
+      ],
+      "pos": "adj",
+      "ipa": "[iäpʼo̞nuɾi]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/Ka-%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98.ogg/Ka-%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98.ogg.mp3",
+      "audioLocal": "audio/kitchen/093.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "From იაპონ(ია) (iaṗon(ia)) + -ური (-uri)."
+    },
+    {
+      "ka": "იმპოტენცია",
+      "roman": "imṗoṭencia",
+      "en": "impotence",
+      "glosses": [
+        "impotence"
+      ],
+      "pos": "noun",
+      "ipa": "[impʼo̞tʼe̞nt͡sʰiä]",
+      "audio": "audio/kitchen/094.mp3",
+      "audioLocal": "audio/kitchen/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "ირაო",
+      "roman": "irao",
+      "en": "stray cattle",
+      "glosses": [
+        "stray cattle"
+      ],
+      "pos": "noun",
+      "ipa": "[iɾäo̞]",
+      "audio": "audio/kitchen/095.mp3",
+      "audioLocal": "audio/kitchen/095.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კაბინეტი",
+      "roman": "ḳabineṭi",
+      "en": "cabinet, room, office",
+      "glosses": [
+        "cabinet, room, office"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäbine̞tʼi]",
+      "audio": "audio/kitchen/096.mp3",
+      "audioLocal": "audio/kitchen/096.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "კათხა",
+      "roman": "ḳatxa",
+      "en": "pint glass (a vessel for drinking beer or wine)",
+      "glosses": [
+        "pint glass (a vessel for drinking beer or wine)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼätʰχä]",
+      "audio": "audio/kitchen/097.mp3",
+      "audioLocal": "audio/kitchen/097.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კათხაჲ (ḳatxay), from Proto-Kartvelian *ḳatx-. Doublet of კოთხო (ḳotxo)."
+    },
+    {
+      "ka": "კალათა",
+      "roman": "ḳalata",
+      "en": "basket, pannier",
+      "glosses": [
+        "basket, pannier"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɫätʰä]",
+      "audio": "audio/kitchen/098.mp3",
+      "audioLocal": "audio/kitchen/098.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek κάλαθος (kálathos)."
+    },
+    {
+      "ka": "კალიუმი",
+      "roman": "ḳaliumi",
+      "en": "potassium",
+      "glosses": [
+        "potassium"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäliumi]",
+      "audio": "audio/kitchen/099.mp3",
+      "audioLocal": "audio/kitchen/099.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კამერტონი",
+      "roman": "ḳamerṭoni",
+      "en": "tuning-fork",
+      "glosses": [
+        "tuning-fork"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäme̞ɾtʼo̞ni]",
+      "audio": "audio/kitchen/100.mp3",
+      "audioLocal": "audio/kitchen/100.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From German."
+    },
+    {
+      "ka": "კამპანია",
+      "roman": "ḳamṗania",
+      "en": "Campania",
+      "glosses": [
+        "Campania"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼämpʼäniä]",
+      "audio": "audio/kitchen/101.mp3",
+      "audioLocal": "audio/kitchen/101.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კარადა",
+      "roman": "ḳarada",
+      "en": "cupboard, wardrobe, closet",
+      "glosses": [
+        "cupboard, wardrobe, closet"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɾädä]",
+      "audio": "audio/kitchen/102.mp3",
+      "audioLocal": "audio/kitchen/102.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კარტოფილი",
+      "roman": "ḳarṭopili",
+      "en": "potato",
+      "glosses": [
+        "potato"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɾtʼo̞pʰili]",
+      "audio": "audio/kitchen/103.mp3",
+      "audioLocal": "audio/kitchen/103.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian карто́фель (kartófelʹ). Compare Armenian կարտոֆիլ (kartofil), which was borrowed from the same source. Both appear to reflect the use of native [i] to approximate the Russian word’s unstressed ⟨е⟩ (pronounced [ɪ])."
+    },
+    {
+      "ka": "კარტოშკა",
+      "roman": "ḳarṭošḳa",
+      "en": "potato",
+      "glosses": [
+        "potato"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɾtʼo̞ʃkʼä]",
+      "audio": "audio/kitchen/104.mp3",
+      "audioLocal": "audio/kitchen/104.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian карто́шка (kartóška)."
+    },
+    {
+      "ka": "კასტილიური",
+      "roman": "ḳasṭiliuri",
+      "en": "Castilian (of Castile, or relating to the Castile region of Spain or the prestige dialect of Spanish)",
+      "glosses": [
+        "Castilian (of Castile, or relating to the Castile region of Spain or the prestige dialect of Spanish)"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼästʼiliuɾi]",
+      "audio": "audio/kitchen/105.mp3",
+      "audioLocal": "audio/kitchen/105.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კაცობა",
+      "roman": "ḳacoba",
+      "en": "sexual potency",
+      "glosses": [
+        "sexual potency"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼät͡sʰo̞bä]",
+      "audio": "audio/kitchen/106.mp3",
+      "audioLocal": "audio/kitchen/106.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კაცი (ḳaci) + -ობა (-oba)."
+    },
+    {
+      "ka": "კეგლი",
+      "roman": "ḳegli",
+      "en": "skittle, tenpin, ninepin, bowling pin",
+      "glosses": [
+        "skittle, tenpin, ninepin, bowling pin"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼe̞ɡli]",
+      "audio": "audio/kitchen/107.mp3",
+      "audioLocal": "audio/kitchen/107.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From German Kegel."
+    },
+    {
+      "ka": "კერამიკა",
+      "roman": "ḳeramiḳa",
+      "en": "ceramics, potteries, pottery",
+      "glosses": [
+        "ceramics, potteries, pottery"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼe̞ɾämikʼä]",
+      "audio": "audio/kitchen/108.mp3",
+      "audioLocal": "audio/kitchen/108.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "კერძი",
+      "roman": "ḳerʒi",
+      "en": "dish, meal",
+      "glosses": [
+        "dish, meal"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼe̞ɾd͡zi]",
+      "audio": "audio/kitchen/109.mp3",
+      "audioLocal": "audio/kitchen/109.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კეცი",
+      "roman": "ḳeci",
+      "en": "ketsi, earthenware frying pan (usually from clay)",
+      "glosses": [
+        "ketsi, earthenware frying pan (usually from clay)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼe̞t͡sʰi]",
+      "audio": "audio/kitchen/110.mp3",
+      "audioLocal": "audio/kitchen/110.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კვანძი",
+      "roman": "ḳvanʒi",
+      "en": "bowline, node, nodule",
+      "glosses": [
+        "bowline, node, nodule"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼʷänd͡zi]",
+      "audio": "audio/kitchen/111.mp3",
+      "audioLocal": "audio/kitchen/111.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კოვზი",
+      "roman": "ḳovzi",
+      "en": "spoon",
+      "glosses": [
+        "spoon"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞vzi]",
+      "audio": "audio/kitchen/112.mp3",
+      "audioLocal": "audio/kitchen/112.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კოვზი (ḳovzi), from Proto-Georgian-Zan *ḳowz-."
+    },
+    {
+      "ka": "კომპანია",
+      "roman": "ḳomṗania",
+      "en": "company",
+      "glosses": [
+        "company"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mpʼäniä]",
+      "audio": "audio/kitchen/113.mp3",
+      "audioLocal": "audio/kitchen/113.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "კომპანიონი",
+      "roman": "ḳomṗanioni",
+      "en": "associate, companion",
+      "glosses": [
+        "associate, companion"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mpʼänio̞ni]",
+      "audio": "audio/kitchen/114.mp3",
+      "audioLocal": "audio/kitchen/114.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "კომპოტი",
+      "roman": "ḳomṗoṭi",
+      "en": "compote",
+      "glosses": [
+        "compote"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mpʼo̞tʼi]",
+      "audio": "audio/kitchen/115.mp3",
+      "audioLocal": "audio/kitchen/115.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian компо́т (kompót)."
+    },
+    {
+      "ka": "კონკურენტი",
+      "roman": "ḳonḳurenṭi",
+      "en": "competitor (participant in a competition)",
+      "glosses": [
+        "competitor (participant in a competition)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ŋkʼuɾe̞ntʼi]",
+      "audio": "audio/kitchen/116.mp3",
+      "audioLocal": "audio/kitchen/116.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin concurrens."
+    },
+    {
+      "ka": "კონტრაბანდული",
+      "roman": "ḳonṭrabanduli",
+      "en": "contraband, smuggled",
+      "glosses": [
+        "contraband, smuggled"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼo̞ntʼɾäbänduli]",
+      "audio": "audio/kitchen/117.mp3",
+      "audioLocal": "audio/kitchen/117.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრაბანდა (ḳonṭrabanda) + -ული (-uli)."
+    },
+    {
+      "ka": "კონტრაპუნქტი",
+      "roman": "ḳonṭraṗunkṭi",
+      "en": "counterpoint",
+      "glosses": [
+        "counterpoint"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾäpʼuŋkʰtʼi]",
+      "audio": "audio/kitchen/118.mp3",
+      "audioLocal": "audio/kitchen/118.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From German."
+    },
+    {
+      "ka": "კონტრდარტყმა",
+      "roman": "ḳonṭrdarṭq̇ma",
+      "en": "counterstrike",
+      "glosses": [
+        "counterstrike"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾdäɾtʼχʼmä]",
+      "audio": "audio/kitchen/119.mp3",
+      "audioLocal": "audio/kitchen/119.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრ- (ḳonṭr-) + დარტყმა (darṭq̇ma)."
+    },
+    {
+      "ka": "კონტრზომა",
+      "roman": "ḳonṭrzoma",
+      "en": "countermeasure",
+      "glosses": [
+        "countermeasure"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾzo̞mä]",
+      "audio": "audio/kitchen/120.mp3",
+      "audioLocal": "audio/kitchen/120.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრ- (ḳonṭr-) + ზომა (zoma)."
+    },
+    {
+      "ka": "კონტრიერიში",
+      "roman": "ḳonṭrieriši",
+      "en": "counterattack",
+      "glosses": [
+        "counterattack"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾie̞ɾiʃi]",
+      "audio": "audio/kitchen/121.mp3",
+      "audioLocal": "audio/kitchen/121.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კონტრპროდუქტიული",
+      "roman": "ḳonṭrṗrodukṭiuli",
+      "en": "counterproductive",
+      "glosses": [
+        "counterproductive"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼo̞ntʼɾpʼɾo̞dukʰtʼiuli]",
+      "audio": "audio/kitchen/122.mp3",
+      "audioLocal": "audio/kitchen/122.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრ- (ḳonṭr-) + პროდუქტიული (ṗrodukṭiuli)."
+    },
+    {
+      "ka": "კონტრრევოლუციონერი",
+      "roman": "ḳonṭrrevolucioneri",
+      "en": "counterrevolutionary (a person opposing revolution)",
+      "glosses": [
+        "counterrevolutionary (a person opposing revolution)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾɾe̞vo̞ɫut͡sʰio̞ne̞ɾi]",
+      "audio": "audio/kitchen/123.mp3",
+      "audioLocal": "audio/kitchen/123.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრ- (ḳonṭr-) + რევოლუციონერი (revolucioneri)."
+    },
+    {
+      "ka": "კონტრტარიფი",
+      "roman": "ḳonṭrṭaripi",
+      "en": "countertariff",
+      "glosses": [
+        "countertariff"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾtʼäɾipʰi]",
+      "audio": "audio/kitchen/124.mp3",
+      "audioLocal": "audio/kitchen/124.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრ- (ḳonṭr-) + ტარიფი (ṭaripi)."
+    },
+    {
+      "ka": "კონტრშეტევა",
+      "roman": "ḳonṭršeṭeva",
+      "en": "counterattack",
+      "glosses": [
+        "counterattack"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾʃe̞tʼe̞vä]",
+      "audio": "audio/kitchen/125.mp3",
+      "audioLocal": "audio/kitchen/125.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრ- (ḳonṭr-) + შეტევა (šeṭeva)."
+    },
+    {
+      "ka": "კორპორაციული სამართალი",
+      "roman": "ḳorṗoraciuli samartali",
+      "en": "corporate law, company law",
+      "glosses": [
+        "corporate law, company law"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ɾpʼo̞ɾät͡sʰiuli sämäɾtʰäli]",
+      "audio": "audio/kitchen/126.mp3",
+      "audioLocal": "audio/kitchen/126.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კოსმოსური მიკროტალღური ფონი",
+      "roman": "ḳosmosuri miḳroṭalɣuri poni",
+      "en": "cosmic microwave background",
+      "glosses": [
+        "cosmic microwave background"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞smo̞suɾi mikʼɾo̞tʼälʁuɾi pʰo̞ni]",
+      "audio": "audio/kitchen/127.mp3",
+      "audioLocal": "audio/kitchen/127.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კოტოში",
+      "roman": "ḳoṭoši",
+      "en": "(blood-)cupping jar/pot/gourd",
+      "glosses": [
+        "(blood-)cupping jar/pot/gourd"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/kitchen/128.mp3",
+      "audioLocal": "audio/kitchen/128.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Armenian կոտոշ (kotoš)."
+    },
+    {
+      "ka": "ლანგარი",
+      "roman": "langari",
+      "en": "salver, tray",
+      "glosses": [
+        "salver, tray"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäŋɡäɾi]",
+      "audio": "audio/kitchen/129.mp3",
+      "audioLocal": "audio/kitchen/129.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ლაჟვარდი",
+      "roman": "lažvardi",
+      "en": "lapis lazuli (gem with reddish-blue color)",
+      "glosses": [
+        "lapis lazuli (gem with reddish-blue color)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäʒʷäɾdi]",
+      "audio": "audio/kitchen/130.mp3",
+      "audioLocal": "audio/kitchen/130.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Classical Persian لاجورد (lājward)."
+    },
+    {
+      "ka": "ლარნაკი",
+      "roman": "larnaḳi",
+      "en": "bowl, vase",
+      "glosses": [
+        "bowl, vase"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäɾnäkʼi]",
+      "audio": "audio/kitchen/131.mp3",
+      "audioLocal": "audio/kitchen/131.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ლარნაკი (larnaḳi, “cinerary urn, larnax”), which as shown by Ilia Abuladze is borrowed from Ancient Greek λάρναξ (lárnax), together with Old Armenian *լառնակ (*laṙnak), լեառնակ (leaṙnak)."
+    },
+    {
+      "ka": "ლაქა",
+      "roman": "laka",
+      "en": "blob, blot, blotch, blur, fleck, smirch, speck, spot, stain, taint",
+      "glosses": [
+        "blob, blot, blotch, blur, fleck, smirch, speck, spot, stain, taint"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäkʰä]",
+      "audio": "audio/kitchen/132.mp3",
+      "audioLocal": "audio/kitchen/132.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian لکه (lakke)."
+    },
+    {
+      "ka": "ლიტავრა",
+      "roman": "liṭavra",
+      "en": "kettledrum",
+      "glosses": [
+        "kettledrum"
+      ],
+      "pos": "noun",
+      "ipa": "[litʼävɾä]",
+      "audio": "audio/kitchen/133.mp3",
+      "audioLocal": "audio/kitchen/133.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ლობიანი",
+      "roman": "lobiani",
+      "en": "A Georgian dish similar to khachapuri, but filled with beans instead of cheese",
+      "glosses": [
+        "A Georgian dish similar to khachapuri, but filled with beans instead of cheese"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫo̞biäni]",
+      "audio": "audio/kitchen/134.mp3",
+      "audioLocal": "audio/kitchen/134.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ლობიო (lobio) + -იანი (-iani)."
+    },
+    {
+      "ka": "ლოკდაუნი",
+      "roman": "loḳdauni",
+      "en": "lockdown (especially during a pandemic or epidemic)",
+      "glosses": [
+        "lockdown (especially during a pandemic or epidemic)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫo̞kʼdäuni]",
+      "audio": "audio/kitchen/135.mp3",
+      "audioLocal": "audio/kitchen/135.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English lockdown."
+    },
+    {
+      "ka": "ლუპა",
+      "roman": "luṗa",
+      "en": "magnifying glass",
+      "glosses": [
+        "magnifying glass"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫupʼä]",
+      "audio": "audio/kitchen/136.mp3",
+      "audioLocal": "audio/kitchen/136.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian лу́па (lúpa)."
+    },
+    {
+      "ka": "მალი",
+      "roman": "mali",
+      "en": "bay (span, e.g. of a bridge)",
+      "glosses": [
+        "bay (span, e.g. of a bridge)"
+      ],
+      "pos": "noun",
+      "ipa": "[mäli]",
+      "audio": "audio/kitchen/137.mp3",
+      "audioLocal": "audio/kitchen/137.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მამაშა",
+      "roman": "mamaša",
+      "en": "pimp, pander, procuress, bawd",
+      "glosses": [
+        "pimp, pander, procuress, bawd"
+      ],
+      "pos": "noun",
+      "ipa": "[mämäʃä]",
+      "audio": "audio/kitchen/138.mp3",
+      "audioLocal": "audio/kitchen/138.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაჩვზღარბა",
+      "roman": "mačvzɣarba",
+      "en": "porcupine",
+      "glosses": [
+        "porcupine"
+      ],
+      "pos": "noun",
+      "ipa": "[mät͡ʃʰʷzʁäɾbä]",
+      "audio": "audio/kitchen/139.mp3",
+      "audioLocal": "audio/kitchen/139.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაჩიტა",
+      "roman": "mačiṭa",
+      "en": "bell-flower, bluebell, campanula",
+      "glosses": [
+        "bell-flower, bluebell, campanula"
+      ],
+      "pos": "noun",
+      "ipa": "[mät͡ʃʰitʼä]",
+      "audio": "audio/kitchen/140.mp3",
+      "audioLocal": "audio/kitchen/140.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაცივარი",
+      "roman": "macivari",
+      "en": "refrigerator",
+      "glosses": [
+        "refrigerator"
+      ],
+      "pos": "noun",
+      "ipa": "[mät͡sʰiväɾi]",
+      "audio": "audio/kitchen/141.mp3",
+      "audioLocal": "audio/kitchen/141.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეაფთიაქე",
+      "roman": "meaptiake",
+      "en": "apothecary, pharmacist",
+      "glosses": [
+        "apothecary, pharmacist"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞äpʰtʰiäkʰe̞]",
+      "audio": "audio/kitchen/142.mp3",
+      "audioLocal": "audio/kitchen/142.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აფთიაქი (aptiaki, “pharmacy”) + მე- -ე (me- -e, occupational circumfix)."
+    },
+    {
+      "ka": "მებუფეტე",
+      "roman": "mebupeṭe",
+      "en": "pantryman, tapster",
+      "glosses": [
+        "pantryman, tapster"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞bupʰe̞tʼe̞]",
+      "audio": "audio/kitchen/143.mp3",
+      "audioLocal": "audio/kitchen/143.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბუფეტი (bupeṭi, “pantry”) + მე- -ე (me- -e, occupational circumfix)."
+    },
+    {
+      "ka": "მეთუნე",
+      "roman": "metune",
+      "en": "potter",
+      "glosses": [
+        "potter"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞tʰune̞]",
+      "audio": "audio/kitchen/144.mp3",
+      "audioLocal": "audio/kitchen/144.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მელქიორი",
+      "roman": "melkiori",
+      "en": "cupro-nickel",
+      "glosses": [
+        "cupro-nickel"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞lkʰio̞ɾi]",
+      "audio": "audio/kitchen/145.mp3",
+      "audioLocal": "audio/kitchen/145.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მერიქიფე",
+      "roman": "merikipe",
+      "en": "cupbearer",
+      "glosses": [
+        "cupbearer"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞ɾikʰipʰe̞]",
+      "audio": "audio/kitchen/146.mp3",
+      "audioLocal": "audio/kitchen/146.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეშუშე",
+      "roman": "mešuše",
+      "en": "glass-cutter",
+      "glosses": [
+        "glass-cutter"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞ʃuʃe̞]",
+      "audio": "audio/kitchen/147.mp3",
+      "audioLocal": "audio/kitchen/147.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მზარეული",
+      "roman": "mzareuli",
+      "en": "a cook",
+      "glosses": [
+        "a cook"
+      ],
+      "pos": "noun",
+      "ipa": "[mzäɾe̞uli]",
+      "audio": "audio/kitchen/148.mp3",
+      "audioLocal": "audio/kitchen/148.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მზის პანელი",
+      "roman": "mzis ṗaneli",
+      "en": "solar panel",
+      "glosses": [
+        "solar panel"
+      ],
+      "pos": "noun",
+      "ipa": "[mzis pʼäne̞li]",
+      "audio": "audio/kitchen/149.mp3",
+      "audioLocal": "audio/kitchen/149.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

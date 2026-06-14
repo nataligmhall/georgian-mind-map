@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Review — ქართული</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+Georgian:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="shared.css" />
+</head>
+<body class="review-page">
+  <header class="topbar">
+    <a class="back-link" href="index.html">← map</a>
+    <div class="theme-title">
+      <h1>გამეორება</h1>
+      <p>review</p>
+    </div>
+    <div id="count-badge" class="review-badge">0 words</div>
+  </header>
+
+  <main>
+    <div id="empty" class="empty-state" style="display:none">
+      <p>No flagged words yet.</p>
+      <p class="hint">Tap ★ on any word in a theme to add it here.</p>
+      <a href="index.html">browse themes</a>
+    </div>
+
+    <div id="card-wrap" style="display:none">
+      <article class="review-card" id="card">
+        <div class="review-theme" id="card-theme"></div>
+        <div class="review-ka" id="card-ka"></div>
+        <div class="review-sub" id="card-sub"></div>
+        <button class="play-btn review-play" id="play" title="listen">▶</button>
+        <div class="review-en" id="card-en" hidden></div>
+        <button class="reveal-btn" id="reveal">show english</button>
+      </article>
+
+      <div class="review-actions">
+        <button class="action-btn" id="prev">← prev</button>
+        <button class="action-btn accent" id="know">know it</button>
+        <button class="action-btn" id="keep">keep flagged</button>
+        <button class="action-btn" id="next">next →</button>
+      </div>
+      <p class="review-progress" id="progress"></p>
+    </div>
+  </main>
+
+  <script src="dictionary.js"></script>
+  <script src="learning.js"></script>
+  <script>
+    const data = window.DICTIONARY_DATA;
+    let queue = [];
+    let index = 0;
+    let currentAudio = null;
+
+    function reshuffle() {
+      queue = LearningStore.getFlaggedWords(data);
+      for (let i = queue.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [queue[i], queue[j]] = [queue[j], queue[i]];
+      }
+      index = 0;
+      document.getElementById("count-badge").textContent = `${queue.length} words`;
+      document.getElementById("empty").style.display = queue.length ? "none" : "block";
+      document.getElementById("card-wrap").style.display = queue.length ? "block" : "none";
+      if (queue.length) showCard();
+    }
+
+    function showCard() {
+      const w = queue[index];
+      if (!w) { reshuffle(); return; }
+      document.getElementById("card-theme").textContent = w.themeName;
+      document.getElementById("card-ka").textContent = w.ka;
+      document.getElementById("card-sub").textContent = [w.roman, w.pos].filter(Boolean).join(" · ");
+      document.getElementById("card-en").textContent = w.en;
+      document.getElementById("card-en").hidden = true;
+      document.getElementById("reveal").textContent = "show english";
+      document.getElementById("play").disabled = !w.audio;
+      document.getElementById("progress").textContent = `${index + 1} / ${queue.length}`;
+    }
+
+    function playCurrent() {
+      const w = queue[index];
+      if (!w || !w.audio) return;
+      if (currentAudio) currentAudio.pause();
+      const src = w.audio.startsWith("http") ? w.audio : w.audio;
+      currentAudio = new Audio(src);
+      currentAudio.play().catch(() => {});
+    }
+
+    document.getElementById("play").addEventListener("click", playCurrent);
+    document.getElementById("reveal").addEventListener("click", () => {
+      const en = document.getElementById("card-en");
+      en.hidden = !en.hidden;
+      document.getElementById("reveal").textContent = en.hidden ? "show english" : "hide english";
+    });
+
+    document.getElementById("prev").addEventListener("click", () => {
+      if (!queue.length) return;
+      index = (index - 1 + queue.length) % queue.length;
+      showCard();
+    });
+
+    document.getElementById("next").addEventListener("click", () => {
+      if (!queue.length) return;
+      index = (index + 1) % queue.length;
+      showCard();
+    });
+
+    document.getElementById("know").addEventListener("click", () => {
+      const w = queue[index];
+      if (!w) return;
+      LearningStore.toggleKnown(w.themeId, w.ka);
+      queue.splice(index, 1);
+      if (index >= queue.length) index = 0;
+      if (!queue.length) reshuffle();
+      else showCard();
+      document.getElementById("count-badge").textContent = `${queue.length} words`;
+    });
+
+    document.getElementById("keep").addEventListener("click", () => {
+      if (!queue.length) return;
+      index = (index + 1) % queue.length;
+      showCard();
+    });
+
+    reshuffle();
+  </script>
+</body>
+</html>

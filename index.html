@@ -116,6 +116,7 @@
         <h1>ქართული</h1>
         <p id="stats"></p>
         <a href="#" id="browse-toggle">browse themes</a>
+        <a href="review.html" id="review-link">review</a>
       </div>
       <div class="search-wrap">
         <input class="search" id="search" type="search" placeholder="search words" autocomplete="off" />
@@ -128,6 +129,7 @@
   </div>
 
   <script src="dictionary.js"></script>
+  <script src="learning.js"></script>
   <script type="importmap">
   {
     "imports": {
@@ -149,26 +151,44 @@
     const themeMenu = document.getElementById("theme-menu");
     const browseToggle = document.getElementById("browse-toggle");
 
-    const audioCount = data.categories.reduce((n, c) => n + c.words.filter(w => w.audio).length, 0);
-    statsEl.textContent = `${data.stats.themes} themes · ${data.stats.words} words · ${audioCount} audio`;
+    const reviewLink = document.getElementById("review-link");
 
-    const pinned = ["verbs", "phrases", "proverbs"];
-    const menuCategories = [...data.categories].sort((a, b) => {
-      const ai = pinned.indexOf(a.id);
-      const bi = pinned.indexOf(b.id);
-      if (ai >= 0 && bi >= 0) return ai - bi;
-      if (ai >= 0) return -1;
-      if (bi >= 0) return 1;
-      return b.count - a.count;
-    });
+    function updateHeaderStats() {
+      const audioCount = data.categories.reduce((n, c) => n + c.words.filter(w => w.audio).length, 0);
+      const counts = LearningStore.getCounts();
+      statsEl.textContent = `${data.stats.themes} themes · ${data.stats.words} words · ${counts.known} known`;
+      reviewLink.textContent = counts.flagged ? `review (${counts.flagged})` : "review";
+    }
+    updateHeaderStats();
 
-    themeMenu.innerHTML = menuCategories.map(c =>
-      `<a href="${c.page}">${c.name}<span>${c.nameKa} · ${c.count}</span></a>`
-    ).join("");
+    const pinned = ["verbs", "phrases", "proverbs", "adjectives", "adverbs", "time-expressions"];
+    function renderThemeMenu() {
+      const menuCategories = [...data.categories].sort((a, b) => {
+        const ai = pinned.indexOf(a.id);
+        const bi = pinned.indexOf(b.id);
+        if (ai >= 0 && bi >= 0) return ai - bi;
+        if (ai >= 0) return -1;
+        if (bi >= 0) return 1;
+        return b.count - a.count;
+      });
+
+      themeMenu.innerHTML = menuCategories.map(c => {
+        const pct = Math.round(LearningStore.getThemeProgress(c.id, c.count) * 100);
+        return `<a href="${c.page}">${c.name}<span>${c.nameKa} · ${c.count}${pct ? ` · <span class="progress">${pct}% known</span>` : ""}</span></a>`;
+      }).join("");
+    }
+    renderThemeMenu();
 
     browseToggle.addEventListener("click", (e) => {
       e.preventDefault();
       themeMenu.classList.toggle("open");
+    });
+
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") {
+        updateHeaderStats();
+        renderThemeMenu();
+      }
     });
 
     const scene = new THREE.Scene();
@@ -244,13 +264,16 @@
 
     data.categories.forEach((cat, i) => {
       const pos = fibonacciSphere(i, data.categories.length, GLOBE_R);
-      const color = themeColors[i];
+      const baseColor = themeColors[i];
+      const progress = LearningStore.getThemeProgress(cat.id, cat.count);
+      const color = baseColor.clone().lerp(new THREE.Color(0xf4f4f5), progress * 0.55);
       const group = new THREE.Group();
       group.position.copy(pos);
-      group.userData = { category: cat, basePos: pos.clone(), index: i };
+      group.userData = { category: cat, basePos: pos.clone(), index: i, progress };
 
+      const dotSize = 0.22 + progress * 0.18;
       const dot = new THREE.Mesh(
-        new THREE.SphereGeometry(0.26, 14, 14),
+        new THREE.SphereGeometry(dotSize, 14, 14),
         new THREE.MeshBasicMaterial({ color })
       );
       group.add(dot);
@@ -258,7 +281,8 @@
       const label = new CSS2DObject((() => {
         const el = document.createElement("div");
         el.className = "label";
-        el.innerHTML = `<span class="en">${cat.name}</span><span class="ka">${cat.nameKa}</span>`;
+        const pct = progress ? ` · ${Math.round(progress * 100)}%` : "";
+        el.innerHTML = `<span class="en">${cat.name}${pct}</span><span class="ka">${cat.nameKa}</span>`;
         return el;
       })());
       label.position.set(0, 0.7, 0);
@@ -266,7 +290,7 @@
 
       const line = new THREE.Line(
         new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(), pos]),
-        new THREE.LineBasicMaterial({ color, transparent: true, opacity: 0.18 })
+        new THREE.LineBasicMaterial({ color: baseColor, transparent: true, opacity: 0.12 + progress * 0.2 })
       );
       globeGroup.add(line);
       group.userData.line = line;

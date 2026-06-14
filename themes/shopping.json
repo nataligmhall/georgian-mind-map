@@ -1,0 +1,2271 @@
+{
+  "id": "shopping",
+  "name": "Shopping",
+  "nameKa": "შოპინგი",
+  "icon": "🛒",
+  "count": 150,
+  "words": [
+    {
+      "ka": "აბგა",
+      "roman": "abga",
+      "en": "shoulder bag",
+      "glosses": [
+        "shoulder bag"
+      ],
+      "pos": "noun",
+      "ipa": "[äbɡä]",
+      "audio": "audio/shopping/000.mp3",
+      "audioLocal": "audio/shopping/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბი",
+      "roman": "abi",
+      "en": "pill (small portion of a drug or drugs to be taken orally)",
+      "glosses": [
+        "pill (small portion of a drug or drugs to be taken orally)"
+      ],
+      "pos": "noun",
+      "ipa": "[äbi]",
+      "audio": "audio/shopping/001.mp3",
+      "audioLocal": "audio/shopping/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic حَبّ (ḥabb)."
+    },
+    {
+      "ka": "აირბალიში",
+      "roman": "airbališi",
+      "en": "airbag",
+      "glosses": [
+        "airbag"
+      ],
+      "pos": "noun",
+      "ipa": "[äiɾbäliʃi]",
+      "audio": "audio/shopping/002.mp3",
+      "audioLocal": "audio/shopping/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აირი (airi, “air”) + ბალიში (bališi, “pillow”)."
+    },
+    {
+      "ka": "აირწინაღი",
+      "roman": "airc̣inaɣi",
+      "en": "nosebags, gas mask",
+      "glosses": [
+        "nosebags, gas mask"
+      ],
+      "pos": "noun",
+      "ipa": "[äiɾt͡sʼinäʁi]",
+      "audio": "audio/shopping/003.mp3",
+      "audioLocal": "audio/shopping/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აკუთა",
+      "roman": "aḳuta",
+      "en": "small oven",
+      "glosses": [
+        "small oven"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʼutʰä]",
+      "audio": "audio/shopping/004.mp3",
+      "audioLocal": "audio/shopping/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ossetian агуат (agwat)."
+    },
+    {
+      "ka": "ამქარი",
+      "roman": "amkari",
+      "en": "workshop",
+      "glosses": [
+        "workshop"
+      ],
+      "pos": "noun",
+      "ipa": "[ämkʰäɾi]",
+      "audio": "audio/shopping/005.mp3",
+      "audioLocal": "audio/shopping/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian همکار (hamkār, “colleague”). Compare Armenian համքար (hamkʻar)."
+    },
+    {
+      "ka": "არანორმალურად",
+      "roman": "aranormalurad",
+      "en": "abnormally, anomalously, insanely, crazily",
+      "glosses": [
+        "abnormally, anomalously, insanely, crazily"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾäno̞ɾmäɫuɾätʰ]",
+      "audio": "audio/shopping/006.mp3",
+      "audioLocal": "audio/shopping/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + ნორმალურად (normalurad)."
+    },
+    {
+      "ka": "არაფორმალურად",
+      "roman": "arapormalurad",
+      "en": "informally",
+      "glosses": [
+        "informally"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾäpʰo̞ɾmäɫuɾätʰ]",
+      "audio": "audio/shopping/007.mp3",
+      "audioLocal": "audio/shopping/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + ფორმალურად (pormalurad)."
+    },
+    {
+      "ka": "აფთიაქი",
+      "roman": "aptiaki",
+      "en": "pharmacy",
+      "glosses": [
+        "pharmacy"
+      ],
+      "pos": "noun",
+      "ipa": "[äpʰtʰiäkʰi]",
+      "audio": "audio/shopping/008.mp3",
+      "audioLocal": "audio/shopping/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian апте́ка (aptéka) undergoing Georgianization to make the word pronounced more freely."
+    },
+    {
+      "ka": "აწევა",
+      "roman": "ac̣eva",
+      "en": "increasing (rating, prices, temperature/fever)",
+      "glosses": [
+        "increasing (rating, prices, temperature/fever)"
+      ],
+      "pos": "noun",
+      "ipa": "[ät͡sʼe̞vä]",
+      "audio": "audio/shopping/009.mp3",
+      "audioLocal": "audio/shopping/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ა- (a-) + წევა (c̣eva)."
+    },
+    {
+      "ka": "ბაზარი",
+      "roman": "bazari",
+      "en": "bazaar, fair, market",
+      "glosses": [
+        "bazaar, fair, market"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äzäɾi]",
+      "audio": "audio/shopping/010.mp3",
+      "audioLocal": "audio/shopping/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Persian بازار (bâzâr, “bazaar”)."
+    },
+    {
+      "ka": "ბაზმა",
+      "roman": "bazma",
+      "en": "a small oil lamp, typically used to light an icon in a church",
+      "glosses": [
+        "a small oil lamp, typically used to light an icon in a church"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/shopping/011.mp3",
+      "audioLocal": "audio/shopping/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ბაზმაკი (bazmaḳi). For the development of the ending see -აკი (-aḳi)."
+    },
+    {
+      "ka": "ბალბა",
+      "roman": "balba",
+      "en": "mallow",
+      "glosses": [
+        "mallow"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥älbä]",
+      "audio": "audio/shopping/012.mp3",
+      "audioLocal": "audio/shopping/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Unattested in Old Georgian. See Ancient Greek μαλάχη (malákhē) for more."
+    },
+    {
+      "ka": "ბარგი",
+      "roman": "bargi",
+      "en": "baggage",
+      "glosses": [
+        "baggage"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äɾɡi]",
+      "audio": "audio/shopping/013.mp3",
+      "audioLocal": "audio/shopping/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian ბარგი (bargi), from Persian برگ (barg, “tools, utensils, means; wealth”). For the sense development compare Latin instrumentum."
+    },
+    {
+      "ka": "ბაღჩა",
+      "roman": "baɣča",
+      "en": "Small garden",
+      "glosses": [
+        "Small garden"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äʁt͡ʃʰä]",
+      "audio": "audio/shopping/014.mp3",
+      "audioLocal": "audio/shopping/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian باغچه (bâġče, “garden”)."
+    },
+    {
+      "ka": "ბაყალი",
+      "roman": "baq̇ali",
+      "en": "grocer",
+      "glosses": [
+        "grocer"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äχʼäli]",
+      "audio": "audio/shopping/015.mp3",
+      "audioLocal": "audio/shopping/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბესტსელერი",
+      "roman": "besṭseleri",
+      "en": "bestseller",
+      "glosses": [
+        "bestseller"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞stʼse̞le̞ɾi]",
+      "audio": "audio/shopping/016.mp3",
+      "audioLocal": "audio/shopping/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English bestseller."
+    },
+    {
+      "ka": "ბითუმად",
+      "roman": "bitumad",
+      "en": "wholesale",
+      "glosses": [
+        "wholesale"
+      ],
+      "pos": "adv",
+      "ipa": "[b̥itʰumätʰ]",
+      "audio": "audio/shopping/017.mp3",
+      "audioLocal": "audio/shopping/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბოლოქანქარა",
+      "roman": "bolokankara",
+      "en": "wagtail (various small passerine birds)",
+      "glosses": [
+        "wagtail (various small passerine birds)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/shopping/018.mp3",
+      "audioLocal": "audio/shopping/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბოსტანი",
+      "roman": "bosṭani",
+      "en": "market-garden, vegetable garden",
+      "glosses": [
+        "market-garden, vegetable garden"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥o̞stʼäni]",
+      "audio": "audio/shopping/019.mp3",
+      "audioLocal": "audio/shopping/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian بوستان (bustân, “garden”)."
+    },
+    {
+      "ka": "გადაფასება",
+      "roman": "gadapaseba",
+      "en": "price change",
+      "glosses": [
+        "price change"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäpʰäse̞bä]",
+      "audio": "audio/shopping/020.mp3",
+      "audioLocal": "audio/shopping/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადაღეჭილი",
+      "roman": "gadaɣeč̣ili",
+      "en": "discussed, debated, overused so many times that something becomes cliche or of low price",
+      "glosses": [
+        "discussed, debated, overused so many times that something becomes cliche or of low price"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ädäʁe̞t͡ʃʼili]",
+      "audio": "audio/shopping/021.mp3",
+      "audioLocal": "audio/shopping/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Emphatic form დაღეჭილი (daɣeč̣ili, “chewed”)"
+    },
+    {
+      "ka": "გამყიდველი",
+      "roman": "gamq̇idveli",
+      "en": "seller, vendor, salesperson, shop assistant",
+      "glosses": [
+        "seller, vendor, salesperson, shop assistant"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ämχʼidʷe̞li]",
+      "audio": "audio/shopping/022.mp3",
+      "audioLocal": "audio/shopping/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გაყიდვა (gaq̇idva)."
+    },
+    {
+      "ka": "გასავლიანი",
+      "roman": "gasavliani",
+      "en": "marketable, salable, saleable",
+      "glosses": [
+        "marketable, salable, saleable"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊äsävliäni]",
+      "audio": "audio/shopping/023.mp3",
+      "audioLocal": "audio/shopping/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაყიდვების გადასახადი",
+      "roman": "gaq̇idvebis gadasaxadi",
+      "en": "sales tax",
+      "glosses": [
+        "sales tax"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äχʼidʷe̞bis ɡ̊ädäsäχädi]",
+      "audio": "audio/shopping/024.mp3",
+      "audioLocal": "audio/shopping/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაჯერებულობა",
+      "roman": "gaǯerebuloba",
+      "en": "saturation (markets)",
+      "glosses": [
+        "saturation (markets)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äd͡ʒe̞ɾe̞buɫo̞bä]",
+      "audio": "audio/shopping/025.mp3",
+      "audioLocal": "audio/shopping/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გაჯერებული (gaǯerebuli) + -ობა (-oba)."
+    },
+    {
+      "ka": "გეში",
+      "roman": "geši",
+      "en": "small amount of blood coming from a wound",
+      "glosses": [
+        "small amount of blood coming from a wound"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊e̞ʃi]",
+      "audio": "audio/shopping/026.mp3",
+      "audioLocal": "audio/shopping/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გველის წიწილი",
+      "roman": "gvelis c̣ic̣ili",
+      "en": "a small or young snake, snakeling",
+      "glosses": [
+        "a small or young snake, snakeling"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ʷe̞lis t͡sʼit͡sʼili]",
+      "audio": "audio/shopping/027.mp3",
+      "audioLocal": "audio/shopping/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally meaning snake's chick, i.e. snakeling."
+    },
+    {
+      "ka": "გოდორი",
+      "roman": "godori",
+      "en": "a type of large wicker basket",
+      "glosses": [
+        "a type of large wicker basket"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊o̞do̞ɾi]",
+      "audio": "audio/shopping/028.mp3",
+      "audioLocal": "audio/shopping/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გოჯი",
+      "roman": "goǯi",
+      "en": "very little, very small",
+      "glosses": [
+        "very little, very small"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊o̞d͡ʒi]",
+      "audio": "audio/shopping/029.mp3",
+      "audioLocal": "audio/shopping/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian გოჯი (goǯi, “lower leg, foot; unit of measure”)."
+    },
+    {
+      "ka": "გრაფიტი",
+      "roman": "grapiṭi",
+      "en": "black-lead, graphite, plumbago, plumbagos",
+      "glosses": [
+        "black-lead, graphite, plumbago, plumbagos"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ɾäpʰitʼi]",
+      "audio": "audio/shopping/030.mp3",
+      "audioLocal": "audio/shopping/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გრუშა",
+      "roman": "gruša",
+      "en": "punching bag",
+      "glosses": [
+        "punching bag"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ɾuʃä]",
+      "audio": "audio/shopping/031.mp3",
+      "audioLocal": "audio/shopping/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian гру́ша (grúša)."
+    },
+    {
+      "ka": "გუდა",
+      "roman": "guda",
+      "en": "wineskin, leather bag",
+      "glosses": [
+        "wineskin, leather bag"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊udä]",
+      "audio": "audio/shopping/032.mp3",
+      "audioLocal": "audio/shopping/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian გუდაჲ (guday), from Aramaic גּוֹדָא (gōḏā) / ܓܰܘܕܴܐ (gawdā), whence also Arabic جَوْد (jawd), Neo-Babylonian 𒋢𒄖𒁺 (^(kuš)gu-du /⁠gūdu⁠/), and Mingrelian გუდა (guda) and Laz გუდა (guda)."
+    },
+    {
+      "ka": "გუდასტვირი",
+      "roman": "gudasṭviri",
+      "en": "bagpipes",
+      "glosses": [
+        "bagpipes"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊udästʼʷiɾi]",
+      "audio": "audio/shopping/033.mp3",
+      "audioLocal": "audio/shopping/033.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გუდა (guda) + სტვირი (sṭviri)."
+    },
+    {
+      "ka": "დაბალფასიანი",
+      "roman": "dabalpasiani",
+      "en": "low-priced",
+      "glosses": [
+        "low-priced"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äbälpʰäsiäni]",
+      "audio": "audio/shopping/034.mp3",
+      "audioLocal": "audio/shopping/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დათვის ბაზარი",
+      "roman": "datvis bazari",
+      "en": "bearish conditions on the market, bearish market",
+      "glosses": [
+        "bearish conditions on the market, bearish market"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ätʰʷis b̥äzäɾi]",
+      "audio": "audio/shopping/035.mp3",
+      "audioLocal": "audio/shopping/035.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English."
+    },
+    {
+      "ka": "დამთრგუნველად",
+      "roman": "damtrgunvelad",
+      "en": "dismally, oppressively",
+      "glosses": [
+        "dismally, oppressively"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ämtʰɾɡunʷe̞ɫätʰ]",
+      "audio": "audio/shopping/036.mp3",
+      "audioLocal": "audio/shopping/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დახლი",
+      "roman": "daxli",
+      "en": "counter (shop tabletop)",
+      "glosses": [
+        "counter (shop tabletop)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äχli]",
+      "audio": "audio/shopping/037.mp3",
+      "audioLocal": "audio/shopping/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Arabic دَخْل (daḵl)."
+    },
+    {
+      "ka": "დერივატივების ბაზარი",
+      "roman": "derivaṭivebis bazari",
+      "en": "derivatives market",
+      "glosses": [
+        "derivatives market"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥e̞ɾivätʼive̞bis b̥äzäɾi]",
+      "audio": "audio/shopping/038.mp3",
+      "audioLocal": "audio/shopping/038.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English derivatives market."
+    },
+    {
+      "ka": "დუქანი",
+      "roman": "dukani",
+      "en": "shop, store",
+      "glosses": [
+        "shop, store"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ukʰäni]",
+      "audio": "audio/shopping/039.mp3",
+      "audioLocal": "audio/shopping/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic دُكَّان (dukkān)."
+    },
+    {
+      "ka": "ეპისკოპოსი",
+      "roman": "eṗisḳoṗosi",
+      "en": "bishop",
+      "glosses": [
+        "bishop"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞pʼiskʼo̞pʼo̞si]",
+      "audio": "audio/shopping/040.mp3",
+      "audioLocal": "audio/shopping/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek ἐπίσκοπος (epískopos)."
+    },
+    {
+      "ka": "ვაჭარი",
+      "roman": "vač̣ari",
+      "en": "merchant, tradesman",
+      "glosses": [
+        "merchant, tradesman"
+      ],
+      "pos": "noun",
+      "ipa": "[vät͡ʃʼäɾi]",
+      "audio": "audio/shopping/041.mp3",
+      "audioLocal": "audio/shopping/041.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ვაჭარი (vač̣ari)."
+    },
+    {
+      "ka": "ვაჭრობა",
+      "roman": "vač̣roba",
+      "en": "marketing, merchandise, traffic, bargain, chap, trade, traffic",
+      "glosses": [
+        "marketing, merchandise, traffic, bargain, chap, trade, traffic"
+      ],
+      "pos": "noun",
+      "ipa": "[vät͡ʃʼɾo̞bä]",
+      "audio": "audio/shopping/042.mp3",
+      "audioLocal": "audio/shopping/042.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვიტრინა",
+      "roman": "viṭrina",
+      "en": "display window of a shop",
+      "glosses": [
+        "display window of a shop"
+      ],
+      "pos": "noun",
+      "ipa": "[vitʼɾinä]",
+      "audio": "audio/shopping/043.mp3",
+      "audioLocal": "audio/shopping/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian витрина (vitrina), from French vitrine."
+    },
+    {
+      "ka": "ვორქშოპი",
+      "roman": "vorkšoṗi",
+      "en": "workshop",
+      "glosses": [
+        "workshop"
+      ],
+      "pos": "noun",
+      "ipa": "[vo̞ɾkʰʃo̞pʼi]",
+      "audio": "audio/shopping/044.mp3",
+      "audioLocal": "audio/shopping/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English workshop."
+    },
+    {
+      "ka": "ზაზუნა",
+      "roman": "zazuna",
+      "en": "hamster (small, short-tailed European rodent)",
+      "glosses": [
+        "hamster (small, short-tailed European rodent)"
+      ],
+      "pos": "noun",
+      "ipa": "[zäzunä]",
+      "audio": "audio/shopping/045.mp3",
+      "audioLocal": "audio/shopping/045.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავისუფალი ბაზარი",
+      "roman": "tavisupali bazari",
+      "en": "free market",
+      "glosses": [
+        "free market"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰävisupʰäli b̥äzäɾi]",
+      "audio": "audio/shopping/046.mp3",
+      "audioLocal": "audio/shopping/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავკაცი",
+      "roman": "tavḳaci",
+      "en": "head of the village or a small settlement",
+      "glosses": [
+        "head of the village or a small settlement"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäfkʼät͡sʰi]",
+      "audio": "audio/shopping/047.mp3",
+      "audioLocal": "audio/shopping/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From თავი (tavi, “head”) + კაცი (ḳaci, “man”)."
+    },
+    {
+      "ka": "თარფი",
+      "roman": "tarpi",
+      "en": "wicker basket",
+      "glosses": [
+        "wicker basket"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäɾpʰi]",
+      "audio": "audio/shopping/048.mp3",
+      "audioLocal": "audio/shopping/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Old Armenian թարփ (tʻarpʻ)."
+    },
+    {
+      "ka": "თაღლითობა",
+      "roman": "taɣlitoba",
+      "en": "fraud, hocus-pocus, knavery, sell, skullduggery, swindle, trickery, cheat",
+      "glosses": [
+        "fraud, hocus-pocus, knavery, sell, skullduggery, swindle, trickery, cheat"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäʁlitʰo̞bä]",
+      "audio": "audio/shopping/049.mp3",
+      "audioLocal": "audio/shopping/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From თაღლითი (taɣliti) + -ობა (-oba)."
+    },
+    {
+      "ka": "თეზისი",
+      "roman": "tezisi",
+      "en": "a small statement or an argument (of a lecture, report), which is given to people interested beforehand",
+      "glosses": [
+        "a small statement or an argument (of a lecture, report), which is given to people interested beforehand"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰe̞zisi]",
+      "audio": "audio/shopping/050.mp3",
+      "audioLocal": "audio/shopping/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek θέσῐς (thésĭs), most probably via Russian те́зис (thesis)."
+    },
+    {
+      "ka": "თერმულად",
+      "roman": "termulad",
+      "en": "thermally",
+      "glosses": [
+        "thermally"
+      ],
+      "pos": "adv",
+      "ipa": "[tʰe̞ɾmuɫätʰ]",
+      "audio": "audio/shopping/051.mp3",
+      "audioLocal": "audio/shopping/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თოფრა",
+      "roman": "topra",
+      "en": "nosebag",
+      "glosses": [
+        "nosebag"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰo̞pʰɾä]",
+      "audio": "audio/shopping/052.mp3",
+      "audioLocal": "audio/shopping/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Classical Persian توبْرَه (tōbra). Doublet of ტოპრაკი (ṭoṗraḳi)."
+    },
+    {
+      "ka": "იარუსი",
+      "roman": "iarusi",
+      "en": "storey",
+      "glosses": [
+        "storey"
+      ],
+      "pos": "noun",
+      "ipa": "[iäɾusi]",
+      "audio": "audio/shopping/053.mp3",
+      "audioLocal": "audio/shopping/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კაკნატელა",
+      "roman": "ḳaḳnaṭela",
+      "en": "crust of dry bread left on a thone (Georgian bakery)",
+      "glosses": [
+        "crust of dry bread left on a thone (Georgian bakery)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäkʼnätʼe̞ɫä]",
+      "audio": "audio/shopping/054.mp3",
+      "audioLocal": "audio/shopping/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კალათა",
+      "roman": "ḳalata",
+      "en": "basket, pannier",
+      "glosses": [
+        "basket, pannier"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɫätʰä]",
+      "audio": "audio/shopping/055.mp3",
+      "audioLocal": "audio/shopping/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek κάλαθος (kálathos)."
+    },
+    {
+      "ka": "კალათბურთელი",
+      "roman": "ḳalatburteli",
+      "en": "basketballer, basketball player",
+      "glosses": [
+        "basketballer, basketball player"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɫätʰbuɾtʰe̞li]",
+      "audio": "audio/shopping/056.mp3",
+      "audioLocal": "audio/shopping/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კალათბურთი (ḳalatburti, “basketball”) + -ელი (-eli)."
+    },
+    {
+      "ka": "კალათბურთი",
+      "roman": "ḳalatburti",
+      "en": "basketball",
+      "glosses": [
+        "basketball"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɫätʰbuɾtʰi]",
+      "audio": "audio/shopping/057.mp3",
+      "audioLocal": "audio/shopping/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კალათი (ḳalati) + ბურთი (burti)."
+    },
+    {
+      "ka": "კალათი",
+      "roman": "ḳalati",
+      "en": "basket",
+      "glosses": [
+        "basket"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɫätʰi]",
+      "audio": "audio/shopping/058.mp3",
+      "audioLocal": "audio/shopping/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek κάλαθος (kálathos)."
+    },
+    {
+      "ka": "კალია",
+      "roman": "ḳalia",
+      "en": "grasshopper",
+      "glosses": [
+        "grasshopper"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäliä]",
+      "audio": "audio/shopping/059.mp3",
+      "audioLocal": "audio/shopping/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მკალი (mḳali), from Proto-Georgian-Zan *ḳal-. Cognate with Mingrelian კოლი (ḳoli) and Laz კოლი (ǩoli), ნკოლი (nǩoli), მკოლი (mǩoli)."
+    },
+    {
+      "ka": "კაპიკი",
+      "roman": "ḳaṗiḳi",
+      "en": "dime (A small amount of money)",
+      "glosses": [
+        "dime (A small amount of money)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäpʼikʼi]",
+      "audio": "audio/shopping/060.mp3",
+      "audioLocal": "audio/shopping/060.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "კაპიკი ფული არ მაქვს.",
+          "roman": "ḳaṗiḳi puli ar makvs.",
+          "en": "I don't have a dime (of money)."
+        }
+      ],
+      "etymology": "Borrowed from Russian копе́йка (kopéjka)."
+    },
+    {
+      "ka": "კაპიტალის ბაზარი",
+      "roman": "ḳaṗiṭalis bazari",
+      "en": "capital market",
+      "glosses": [
+        "capital market"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäpʼitʼälis b̥äzäɾi]",
+      "audio": "audio/shopping/061.mp3",
+      "audioLocal": "audio/shopping/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კაპრიზი",
+      "roman": "ḳaṗrizi",
+      "en": "caprice, vagary, whim",
+      "glosses": [
+        "caprice, vagary, whim"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäpʼɾizi]",
+      "audio": "audio/shopping/062.mp3",
+      "audioLocal": "audio/shopping/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "კოკორი",
+      "roman": "ḳoḳori",
+      "en": "small round loaf (of bread)",
+      "glosses": [
+        "small round loaf (of bread)"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞kʼo̞ɾi]",
+      "audio": "audio/shopping/063.mp3",
+      "audioLocal": "audio/shopping/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Akin to Middle Armenian կոկոռ (kokoṙ, “water lily”)."
+    },
+    {
+      "ka": "კომბოსტო",
+      "roman": "ḳombosṭo",
+      "en": "cabbage",
+      "glosses": [
+        "cabbage"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mbo̞stʼo̞]",
+      "audio": "audio/shopping/064.mp3",
+      "audioLocal": "audio/shopping/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin composta."
+    },
+    {
+      "ka": "კუ",
+      "roman": "ḳu",
+      "en": "bishop",
+      "glosses": [
+        "bishop"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼu]",
+      "audio": "audio/shopping/065.mp3",
+      "audioLocal": "audio/shopping/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კუჲ (ḳuy), კუვი (ḳuvi), from Proto-Georgian-Zan *ḳu-."
+    },
+    {
+      "ka": "ლიკვიდაცია",
+      "roman": "liḳvidacia",
+      "en": "liquidation (the selling of the assets of a business as part of the process of dissolving the business)",
+      "glosses": [
+        "liquidation (the selling of the assets of a business as part of the process of dissolving the business)"
+      ],
+      "pos": "noun",
+      "ipa": "[likʼʷidät͡sʰiä]",
+      "audio": "audio/shopping/066.mp3",
+      "audioLocal": "audio/shopping/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian ликвида́ция (likvidácija), from French liquidation."
+    },
+    {
+      "ka": "ლომბარდი",
+      "roman": "lombardi",
+      "en": "pawnshop",
+      "glosses": [
+        "pawnshop"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫo̞mbäɾdi]",
+      "audio": "audio/shopping/067.mp3",
+      "audioLocal": "audio/shopping/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian ломбард (lombard). Ultimately from Italian Lombardia. For the sense development, compare Polish lombard."
+    },
+    {
+      "ka": "მადმუაზელი",
+      "roman": "madmuazeli",
+      "en": "Mademoiselle",
+      "glosses": [
+        "Mademoiselle"
+      ],
+      "pos": "noun",
+      "ipa": "[mädmuäze̞li]",
+      "audio": "audio/shopping/068.mp3",
+      "audioLocal": "audio/shopping/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მარაგი",
+      "roman": "maragi",
+      "en": "fund, hoard, spare, spares, stockpile, store",
+      "glosses": [
+        "fund, hoard, spare, spares, stockpile, store"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɾäɡi]",
+      "audio": "audio/shopping/069.mp3",
+      "audioLocal": "audio/shopping/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Persian mlk' (marag, “quantity”). Compare also Middle Armenian մարագ (marag, “hayloft”)."
+    },
+    {
+      "ka": "მარკეტი",
+      "roman": "marḳeṭi",
+      "en": "market (small or mid-sized convenience store)",
+      "glosses": [
+        "market (small or mid-sized convenience store)"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɾkʼe̞tʼi]",
+      "audio": "audio/shopping/070.mp3",
+      "audioLocal": "audio/shopping/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English market."
+    },
+    {
+      "ka": "მარკეტინგი",
+      "roman": "marḳeṭingi",
+      "en": "marketing",
+      "glosses": [
+        "marketing"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɾkʼe̞tʼiŋɡi]",
+      "audio": "audio/shopping/071.mp3",
+      "audioLocal": "audio/shopping/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English marketing."
+    },
+    {
+      "ka": "მაქსიმალურად",
+      "roman": "maksimalurad",
+      "en": "maximally, sky-high",
+      "glosses": [
+        "maximally, sky-high"
+      ],
+      "pos": "adv",
+      "ipa": "[mäkʰsimäɫuɾätʰ]",
+      "audio": "audio/shopping/072.mp3",
+      "audioLocal": "audio/shopping/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაღაზია",
+      "roman": "maɣazia",
+      "en": "shop, store",
+      "glosses": [
+        "shop, store"
+      ],
+      "pos": "noun",
+      "ipa": "[mäʁäziä]",
+      "audio": "audio/shopping/073.mp3",
+      "audioLocal": "audio/shopping/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Greek μαγαζί (magazí), in plural μαγαζιά (magaziá), itself from Italian magazzino, with the ultimate source being Arabic مَخَازِن (maḵāzin, “storerooms, storehouses”). Note also dated Russian магазе́я (magazéja), Ottoman Turkish مغازه (mağaza)."
+    },
+    {
+      "ka": "მაღალფასიანი",
+      "roman": "maɣalpasiani",
+      "en": "high-priced",
+      "glosses": [
+        "high-priced"
+      ],
+      "pos": "adj",
+      "ipa": "[mäʁälpʰäsiäni]",
+      "audio": "audio/shopping/074.mp3",
+      "audioLocal": "audio/shopping/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მედუქნე",
+      "roman": "medukne",
+      "en": "shopkeeper, especially of a dukhan",
+      "glosses": [
+        "shopkeeper, especially of a dukhan"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞dukʰne̞]",
+      "audio": "audio/shopping/075.mp3",
+      "audioLocal": "audio/shopping/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დუქანი (dukani, “type of shop”) + მე- -ე (me- -e, occupational circumfix)."
+    },
+    {
+      "ka": "მინიმალურად",
+      "roman": "minimalurad",
+      "en": "minimally",
+      "glosses": [
+        "minimally"
+      ],
+      "pos": "adv",
+      "ipa": "[minimäɫuɾätʰ]",
+      "audio": "audio/shopping/076.mp3",
+      "audioLocal": "audio/shopping/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მინიმარკეტი",
+      "roman": "minimarḳeṭi",
+      "en": "minimarket",
+      "glosses": [
+        "minimarket"
+      ],
+      "pos": "noun",
+      "ipa": "[minimäɾkʼe̞tʼi]",
+      "audio": "audio/shopping/077.mp3",
+      "audioLocal": "audio/shopping/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English minimarket."
+    },
+    {
+      "ka": "მიწავაშლა",
+      "roman": "mic̣avašla",
+      "en": "Jerusalem artichoke, topinambur, earthapple",
+      "glosses": [
+        "Jerusalem artichoke, topinambur, earthapple"
+      ],
+      "pos": "noun",
+      "ipa": "[mit͡sʼäväʃɫä]",
+      "audio": "audio/shopping/078.mp3",
+      "audioLocal": "audio/shopping/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "მიწა (mic̣a, “earth”) + ვაშლი (vašli, “apple”)"
+    },
+    {
+      "ka": "მოლარე",
+      "roman": "molare",
+      "en": "cashier, paymaster",
+      "glosses": [
+        "cashier, paymaster"
+      ],
+      "pos": "noun",
+      "ipa": "[mo̞ɫäɾe̞]",
+      "audio": "audio/shopping/079.mp3",
+      "audioLocal": "audio/shopping/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ლარი (lari) + მო- -ე (mo- -e)."
+    },
+    {
+      "ka": "მოლაყბე",
+      "roman": "molaq̇be",
+      "en": "talkative, jabberer, rattler, tattler, windbag",
+      "glosses": [
+        "talkative, jabberer, rattler, tattler, windbag"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞ɫäχʼbe̞]",
+      "audio": "audio/shopping/080.mp3",
+      "audioLocal": "audio/shopping/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოლოქა",
+      "roman": "moloka",
+      "en": "mallow",
+      "glosses": [
+        "mallow"
+      ],
+      "pos": "noun",
+      "ipa": "[mo̞ɫo̞kʰä]",
+      "audio": "audio/shopping/081.mp3",
+      "audioLocal": "audio/shopping/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მოლოქი (moloki), მოლოქაჲ (molokay), ultimately from Ancient Greek μαλάχη (malákhē)."
+    },
+    {
+      "ka": "მცირე",
+      "roman": "mcire",
+      "en": "small, insignificant",
+      "glosses": [
+        "small, insignificant"
+      ],
+      "pos": "adj",
+      "ipa": "[mt͡sʰiɾe̞]",
+      "audio": "audio/shopping/082.mp3",
+      "audioLocal": "audio/shopping/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მცირჱ (mcirē), from Proto-Georgian-Zan *cir- or from Proto-Georgian-Zan *mcire- (“little, small”). Cognate with Mingrelian ცირა (cira, “girl; daughter”)."
+    },
+    {
+      "ka": "მცირე ენობრივი მოდელი",
+      "roman": "mcire enobrivi modeli",
+      "en": "small language model",
+      "glosses": [
+        "small language model"
+      ],
+      "pos": "noun",
+      "ipa": "[mt͡sʰiɾe̞ e̞no̞bɾivi mo̞de̞li]",
+      "audio": "audio/shopping/083.mp3",
+      "audioLocal": "audio/shopping/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Calque of English small language model."
+    },
+    {
+      "ka": "ნაგავი",
+      "roman": "nagavi",
+      "en": "garbage, litter, offal, rotter, sweepings, trash",
+      "glosses": [
+        "garbage, litter, offal, rotter, sweepings, trash"
+      ],
+      "pos": "noun",
+      "ipa": "[näɡävi]",
+      "audio": "audio/shopping/084.mp3",
+      "audioLocal": "audio/shopping/084.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნატეხი",
+      "roman": "naṭexi",
+      "en": "lump (of sugar), small bit or slice (of bread)",
+      "glosses": [
+        "lump (of sugar), small bit or slice (of bread)"
+      ],
+      "pos": "noun",
+      "ipa": "[nätʼe̞χi]",
+      "audio": "audio/shopping/085.mp3",
+      "audioLocal": "audio/shopping/085.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნეკი",
+      "roman": "neḳi",
+      "en": "little finger (outermost and smallest finger of the hand)",
+      "glosses": [
+        "little finger (outermost and smallest finger of the hand)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/shopping/086.mp3",
+      "audioLocal": "audio/shopping/086.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნიკრისი",
+      "roman": "niḳrisi",
+      "en": "small, receding chin",
+      "glosses": [
+        "small, receding chin"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/shopping/087.mp3",
+      "audioLocal": "audio/shopping/087.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "გაგიხმა ნიკრისი",
+          "roman": "gagixma niḳrisi",
+          "en": ""
+        }
+      ],
+      "etymology": "Borrowed from Ottoman Turkish نقریس (nikrīs), from Arabic نِقْرِس (niqris)."
+    },
+    {
+      "ka": "ნორმალურად",
+      "roman": "normalurad",
+      "en": "normally, sanely",
+      "glosses": [
+        "normally, sanely"
+      ],
+      "pos": "adv",
+      "ipa": "[no̞ɾmäɫuɾätʰ]",
+      "audio": "audio/shopping/088.mp3",
+      "audioLocal": "audio/shopping/088.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ოპტიმალურად",
+      "roman": "oṗṭimalurad",
+      "en": "optimally",
+      "glosses": [
+        "optimally"
+      ],
+      "pos": "adv",
+      "ipa": "[o̞pʼtʼimäɫuɾätʰ]",
+      "audio": "audio/shopping/089.mp3",
+      "audioLocal": "audio/shopping/089.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ოფიცერი",
+      "roman": "opiceri",
+      "en": "chess bishop (outdated, replaced with term: \"კუ\")",
+      "glosses": [
+        "chess bishop (outdated, replaced with term: \"კუ\")"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞pʰit͡sʰe̞ɾi]",
+      "audio": "audio/shopping/090.mp3",
+      "audioLocal": "audio/shopping/090.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian офице́р (oficér)."
+    },
+    {
+      "ka": "ოფიციალურად",
+      "roman": "opicialurad",
+      "en": "formally",
+      "glosses": [
+        "formally"
+      ],
+      "pos": "adv",
+      "ipa": "[o̞pʰit͡sʰiäɫuɾätʰ]",
+      "audio": "audio/shopping/091.mp3",
+      "audioLocal": "audio/shopping/091.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პაკეტი",
+      "roman": "ṗaḳeṭi",
+      "en": "paper bag",
+      "glosses": [
+        "paper bag"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼäkʼe̞tʼi]",
+      "audio": "audio/shopping/092.mp3",
+      "audioLocal": "audio/shopping/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian пакет (paket)."
+    },
+    {
+      "ka": "პარკი",
+      "roman": "ṗarḳi",
+      "en": "plastic bag",
+      "glosses": [
+        "plastic bag"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼäɾkʼi]",
+      "audio": "audio/shopping/093.mp3",
+      "audioLocal": "audio/shopping/093.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Together with Old Armenian պարկ (park) borrowed from an unidentified source."
+    },
+    {
+      "ka": "პარჭუკი",
+      "roman": "ṗarč̣uḳi",
+      "en": "luggage made by small things",
+      "glosses": [
+        "luggage made by small things"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/shopping/094.mp3",
+      "audioLocal": "audio/shopping/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Likely a metathesized variant of პარკუჭი (ṗarḳuč̣i, “pouch, sachet”), itself from პარკი (ṗarḳi, “bag”). Compare Racha dialect პარჭუკა (ṗarč̣uḳa)."
+    },
+    {
+      "ka": "პატარა",
+      "roman": "ṗaṭara",
+      "en": "little, small",
+      "glosses": [
+        "little, small"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼätʼäɾä]",
+      "audio": "audio/shopping/095.mp3",
+      "audioLocal": "audio/shopping/095.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian პატარა (ṗaṭara); see there for more."
+    },
+    {
+      "ka": "პრეისკურანტი",
+      "roman": "ṗreisḳuranṭi",
+      "en": "pricelist",
+      "glosses": [
+        "pricelist"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼɾe̞iskʼuɾäntʼi]",
+      "audio": "audio/shopping/096.mp3",
+      "audioLocal": "audio/shopping/096.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From German."
+    },
+    {
+      "ka": "პროსპექტი",
+      "roman": "ṗrosṗekṭi",
+      "en": "prospectus, catalogue (a paper outlining the products with prices and other details)",
+      "glosses": [
+        "prospectus, catalogue (a paper outlining the products with prices and other details)"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼɾo̞spʼe̞kʰtʼi]",
+      "audio": "audio/shopping/097.mp3",
+      "audioLocal": "audio/shopping/097.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian проспе́кт (prospékt). In sense 1, now often replaced by the nativized calque გამზირი (gamziri)."
+    },
+    {
+      "ka": "ჟეტონი",
+      "roman": "žeṭoni",
+      "en": "token (a small symbolic object)",
+      "glosses": [
+        "token (a small symbolic object)"
+      ],
+      "pos": "noun",
+      "ipa": "[ʒe̞tʼo̞ni]",
+      "audio": "audio/shopping/098.mp3",
+      "audioLocal": "audio/shopping/098.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From French jeton. Compare Russian жето́н (žetón)."
+    },
+    {
+      "ka": "ჟინჟღლი",
+      "roman": "žinžɣli",
+      "en": "rain of small droplets",
+      "glosses": [
+        "rain of small droplets"
+      ],
+      "pos": "noun",
+      "ipa": "[ʒinʒʁli]",
+      "audio": "audio/shopping/099.mp3",
+      "audioLocal": "audio/shopping/099.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჟღმურტლი",
+      "roman": "žɣmurṭli",
+      "en": "kind of misty rain characterized with small particles; drizzle",
+      "glosses": [
+        "kind of misty rain characterized with small particles; drizzle"
+      ],
+      "pos": "noun",
+      "ipa": "[ʒʁmuɾtʼli]",
+      "audio": "audio/shopping/100.mp3",
+      "audioLocal": "audio/shopping/100.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რეალიზაციის გადასახადი",
+      "roman": "realizaciis gadasaxadi",
+      "en": "sales tax",
+      "glosses": [
+        "sales tax"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾe̞älizät͡sʰiis ɡ̊ädäsäχädi]",
+      "audio": "audio/shopping/101.mp3",
+      "audioLocal": "audio/shopping/101.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რეზერვი",
+      "roman": "rezervi",
+      "en": "spare, stockpile, store",
+      "glosses": [
+        "spare, stockpile, store"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾe̞ze̞ɾʷi]",
+      "audio": "audio/shopping/102.mp3",
+      "audioLocal": "audio/shopping/102.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From French."
+    },
+    {
+      "ka": "რესტავრატორი",
+      "roman": "resṭavraṭori",
+      "en": "renovator, restorer",
+      "glosses": [
+        "renovator, restorer"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾe̞stʼävɾätʼo̞ɾi]",
+      "audio": "audio/shopping/103.mp3",
+      "audioLocal": "audio/shopping/103.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საამქრო",
+      "roman": "saamkro",
+      "en": "workshop",
+      "glosses": [
+        "workshop"
+      ],
+      "pos": "noun",
+      "ipa": "[säämkʰɾo̞]",
+      "audio": "audio/shopping/104.mp3",
+      "audioLocal": "audio/shopping/104.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "ამქარი (amkari) + სა- -ო (sa- -o)"
+    },
+    {
+      "ka": "საბაზრო",
+      "roman": "sabazro",
+      "en": "market-, market-related",
+      "glosses": [
+        "market-, market-related"
+      ],
+      "pos": "adj",
+      "ipa": "[säbäzɾo̞]",
+      "audio": "audio/shopping/105.mp3",
+      "audioLocal": "audio/shopping/105.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბაზარი (bazari, “market”) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "საბაზრო ეკონომიკა",
+      "roman": "sabazro eḳonomiḳa",
+      "en": "market economy",
+      "glosses": [
+        "market economy"
+      ],
+      "pos": "noun",
+      "ipa": "[säbäzɾo̞ e̞kʼo̞no̞mikʼä]",
+      "audio": "audio/shopping/106.mp3",
+      "audioLocal": "audio/shopping/106.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საბაზრო კაპიტალიზაცია",
+      "roman": "sabazro ḳaṗiṭalizacia",
+      "en": "market capitalization",
+      "glosses": [
+        "market capitalization"
+      ],
+      "pos": "noun",
+      "ipa": "[säbäzɾo̞ kʼäpʼitʼälizät͡sʰiä]",
+      "audio": "audio/shopping/107.mp3",
+      "audioLocal": "audio/shopping/107.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საბაზრო ღირებულება",
+      "roman": "sabazro ɣirebuleba",
+      "en": "market value",
+      "glosses": [
+        "market value"
+      ],
+      "pos": "noun",
+      "ipa": "[säbäzɾo̞ ʁiɾe̞bule̞bä]",
+      "audio": "audio/shopping/108.mp3",
+      "audioLocal": "audio/shopping/108.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საბაზრო წილი",
+      "roman": "sabazro c̣ili",
+      "en": "market share",
+      "glosses": [
+        "market share"
+      ],
+      "pos": "noun",
+      "ipa": "[säbäzɾo̞ t͡sʼili]",
+      "audio": "audio/shopping/109.mp3",
+      "audioLocal": "audio/shopping/109.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საბითუმო",
+      "roman": "sabitumo",
+      "en": "wholesale",
+      "glosses": [
+        "wholesale"
+      ],
+      "pos": "adj",
+      "ipa": "[säbitʰumo̞]",
+      "audio": "audio/shopping/110.mp3",
+      "audioLocal": "audio/shopping/110.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბითუმი (bitumi) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "საერთო ბაზარი",
+      "roman": "saerto bazari",
+      "en": "single market, common market",
+      "glosses": [
+        "single market, common market"
+      ],
+      "pos": "noun",
+      "ipa": "[säe̞ɾtʰo̞ b̥äzäɾi]",
+      "audio": "audio/shopping/111.mp3",
+      "audioLocal": "audio/shopping/111.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სავაჭრო",
+      "roman": "savač̣ro",
+      "en": "store, shop",
+      "glosses": [
+        "store, shop"
+      ],
+      "pos": "noun",
+      "ipa": "[sävät͡ʃʼɾo̞]",
+      "audio": "audio/shopping/112.mp3",
+      "audioLocal": "audio/shopping/112.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ვაჭარი (vač̣ari, “merchant, trader”) + სა- -ო (sa- -o, relational circumfix)."
+    },
+    {
+      "ka": "სავაჭრო კალათა",
+      "roman": "savač̣ro ḳalata",
+      "en": "shopping basket",
+      "glosses": [
+        "shopping basket"
+      ],
+      "pos": "noun",
+      "ipa": "[sävät͡ʃʼɾo̞ kʼäɫätʰä]",
+      "audio": "audio/shopping/113.mp3",
+      "audioLocal": "audio/shopping/113.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სავაჭრო ურიკა",
+      "roman": "savač̣ro uriḳa",
+      "en": "shopping cart",
+      "glosses": [
+        "shopping cart"
+      ],
+      "pos": "noun",
+      "ipa": "[sävät͡ʃʼɾo̞ uɾikʼä]",
+      "audio": "audio/shopping/114.mp3",
+      "audioLocal": "audio/shopping/114.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სათამაშოების მაღაზია",
+      "roman": "satamašoebis maɣazia",
+      "en": "toyshop, toystore",
+      "glosses": [
+        "toyshop, toystore"
+      ],
+      "pos": "noun",
+      "ipa": "[sätʰämäʃo̞e̞bis mäʁäziä]",
+      "audio": "audio/shopping/115.mp3",
+      "audioLocal": "audio/shopping/115.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საკალათბურთო",
+      "roman": "saḳalatburto",
+      "en": "basketball (attributive)",
+      "glosses": [
+        "basketball (attributive)"
+      ],
+      "pos": "adj",
+      "ipa": "[säkʼäɫätʰbuɾtʰo̞]",
+      "audio": "audio/shopping/116.mp3",
+      "audioLocal": "audio/shopping/116.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კალათბურთი (ḳalatburti) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "საკანი",
+      "roman": "saḳani",
+      "en": "small chamber, cell (especially of a prison)",
+      "glosses": [
+        "small chamber, cell (especially of a prison)"
+      ],
+      "pos": "noun",
+      "ipa": "[säkʼäni]",
+      "audio": "audio/shopping/117.mp3",
+      "audioLocal": "audio/shopping/117.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სალარო",
+      "roman": "salaro",
+      "en": "cashier's office",
+      "glosses": [
+        "cashier's office"
+      ],
+      "pos": "noun",
+      "ipa": "[säɫäɾo̞]",
+      "audio": "audio/shopping/118.mp3",
+      "audioLocal": "audio/shopping/118.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ლარი (lari) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "სამართლიანი საბაზრო ღირებულება",
+      "roman": "samartliani sabazro ɣirebuleba",
+      "en": "fair market value",
+      "glosses": [
+        "fair market value"
+      ],
+      "pos": "noun",
+      "ipa": "[sämäɾtʰliäni säbäzɾo̞ ʁiɾe̞bule̞bä]",
+      "audio": "audio/shopping/119.mp3",
+      "audioLocal": "audio/shopping/119.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სანაყინე",
+      "roman": "sanaq̇ine",
+      "en": "ice cream shop",
+      "glosses": [
+        "ice cream shop"
+      ],
+      "pos": "noun",
+      "ipa": "[sänäχʼine̞]",
+      "audio": "audio/shopping/120.mp3",
+      "audioLocal": "audio/shopping/120.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნაყინი (naq̇ini, “ice cream”) + სა- -ე (sa- -e)."
+    },
+    {
+      "ka": "სართული",
+      "roman": "sartuli",
+      "en": "storey, floor",
+      "glosses": [
+        "storey, floor"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾtʰuli]",
+      "audio": "audio/shopping/121.mp3",
+      "audioLocal": "audio/shopping/121.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სართულიანი",
+      "roman": "sartuliani",
+      "en": "storeyed",
+      "glosses": [
+        "storeyed"
+      ],
+      "pos": "adj",
+      "ipa": "[säɾtʰuliäni]",
+      "audio": "audio/shopping/122.mp3",
+      "audioLocal": "audio/shopping/122.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სარკმელი",
+      "roman": "sarḳmeli",
+      "en": "a small window, set within a larger window, that can open independently",
+      "glosses": [
+        "a small window, set within a larger window, that can open independently"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾkʼme̞li]",
+      "audio": "audio/shopping/123.mp3",
+      "audioLocal": "audio/shopping/123.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სარქე",
+      "roman": "sarke",
+      "en": "small area above the temporal bone",
+      "glosses": [
+        "small area above the temporal bone"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾkʰe̞]",
+      "audio": "audio/shopping/124.mp3",
+      "audioLocal": "audio/shopping/124.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From რქა (rka) + სა- -ე (sa- -e)."
+    },
+    {
+      "ka": "სასხორელი",
+      "roman": "sasxoreli",
+      "en": "Person living in Saskhori (a small village in Georgia)",
+      "glosses": [
+        "Person living in Saskhori (a small village in Georgia)"
+      ],
+      "pos": "noun",
+      "ipa": "[säsχo̞ɾe̞li]",
+      "audio": "audio/shopping/125.mp3",
+      "audioLocal": "audio/shopping/125.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სასხორი",
+      "roman": "sasxori",
+      "en": "a small village in Georgia",
+      "glosses": [
+        "a small village in Georgia"
+      ],
+      "pos": "noun",
+      "ipa": "[säsχo̞ɾi]",
+      "audio": "audio/shopping/126.mp3",
+      "audioLocal": "audio/shopping/126.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საქონლის ბაზარი",
+      "roman": "sakonlis bazari",
+      "en": "commodity market",
+      "glosses": [
+        "commodity market"
+      ],
+      "pos": "noun",
+      "ipa": "[säkʰo̞nlis b̥äzäɾi]",
+      "audio": "audio/shopping/127.mp3",
+      "audioLocal": "audio/shopping/127.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საყიდლების კალათა",
+      "roman": "saq̇idlebis ḳalata",
+      "en": "shopping basket",
+      "glosses": [
+        "shopping basket"
+      ],
+      "pos": "noun",
+      "ipa": "[säχʼidle̞bis kʼäɫätʰä]",
+      "audio": "audio/shopping/128.mp3",
+      "audioLocal": "audio/shopping/128.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საყიდლების ურიკა",
+      "roman": "saq̇idlebis uriḳa",
+      "en": "shopping cart",
+      "glosses": [
+        "shopping cart"
+      ],
+      "pos": "noun",
+      "ipa": "[säχʼidle̞bis uɾikʼä]",
+      "audio": "audio/shopping/129.mp3",
+      "audioLocal": "audio/shopping/129.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საცხობი",
+      "roman": "sacxobi",
+      "en": "bakery",
+      "glosses": [
+        "bakery"
+      ],
+      "pos": "noun",
+      "ipa": "[sät͡sʰχo̞bi]",
+      "audio": "audio/shopping/130.mp3",
+      "audioLocal": "audio/shopping/130.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცხობა (cxoba) + სა- -ი (sa- -i)."
+    },
+    {
+      "ka": "საძილე ტომარა",
+      "roman": "saʒile ṭomara",
+      "en": "sleeping bag",
+      "glosses": [
+        "sleeping bag"
+      ],
+      "pos": "noun",
+      "ipa": "[säd͡zile̞ tʼo̞mäɾä]",
+      "audio": "audio/shopping/131.mp3",
+      "audioLocal": "audio/shopping/131.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საწყობი",
+      "roman": "sac̣q̇obi",
+      "en": "depot, entrepot, repertory, stockroom, storage, storehouse, warehouse",
+      "glosses": [
+        "depot, entrepot, repertory, stockroom, storage, storehouse, warehouse"
+      ],
+      "pos": "noun",
+      "ipa": "[sät͡sʼχʼo̞bi]",
+      "audio": "audio/shopping/132.mp3",
+      "audioLocal": "audio/shopping/132.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სახელოსნო",
+      "roman": "saxelosno",
+      "en": "workshop",
+      "glosses": [
+        "workshop"
+      ],
+      "pos": "noun",
+      "ipa": "[säχe̞ɫo̞sno̞]",
+      "audio": "audio/shopping/133.mp3",
+      "audioLocal": "audio/shopping/133.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ხელოსანი (xelosani) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "სენაკი",
+      "roman": "senaḳi",
+      "en": "small chamber (for priests, nuns and others)",
+      "glosses": [
+        "small chamber (for priests, nuns and others)"
+      ],
+      "pos": "noun",
+      "ipa": "[se̞näkʼi]",
+      "audio": "audio/shopping/134.mp3",
+      "audioLocal": "audio/shopping/134.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Learned borrowing from Old Georgian სენაკი (senaḳi) (which later developed into სენაჲ (senay)), together with Old Armenian սենեակ (seneak) borrowed from Iranian. Cognate with Mingrelian სანაკი (sanaḳi). Doublet of სენა (sena)."
+    },
+    {
+      "ka": "სიმცირე",
+      "roman": "simcire",
+      "en": "minuteness, smallness",
+      "glosses": [
+        "minuteness, smallness"
+      ],
+      "pos": "noun",
+      "ipa": "[simt͡sʰiɾe̞]",
+      "audio": "audio/shopping/135.mp3",
+      "audioLocal": "audio/shopping/135.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მცირე (mcire, “small, meagre”) + სი- -ე (si- -e, abstract noun-forming circumfix)."
+    },
+    {
+      "ka": "სუპერმარკეტი",
+      "roman": "suṗermarḳeṭi",
+      "en": "supermarket",
+      "glosses": [
+        "supermarket"
+      ],
+      "pos": "noun",
+      "ipa": "[supʼe̞ɾmäɾkʼe̞tʼi]",
+      "audio": "audio/shopping/136.mp3",
+      "audioLocal": "audio/shopping/136.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English supermarket."
+    },
+    {
+      "ka": "სქელი",
+      "roman": "skeli",
+      "en": "thick (relatively great in extent from one surface to the opposite in its smallest solid dimension)",
+      "glosses": [
+        "thick (relatively great in extent from one surface to the opposite in its smallest solid dimension)"
+      ],
+      "pos": "adj",
+      "ipa": "[skʰe̞li]",
+      "audio": "audio/shopping/137.mp3",
+      "audioLocal": "audio/shopping/137.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian სქელი (skeli), by regressive assimilation from Old Georgian ზრქელი (zrkeli), from Proto-Georgian-Zan *zrk-el-."
+    },
+    {
+      "ka": "ტიპოგრაფია",
+      "roman": "ṭiṗograpia",
+      "en": "print-shop",
+      "glosses": [
+        "print-shop"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼipʼo̞ɡɾäpʰiä]",
+      "audio": "audio/shopping/138.mp3",
+      "audioLocal": "audio/shopping/138.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ტოლმა",
+      "roman": "ṭolma",
+      "en": "dolma, cabbage roll",
+      "glosses": [
+        "dolma, cabbage roll"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼo̞lmä]",
+      "audio": "audio/shopping/139.mp3",
+      "audioLocal": "audio/shopping/139.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish طولمه (dolma). For the initial ტ- (ṭ-) instead of დ- (d-) compare Armenian տոլմա (tolma)."
+    },
+    {
+      "ka": "ტომარა",
+      "roman": "ṭomara",
+      "en": "sack, bag",
+      "glosses": [
+        "sack, bag"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼo̞mäɾä]",
+      "audio": "audio/shopping/140.mp3",
+      "audioLocal": "audio/shopping/140.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უმცირესი",
+      "roman": "umciresi",
+      "en": "fewest, least, smallest",
+      "glosses": [
+        "fewest, least, smallest"
+      ],
+      "pos": "adj",
+      "ipa": "[umt͡sʰiɾe̞si]",
+      "audio": "audio/shopping/141.mp3",
+      "audioLocal": "audio/shopping/141.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მცირე (mcire) + უ- -ესი (u- -esi)."
+    },
+    {
+      "ka": "უნივერმაღი",
+      "roman": "univermaɣi",
+      "en": "department store",
+      "glosses": [
+        "department store"
+      ],
+      "pos": "noun",
+      "ipa": "[unive̞ɾmäʁi]",
+      "audio": "audio/shopping/142.mp3",
+      "audioLocal": "audio/shopping/142.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Syllabic abbreviation of უნივერსალური მაღაზია (universaluri maɣazia), a calque of Russian универма́г (univermág)."
+    },
+    {
+      "ka": "ურო",
+      "roman": "uro",
+      "en": "hammer, mallet",
+      "glosses": [
+        "hammer, mallet"
+      ],
+      "pos": "noun",
+      "ipa": "[uɾo̞]",
+      "audio": "audio/shopping/143.mp3",
+      "audioLocal": "audio/shopping/143.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian უროჲ (uroy). See it for more."
+    },
+    {
+      "ka": "ფარმაცევტიკა",
+      "roman": "parmacevṭiḳa",
+      "en": "pharmacy (the science of medicinal substances)",
+      "glosses": [
+        "pharmacy (the science of medicinal substances)"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰäɾmät͡sʰe̞ftʼikʼä]",
+      "audio": "audio/shopping/144.mp3",
+      "audioLocal": "audio/shopping/144.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ფარმაცია",
+      "roman": "parmacia",
+      "en": "pharmacy (the science of medicinal substances)",
+      "glosses": [
+        "pharmacy (the science of medicinal substances)"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰäɾmät͡sʰiä]",
+      "audio": "audio/shopping/145.mp3",
+      "audioLocal": "audio/shopping/145.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ფასდაკლება",
+      "roman": "pasdaḳleba",
+      "en": "discount",
+      "glosses": [
+        "discount"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰäsdäkʼle̞bä]",
+      "audio": "audio/shopping/146.mp3",
+      "audioLocal": "audio/shopping/146.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ფასდაკლებული",
+      "roman": "pasdaḳlebuli",
+      "en": "discounted, cut-price, cut-rate",
+      "glosses": [
+        "discounted, cut-price, cut-rate"
+      ],
+      "pos": "adj",
+      "ipa": "[pʰäsdäkʼle̞buli]",
+      "audio": "audio/shopping/147.mp3",
+      "audioLocal": "audio/shopping/147.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფასდაკლება (pasdaḳleba) + -ული (-uli)."
+    },
+    {
+      "ka": "ფასი",
+      "roman": "pasi",
+      "en": "cost, price",
+      "glosses": [
+        "cost, price"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰäsi]",
+      "audio": "audio/shopping/148.mp3",
+      "audioLocal": "audio/shopping/148.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ფასიანი",
+      "roman": "pasiani",
+      "en": "paid, having a price, not free of charge, requiring payment, chargeable, paid for",
+      "glosses": [
+        "paid, having a price, not free of charge, requiring payment, chargeable, paid for"
+      ],
+      "pos": "adj",
+      "ipa": "[pʰäsiäni]",
+      "audio": "audio/shopping/149.mp3",
+      "audioLocal": "audio/shopping/149.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფასი (pasi) + -იანი (-iani)."
+    }
+  ]
+}

@@ -7,7 +7,7 @@ import json
 import re
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Callable, Dict, List, Optional, Tuple
 
 ROOT = Path(__file__).parent
 THEMES_DIR = ROOT / "themes"
@@ -92,6 +92,17 @@ THEME_META = {
     "Phrases": {"ka": "ფრაზები", "icon": "💬"},
     "Proverbs": {"ka": "ანდაზები", "icon": "📜"},
     "Verbs": {"ka": "ზმნები", "icon": "⚡"},
+    "Kitchen": {"ka": "სამზარეულო", "icon": "🍳"},
+    "Shopping": {"ka": "შოპინგი", "icon": "🛒"},
+    "Health": {"ka": "ჯანმრთელობა", "icon": "✚"},
+    "Money": {"ka": "ფული", "icon": "₾"},
+    "Directions": {"ka": "მიმართულებები", "icon": "🧭"},
+    "Pronouns": {"ka": "ნაცვალსახელები", "icon": "თქ"},
+    "Question words": {"ka": "კითხვითი სიტყვები", "icon": "?"},
+    "Prepositions": {"ka": "მიმღევრები", "icon": "→"},
+    "Time expressions": {"ka": "დროის გამოთქმები", "icon": "⏱"},
+    "Adjectives": {"ka": "ზედსართავი სახელები", "icon": "◆"},
+    "Adverbs": {"ka": "ზმარი ზედსართავები", "icon": "◇"},
 }
 
 FORM_GLOSS = re.compile(
@@ -103,7 +114,17 @@ FORM_GLOSS = re.compile(
 
 MAX_WORDS_PER_THEME = 150
 MAX_VERBS = 200
+MAX_ADJECTIVES = 200
+MAX_ADVERBS = 200
+MAX_TIME_EXPRESSIONS = 100
 MIN_THEME_WORDS = 3
+
+THEME_CAPS = {
+    "Verbs": MAX_VERBS,
+    "Adjectives": MAX_ADJECTIVES,
+    "Adverbs": MAX_ADVERBS,
+    "Time expressions": MAX_TIME_EXPRESSIONS,
+}
 
 # Learner-priority verbs (matched first when building the Verbs theme).
 PRIORITY_VERBS = [
@@ -136,7 +157,24 @@ PERSON_ROWS = [
 ]
 
 THEMATIC_SKIP_POS = {"phrase", "proverb", "verb"}
-SPECIAL_THEMES = {"Phrases", "Proverbs", "Verbs"}
+SPECIAL_THEMES = {
+    "Phrases", "Proverbs", "Verbs", "Adjectives", "Adverbs", "Time expressions",
+}
+
+THEME_CATEGORY_ALIASES: Dict[str, List[str]] = {
+    "Kitchen": ["Kitchen", "Kitchenware", "Cooking", "Cookware"],
+    "Shopping": ["Shops", "Shopping", "Retail"],
+    "Health": ["Healthcare", "Mental health", "Diseases", "Symptoms", "Medicine"],
+    "Money": ["Money", "Currency", "Banking"],
+    "Directions": ["Directions", "Cardinal points", "Compass points"],
+    "Pronouns": ["Georgian pronouns", "Pronouns"],
+    "Prepositions": ["Georgian postpositions", "Prepositions", "Postpositions"],
+    "Question words": ["Interrogative pronouns", "Question words"],
+    "Time expressions": ["Time", "Units of time", "Times of day"],
+    "Household": ["Household", "Home"],
+    "Foods": ["Foods", "Food", "Meals"],
+    "Food and drink": ["Food and drink", "Beverages", "Drinks"],
+}
 THEME_SKIP_GLOSS: Dict[str, re.Pattern] = {
     "Trees": re.compile(r"\b(gold|silver|platinum|copper|iron|steel|metal)\b", re.I),
     "Fruits": re.compile(r"\b(color|colored|colour)\b", re.I),
@@ -146,8 +184,81 @@ THEME_SKIP_GLOSS: Dict[str, re.Pattern] = {
 
 # Add words whose gloss matches even when Wiktionary omits the theme category.
 GLOSS_THEME_HINTS: Dict[str, List[str]] = {
-    "Trees": ["elm", "oak", "beech", "maple", "birch", "pine", "fir", "cypress", "walnut-tree", "poplar", "willow", "alder"],
+    "Trees": ["elm", "oak", "beech", "maple", "birch", "pine", "fir", "cypress", "walnut", "poplar", "willow", "alder", "cedar", "linden", "ash tree", "yew"],
+    "Kitchen": [
+        "pot", "pan", "knife", "fork", "spoon", "plate", "bowl", "cup", "glass", "mug",
+        "stove", "oven", "refrigerator", "fridge", "sink", "kettle", "microwave", "blender",
+        "cutting board", "colander", "ladle", "spatula", "whisk", "grater", "peeler",
+        "dish", "tray", "napkin", "tablecloth", "cookware", "kitchen", "teapot", "saucepan",
+        "frying pan", "baking", "toaster", "freezer", "cabinet", "drawer", "counter",
+    ],
+    "Shopping": [
+        "shop", "store", "market", "mall", "price", "customer", "cashier", "receipt",
+        "bag", "basket", "sale", "discount", "buy", "sell", "purchase", "merchant",
+        "grocer", "bakery", "butcher", "pharmacy", "boutique", "supermarket",
+    ],
+    "Health": [
+        "doctor", "hospital", "medicine", "pill", "pain", "sick", "illness", "disease",
+        "health", "nurse", "patient", "fever", "cough", "headache", "injury", "wound",
+        "blood", "heart", "lung", "tooth", "dentist", "clinic", "pharmacy", "ambulance",
+        "surgery", "treatment", "vaccine", "allergy", "infection", "symptom",
+    ],
+    "Money": [
+        "money", "coin", "bank", "cash", "price", "cost", "pay", "payment", "wallet",
+        "purse", "credit", "debit", "loan", "debt", "salary", "wage", "rich", "poor",
+        "expensive", "cheap", "lari", "dollar", "euro", "cent", "change", "bill", "note",
+        "currency", "tax", "fee", "tip", "budget", "profit", "loss",
+    ],
+    "Directions": [
+        "north", "south", "east", "west", "left", "right", "up", "down", "forward",
+        "backward", "straight", "street", "road", "corner", "intersection", "map",
+        "direction", "path", "way", "here", "there", "near", "far", "inside", "outside",
+        "above", "below", "beside", "behind", "front", "back", "entrance", "exit",
+    ],
+    "Pronouns": [
+        "i", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them",
+        "my", "your", "his", "her", "its", "our", "their", "mine", "yours", "ours",
+        "myself", "yourself", "himself", "herself", "ourselves", "who", "whom",
+        "pronoun", "this", "that", "these", "those",
+    ],
+    "Question words": [
+        "what", "who", "whom", "whose", "where", "when", "why", "how", "which",
+        "how many", "how much", "how long", "how far", "how old",
+    ],
+    "Prepositions": [
+        "in", "on", "at", "under", "over", "above", "below", "with", "without",
+        "from", "to", "into", "onto", "between", "among", "through", "across",
+        "along", "around", "behind", "before", "after", "during", "until", "since",
+        "for", "against", "near", "beside", "inside", "outside", "toward", "towards",
+        "postposition", "preposition",
+    ],
+    "Time expressions": [
+        "yesterday", "tomorrow", "today", "now", "always", "never", "often", "sometimes",
+        "soon", "later", "early", "late", "before", "after", "already", "still", "yet",
+        "once", "twice", "daily", "weekly", "monthly", "yearly", "annually", "morning",
+        "evening", "night", "noon", "midnight", "day", "week", "month", "year", "hour",
+        "minute", "second", "moment", "ago", "recently", "immediately", "eventually",
+        "usually", "rarely", "frequently", "currently", "formerly", "recently",
+    ],
 }
+
+PRIORITY_ADJECTIVES = [
+    "good", "bad", "big", "small", "new", "old", "young", "long", "short", "high", "low",
+    "hot", "cold", "warm", "cool", "beautiful", "ugly", "easy", "difficult", "hard",
+    "fast", "slow", "strong", "weak", "rich", "poor", "happy", "sad", "clean", "dirty",
+    "right", "wrong", "true", "false", "open", "closed", "full", "empty", "near", "far",
+    "same", "different", "important", "necessary", "possible", "free", "busy", "ready",
+    "sweet", "sour", "bitter", "salty", "loud", "quiet", "bright", "dark", "thick", "thin",
+    "heavy", "light", "soft", "hard", "sharp", "dull", "wet", "dry", "sick", "healthy",
+]
+
+PRIORITY_ADVERBS = [
+    "very", "too", "also", "only", "just", "even", "still", "already", "almost",
+    "quite", "rather", "well", "badly", "quickly", "slowly", "carefully", "easily",
+    "hardly", "probably", "certainly", "maybe", "perhaps", "together", "alone",
+    "here", "there", "everywhere", "somewhere", "nowhere", "upstairs", "downstairs",
+    "inside", "outside", "forward", "backward", "straight", "directly", "immediately",
+]
 
 
 def slugify(name: str) -> str:
@@ -272,6 +383,26 @@ def gloss_fits_theme(theme: str, gloss: str) -> bool:
     return True
 
 
+def gloss_matches_theme_hints(theme: str, gloss: str) -> bool:
+    """True when gloss contains a theme hint word or phrase."""
+    hints = GLOSS_THEME_HINTS.get(theme, [])
+    if not hints:
+        return False
+    g = gloss.lower().strip()
+    for hint in hints:
+        h = hint.lower()
+        if g == h or h in g:
+            return True
+        if re.search(rf"\b{re.escape(h)}\b", g):
+            return True
+    return False
+
+
+def theme_category_match(theme: str, categories: List[str]) -> bool:
+    aliases = {theme, *THEME_CATEGORY_ALIASES.get(theme, [])}
+    return any(cat in aliases for cat in categories)
+
+
 def gloss_exact_theme_hint(theme: str, gloss: str) -> bool:
     """True when gloss is essentially a member of this theme (e.g. 'elm' for Trees)."""
     hints = GLOSS_THEME_HINTS.get(theme, [])
@@ -294,10 +425,11 @@ def pick_sense_for_category(entry: dict, theme: str) -> Optional[dict]:
             continue
 
         cats = thematic_categories(sense)
-        in_theme = theme in cats
+        in_theme = theme_category_match(theme, cats)
         exact_hint = gloss_exact_theme_hint(theme, gloss)
+        hint_match = gloss_matches_theme_hints(theme, gloss)
 
-        if not in_theme and not exact_hint:
+        if not in_theme and not exact_hint and not hint_match:
             continue
 
         score = 0
@@ -305,6 +437,8 @@ def pick_sense_for_category(entry: dict, theme: str) -> Optional[dict]:
             score += 100
         if exact_hint:
             score += 60
+        if hint_match:
+            score += 55
         if "alt-of" in (sense.get("tags") or []):
             score -= 40
         score += max(0, 15 - len(gloss) // 6)
@@ -569,6 +703,117 @@ def process_phrases_and_proverbs() -> Dict[str, List[dict]]:
     return result
 
 
+def is_clean_lemma_gloss(gloss: str) -> bool:
+    g = gloss.lower()
+    if "form of" in g:
+        return False
+    if re.search(r"\b(comparative|superlative) of\b", g):
+        return False
+    return True
+
+
+def gloss_priority_score(gloss: str, priority: List[str]) -> int:
+    g = gloss.lower().strip()
+    score = max(0, 50 - len(gloss) // 4)
+    if g in priority:
+        score += 1000 - priority.index(g) * 4
+    else:
+        for i, hint in enumerate(priority):
+            if g.startswith(hint + " ") or g.startswith(hint + ","):
+                score += 600 - i * 2
+                break
+    return score
+
+
+def process_ranked_pos_theme(
+    theme_name: str,
+    pos_keys: List[str],
+    max_words: int,
+    priority: Optional[List[str]] = None,
+    accept_sense: Optional[Callable[[dict, str], bool]] = None,
+) -> Dict[str, List[dict]]:
+    theme_id = slugify(theme_name)
+    priority = priority or []
+    best: Dict[str, dict] = {}
+
+    for pos_key in pos_keys:
+        path = FILES.get(pos_key)
+        if not path or not path.exists():
+            continue
+        with path.open(encoding="utf-8") as f:
+            for line in f:
+                entry = json.loads(line)
+                word = entry.get("word", "").strip()
+                if not word:
+                    continue
+
+                sense_info = None
+                for sense in entry.get("senses") or []:
+                    if is_form_of(sense):
+                        continue
+                    gloss = clean_gloss(sense)
+                    if not gloss or not is_clean_lemma_gloss(gloss):
+                        continue
+                    if accept_sense and not accept_sense(sense, gloss):
+                        continue
+                    score = gloss_priority_score(gloss, priority)
+                    if sense_info is None or score > sense_info["score"]:
+                        sense_info = {"gloss": gloss, "sense": sense, "score": score}
+
+                if not sense_info:
+                    continue
+
+                prev = best.get(word)
+                if prev is None or sense_info["score"] > prev["sense_info"]["score"]:
+                    best[word] = {
+                        "entry": entry,
+                        "pos": pos_key,
+                        "sense_info": sense_info,
+                    }
+
+    ranked = sorted(
+        best.values(),
+        key=lambda x: (-x["sense_info"]["score"], x["entry"]["word"]),
+    )
+    records = []
+    for i, info in enumerate(ranked[:max_words]):
+        rec = build_word_record(
+            info["entry"], info["pos"], theme_id, i, info["sense_info"]
+        )
+        rec["_theme_id"] = theme_id
+        records.append(rec)
+
+    return {theme_name: records}
+
+
+def accept_time_expression(sense: dict, gloss: str) -> bool:
+    if theme_category_match("Time expressions", thematic_categories(sense)):
+        return True
+    return gloss_matches_theme_hints("Time expressions", gloss)
+
+
+def process_adjectives() -> Dict[str, List[dict]]:
+    return process_ranked_pos_theme(
+        "Adjectives", ["adj"], MAX_ADJECTIVES, PRIORITY_ADJECTIVES
+    )
+
+
+def process_adverbs() -> Dict[str, List[dict]]:
+    return process_ranked_pos_theme(
+        "Adverbs", ["adv"], MAX_ADVERBS, PRIORITY_ADVERBS
+    )
+
+
+def process_time_expressions() -> Dict[str, List[dict]]:
+    return process_ranked_pos_theme(
+        "Time expressions",
+        ["adv", "noun"],
+        MAX_TIME_EXPRESSIONS,
+        GLOSS_THEME_HINTS["Time expressions"],
+        accept_sense=accept_time_expression,
+    )
+
+
 def process_verbs() -> Dict[str, List[dict]]:
     path = FILES["verb"]
     if not path.exists():
@@ -658,17 +903,22 @@ def process_thematic_files() -> Dict[str, List[dict]]:
 
 def process_files() -> Dict[str, List[dict]]:
     result = process_thematic_files()
-    for theme_name, words in process_phrases_and_proverbs().items():
-        result[theme_name] = words
-    for theme_name, words in process_verbs().items():
-        result[theme_name] = words
+    for processor in (
+        process_phrases_and_proverbs,
+        process_verbs,
+        process_adjectives,
+        process_adverbs,
+        process_time_expressions,
+    ):
+        for theme_name, words in processor().items():
+            result[theme_name] = words
 
     apply_corrections(result, load_corrections())
 
     for cat, words in result.items():
         theme_id = slugify(cat)
-        cap = MAX_VERBS if cat == "Verbs" else MAX_WORDS_PER_THEME
-        if cat != "Verbs":
+        cap = THEME_CAPS.get(cat, MAX_WORDS_PER_THEME)
+        if cat not in {"Verbs", "Adjectives", "Adverbs", "Time expressions"}:
             words.sort(key=lambda w: w["ka"])
         for i, w in enumerate(words[:cap]):
             w["audioLocal"] = audio_rel_path(theme_id, i)
@@ -756,7 +1006,7 @@ async def generate_tts_audio(theme_words: Dict[str, List[dict]], force: bool = F
         return 0, 0
 
     AUDIO_DIR.mkdir(exist_ok=True)
-    sem = asyncio.Semaphore(6)
+    sem = asyncio.Semaphore(3)
     created = 0
     skipped = 0
 
@@ -770,13 +1020,18 @@ async def generate_tts_audio(theme_words: Dict[str, List[dict]], force: bool = F
             word["audioSource"] = word.get("audioSource") or "tts"
             return
         async with sem:
-            try:
-                communicate = edge_tts.Communicate(word["ka"], TTS_VOICE)
-                await communicate.save(str(path))
-            except Exception as exc:
-                failed += 1
-                print(f"  TTS failed for {word['ka']!r}: {exc}")
-                return
+            for attempt in range(4):
+                try:
+                    communicate = edge_tts.Communicate(word["ka"], TTS_VOICE)
+                    await communicate.save(str(path))
+                    break
+                except Exception as exc:
+                    if attempt < 3:
+                        await asyncio.sleep(1.5 * (attempt + 1))
+                        continue
+                    failed += 1
+                    print(f"  TTS failed for {word['ka']!r}: {exc}")
+                    return
         created += 1
         word["audio"] = str(path.relative_to(ROOT)).replace("\\", "/")
         word["audioSource"] = "tts"

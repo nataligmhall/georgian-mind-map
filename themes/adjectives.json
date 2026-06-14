@@ -1,0 +1,3078 @@
+{
+  "id": "adjectives",
+  "name": "Adjectives",
+  "nameKa": "ზედსართავი სახელები",
+  "icon": "◆",
+  "count": 200,
+  "words": [
+    {
+      "ka": "საკაიფო",
+      "roman": "saḳaipo",
+      "en": "good",
+      "glosses": [
+        "good"
+      ],
+      "pos": "adj",
+      "ipa": "[säkʼäipʰo̞]",
+      "audio": "audio/adjectives/000.mp3",
+      "audioLocal": "audio/adjectives/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კაიფი (ḳaipi) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "ბანძი",
+      "roman": "banʒi",
+      "en": "bad",
+      "glosses": [
+        "bad"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥änd͡zi]",
+      "audio": "audio/adjectives/001.mp3",
+      "audioLocal": "audio/adjectives/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ურიგო",
+      "roman": "urigo",
+      "en": "bad",
+      "glosses": [
+        "bad"
+      ],
+      "pos": "adj",
+      "ipa": "[uɾiɡo̞]",
+      "audio": "audio/adjectives/002.mp3",
+      "audioLocal": "audio/adjectives/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ცუდი",
+      "roman": "cudi",
+      "en": "bad",
+      "glosses": [
+        "bad"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰudi]",
+      "audio": "audio/adjectives/003.mp3",
+      "audioLocal": "audio/adjectives/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ცუდი (cudi), from Proto-Georgian-Zan *cud-."
+    },
+    {
+      "ka": "დიადი",
+      "roman": "diadi",
+      "en": "big",
+      "glosses": [
+        "big"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥iädi]",
+      "audio": "audio/adjectives/004.mp3",
+      "audioLocal": "audio/adjectives/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დიდი (didi) + -ადი (-adi), with loss of /d/ by dissimilation, for which cf. დეიდა (deida)."
+    },
+    {
+      "ka": "დროული",
+      "roman": "drouli",
+      "en": "old",
+      "glosses": [
+        "old"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ɾo̞uli]",
+      "audio": "audio/adjectives/005.mp3",
+      "audioLocal": "audio/adjectives/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ძველი",
+      "roman": "ʒveli",
+      "en": "old",
+      "glosses": [
+        "old"
+      ],
+      "pos": "adj",
+      "ipa": "[d͡zʷe̞li]",
+      "audio": "audio/adjectives/006.mp3",
+      "audioLocal": "audio/adjectives/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ძუელი (ʒueli), from Proto-Georgian-Zan *ʒ₁w-el- (“old”), from Proto-Kartvelian *ʒ₁w- (“to be old”)."
+    },
+    {
+      "ka": "ყმაწვილი",
+      "roman": "q̇mac̣vili",
+      "en": "young",
+      "glosses": [
+        "young"
+      ],
+      "pos": "adj",
+      "ipa": "[χʼmät͡sʼʷili]",
+      "audio": "audio/adjectives/007.mp3",
+      "audioLocal": "audio/adjectives/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გრძელი",
+      "roman": "grʒeli",
+      "en": "long",
+      "glosses": [
+        "long"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ɾd͡ze̞li]",
+      "audio": "audio/adjectives/008.mp3",
+      "audioLocal": "audio/adjectives/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian გრძელი (grʒeli), from Proto-Georgian-Zan *grʒ-el-, from Proto-Kartvelian *grʒ-."
+    },
+    {
+      "ka": "დაბალი",
+      "roman": "dabali",
+      "en": "short",
+      "glosses": [
+        "short"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äbäli]",
+      "audio": "audio/adjectives/009.mp3",
+      "audioLocal": "audio/adjectives/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოკლე",
+      "roman": "moḳle",
+      "en": "short",
+      "glosses": [
+        "short"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞kʼle̞]",
+      "audio": "audio/adjectives/010.mp3",
+      "audioLocal": "audio/adjectives/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მოკლჱ (moḳlē), from Proto-Georgian-Zan *m-ḳl-e- (“deprived, lacking, short”), from Proto-Kartvelian *ḳel- : *ḳl- (“to lack”)."
+    },
+    {
+      "ka": "ცხელი",
+      "roman": "cxeli",
+      "en": "hot",
+      "glosses": [
+        "hot"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰχe̞li]",
+      "audio": "audio/adjectives/011.mp3",
+      "audioLocal": "audio/adjectives/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ცხელი (cxeli), ultimately from Proto-Kartvelian *c₁x-. Akin to სიცხე (sicxe), გამოცხობა (gamocxoba), etc."
+    },
+    {
+      "ka": "ცივი",
+      "roman": "civi",
+      "en": "cold",
+      "glosses": [
+        "cold"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰivi]",
+      "audio": "audio/adjectives/012.mp3",
+      "audioLocal": "audio/adjectives/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თბილი",
+      "roman": "tbili",
+      "en": "warm",
+      "glosses": [
+        "warm"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰbili]",
+      "audio": "audio/adjectives/013.mp3",
+      "audioLocal": "audio/adjectives/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ტფილი (ṭpili), from Proto-Kartvelian *ṭep-, *ṭp- (see there for more). Cognate with Mingrelian ტუბუ (ṭubu), Laz ტუბუ (ťubu) and Svan ტებიდ (ṭebid)."
+    },
+    {
+      "ka": "ძერსკი",
+      "roman": "ʒersḳi",
+      "en": "cool",
+      "glosses": [
+        "cool"
+      ],
+      "pos": "adj",
+      "ipa": "[d͡ze̞ɾskʼi]",
+      "audio": "audio/adjectives/014.mp3",
+      "audioLocal": "audio/adjectives/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian де́рзкий (dérzkij, “insolent, cheeky, bold”)."
+    },
+    {
+      "ka": "შნოიანი",
+      "roman": "šnoiani",
+      "en": "beautiful",
+      "glosses": [
+        "beautiful"
+      ],
+      "pos": "adj",
+      "ipa": "[ʃno̞iäni]",
+      "audio": "audio/adjectives/015.mp3",
+      "audioLocal": "audio/adjectives/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შნო (šno) + -იანი (-iani)."
+    },
+    {
+      "ka": "უშნო",
+      "roman": "ušno",
+      "en": "ugly",
+      "glosses": [
+        "ugly"
+      ],
+      "pos": "adj",
+      "ipa": "[uʃno̞]",
+      "audio": "audio/adjectives/016.mp3",
+      "audioLocal": "audio/adjectives/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Possibly from უ- (u-) + შნო (šno) or შნო (šno) + უ- -ო (u- -o).\nShanidze, on the other hand, derives it directly from the old root -შუენ- (compare შვენება (šveneba)) with circumfix უ- -ო (u- -o): უ-შნ-ო < *უ-შვნ-ო < *უ-შუენ-ო. Compare the antonym მშვენიერი (mšvenieri)."
+    },
+    {
+      "ka": "ადვილი",
+      "roman": "advili",
+      "en": "easy",
+      "glosses": [
+        "easy"
+      ],
+      "pos": "adj",
+      "ipa": "[ädʷili]",
+      "audio": "audio/adjectives/017.mp3",
+      "audioLocal": "audio/adjectives/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იოლი",
+      "roman": "ioli",
+      "en": "easy",
+      "glosses": [
+        "easy"
+      ],
+      "pos": "adj",
+      "ipa": "[io̞li]",
+      "audio": "audio/adjectives/018.mp3",
+      "audioLocal": "audio/adjectives/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მძიმე",
+      "roman": "mʒime",
+      "en": "hard",
+      "glosses": [
+        "hard"
+      ],
+      "pos": "adj",
+      "ipa": "[md͡zime̞]",
+      "audio": "audio/adjectives/019.mp3",
+      "audioLocal": "audio/adjectives/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნელი",
+      "roman": "neli",
+      "en": "slow",
+      "glosses": [
+        "slow"
+      ],
+      "pos": "adj",
+      "ipa": "[ne̞li]",
+      "audio": "audio/adjectives/020.mp3",
+      "audioLocal": "audio/adjectives/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian ნელი (neli)."
+    },
+    {
+      "ka": "ძლიერი",
+      "roman": "ʒlieri",
+      "en": "strong",
+      "glosses": [
+        "strong"
+      ],
+      "pos": "adj",
+      "ipa": "[d͡zlie̞ɾi]",
+      "audio": "audio/adjectives/021.mp3",
+      "audioLocal": "audio/adjectives/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ძლიერი (ʒlieri), equivalent to ძალა (ʒala, “strength”) + -იერი (-ieri)."
+    },
+    {
+      "ka": "სუსტი",
+      "roman": "susṭi",
+      "en": "weak",
+      "glosses": [
+        "weak"
+      ],
+      "pos": "adj",
+      "ipa": "[sustʼi]",
+      "audio": "audio/adjectives/022.mp3",
+      "audioLocal": "audio/adjectives/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Persian سست (sost)."
+    },
+    {
+      "ka": "მწირი",
+      "roman": "mc̣iri",
+      "en": "poor",
+      "glosses": [
+        "poor"
+      ],
+      "pos": "adj",
+      "ipa": "[mt͡sʼiɾi]",
+      "audio": "audio/adjectives/023.mp3",
+      "audioLocal": "audio/adjectives/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ღატაკი",
+      "roman": "ɣaṭaḳi",
+      "en": "poor",
+      "glosses": [
+        "poor"
+      ],
+      "pos": "adj",
+      "ipa": "[ʁätʼäkʼi]",
+      "audio": "audio/adjectives/024.mp3",
+      "audioLocal": "audio/adjectives/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ხელმოკლე",
+      "roman": "xelmoḳle",
+      "en": "poor",
+      "glosses": [
+        "poor"
+      ],
+      "pos": "adj",
+      "ipa": "[χe̞lmo̞kʼle̞]",
+      "audio": "audio/adjectives/025.mp3",
+      "audioLocal": "audio/adjectives/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ხელი (xeli) + მოკლე (moḳle)."
+    },
+    {
+      "ka": "ბედნიერი",
+      "roman": "bednieri",
+      "en": "happy",
+      "glosses": [
+        "happy"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞dnie̞ɾi]",
+      "audio": "audio/adjectives/026.mp3",
+      "audioLocal": "audio/adjectives/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასვრილი",
+      "roman": "dasvrili",
+      "en": "dirty",
+      "glosses": [
+        "dirty"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äsʷɾili]",
+      "audio": "audio/adjectives/027.mp3",
+      "audioLocal": "audio/adjectives/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მართი",
+      "roman": "marti",
+      "en": "right",
+      "glosses": [
+        "right"
+      ],
+      "pos": "adj",
+      "ipa": "[mäɾtʰi]",
+      "audio": "audio/adjectives/028.mp3",
+      "audioLocal": "audio/adjectives/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჭეშმარიტი",
+      "roman": "č̣ešmariṭi",
+      "en": "true",
+      "glosses": [
+        "true"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡ʃʼe̞ʃmäɾitʼi]",
+      "audio": "audio/adjectives/029.mp3",
+      "audioLocal": "audio/adjectives/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჭეშმარიტი (č̣ešmariṭi), borrowed from Old Armenian ճշմարիտ (čšmarit)."
+    },
+    {
+      "ka": "ტრუხა",
+      "roman": "ṭruxa",
+      "en": "false",
+      "glosses": [
+        "false"
+      ],
+      "pos": "adj",
+      "ipa": "[tʼɾuχä]",
+      "audio": "audio/adjectives/030.mp3",
+      "audioLocal": "audio/adjectives/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაშლილი",
+      "roman": "gašlili",
+      "en": "open",
+      "glosses": [
+        "open"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊äʃlili]",
+      "audio": "audio/adjectives/031.mp3",
+      "audioLocal": "audio/adjectives/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იგივე",
+      "roman": "igive",
+      "en": "same",
+      "glosses": [
+        "same"
+      ],
+      "pos": "adj",
+      "ipa": "[iɡive̞]",
+      "audio": "audio/adjectives/032.mp3",
+      "audioLocal": "audio/adjectives/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From იგი (igi, third-person singular pronoun) + -ვე (-ve)."
+    },
+    {
+      "ka": "სხვანაირი",
+      "roman": "sxvanairi",
+      "en": "different",
+      "glosses": [
+        "different"
+      ],
+      "pos": "adj",
+      "ipa": "[sχʷänäiɾi]",
+      "audio": "audio/adjectives/033.mp3",
+      "audioLocal": "audio/adjectives/033.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მნიშვნელოვანი",
+      "roman": "mnišvnelovani",
+      "en": "important",
+      "glosses": [
+        "important"
+      ],
+      "pos": "adj",
+      "ipa": "[mniʃʷne̞ɫo̞väni]",
+      "audio": "audio/adjectives/034.mp3",
+      "audioLocal": "audio/adjectives/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მნიშვნელ(ობა) (mnišvnel(oba)) + -ოვანი (-ovani)."
+    },
+    {
+      "ka": "ტკბილი",
+      "roman": "ṭḳbili",
+      "en": "sweet",
+      "glosses": [
+        "sweet"
+      ],
+      "pos": "adj",
+      "ipa": "[tʼkʼbili]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Ka-%E1%83%A2%E1%83%99%E1%83%91%E1%83%98%E1%83%9A%E1%83%98-Nicodene-mom.ogg/Ka-%E1%83%A2%E1%83%99%E1%83%91%E1%83%98%E1%83%9A%E1%83%98-Nicodene-mom.ogg.mp3",
+      "audioLocal": "audio/adjectives/035.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "From Old Georgian ტკბილი (ṭḳbili), from Proto-Kartvelian *tḳb-."
+    },
+    {
+      "ka": "მწარე",
+      "roman": "mc̣are",
+      "en": "bitter",
+      "glosses": [
+        "bitter"
+      ],
+      "pos": "adj",
+      "ipa": "[mt͡sʼäɾe̞]",
+      "audio": "audio/adjectives/036.mp3",
+      "audioLocal": "audio/adjectives/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მწარე (mc̣are), from Proto-Georgian-Zan *mc̣₁are-, from *c̣₁ar- (“bitter”). Cognates include Mingrelian root ჭორ- (č̣or-)."
+    },
+    {
+      "ka": "ხმამაღალი",
+      "roman": "xmamaɣali",
+      "en": "loud",
+      "glosses": [
+        "loud"
+      ],
+      "pos": "adj",
+      "ipa": "[χmämäʁäli]",
+      "audio": "audio/adjectives/037.mp3",
+      "audioLocal": "audio/adjectives/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩუმი",
+      "roman": "čumi",
+      "en": "quiet",
+      "glosses": [
+        "quiet"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡ʃʰumi]",
+      "audio": "audio/adjectives/038.mp3",
+      "audioLocal": "audio/adjectives/038.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "წყნარი",
+      "roman": "c̣q̇nari",
+      "en": "quiet",
+      "glosses": [
+        "quiet"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʼχʼnäɾi]",
+      "audio": "audio/adjectives/039.mp3",
+      "audioLocal": "audio/adjectives/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნათელი",
+      "roman": "nateli",
+      "en": "light",
+      "glosses": [
+        "light"
+      ],
+      "pos": "adj",
+      "ipa": "[nätʰe̞li]",
+      "audio": "audio/adjectives/040.mp3",
+      "audioLocal": "audio/adjectives/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ნათელი (nateli), from Proto-Georgian-Zan *nat-e- (“light”), from *nat- (“to shine, give light”). Cognate with Mingrelian ნოთე (note, “ray of light; torch”) and Laz ნოთე (note, “torch”)."
+    },
+    {
+      "ka": "ნარნარა",
+      "roman": "narnara",
+      "en": "soft",
+      "glosses": [
+        "soft"
+      ],
+      "pos": "adj",
+      "ipa": "[näɾnäɾä]",
+      "audio": "audio/adjectives/041.mp3",
+      "audioLocal": "audio/adjectives/041.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნარნარი (narnari) + -ა (-a)."
+    },
+    {
+      "ka": "სველი",
+      "roman": "sveli",
+      "en": "wet",
+      "glosses": [
+        "wet"
+      ],
+      "pos": "adj",
+      "ipa": "[sʷe̞li]",
+      "audio": "audio/adjectives/042.mp3",
+      "audioLocal": "audio/adjectives/042.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian სუელი (sueli), *სოველი (*soveli)."
+    },
+    {
+      "ka": "მშრალი",
+      "roman": "mšrali",
+      "en": "dry",
+      "glosses": [
+        "dry"
+      ],
+      "pos": "adj",
+      "ipa": "[mʃɾäli]",
+      "audio": "audio/adjectives/043.mp3",
+      "audioLocal": "audio/adjectives/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian [Term?], from Proto-Georgian-Zan *šwer-, *šwr-. For a possible cognate see Old Georgian ნაჴშირი (naqširi, “coal”)."
+    },
+    {
+      "ka": "საღი",
+      "roman": "saɣi",
+      "en": "healthy",
+      "glosses": [
+        "healthy"
+      ],
+      "pos": "adj",
+      "ipa": "[säʁi]",
+      "audio": "audio/adjectives/044.mp3",
+      "audioLocal": "audio/adjectives/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish صاغ (sağ)."
+    },
+    {
+      "ka": "ჯანმრთელი",
+      "roman": "ǯanmrteli",
+      "en": "healthy",
+      "glosses": [
+        "healthy"
+      ],
+      "pos": "adj",
+      "ipa": "[d͡ʒänmɾtʰe̞li]",
+      "audio": "audio/adjectives/045.mp3",
+      "audioLocal": "audio/adjectives/045.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian [Term?], equivalent of modern ჯანი (ǯani, “health”) + მრთელი (mrteli, “wholesome”). Likely modeled in both meaning and form on Old Georgian გუამ მრთელი (guam mrteli), which became dated as გუამი (guami), originally meaning body, gradually shifted to გვამი (gvami) (corpse), which was replaced by Persianate word ჯანი (ǯani) (health, strength, life force)."
+    },
+    {
+      "ka": "მაგარი",
+      "roman": "magari",
+      "en": "good, cool",
+      "glosses": [
+        "good, cool"
+      ],
+      "pos": "adj",
+      "ipa": "[mäɡäɾi]",
+      "audio": "audio/adjectives/046.mp3",
+      "audioLocal": "audio/adjectives/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დიდი",
+      "roman": "didi",
+      "en": "big, large, great",
+      "glosses": [
+        "big, large, great"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥idi]",
+      "audio": "audio/adjectives/047.mp3",
+      "audioLocal": "audio/adjectives/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian დიდი (didi), from Proto-Georgian-Zan *did-; see there for more."
+    },
+    {
+      "ka": "ახალი",
+      "roman": "axali",
+      "en": "new, fresh",
+      "glosses": [
+        "new, fresh"
+      ],
+      "pos": "adj",
+      "ipa": "[äχäli]",
+      "audio": "audio/adjectives/048.mp3",
+      "audioLocal": "audio/adjectives/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ახალი (axali). Akin to Laz აღანი (ağani)."
+    },
+    {
+      "ka": "მცირე",
+      "roman": "mcire",
+      "en": "small, insignificant",
+      "glosses": [
+        "small, insignificant"
+      ],
+      "pos": "adj",
+      "ipa": "[mt͡sʰiɾe̞]",
+      "audio": "audio/adjectives/049.mp3",
+      "audioLocal": "audio/adjectives/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მცირჱ (mcirē), from Proto-Georgian-Zan *cir- or from Proto-Georgian-Zan *mcire- (“little, small”). Cognate with Mingrelian ცირა (cira, “girl; daughter”)."
+    },
+    {
+      "ka": "გუშინდელი",
+      "roman": "gušindeli",
+      "en": "old, dated",
+      "glosses": [
+        "old, dated"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊uʃinde̞li]",
+      "audio": "audio/adjectives/050.mp3",
+      "audioLocal": "audio/adjectives/050.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ჩემთვის ეს გუშინდელი ამბავია.",
+          "roman": "čemtvis es gušindeli ambavia.",
+          "en": "It sounds like yesterday's news to me."
+        }
+      ],
+      "etymology": "From გუშინ (gušin)."
+    },
+    {
+      "ka": "ზაყენი",
+      "roman": "zaq̇eni",
+      "en": "old, aged",
+      "glosses": [
+        "old, aged"
+      ],
+      "pos": "adj",
+      "ipa": "[zäχʼe̞ni]",
+      "audio": "audio/adjectives/051.mp3",
+      "audioLocal": "audio/adjectives/051.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ნაშა ზაყენი იეშობს და ბაიტში დამალეხეტო",
+          "roman": "naša zaq̇eni iešobs da baiṭši damalexeṭo",
+          "en": "The girl is old and ugly and took me home"
+        }
+      ],
+      "etymology": "Borrowed from Hebrew זָקֵן (zakén)."
+    },
+    {
+      "ka": "ახალგაზრდა",
+      "roman": "axalgazrda",
+      "en": "young, youthful",
+      "glosses": [
+        "young, youthful"
+      ],
+      "pos": "adj",
+      "ipa": "[äχälɡäzɾdä]",
+      "audio": "audio/adjectives/052.mp3",
+      "audioLocal": "audio/adjectives/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოხუცი",
+      "roman": "moxuci",
+      "en": "old, elderly (person)",
+      "glosses": [
+        "old, elderly (person)"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞χut͡sʰi]",
+      "audio": "audio/adjectives/053.mp3",
+      "audioLocal": "audio/adjectives/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "შუშა",
+      "roman": "šuša",
+      "en": "young, tender",
+      "glosses": [
+        "young, tender"
+      ],
+      "pos": "adj",
+      "ipa": "[ʃuʃä]",
+      "audio": "audio/adjectives/054.mp3",
+      "audioLocal": "audio/adjectives/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian, attested as და-შუშ-ებ-ა (da-šuš-eb-a, “to spoil, pamper”), ultimately from Proto-Georgian-Zan *šuš-. Cognate with Mingrelian შქიშქილა (škiškila, “young, tender”)."
+    },
+    {
+      "ka": "საახალწლო",
+      "roman": "saaxalc̣lo",
+      "en": "New Year's, New Year (as adjective)",
+      "glosses": [
+        "New Year's, New Year (as adjective)"
+      ],
+      "pos": "adj",
+      "ipa": "[sääχält͡sʼɫo̞]",
+      "audio": "audio/adjectives/055.mp3",
+      "audioLocal": "audio/adjectives/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ახალი წელი (axali c̣eli, “New Year”) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "ნორჩი",
+      "roman": "norči",
+      "en": "young, youthful, fresh",
+      "glosses": [
+        "young, youthful, fresh"
+      ],
+      "pos": "adj",
+      "ipa": "[no̞ɾt͡ʃʰi]",
+      "audio": "audio/adjectives/056.mp3",
+      "audioLocal": "audio/adjectives/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "შორი",
+      "roman": "šori",
+      "en": "long (lengthy)",
+      "glosses": [
+        "long (lengthy)"
+      ],
+      "pos": "adj",
+      "ipa": "[ʃo̞ɾi]",
+      "audio": "audio/adjectives/057.mp3",
+      "audioLocal": "audio/adjectives/057.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "შორი გზა",
+          "roman": "šori gza",
+          "en": "long way"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "ალხი",
+      "roman": "alxi",
+      "en": "hot, warm",
+      "glosses": [
+        "hot, warm"
+      ],
+      "pos": "adj",
+      "ipa": "[älχi]",
+      "audio": "audio/adjectives/058.mp3",
+      "audioLocal": "audio/adjectives/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაღალტექნოლოგიური",
+      "roman": "maɣalṭeknologiuri",
+      "en": "high tech, high-tech hi-tech",
+      "glosses": [
+        "high tech, high-tech hi-tech"
+      ],
+      "pos": "adj",
+      "ipa": "[mäʁältʼe̞kʰno̞ɫo̞ɡiuɾi]",
+      "audio": "audio/adjectives/059.mp3",
+      "audioLocal": "audio/adjectives/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაღალი",
+      "roman": "maɣali",
+      "en": "high, big (temperature, number, etc)",
+      "glosses": [
+        "high, big (temperature, number, etc)"
+      ],
+      "pos": "adj",
+      "ipa": "[mäʁäli]",
+      "audio": "audio/adjectives/060.mp3",
+      "audioLocal": "audio/adjectives/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მაღალი (maɣali). Further origin unknown."
+    },
+    {
+      "ka": "ძველსკანდინავიური",
+      "roman": "ʒvelsḳandinaviuri",
+      "en": "Old Scandinavian, relating to the old Scandinavian times (Viking Age)",
+      "glosses": [
+        "Old Scandinavian, relating to the old Scandinavian times (Viking Age)"
+      ],
+      "pos": "adj",
+      "ipa": "[d͡zʷe̞lskʼändinäviuɾi]",
+      "audio": "audio/adjectives/061.mp3",
+      "audioLocal": "audio/adjectives/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კოტიტა",
+      "roman": "ḳoṭiṭa",
+      "en": "short and thick (describing only fingers or limbs)",
+      "glosses": [
+        "short and thick (describing only fingers or limbs)"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼo̞tʼitʼä]",
+      "audio": "audio/adjectives/062.mp3",
+      "audioLocal": "audio/adjectives/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გრილი",
+      "roman": "grili",
+      "en": "cool shade, shadow",
+      "glosses": [
+        "cool shade, shadow"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ɾili]",
+      "audio": "audio/adjectives/063.mp3",
+      "audioLocal": "audio/adjectives/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian გრილი (grili, “shadow, shade; cool”). Cognate with Mingrelian რგილი (rgili)."
+    },
+    {
+      "ka": "ლამაზი",
+      "roman": "lamazi",
+      "en": "beautiful, handsome",
+      "glosses": [
+        "beautiful, handsome"
+      ],
+      "pos": "adj",
+      "ipa": "[ɫämäzi]",
+      "audio": "audio/adjectives/064.mp3",
+      "audioLocal": "audio/adjectives/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian ლამაზი (lamazi, “beautiful”). First attested in the 12th century.\nUsually said to be borrowed from Arabic لَمَّاز (lammāz, “fault-finder, captious critic, caviler, carper”), with a special sense development within Georgian. Compare Middle Georgian ლამაზობა (lamazoba, “deceitfulness”) in Visramiani, preserving an older meaning.\nAlternatively, borrowed from Classical Persian نَم…"
+    },
+    {
+      "ka": "ტურფა",
+      "roman": "ṭurpa",
+      "en": "beautiful, charming",
+      "glosses": [
+        "beautiful, charming"
+      ],
+      "pos": "adj",
+      "ipa": "[tʼuɾpʰä]",
+      "audio": "audio/adjectives/065.mp3",
+      "audioLocal": "audio/adjectives/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ტურფაჲ (ṭurpay, “foreign (to one's eyes); beautiful”), from the same Iranian source as տարփ (tarpʻ). See the latter for more."
+    },
+    {
+      "ka": "მახინჯი",
+      "roman": "maxinǯi",
+      "en": "ugly, misshapen",
+      "glosses": [
+        "ugly, misshapen"
+      ],
+      "pos": "adj",
+      "ipa": "[mäχind͡ʒi]",
+      "audio": "audio/adjectives/066.mp3",
+      "audioLocal": "audio/adjectives/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სოთი",
+      "roman": "soti",
+      "en": "beautiful, elegant (nose)",
+      "glosses": [
+        "beautiful, elegant (nose)"
+      ],
+      "pos": "adj",
+      "ipa": "[so̞tʰi]",
+      "audio": "audio/adjectives/067.mp3",
+      "audioLocal": "audio/adjectives/067.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "სოთი ცხვირი [...] მოკლედ შეკრეჭილ ხშირ ულვაშებში ეშმაკურად ჩაერგო [თავმჯდომარეს]",
+          "roman": "soti cxviri [...] moḳled šeḳreč̣il xšir ulvašebši ešmaḳurad čaergo [tavmǯdomares]",
+          "en": "[The chairman] has had his elegant nose buried in his short-cut thick mustache"
+        },
+        {
+          "ka": "...იგ უებრო დახატული, ცხვირი სოთი ბროლის სტვირად...",
+          "roman": "...ig uebro daxaṭuli, cxviri soti brolis sṭvirad...",
+          "en": "That flawless, painted beauty — a beautiful nose like a curved crystal flute"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "დუხჭირი",
+      "roman": "duxč̣iri",
+      "en": "ugly, misshapen, disfigured",
+      "glosses": [
+        "ugly, misshapen, disfigured"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥uχt͡ʃʼiɾi]",
+      "audio": "audio/adjectives/068.mp3",
+      "audioLocal": "audio/adjectives/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ძნელი",
+      "roman": "ʒneli",
+      "en": "difficult, hard",
+      "glosses": [
+        "difficult, hard"
+      ],
+      "pos": "adj",
+      "ipa": "[d͡zne̞li]",
+      "audio": "audio/adjectives/069.mp3",
+      "audioLocal": "audio/adjectives/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სმენადაქვეითებული",
+      "roman": "smenadakveitebuli",
+      "en": "hard of hearing",
+      "glosses": [
+        "hard of hearing"
+      ],
+      "pos": "adj",
+      "ipa": "[sme̞nädäkʰʷe̞itʰe̞buli]",
+      "audio": "audio/adjectives/070.mp3",
+      "audioLocal": "audio/adjectives/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სმენა (smena, “hearing (ability)”) + დაქვეითებული (dakveitebuli, “degraded”), literally \"someone who has a degraded hearing ability\"."
+    },
+    {
+      "ka": "უმსგავსო",
+      "roman": "umsgavso",
+      "en": "ugly, obscene, abominable, loathsome",
+      "glosses": [
+        "ugly, obscene, abominable, loathsome"
+      ],
+      "pos": "adj",
+      "ipa": "[umsɡäfso̞]",
+      "audio": "audio/adjectives/071.mp3",
+      "audioLocal": "audio/adjectives/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მსგავსი (msgavsi) + უ- -ო (u- -o)."
+    },
+    {
+      "ka": "მალი",
+      "roman": "mali",
+      "en": "fast, speedy",
+      "glosses": [
+        "fast, speedy"
+      ],
+      "pos": "adj",
+      "ipa": "[mäli]",
+      "audio": "audio/adjectives/072.mp3",
+      "audioLocal": "audio/adjectives/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გერგილი",
+      "roman": "gergili",
+      "en": "slow, lazy",
+      "glosses": [
+        "slow, lazy"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊e̞ɾɡili]",
+      "audio": "audio/adjectives/073.mp3",
+      "audioLocal": "audio/adjectives/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნარნარი",
+      "roman": "narnari",
+      "en": "slow and calm",
+      "glosses": [
+        "slow and calm"
+      ],
+      "pos": "adj",
+      "ipa": "[näɾnäɾi]",
+      "audio": "audio/adjectives/074.mp3",
+      "audioLocal": "audio/adjectives/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ხელწამოსაკრავი",
+      "roman": "xelc̣amosaḳravi",
+      "en": "Easy to deal with or mess with, simple, naive",
+      "glosses": [
+        "Easy to deal with or mess with, simple, naive"
+      ],
+      "pos": "adj",
+      "ipa": "[χe̞lt͡sʼämo̞säkʼɾävi]",
+      "audio": "audio/adjectives/075.mp3",
+      "audioLocal": "audio/adjectives/075.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ჯანყი, ანუ ხალხის არეულობა, ესეთი ხელწამოსაკრავი საქმე არ არის",
+          "roman": "ǯanq̇i, anu xalxis areuloba, eseti xelc̣amosaḳravi sakme ar aris",
+          "en": "Uprising, that is, chaos in people is not a simple matter"
+        }
+      ],
+      "etymology": "From ხელი (xeli, “hand”) + წამოსაკრავი (c̣amosaḳravi, “that is to be struck”)."
+    },
+    {
+      "ka": "მოშნი",
+      "roman": "mošni",
+      "en": "strong, powerful",
+      "glosses": [
+        "strong, powerful"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞ʃni]",
+      "audio": "audio/adjectives/076.mp3",
+      "audioLocal": "audio/adjectives/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian мо́щный (móščnyj)."
+    },
+    {
+      "ka": "მდიდარი",
+      "roman": "mdidari",
+      "en": "rich, wealthy",
+      "glosses": [
+        "rich, wealthy"
+      ],
+      "pos": "adj",
+      "ipa": "[mdidäɾi]",
+      "audio": "audio/adjectives/077.mp3",
+      "audioLocal": "audio/adjectives/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უღონო",
+      "roman": "uɣono",
+      "en": "weak, feeble, powerless",
+      "glosses": [
+        "weak, feeble, powerless"
+      ],
+      "pos": "adj",
+      "ipa": "[uʁo̞no̞]",
+      "audio": "audio/adjectives/078.mp3",
+      "audioLocal": "audio/adjectives/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ალქატი",
+      "roman": "alkaṭi",
+      "en": "poor, impoverished",
+      "glosses": [
+        "poor, impoverished"
+      ],
+      "pos": "adj",
+      "ipa": "[älkʰätʼi]",
+      "audio": "audio/adjectives/079.mp3",
+      "audioLocal": "audio/adjectives/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ალქატი (alkaṭi), from Old Armenian աղքատ (ałkʻat)."
+    },
+    {
+      "ka": "ბეჩავი",
+      "roman": "bečavi",
+      "en": "poor, wretched; pitiable",
+      "glosses": [
+        "poor, wretched; pitiable"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞t͡ʃʰävi]",
+      "audio": "audio/adjectives/080.mp3",
+      "audioLocal": "audio/adjectives/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "By reduction of ბედშავი (bedšavi, “unlucky”)"
+    },
+    {
+      "ka": "ლაღი",
+      "roman": "laɣi",
+      "en": "happy, cheerful, full of life, energetic, vigorous",
+      "glosses": [
+        "happy, cheerful, full of life, energetic, vigorous"
+      ],
+      "pos": "adj",
+      "ipa": "[ɫäʁi]",
+      "audio": "audio/adjectives/081.mp3",
+      "audioLocal": "audio/adjectives/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian لاغ (lâġ, “joke”)."
+    },
+    {
+      "ka": "საბედნიერო",
+      "roman": "sabedniero",
+      "en": "happy (bringing happiness; fortunate, felicitous)",
+      "glosses": [
+        "happy (bringing happiness; fortunate, felicitous)"
+      ],
+      "pos": "adj",
+      "ipa": "[säbe̞dnie̞ɾo̞]",
+      "audio": "audio/adjectives/082.mp3",
+      "audioLocal": "audio/adjectives/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბედნიერი (bednieri) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "მტყუანი",
+      "roman": "mṭq̇uani",
+      "en": "wrong, unjust",
+      "glosses": [
+        "wrong, unjust"
+      ],
+      "pos": "adj",
+      "ipa": "[mtʼχʼuäni]",
+      "audio": "audio/adjectives/083.mp3",
+      "audioLocal": "audio/adjectives/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მართალი",
+      "roman": "martali",
+      "en": "true, correct",
+      "glosses": [
+        "true, correct"
+      ],
+      "pos": "adj",
+      "ipa": "[mäɾtʰäli]",
+      "audio": "audio/adjectives/084.mp3",
+      "audioLocal": "audio/adjectives/084.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "მართალი ხარ.",
+          "roman": "martali xar.",
+          "en": "You are right."
+        },
+        {
+          "ka": "მართალია.",
+          "roman": "martalia.",
+          "en": "It's true."
+        }
+      ],
+      "etymology": "From Old Georgian მართალი (martali)."
+    },
+    {
+      "ka": "მართებული",
+      "roman": "martebuli",
+      "en": "right, just, reasonable, acceptable, proper",
+      "glosses": [
+        "right, just, reasonable, acceptable, proper"
+      ],
+      "pos": "adj",
+      "ipa": "[mäɾtʰe̞buli]",
+      "audio": "audio/adjectives/085.mp3",
+      "audioLocal": "audio/adjectives/085.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საჯარო",
+      "roman": "saǯaro",
+      "en": "open, public",
+      "glosses": [
+        "open, public"
+      ],
+      "pos": "adj",
+      "ipa": "[säd͡ʒäɾo̞]",
+      "audio": "audio/adjectives/086.mp3",
+      "audioLocal": "audio/adjectives/086.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჭუჭყიანი",
+      "roman": "č̣uč̣q̇iani",
+      "en": "dirty, filthy, grimy, impure, mucky, sordid, squalid",
+      "glosses": [
+        "dirty, filthy, grimy, impure, mucky, sordid, squalid"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡ʃʼut͡ʃʼχʼiäni]",
+      "audio": "audio/adjectives/087.mp3",
+      "audioLocal": "audio/adjectives/087.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ჭუჭყი (č̣uč̣q̇i) + -იანი (-iani)."
+    },
+    {
+      "ka": "ღია",
+      "roman": "ɣia",
+      "en": "open, overt, patent",
+      "glosses": [
+        "open, overt, patent"
+      ],
+      "pos": "adj",
+      "ipa": "[ʁiä]",
+      "audio": "audio/adjectives/088.mp3",
+      "audioLocal": "audio/adjectives/088.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაკეტილი",
+      "roman": "daḳeṭili",
+      "en": "closed, shut",
+      "glosses": [
+        "closed, shut"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äkʼe̞tʼili]",
+      "audio": "audio/adjectives/089.mp3",
+      "audioLocal": "audio/adjectives/089.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დაკეტ(ვა) (daḳeṭ(va)) + -ილი (-ili, past passive participle-forming suffix)."
+    },
+    {
+      "ka": "ზამბახიანი",
+      "roman": "zambaxiani",
+      "en": "Full of irises",
+      "glosses": [
+        "Full of irises"
+      ],
+      "pos": "adj",
+      "ipa": "[zämbäχiäni]",
+      "audio": "audio/adjectives/090.mp3",
+      "audioLocal": "audio/adjectives/090.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სავსე",
+      "roman": "savse",
+      "en": "full, packed",
+      "glosses": [
+        "full, packed"
+      ],
+      "pos": "adj",
+      "ipa": "[säfse̞]",
+      "audio": "audio/adjectives/091.mp3",
+      "audioLocal": "audio/adjectives/091.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "სიცოცხლით სავსე",
+          "roman": "sicocxlit savse",
+          "en": "full of life"
+        },
+        {
+          "ka": "მაგიდაზე წყლით სავსე ჭიქა იდგა.",
+          "roman": "magidaze c̣q̇lit savse č̣ika idga.",
+          "en": "There was a glass full of water on the table."
+        }
+      ],
+      "etymology": "From Old Georgian [Term?], from Proto-Kartvelian *wes₁-."
+    },
+    {
+      "ka": "ცარიელი",
+      "roman": "carieli",
+      "en": "empty, hollow, inane, vacant, vacuous, void",
+      "glosses": [
+        "empty, hollow, inane, vacant, vacuous, void"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰäɾie̞li]",
+      "audio": "audio/adjectives/092.mp3",
+      "audioLocal": "audio/adjectives/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არაფრისმთქმელი",
+      "roman": "araprismtkmeli",
+      "en": "empty or devoid of meaning, insignificant, uninformative",
+      "glosses": [
+        "empty or devoid of meaning, insignificant, uninformative"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäpʰɾismtʰkʰme̞li]",
+      "audio": "audio/adjectives/093.mp3",
+      "audioLocal": "audio/adjectives/093.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "განსხვავებული",
+      "roman": "gansxvavebuli",
+      "en": "different (not the same)",
+      "glosses": [
+        "different (not the same)"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊änsχʷäve̞buli]",
+      "audio": "audio/adjectives/094.mp3",
+      "audioLocal": "audio/adjectives/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ერთნაირი",
+      "roman": "ertnairi",
+      "en": "same, identical, similar, uniform",
+      "glosses": [
+        "same, identical, similar, uniform"
+      ],
+      "pos": "adj",
+      "ipa": "[e̞ɾtʰnäiɾi]",
+      "audio": "audio/adjectives/095.mp3",
+      "audioLocal": "audio/adjectives/095.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სხვადასხვა",
+      "roman": "sxvadasxva",
+      "en": "different, various, miscellaneous",
+      "glosses": [
+        "different, various, miscellaneous"
+      ],
+      "pos": "adj",
+      "ipa": "[sχʷädäsχʷä]",
+      "audio": "audio/adjectives/096.mp3",
+      "audioLocal": "audio/adjectives/096.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სხვა (sxva) + -და- (-da-) + სხვა (sxva)."
+    },
+    {
+      "ka": "შესაძლებელი",
+      "roman": "šesaʒlebeli",
+      "en": "possible, feasible",
+      "glosses": [
+        "possible, feasible"
+      ],
+      "pos": "adj",
+      "ipa": null,
+      "audio": "audio/adjectives/097.mp3",
+      "audioLocal": "audio/adjectives/097.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აზატი",
+      "roman": "azaṭi",
+      "en": "free (of care)",
+      "glosses": [
+        "free (of care)"
+      ],
+      "pos": "adj",
+      "ipa": "[äzätʼi]",
+      "audio": "audio/adjectives/098.mp3",
+      "audioLocal": "audio/adjectives/098.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "An Iranian borrowing from Persian آزاد (āzād / âzâd, “independent”). Compare Armenian ազատ (azat)."
+    },
+    {
+      "ka": "დაკავებული",
+      "roman": "daḳavebuli",
+      "en": "busy, occupied",
+      "glosses": [
+        "busy, occupied"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äkʼäve̞buli]",
+      "audio": "audio/adjectives/099.mp3",
+      "audioLocal": "audio/adjectives/099.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დაკავება (daḳaveba) + -ული (-uli, past-passive participle forming suffix)."
+    },
+    {
+      "ka": "თავისუფალი",
+      "roman": "tavisupali",
+      "en": "free (unconstrained)",
+      "glosses": [
+        "free (unconstrained)"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰävisupʰäli]",
+      "audio": "audio/adjectives/100.mp3",
+      "audioLocal": "audio/adjectives/100.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian თავისუფალი (tavisupali)."
+    },
+    {
+      "ka": "საჭირო",
+      "roman": "sač̣iro",
+      "en": "necessary, needed, requested, required",
+      "glosses": [
+        "necessary, needed, requested, required"
+      ],
+      "pos": "adj",
+      "ipa": "[sät͡ʃʼiɾo̞]",
+      "audio": "audio/adjectives/101.mp3",
+      "audioLocal": "audio/adjectives/101.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უსასყიდლო",
+      "roman": "usasq̇idlo",
+      "en": "free, free of charge, gratis",
+      "glosses": [
+        "free, free of charge, gratis"
+      ],
+      "pos": "adj",
+      "ipa": "[usäsχʼidɫo̞]",
+      "audio": "audio/adjectives/102.mp3",
+      "audioLocal": "audio/adjectives/102.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სასყიდელი (sasq̇ideli) + უ- -ო (u- -o)."
+    },
+    {
+      "ka": "უფასო",
+      "roman": "upaso",
+      "en": "free, free of charge, gratis",
+      "glosses": [
+        "free, free of charge, gratis"
+      ],
+      "pos": "adj",
+      "ipa": "[upʰäso̞]",
+      "audio": "audio/adjectives/103.mp3",
+      "audioLocal": "audio/adjectives/103.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფასი (pasi) + უ- -ო (u- -o)."
+    },
+    {
+      "ka": "მზა",
+      "roman": "mza",
+      "en": "ready, ready-made",
+      "glosses": [
+        "ready, ready-made"
+      ],
+      "pos": "adj",
+      "ipa": "[mzä]",
+      "audio": "audio/adjectives/104.mp3",
+      "audioLocal": "audio/adjectives/104.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მჟავე",
+      "roman": "mžave",
+      "en": "sour, acid",
+      "glosses": [
+        "sour, acid"
+      ],
+      "pos": "adj",
+      "ipa": "[mʒäve̞]",
+      "audio": "audio/adjectives/105.mp3",
+      "audioLocal": "audio/adjectives/105.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არხეინი",
+      "roman": "arxeini",
+      "en": "quiet, calm",
+      "glosses": [
+        "quiet, calm"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾχe̞ini]",
+      "audio": "audio/adjectives/106.mp3",
+      "audioLocal": "audio/adjectives/106.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მეწამული",
+      "roman": "mec̣amuli",
+      "en": "dark red",
+      "glosses": [
+        "dark red"
+      ],
+      "pos": "adj",
+      "ipa": "[me̞t͡sʼämuli]",
+      "audio": "audio/adjectives/107.mp3",
+      "audioLocal": "audio/adjectives/107.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მუქლურჯი",
+      "roman": "muklurǯi",
+      "en": "dark blue",
+      "glosses": [
+        "dark blue"
+      ],
+      "pos": "adj",
+      "ipa": "[mukʰɫuɾd͡ʒi]",
+      "audio": "audio/adjectives/108.mp3",
+      "audioLocal": "audio/adjectives/108.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მუქი (muki, “dark”) + ლურჯი (lurǯi, “blue”)."
+    },
+    {
+      "ka": "მუქი",
+      "roman": "muki",
+      "en": "dark, swarthy",
+      "glosses": [
+        "dark, swarthy"
+      ],
+      "pos": "adj",
+      "ipa": "[mukʰi]",
+      "audio": "audio/adjectives/109.mp3",
+      "audioLocal": "audio/adjectives/109.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Armenian մուգ (mug), which is pronounced IPA⁽ᵏᵉʸ⁾: /mukʰ/ [mukʰ]."
+    },
+    {
+      "ka": "მრუმე",
+      "roman": "mrume",
+      "en": "dark, dim, obscure",
+      "glosses": [
+        "dark, dim, obscure"
+      ],
+      "pos": "adj",
+      "ipa": "[mɾume̞]",
+      "audio": "audio/adjectives/110.mp3",
+      "audioLocal": "audio/adjectives/110.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "მრუმე ღამე დასწოლოდა თვალშეუვლებ ტრამალს",
+          "roman": "mrume ɣame dasc̣oloda tvalšeuvleb ṭramals",
+          "en": "A dark night had settled over a vast plain"
+        }
+      ],
+      "etymology": "Cognate with Mingrelian რუმე (rume)."
+    },
+    {
+      "ka": "სალათისფერი",
+      "roman": "salatisperi",
+      "en": "bright green, light green",
+      "glosses": [
+        "bright green, light green"
+      ],
+      "pos": "adj",
+      "ipa": "[säɫätʰispʰe̞ɾi]",
+      "audio": "audio/adjectives/111.mp3",
+      "audioLocal": "audio/adjectives/111.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სალათა (salata) + -ფერი (-peri). Calque of Russian сала́товый (salátovyj)."
+    },
+    {
+      "ka": "ხასხასა",
+      "roman": "xasxasa",
+      "en": "bright, vivid (of colors)",
+      "glosses": [
+        "bright, vivid (of colors)"
+      ],
+      "pos": "adj",
+      "ipa": "[χäsχäsä]",
+      "audio": "audio/adjectives/112.mp3",
+      "audioLocal": "audio/adjectives/112.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამხდარი",
+      "roman": "gamxdari",
+      "en": "thin, skinny",
+      "glosses": [
+        "thin, skinny"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ämχdäɾi]",
+      "audio": "audio/adjectives/113.mp3",
+      "audioLocal": "audio/adjectives/113.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბლაკი",
+      "roman": "ablaḳi",
+      "en": "thin, badly knitted",
+      "glosses": [
+        "thin, badly knitted"
+      ],
+      "pos": "adj",
+      "ipa": "[äbɫäkʼi]",
+      "audio": "audio/adjectives/114.mp3",
+      "audioLocal": "audio/adjectives/114.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic أَبْلَه (ʔablah, “careless; foolish”)."
+    },
+    {
+      "ka": "ყომრალი",
+      "roman": "q̇omrali",
+      "en": "dark, gray, ash-gray (cloth, soil)",
+      "glosses": [
+        "dark, gray, ash-gray (cloth, soil)"
+      ],
+      "pos": "adj",
+      "ipa": "[χʼo̞mɾäli]",
+      "audio": "audio/adjectives/115.mp3",
+      "audioLocal": "audio/adjectives/115.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ეცვა მაუდის ყომრალი ჩოხა",
+          "roman": "ecva maudis q̇omrali čoxa",
+          "en": "He was wearing a gray baize chokha"
+        }
+      ],
+      "etymology": "Likely from Ottoman Turkish قومرال (kumral, “auburn”). Compare Armenian խումրալ (xumral)."
+    },
+    {
+      "ka": "შინდისფერი",
+      "roman": "šindisperi",
+      "en": "dark red, purplish red, burgundy",
+      "glosses": [
+        "dark red, purplish red, burgundy"
+      ],
+      "pos": "adj",
+      "ipa": "[ʃindispʰe̞ɾi]",
+      "audio": "audio/adjectives/116.mp3",
+      "audioLocal": "audio/adjectives/116.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შინდი (šindi) + -ფერი (-peri)."
+    },
+    {
+      "ka": "კაშკაშა",
+      "roman": "ḳašḳaša",
+      "en": "bright, glittering, sparkling, vivid, glittered",
+      "glosses": [
+        "bright, glittering, sparkling, vivid, glittered"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼäʃkʼäʃä]",
+      "audio": "audio/adjectives/117.mp3",
+      "audioLocal": "audio/adjectives/117.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მსხვილი",
+      "roman": "msxvili",
+      "en": "thick (quality of an object)",
+      "glosses": [
+        "thick (quality of an object)"
+      ],
+      "pos": "adj",
+      "ipa": "[msχʷili]",
+      "audio": "audio/adjectives/118.mp3",
+      "audioLocal": "audio/adjectives/118.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian სხუილი (sxuili), სხჳლი (sxwili), from Proto-Georgian-Zan *s₁xu- (“fat, stout”); see there for more."
+    },
+    {
+      "ka": "სქელი",
+      "roman": "skeli",
+      "en": "thick (densely crowded or packed)",
+      "glosses": [
+        "thick (densely crowded or packed)"
+      ],
+      "pos": "adj",
+      "ipa": "[skʰe̞li]",
+      "audio": "audio/adjectives/119.mp3",
+      "audioLocal": "audio/adjectives/119.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian სქელი (skeli), by regressive assimilation from Old Georgian ზრქელი (zrkeli), from Proto-Georgian-Zan *zrk-el-."
+    },
+    {
+      "ka": "მურა",
+      "roman": "mura",
+      "en": "dark brown, black-like brown, blackish brown",
+      "glosses": [
+        "dark brown, black-like brown, blackish brown"
+      ],
+      "pos": "adj",
+      "ipa": "[muɾä]",
+      "audio": "audio/adjectives/120.mp3",
+      "audioLocal": "audio/adjectives/120.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მტრედისფერი",
+      "roman": "mṭredisperi",
+      "en": "light blue, tealish",
+      "glosses": [
+        "light blue, tealish"
+      ],
+      "pos": "adj",
+      "ipa": "[mtʼɾe̞dispʰe̞ɾi]",
+      "audio": "audio/adjectives/121.mp3",
+      "audioLocal": "audio/adjectives/121.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მტრედი (mṭredi, “pigeon”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "მჩატე",
+      "roman": "mčaṭe",
+      "en": "light, lightweight",
+      "glosses": [
+        "light, lightweight"
+      ],
+      "pos": "adj",
+      "ipa": "[mt͡ʃʰätʼe̞]",
+      "audio": "audio/adjectives/122.mp3",
+      "audioLocal": "audio/adjectives/122.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რბილი",
+      "roman": "rbili",
+      "en": "soft, mild",
+      "glosses": [
+        "soft, mild"
+      ],
+      "pos": "adj",
+      "ipa": "[ɾbili]",
+      "audio": "audio/adjectives/123.mp3",
+      "audioLocal": "audio/adjectives/123.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ლბილი (lbili), from Proto-Georgian-Zan *lb-il-, from *lab-. Cognate with Mingrelian ლიბუ (libu) and Laz ლიბუ (libu)."
+    },
+    {
+      "ka": "მსუბუქი",
+      "roman": "msubuki",
+      "en": "light (of low weight)",
+      "glosses": [
+        "light (of low weight)"
+      ],
+      "pos": "adj",
+      "ipa": "[msubukʰi]",
+      "audio": "audio/adjectives/124.mp3",
+      "audioLocal": "audio/adjectives/124.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian სუბუქი (subuki), from Middle Persian [Book Pahlavi needed] (spwk' /⁠sabuk⁠/, “light, easy”), whence Persian سبک (sabuk)."
+    },
+    {
+      "ka": "ჩვილი",
+      "roman": "čvili",
+      "en": "soft, tender",
+      "glosses": [
+        "soft, tender"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡ʃʰʷili]",
+      "audio": "audio/adjectives/125.mp3",
+      "audioLocal": "audio/adjectives/125.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჩჩჳლი (ččwili), ჩჳლი (čwili), from Proto-Georgian-Zan *ččw-il- (“soft (of animate objects), tender”), from Proto-Kartvelian *čečw- ~ *ččw- (“to soften”). Cognate with Mingrelian ჩქიჩქუ (čkičku), ჩქჷჩქჷ (čkəčkə), ჩქიჩქი (čkički) and Laz ჩიჩქუ (çiçku), ჩუჩქუ (çuçku)."
+    },
+    {
+      "ka": "მოცისფრო",
+      "roman": "mocispro",
+      "en": "light bluish/blueish, somewhat sky blue",
+      "glosses": [
+        "light bluish/blueish, somewhat sky blue"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞t͡sʰispʰɾo̞]",
+      "audio": "audio/adjectives/126.mp3",
+      "audioLocal": "audio/adjectives/126.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცისფერი (cisperi) + მო- -ო (mo- -o)."
+    },
+    {
+      "ka": "ჩლუნგი",
+      "roman": "člungi",
+      "en": "dull, not sharp",
+      "glosses": [
+        "dull, not sharp"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡ʃʰɫuŋɡi]",
+      "audio": "audio/adjectives/127.mp3",
+      "audioLocal": "audio/adjectives/127.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მჭრელი",
+      "roman": "mč̣reli",
+      "en": "sharp, cutting, incisive",
+      "glosses": [
+        "sharp, cutting, incisive"
+      ],
+      "pos": "adj",
+      "ipa": "[mt͡ʃʼɾe̞li]",
+      "audio": "audio/adjectives/128.mp3",
+      "audioLocal": "audio/adjectives/128.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბაცი",
+      "roman": "baci",
+      "en": "bright, light, pale, whitish (of colors, highly luminous and more or less deficient in chroma)",
+      "glosses": [
+        "bright, light, pale, whitish (of colors, highly luminous and more or less deficient in chroma)"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥ät͡sʰi]",
+      "audio": "audio/adjectives/129.mp3",
+      "audioLocal": "audio/adjectives/129.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Armenian բաց (bacʻ). Initially probably a Tbilisi dialect word."
+    },
+    {
+      "ka": "ხმელი",
+      "roman": "xmeli",
+      "en": "dry, arid",
+      "glosses": [
+        "dry, arid"
+      ],
+      "pos": "adj",
+      "ipa": "[χme̞li]",
+      "audio": "audio/adjectives/130.mp3",
+      "audioLocal": "audio/adjectives/130.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჴმელი (qmeli, “dry, withered; (dry) land”), from Proto-Georgian-Zan *qm-el- (“dry; dry land”), from Proto-Georgian-Zan *qem- ~ *qm- (“to dry, to wither”). Cognate with Mingrelian ხომილა (xomila), ხომლა (xomla) and Laz ხომულა (xomula). Old Armenian խամրիմ (xamrim, “to wither”) is considered a Kartvelian borrowing."
+    },
+    {
+      "ka": "ქორისფერი",
+      "roman": "korisperi",
+      "en": "dull or pale dark bluish-gray",
+      "glosses": [
+        "dull or pale dark bluish-gray"
+      ],
+      "pos": "adj",
+      "ipa": "[kʰo̞ɾispʰe̞ɾi]",
+      "audio": "audio/adjectives/131.mp3",
+      "audioLocal": "audio/adjectives/131.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ქორი (kori, “goshawk”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "თაგვისფერი",
+      "roman": "tagvisperi",
+      "en": "dun",
+      "glosses": [
+        "dun"
+      ],
+      "pos": "adj",
+      "ipa": "[tʰäɡʷispʰe̞ɾi]",
+      "audio": "audio/adjectives/132.mp3",
+      "audioLocal": "audio/adjectives/132.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ორიანი",
+      "roman": "oriani",
+      "en": "two",
+      "glosses": [
+        "two"
+      ],
+      "pos": "adj",
+      "ipa": "[o̞ɾiäni]",
+      "audio": "audio/adjectives/133.mp3",
+      "audioLocal": "audio/adjectives/133.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "პაწაწინა",
+      "roman": "ṗac̣ac̣ina",
+      "en": "wee",
+      "glosses": [
+        "wee"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼät͡sʼät͡sʼinä]",
+      "audio": "audio/adjectives/134.mp3",
+      "audioLocal": "audio/adjectives/134.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საკუთარი",
+      "roman": "saḳutari",
+      "en": "own",
+      "glosses": [
+        "own"
+      ],
+      "pos": "adj",
+      "ipa": "[säkʼutʰäɾi]",
+      "audio": "audio/adjectives/135.mp3",
+      "audioLocal": "audio/adjectives/135.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian საკუთარი (saḳutari), from Proto-Kartvelian *ḳwet-. Of same origin as კვეთს (ḳvets)."
+    },
+    {
+      "ka": "ყირმიზი",
+      "roman": "q̇irmizi",
+      "en": "red",
+      "glosses": [
+        "red"
+      ],
+      "pos": "adj",
+      "ipa": "[χʼiɾmizi]",
+      "audio": "audio/adjectives/136.mp3",
+      "audioLocal": "audio/adjectives/136.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish قرمزی (kırmızı), via Persian قِرْمِز, and Arabic قِرْمِز (qirmiz). This doubly-reborrowed word derives from Persian *کرمست (*kermest) via Proto-Indo-Iranian *kŕ̥miš and ultimately from Proto-Indo-European *kʷŕ̥mis (“worm”)."
+    },
+    {
+      "ka": "წითელი",
+      "roman": "c̣iteli",
+      "en": "red",
+      "glosses": [
+        "red"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʼitʰe̞li]",
+      "audio": "audio/adjectives/137.mp3",
+      "audioLocal": "audio/adjectives/137.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian წითელი (c̣iteli), from Proto-Georgian-Zan *c̣₁it-el-."
+    },
+    {
+      "ka": "აბზილაკი",
+      "roman": "abzilaḳi",
+      "en": "upstart",
+      "glosses": [
+        "upstart"
+      ],
+      "pos": "adj",
+      "ipa": "[äbziɫäkʼi]",
+      "audio": "audio/adjectives/138.mp3",
+      "audioLocal": "audio/adjectives/138.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბსურდული",
+      "roman": "absurduli",
+      "en": "absurd",
+      "glosses": [
+        "absurd"
+      ],
+      "pos": "adj",
+      "ipa": "[äbsuɾduli]",
+      "audio": "audio/adjectives/139.mp3",
+      "audioLocal": "audio/adjectives/139.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აბურძგნილი",
+      "roman": "aburʒgnili",
+      "en": "shaggy",
+      "glosses": [
+        "shaggy"
+      ],
+      "pos": "adj",
+      "ipa": "[äbuɾd͡zɡnili]",
+      "audio": "audio/adjectives/140.mp3",
+      "audioLocal": "audio/adjectives/140.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ადამიანური",
+      "roman": "adamianuri",
+      "en": "human",
+      "glosses": [
+        "human"
+      ],
+      "pos": "adj",
+      "ipa": "[ädämiänuɾi]",
+      "audio": "audio/adjectives/141.mp3",
+      "audioLocal": "audio/adjectives/141.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადამიანი (adamiani) + -ური (-uri)."
+    },
+    {
+      "ka": "ადრეული",
+      "roman": "adreuli",
+      "en": "early",
+      "glosses": [
+        "early"
+      ],
+      "pos": "adj",
+      "ipa": "[ädɾe̞uli]",
+      "audio": "audio/adjectives/142.mp3",
+      "audioLocal": "audio/adjectives/142.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ადრე (adre, “early, before”) + -ული (-uli, adjectival suffix)."
+    },
+    {
+      "ka": "ადრიანი",
+      "roman": "adriani",
+      "en": "early",
+      "glosses": [
+        "early"
+      ],
+      "pos": "adj",
+      "ipa": "[ädɾiäni]",
+      "audio": "audio/adjectives/143.mp3",
+      "audioLocal": "audio/adjectives/143.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ავი",
+      "roman": "avi",
+      "en": "currish",
+      "glosses": [
+        "currish"
+      ],
+      "pos": "adj",
+      "ipa": "[ävi]",
+      "audio": "audio/adjectives/144.mp3",
+      "audioLocal": "audio/adjectives/144.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჰავი (havi), ავი (avi, “evil, wicked”). Further origin is unknown. Considering the initial ჰ- (h-), the word is most likely borrowed from an outside source."
+    },
+    {
+      "ka": "ავსული",
+      "roman": "avsuli",
+      "en": "evil",
+      "glosses": [
+        "evil"
+      ],
+      "pos": "adj",
+      "ipa": "[äfsuli]",
+      "audio": "audio/adjectives/145.mp3",
+      "audioLocal": "audio/adjectives/145.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ავი (avi) + სული (suli)"
+    },
+    {
+      "ka": "ავღანური",
+      "roman": "avɣanuri",
+      "en": "Afghan",
+      "glosses": [
+        "Afghan"
+      ],
+      "pos": "adj",
+      "ipa": "[ävʁänuɾi]",
+      "audio": "audio/adjectives/146.mp3",
+      "audioLocal": "audio/adjectives/146.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აზოტური",
+      "roman": "azoṭuri",
+      "en": "nitrous",
+      "glosses": [
+        "nitrous"
+      ],
+      "pos": "adj",
+      "ipa": "[äzo̞tʼuɾi]",
+      "audio": "audio/adjectives/147.mp3",
+      "audioLocal": "audio/adjectives/147.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ათობითი",
+      "roman": "atobiti",
+      "en": "decimal",
+      "glosses": [
+        "decimal"
+      ],
+      "pos": "adj",
+      "ipa": "[ätʰo̞bitʰi]",
+      "audio": "audio/adjectives/148.mp3",
+      "audioLocal": "audio/adjectives/148.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ათქვეფილი",
+      "roman": "atkvepili",
+      "en": "whisked",
+      "glosses": [
+        "whisked"
+      ],
+      "pos": "adj",
+      "ipa": "[ätʰkʰʷe̞pʰili]",
+      "audio": "audio/adjectives/149.mp3",
+      "audioLocal": "audio/adjectives/149.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აირადი",
+      "roman": "airadi",
+      "en": "gaseous",
+      "glosses": [
+        "gaseous"
+      ],
+      "pos": "adj",
+      "ipa": "[äiɾädi]",
+      "audio": "audio/adjectives/150.mp3",
+      "audioLocal": "audio/adjectives/150.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აირი (airi, “gas”) + -ადი (-adi)."
+    },
+    {
+      "ka": "ალპური",
+      "roman": "alṗuri",
+      "en": "alpine",
+      "glosses": [
+        "alpine"
+      ],
+      "pos": "adj",
+      "ipa": "[älpʼuɾi]",
+      "audio": "audio/adjectives/151.mp3",
+      "audioLocal": "audio/adjectives/151.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ამაყი",
+      "roman": "amaq̇i",
+      "en": "proud",
+      "glosses": [
+        "proud"
+      ],
+      "pos": "adj",
+      "ipa": "[ämäχʼi]",
+      "audio": "audio/adjectives/152.mp3",
+      "audioLocal": "audio/adjectives/152.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Arabic أَحْمَق (ʔaḥmaq)."
+    },
+    {
+      "ka": "ამოზნექილი",
+      "roman": "amoznekili",
+      "en": "convex",
+      "glosses": [
+        "convex"
+      ],
+      "pos": "adj",
+      "ipa": "[ämo̞zne̞kʰili]",
+      "audio": "audio/adjectives/153.mp3",
+      "audioLocal": "audio/adjectives/153.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ამხედრებული",
+      "roman": "amxedrebuli",
+      "en": "astride",
+      "glosses": [
+        "astride"
+      ],
+      "pos": "adj",
+      "ipa": "[ämχe̞dɾe̞buli]",
+      "audio": "audio/adjectives/154.mp3",
+      "audioLocal": "audio/adjectives/154.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანაზდა",
+      "roman": "anazda",
+      "en": "sudden",
+      "glosses": [
+        "sudden"
+      ],
+      "pos": "adj",
+      "ipa": "[änäzdä]",
+      "audio": "audio/adjectives/155.mp3",
+      "audioLocal": "audio/adjectives/155.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანაზდეული",
+      "roman": "anazdeuli",
+      "en": "sudden",
+      "glosses": [
+        "sudden"
+      ],
+      "pos": "adj",
+      "ipa": "[änäzde̞uli]",
+      "audio": "audio/adjectives/156.mp3",
+      "audioLocal": "audio/adjectives/156.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანალური",
+      "roman": "analuri",
+      "en": "anal",
+      "glosses": [
+        "anal"
+      ],
+      "pos": "adj",
+      "ipa": "[änäɫuɾi]",
+      "audio": "audio/adjectives/157.mp3",
+      "audioLocal": "audio/adjectives/157.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin annal."
+    },
+    {
+      "ka": "ანგარიშიანი",
+      "roman": "angarišiani",
+      "en": "politic",
+      "glosses": [
+        "politic"
+      ],
+      "pos": "adj",
+      "ipa": "[äŋɡäɾiʃiäni]",
+      "audio": "audio/adjectives/158.mp3",
+      "audioLocal": "audio/adjectives/158.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ანგარიში (angariši) + -იანი (-iani)."
+    },
+    {
+      "ka": "ანგელოზებრივი",
+      "roman": "angelozebrivi",
+      "en": "angelic",
+      "glosses": [
+        "angelic"
+      ],
+      "pos": "adj",
+      "ipa": "[äŋɡe̞ɫo̞ze̞bɾivi]",
+      "audio": "audio/adjectives/159.mp3",
+      "audioLocal": "audio/adjectives/159.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ანგელოზი (angelozi) + -ებრივი (-ebrivi)."
+    },
+    {
+      "ka": "ანტიკური",
+      "roman": "anṭiḳuri",
+      "en": "ancient",
+      "glosses": [
+        "ancient"
+      ],
+      "pos": "adj",
+      "ipa": "[äntʼikʼuɾi]",
+      "audio": "audio/adjectives/160.mp3",
+      "audioLocal": "audio/adjectives/160.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ანტიკა (anṭiḳa) + -ური (-uri)."
+    },
+    {
+      "ka": "აპს-შიდა",
+      "roman": "aṗs-šida",
+      "en": "in-app",
+      "glosses": [
+        "in-app"
+      ],
+      "pos": "adj",
+      "ipa": "[äpʼsʃidä]",
+      "audio": "audio/adjectives/161.mp3",
+      "audioLocal": "audio/adjectives/161.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არაადამიანური",
+      "roman": "araadamianuri",
+      "en": "inhuman",
+      "glosses": [
+        "inhuman"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäädämiänuɾi]",
+      "audio": "audio/adjectives/162.mp3",
+      "audioLocal": "audio/adjectives/162.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-, non-”) + ადამიანური (adamianuri, “human, humane”)."
+    },
+    {
+      "ka": "არათანაბარი",
+      "roman": "aratanabari",
+      "en": "unequal",
+      "glosses": [
+        "unequal"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾätʰänäbäɾi]",
+      "audio": "audio/adjectives/163.mp3",
+      "audioLocal": "audio/adjectives/163.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-) + თანაბარი (tanabari)."
+    },
+    {
+      "ka": "არათანასწორი",
+      "roman": "aratanasc̣ori",
+      "en": "unequal",
+      "glosses": [
+        "unequal"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾätʰänäst͡sʼo̞ɾi]",
+      "audio": "audio/adjectives/164.mp3",
+      "audioLocal": "audio/adjectives/164.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-, non-”) + თანასწორი (tanasc̣ori, “equal”)."
+    },
+    {
+      "ka": "არამამაკაცური",
+      "roman": "aramamaḳacuri",
+      "en": "unmanly",
+      "glosses": [
+        "unmanly"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾämämäkʼät͡sʰuɾi]",
+      "audio": "audio/adjectives/165.mp3",
+      "audioLocal": "audio/adjectives/165.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არამეგობრული",
+      "roman": "aramegobruli",
+      "en": "hostile",
+      "glosses": [
+        "hostile"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäme̞ɡo̞bɾuli]",
+      "audio": "audio/adjectives/166.mp3",
+      "audioLocal": "audio/adjectives/166.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + მეგობრული (megobruli)."
+    },
+    {
+      "ka": "არამსგავსი",
+      "roman": "aramsgavsi",
+      "en": "unlike",
+      "glosses": [
+        "unlike"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾämsɡäfsi]",
+      "audio": "audio/adjectives/167.mp3",
+      "audioLocal": "audio/adjectives/167.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + მსგავსი (msgavsi)."
+    },
+    {
+      "ka": "არანამდვილი",
+      "roman": "aranamdvili",
+      "en": "unreal",
+      "glosses": [
+        "unreal"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾänämdʷili]",
+      "audio": "audio/adjectives/168.mp3",
+      "audioLocal": "audio/adjectives/168.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-, non-”) + ნამდვილი (namdvili, “real, true, authentic”)."
+    },
+    {
+      "ka": "არასაკმაო",
+      "roman": "arasaḳmao",
+      "en": "scarce",
+      "glosses": [
+        "scarce"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäsäkʼmäo̞]",
+      "audio": "audio/adjectives/169.mp3",
+      "audioLocal": "audio/adjectives/169.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + საკმაო (saḳmao)."
+    },
+    {
+      "ka": "არასაფრენი",
+      "roman": "arasapreni",
+      "en": "no-fly",
+      "glosses": [
+        "no-fly"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäsäpʰɾe̞ni]",
+      "audio": "audio/adjectives/170.mp3",
+      "audioLocal": "audio/adjectives/170.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არ- (ar-, “no”) + ასაფრენი (asapreni, “fly off”) or არა- (ara-, “non-”) + საფრენი (sapreni, “for flying”)."
+    },
+    {
+      "ka": "არასწორი",
+      "roman": "arasc̣ori",
+      "en": "uneven",
+      "glosses": [
+        "uneven"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäst͡sʼo̞ɾi]",
+      "audio": "audio/adjectives/171.mp3",
+      "audioLocal": "audio/adjectives/171.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + სწორი (sc̣ori, “precise, normal, true”)."
+    },
+    {
+      "ka": "არეული",
+      "roman": "areuli",
+      "en": "stirred",
+      "glosses": [
+        "stirred"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾe̞uli]",
+      "audio": "audio/adjectives/172.mp3",
+      "audioLocal": "audio/adjectives/172.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Related to არევა (areva, “stir; confuse”)"
+    },
+    {
+      "ka": "არიული",
+      "roman": "ariuli",
+      "en": "Aryan",
+      "glosses": [
+        "Aryan"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾiuli]",
+      "audio": "audio/adjectives/173.mp3",
+      "audioLocal": "audio/adjectives/173.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არიფი",
+      "roman": "aripi",
+      "en": "friend",
+      "glosses": [
+        "friend"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾipʰi]",
+      "audio": "audio/adjectives/174.mp3",
+      "audioLocal": "audio/adjectives/174.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Arabic أَلِيف (ʔalīf)."
+    },
+    {
+      "ka": "არმცოდნე",
+      "roman": "armcodne",
+      "en": "unaware",
+      "glosses": [
+        "unaware"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾmt͡sʰo̞dne̞]",
+      "audio": "audio/adjectives/175.mp3",
+      "audioLocal": "audio/adjectives/175.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არნახული",
+      "roman": "arnaxuli",
+      "en": "unseen",
+      "glosses": [
+        "unseen"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾnäχuli]",
+      "audio": "audio/adjectives/176.mp3",
+      "audioLocal": "audio/adjectives/176.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არ- (ar-) + ნახული (naxuli)."
+    },
+    {
+      "ka": "არქაული",
+      "roman": "arkauli",
+      "en": "archaic",
+      "glosses": [
+        "archaic"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾkʰäuli]",
+      "audio": "audio/adjectives/177.mp3",
+      "audioLocal": "audio/adjectives/177.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "არქტიკული",
+      "roman": "arkṭiḳuli",
+      "en": "Arctic",
+      "glosses": [
+        "Arctic"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾkʰtʼikʼuli]",
+      "audio": "audio/adjectives/178.mp3",
+      "audioLocal": "audio/adjectives/178.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არქტიკა (arkṭiḳa) + -ული (-uli)."
+    },
+    {
+      "ka": "ასაკოვანი",
+      "roman": "asaḳovani",
+      "en": "elderly",
+      "glosses": [
+        "elderly"
+      ],
+      "pos": "adj",
+      "ipa": "[äsäkʼo̞väni]",
+      "audio": "audio/adjectives/179.mp3",
+      "audioLocal": "audio/adjectives/179.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ასეთი",
+      "roman": "aseti",
+      "en": "such",
+      "glosses": [
+        "such"
+      ],
+      "pos": "adj",
+      "ipa": "[äse̞tʰi]",
+      "audio": "audio/adjectives/180.mp3",
+      "audioLocal": "audio/adjectives/180.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ასექსუალური",
+      "roman": "aseksualuri",
+      "en": "asexual",
+      "glosses": [
+        "asexual"
+      ],
+      "pos": "adj",
+      "ipa": "[äse̞kʰsuäɫuɾi]",
+      "audio": "audio/adjectives/181.mp3",
+      "audioLocal": "audio/adjectives/181.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ასექსუალი (aseksuali) + -ური (-uri)."
+    },
+    {
+      "ka": "ასკეტური",
+      "roman": "asḳeṭuri",
+      "en": "ascetic",
+      "glosses": [
+        "ascetic"
+      ],
+      "pos": "adj",
+      "ipa": "[äskʼe̞tʼuɾi]",
+      "audio": "audio/adjectives/182.mp3",
+      "audioLocal": "audio/adjectives/182.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ასოციალური",
+      "roman": "asocialuri",
+      "en": "asocial",
+      "glosses": [
+        "asocial"
+      ],
+      "pos": "adj",
+      "ipa": "[äso̞t͡sʰiäɫuɾi]",
+      "audio": "audio/adjectives/183.mp3",
+      "audioLocal": "audio/adjectives/183.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ასტრალური",
+      "roman": "asṭraluri",
+      "en": "astral",
+      "glosses": [
+        "astral"
+      ],
+      "pos": "adj",
+      "ipa": "[ästʼɾäɫuɾi]",
+      "audio": "audio/adjectives/184.mp3",
+      "audioLocal": "audio/adjectives/184.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin astralis."
+    },
+    {
+      "ka": "ატიკური",
+      "roman": "aṭiḳuri",
+      "en": "Attic",
+      "glosses": [
+        "Attic"
+      ],
+      "pos": "adj",
+      "ipa": "[ätʼikʼuɾi]",
+      "audio": "audio/adjectives/185.mp3",
+      "audioLocal": "audio/adjectives/185.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ატომური",
+      "roman": "aṭomuri",
+      "en": "atomic",
+      "glosses": [
+        "atomic"
+      ],
+      "pos": "adj",
+      "ipa": "[ätʼo̞muɾi]",
+      "audio": "audio/adjectives/186.mp3",
+      "audioLocal": "audio/adjectives/186.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ატომი (aṭomi) + -ური (-uri)."
+    },
+    {
+      "ka": "აუდიო",
+      "roman": "",
+      "en": "audio",
+      "glosses": [
+        "audio"
+      ],
+      "pos": "adj",
+      "ipa": "[äudio̞]",
+      "audio": "audio/adjectives/187.mp3",
+      "audioLocal": "audio/adjectives/187.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აფრიკული",
+      "roman": "apriḳuli",
+      "en": "African",
+      "glosses": [
+        "African"
+      ],
+      "pos": "adj",
+      "ipa": "[äpʰɾikʼuli]",
+      "audio": "audio/adjectives/188.mp3",
+      "audioLocal": "audio/adjectives/188.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აფხაზური",
+      "roman": "apxazuri",
+      "en": "Abkhaz",
+      "glosses": [
+        "Abkhaz"
+      ],
+      "pos": "adj",
+      "ipa": "[äpʰχäzuɾi]",
+      "audio": "audio/adjectives/189.mp3",
+      "audioLocal": "audio/adjectives/189.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აფხაზი (apxazi) + -ური (-uri)."
+    },
+    {
+      "ka": "აშკარა",
+      "roman": "ašḳara",
+      "en": "obvious",
+      "glosses": [
+        "obvious"
+      ],
+      "pos": "adj",
+      "ipa": "[äʃkʼäɾä]",
+      "audio": "audio/adjectives/190.mp3",
+      "audioLocal": "audio/adjectives/190.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Persian آشکارا (âškârâ), whence also Old Armenian աշկարայ (aškaray)."
+    },
+    {
+      "ka": "აცდენილი",
+      "roman": "acdenili",
+      "en": "missed",
+      "glosses": [
+        "missed"
+      ],
+      "pos": "adj",
+      "ipa": "[ät͡sʰde̞nili]",
+      "audio": "audio/adjectives/191.mp3",
+      "audioLocal": "audio/adjectives/191.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბადალი",
+      "roman": "badali",
+      "en": "equal",
+      "glosses": [
+        "equal"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥ädäli]",
+      "audio": "audio/adjectives/192.mp3",
+      "audioLocal": "audio/adjectives/192.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბალახიანი",
+      "roman": "balaxiani",
+      "en": "grassy",
+      "glosses": [
+        "grassy"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥äɫäχiäni]",
+      "audio": "audio/adjectives/193.mp3",
+      "audioLocal": "audio/adjectives/193.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბალახი (balaxi) + -იანი (-iani)."
+    },
+    {
+      "ka": "ბედშავი",
+      "roman": "bedšavi",
+      "en": "unlucky",
+      "glosses": [
+        "unlucky"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞dʃävi]",
+      "audio": "audio/adjectives/194.mp3",
+      "audioLocal": "audio/adjectives/194.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბედი (bedi, “fate”) + შავი (šavi, “black”)."
+    },
+    {
+      "ka": "ბენგალური",
+      "roman": "bengaluri",
+      "en": "Bengali",
+      "glosses": [
+        "Bengali"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞ŋɡäɫuɾi]",
+      "audio": "audio/adjectives/195.mp3",
+      "audioLocal": "audio/adjectives/195.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბერული",
+      "roman": "beruli",
+      "en": "monkish",
+      "glosses": [
+        "monkish"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞ɾuli]",
+      "audio": "audio/adjectives/196.mp3",
+      "audioLocal": "audio/adjectives/196.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბერძნული",
+      "roman": "berʒnuli",
+      "en": "Greek",
+      "glosses": [
+        "Greek"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞ɾd͡znuli]",
+      "audio": "audio/adjectives/197.mp3",
+      "audioLocal": "audio/adjectives/197.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბერძენი (berʒeni) + -ული (-uli)."
+    },
+    {
+      "ka": "ბეტა",
+      "roman": "beṭa",
+      "en": "beta",
+      "glosses": [
+        "beta"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞tʼä]",
+      "audio": "audio/adjectives/198.mp3",
+      "audioLocal": "audio/adjectives/198.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ბიბილოიანი",
+      "roman": "bibiloiani",
+      "en": "crested",
+      "glosses": [
+        "crested"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥ibiɫo̞iäni]",
+      "audio": "audio/adjectives/199.mp3",
+      "audioLocal": "audio/adjectives/199.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

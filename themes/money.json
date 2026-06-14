@@ -1,0 +1,2299 @@
+{
+  "id": "money",
+  "name": "Money",
+  "nameKa": "ფული",
+  "icon": "₾",
+  "count": 150,
+  "words": [
+    {
+      "ka": "აბაზი",
+      "roman": "abazi",
+      "en": "abazi, 20 kopeck coin",
+      "glosses": [
+        "abazi, 20 kopeck coin"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäzi]",
+      "audio": "audio/money/000.mp3",
+      "audioLocal": "audio/money/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Classical Persian عَبَّاسِی (abbāsī)."
+    },
+    {
+      "ka": "ავღანელი",
+      "roman": "avɣaneli",
+      "en": "Of Afghan descent",
+      "glosses": [
+        "Of Afghan descent"
+      ],
+      "pos": "adj",
+      "ipa": "[ävʁäne̞li]",
+      "audio": "audio/money/001.mp3",
+      "audioLocal": "audio/money/001.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ავღანელი ჯარისკაცი",
+          "roman": "avɣaneli ǯarisḳaci",
+          "en": "An Afghan soldier"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "აზვირთებული",
+      "roman": "azvirtebuli",
+      "en": "billowy, billowed, surged",
+      "glosses": [
+        "billowy, billowed, surged"
+      ],
+      "pos": "adj",
+      "ipa": "[äzʷiɾtʰe̞buli]",
+      "audio": "audio/money/002.mp3",
+      "audioLocal": "audio/money/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აკაჟუ",
+      "roman": "aḳažu",
+      "en": "cashew",
+      "glosses": [
+        "cashew"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʼäʒu]",
+      "audio": "audio/money/003.mp3",
+      "audioLocal": "audio/money/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აკრედიტაცია",
+      "roman": "aḳrediṭacia",
+      "en": "accreditation (the giving of credentials)",
+      "glosses": [
+        "accreditation (the giving of credentials)"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʼɾe̞ditʼät͡sʰiä]",
+      "audio": "audio/money/004.mp3",
+      "audioLocal": "audio/money/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From English accreditation."
+    },
+    {
+      "ka": "ალქატი",
+      "roman": "alkaṭi",
+      "en": "poor, impoverished",
+      "glosses": [
+        "poor, impoverished"
+      ],
+      "pos": "adj",
+      "ipa": "[älkʰätʼi]",
+      "audio": "audio/money/005.mp3",
+      "audioLocal": "audio/money/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ალქატი (alkaṭi), from Old Armenian աղքատ (ałkʻat)."
+    },
+    {
+      "ka": "ალღო",
+      "roman": "alɣo",
+      "en": "feel, flair",
+      "glosses": [
+        "feel, flair"
+      ],
+      "pos": "noun",
+      "ipa": "[älʁo̞]",
+      "audio": "audio/money/006.mp3",
+      "audioLocal": "audio/money/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ამდგარი",
+      "roman": "amdgari",
+      "en": "upright, standing up, on one's feet, on one's legs",
+      "glosses": [
+        "upright, standing up, on one's feet, on one's legs"
+      ],
+      "pos": "adj",
+      "ipa": "[ämdɡäɾi]",
+      "audio": "audio/money/007.mp3",
+      "audioLocal": "audio/money/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანტიევროპული",
+      "roman": "anṭievroṗuli",
+      "en": "anti-European",
+      "glosses": [
+        "anti-European"
+      ],
+      "pos": "adj",
+      "ipa": "[äntʼie̞vɾo̞pʼuli]",
+      "audio": "audio/money/008.mp3",
+      "audioLocal": "audio/money/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანტინაწილაკი",
+      "roman": "anṭinac̣ilaḳi",
+      "en": "antiparticle",
+      "glosses": [
+        "antiparticle"
+      ],
+      "pos": "noun",
+      "ipa": "[äntʼinät͡sʼiɫäkʼi]",
+      "audio": "audio/money/009.mp3",
+      "audioLocal": "audio/money/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English antiparticle. Surface analysis yields ანტი- (anṭi-) + ნაწილაკი (nac̣ilaḳi, “particle”)."
+    },
+    {
+      "ka": "ანტიპათია",
+      "roman": "anṭiṗatia",
+      "en": "antipathy, aversion, dislike",
+      "glosses": [
+        "antipathy, aversion, dislike"
+      ],
+      "pos": "noun",
+      "ipa": "[äntʼipʼätʰiä]",
+      "audio": "audio/money/010.mp3",
+      "audioLocal": "audio/money/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ანტიპათიური",
+      "roman": "anṭiṗatiuri",
+      "en": "antipathetic",
+      "glosses": [
+        "antipathetic"
+      ],
+      "pos": "adj",
+      "ipa": "[äntʼipʼätʰiuɾi]",
+      "audio": "audio/money/011.mp3",
+      "audioLocal": "audio/money/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ანტიპროპაგანდა",
+      "roman": "anṭiṗroṗaganda",
+      "en": "antipropaganda",
+      "glosses": [
+        "antipropaganda"
+      ],
+      "pos": "noun",
+      "ipa": "[äntʼipʼɾo̞pʼäɡändä]",
+      "audio": "audio/money/012.mp3",
+      "audioLocal": "audio/money/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ანტი- (anṭi-) + პროპაგანდა (ṗroṗaganda, “propaganda”)."
+    },
+    {
+      "ka": "არაკომერციული",
+      "roman": "araḳomerciuli",
+      "en": "nonprofit",
+      "glosses": [
+        "nonprofit"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäkʼo̞me̞ɾt͡sʰiuli]",
+      "audio": "audio/money/013.mp3",
+      "audioLocal": "audio/money/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-, non-”) + კომერციული (ḳomerciuli, “profit, commercial, mercantile”)."
+    },
+    {
+      "ka": "არაკომერციული ორგანიზაცია",
+      "roman": "araḳomerciuli organizacia",
+      "en": "NPO, nonprofit organization",
+      "glosses": [
+        "NPO, nonprofit organization"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾäkʼo̞me̞ɾt͡sʰiuli o̞ɾɡänizät͡sʰiä]",
+      "audio": "audio/money/014.mp3",
+      "audioLocal": "audio/money/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არამომგებიანი",
+      "roman": "aramomgebiani",
+      "en": "unprofitable",
+      "glosses": [
+        "unprofitable"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾämo̞mɡe̞biäni]",
+      "audio": "audio/money/015.mp3",
+      "audioLocal": "audio/money/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-, non-”) + მომგებიანი (momgebiani, “profitable”)."
+    },
+    {
+      "ka": "არაპოპულარულობა",
+      "roman": "araṗoṗularuloba",
+      "en": "unpopularity",
+      "glosses": [
+        "unpopularity"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾäpʼo̞pʼuɫäɾuɫo̞bä]",
+      "audio": "audio/money/016.mp3",
+      "audioLocal": "audio/money/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-) + პოპულარულობა (ṗoṗularuloba)."
+    },
+    {
+      "ka": "არარენტაბელურად",
+      "roman": "ararenṭabelurad",
+      "en": "unprofitably",
+      "glosses": [
+        "unprofitably"
+      ],
+      "pos": "adv",
+      "ipa": "[äɾäɾe̞ntʼäbe̞ɫuɾätʰ]",
+      "audio": "audio/money/017.mp3",
+      "audioLocal": "audio/money/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + რენტაბელურად (renṭabelurad)."
+    },
+    {
+      "ka": "არაჯანსაღი",
+      "roman": "araǯansaɣi",
+      "en": "poorly, unsound",
+      "glosses": [
+        "poorly, unsound"
+      ],
+      "pos": "adj",
+      "ipa": "[äɾäd͡ʒänsäʁi]",
+      "audio": "audio/money/018.mp3",
+      "audioLocal": "audio/money/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From არა- (ara-, “un-”) + ჯანსაღი (ǯansaɣi)."
+    },
+    {
+      "ka": "ასწლეული",
+      "roman": "asc̣leuli",
+      "en": "century",
+      "glosses": [
+        "century"
+      ],
+      "pos": "noun",
+      "ipa": "[äst͡sʼle̞uli]",
+      "audio": "audio/money/019.mp3",
+      "audioLocal": "audio/money/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ასი (asi, “hundred”) + წელი (c̣eli, “year”) + -ეული (-euli)."
+    },
+    {
+      "ka": "ასწლიანი",
+      "roman": "asc̣liani",
+      "en": "centenarian, centennial",
+      "glosses": [
+        "centenarian, centennial"
+      ],
+      "pos": "adj",
+      "ipa": "[äst͡sʼliäni]",
+      "audio": "audio/money/020.mp3",
+      "audioLocal": "audio/money/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აფთიაქი",
+      "roman": "aptiaki",
+      "en": "place where goods are very expensive",
+      "glosses": [
+        "place where goods are very expensive"
+      ],
+      "pos": "noun",
+      "ipa": "[äpʰtʰiäkʰi]",
+      "audio": "audio/money/021.mp3",
+      "audioLocal": "audio/money/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian апте́ка (aptéka) undergoing Georgianization to make the word pronounced more freely."
+    },
+    {
+      "ka": "აფიშა",
+      "roman": "apiša",
+      "en": "bill-poster, bill-sticker, placard",
+      "glosses": [
+        "bill-poster, bill-sticker, placard"
+      ],
+      "pos": "noun",
+      "ipa": "[äpʰiʃä]",
+      "audio": "audio/money/022.mp3",
+      "audioLocal": "audio/money/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian афиша (afiša)."
+    },
+    {
+      "ka": "აქცენტი",
+      "roman": "akcenṭi",
+      "en": "accent",
+      "glosses": [
+        "accent"
+      ],
+      "pos": "noun",
+      "ipa": "[äkʰt͡sʰe̞ntʼi]",
+      "audio": "audio/money/023.mp3",
+      "audioLocal": "audio/money/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin accentus."
+    },
+    {
+      "ka": "აღება",
+      "roman": "aɣeba",
+      "en": "an act of getting, fetching, or receiving something (tangible, as well as intangible things, such as salary)",
+      "glosses": [
+        "an act of getting, fetching, or receiving something (tangible, as well as intangible things, such as salary)"
+      ],
+      "pos": "noun",
+      "ipa": "[äʁe̞bä]",
+      "audio": "audio/money/024.mp3",
+      "audioLocal": "audio/money/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აღმოსავლეთ ევროპელი",
+      "roman": "aɣmosavlet evroṗeli",
+      "en": "Eastern European (of people only)",
+      "glosses": [
+        "Eastern European (of people only)"
+      ],
+      "pos": "noun",
+      "ipa": "[äʁmo̞sävle̞tʰ e̞vɾo̞pʼe̞li]",
+      "audio": "audio/money/025.mp3",
+      "audioLocal": "audio/money/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აღმოსავლეთ ევროპული",
+      "roman": "aɣmosavlet evroṗuli",
+      "en": "Eastern European (things and non-human animals)",
+      "glosses": [
+        "Eastern European (things and non-human animals)"
+      ],
+      "pos": "adj",
+      "ipa": "[äʁmo̞sävle̞tʰ e̞vɾo̞pʼuli]",
+      "audio": "audio/money/026.mp3",
+      "audioLocal": "audio/money/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აღმოსავლეთევროპელი",
+      "roman": "aɣmosavletevroṗeli",
+      "en": "Eastern European (of people only)",
+      "glosses": [
+        "Eastern European (of people only)"
+      ],
+      "pos": "noun",
+      "ipa": "[äʁmo̞sävle̞tʰe̞vɾo̞pʼe̞li]",
+      "audio": "audio/money/027.mp3",
+      "audioLocal": "audio/money/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აღმოცენებული",
+      "roman": "aɣmocenebuli",
+      "en": "nascent, originated, pullulated, vegetated",
+      "glosses": [
+        "nascent, originated, pullulated, vegetated"
+      ],
+      "pos": "adj",
+      "ipa": "[äʁmo̞t͡sʰe̞ne̞buli]",
+      "audio": "audio/money/028.mp3",
+      "audioLocal": "audio/money/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From აღმოცენება (aɣmoceneba) + -ული (-uli, past passive participle-forming suffix)."
+    },
+    {
+      "ka": "აღძვრა",
+      "roman": "aɣʒvra",
+      "en": "arousal, evocation, stirring up (of feelings, emotions, or desires)",
+      "glosses": [
+        "arousal, evocation, stirring up (of feelings, emotions, or desires)"
+      ],
+      "pos": "noun",
+      "ipa": "[äʁd͡zʷɾä]",
+      "audio": "audio/money/029.mp3",
+      "audioLocal": "audio/money/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "აღ- (aɣ-) + ძვრა (ʒvra)"
+    },
+    {
+      "ka": "აყვავებული",
+      "roman": "aq̇vavebuli",
+      "en": "blooming, efflorescent, flowered, prosperous, bloomed, flourished, flowered, luxuriated, prospered, thrived, thriven",
+      "glosses": [
+        "blooming, efflorescent, flowered, prosperous, bloomed, flourished, flowered, luxuriated, prospered, thrived, thriven"
+      ],
+      "pos": "adj",
+      "ipa": "[äχʼʷäve̞buli]",
+      "audio": "audio/money/030.mp3",
+      "audioLocal": "audio/money/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აწევა",
+      "roman": "ac̣eva",
+      "en": "increasing (rating, prices, temperature/fever)",
+      "glosses": [
+        "increasing (rating, prices, temperature/fever)"
+      ],
+      "pos": "noun",
+      "ipa": "[ät͡sʼe̞vä]",
+      "audio": "audio/money/031.mp3",
+      "audioLocal": "audio/money/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ა- (a-) + წევა (c̣eva)."
+    },
+    {
+      "ka": "ახლახან",
+      "roman": "axlaxan",
+      "en": "lately, latterly, new, recently",
+      "glosses": [
+        "lately, latterly, new, recently"
+      ],
+      "pos": "adv",
+      "ipa": "[äχɫäχän]",
+      "audio": "audio/money/032.mp3",
+      "audioLocal": "audio/money/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბაასი",
+      "roman": "baasi",
+      "en": "exchange of opinions, discussion",
+      "glosses": [
+        "exchange of opinions, discussion"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ääsi]",
+      "audio": "audio/money/033.mp3",
+      "audioLocal": "audio/money/033.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ამაღამ, აქ, ჩემთან შეიყრებიან და გვექნება ბაასი ლიტერატურაზე",
+          "roman": "amaɣam, ak, čemtan šeiq̇rebian da gvekneba baasi liṭeraṭuraze",
+          "en": "Tonight, here at my place, they will gather and we will have a discussion about literature"
+        }
+      ],
+      "etymology": "Likely from Persian بحث (bahs, “discussion”)."
+    },
+    {
+      "ka": "ბამბა",
+      "roman": "bamba",
+      "en": "candy floss, cotton candy, fairy floss",
+      "glosses": [
+        "candy floss, cotton candy, fairy floss"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ämbä]",
+      "audio": "audio/money/034.mp3",
+      "audioLocal": "audio/money/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian پنبه (panbe, “cotton”)."
+    },
+    {
+      "ka": "ბამბის ნაყინი",
+      "roman": "bambis naq̇ini",
+      "en": "cotton candy, candy floss, fairy floss",
+      "glosses": [
+        "cotton candy, candy floss, fairy floss"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ämbis näχʼini]",
+      "audio": "audio/money/035.mp3",
+      "audioLocal": "audio/money/035.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბანკი",
+      "roman": "banḳi",
+      "en": "bank, bankers",
+      "glosses": [
+        "bank, bankers"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äŋkʼi]",
+      "audio": "audio/money/036.mp3",
+      "audioLocal": "audio/money/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian банк (bank)."
+    },
+    {
+      "ka": "ბანკირი",
+      "roman": "banḳiri",
+      "en": "banker, financier",
+      "glosses": [
+        "banker, financier"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äŋkʼiɾi]",
+      "audio": "audio/money/037.mp3",
+      "audioLocal": "audio/money/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian банкир (bankir), itself from German Bankier, ultimately from French banquier."
+    },
+    {
+      "ka": "ბანკნოტი",
+      "roman": "banḳnoṭi",
+      "en": "banknote",
+      "glosses": [
+        "banknote"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äŋkʼno̞tʼi]",
+      "audio": "audio/money/038.mp3",
+      "audioLocal": "audio/money/038.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბანკროტი",
+      "roman": "banḳroṭi",
+      "en": "bankrupt, insolvent",
+      "glosses": [
+        "bankrupt, insolvent"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äŋkʼɾo̞tʼi]",
+      "audio": "audio/money/039.mp3",
+      "audioLocal": "audio/money/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian банкрот (bankrot)."
+    },
+    {
+      "ka": "ბგერათცვალებადობა",
+      "roman": "bgeratcvalebadoba",
+      "en": "sound change",
+      "glosses": [
+        "sound change"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ɡe̞ɾätʰt͡sʰʷäle̞bädo̞bä]",
+      "audio": "audio/money/040.mp3",
+      "audioLocal": "audio/money/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ბგერათა (bgerata, “of sounds”) + ცვალებადობა (cvalebadoba, “variability, variance, changeability”)."
+    },
+    {
+      "ka": "ბგერითი ცვლილება",
+      "roman": "bgeriti cvlileba",
+      "en": "sound change",
+      "glosses": [
+        "sound change"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ɡe̞ɾitʰi t͡sʰʷlile̞bä]",
+      "audio": "audio/money/041.mp3",
+      "audioLocal": "audio/money/041.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბე",
+      "roman": "be",
+      "en": "earnest-money",
+      "glosses": [
+        "earnest-money"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞]",
+      "audio": "audio/money/042.mp3",
+      "audioLocal": "audio/money/042.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბეჩავი",
+      "roman": "bečavi",
+      "en": "poor, wretched; pitiable",
+      "glosses": [
+        "poor, wretched; pitiable"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥e̞t͡ʃʰävi]",
+      "audio": "audio/money/043.mp3",
+      "audioLocal": "audio/money/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "By reduction of ბედშავი (bedšavi, “unlucky”)"
+    },
+    {
+      "ka": "ბზინვარე",
+      "roman": "bzinvare",
+      "en": "iridescent, resplendent",
+      "glosses": [
+        "iridescent, resplendent"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥zinʷäɾe̞]",
+      "audio": "audio/money/044.mp3",
+      "audioLocal": "audio/money/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბილიარდი",
+      "roman": "biliardi",
+      "en": "billiards",
+      "glosses": [
+        "billiards"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥iliäɾdi]",
+      "audio": "audio/money/045.mp3",
+      "audioLocal": "audio/money/045.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian бильярд (bilʹjard)."
+    },
+    {
+      "ka": "ბიოლუმინესცენციური",
+      "roman": "bioluminescenciuri",
+      "en": "bioluminescent",
+      "glosses": [
+        "bioluminescent"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥io̞ɫumine̞st͡sʰe̞nt͡sʰiuɾi]",
+      "audio": "audio/money/046.mp3",
+      "audioLocal": "audio/money/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბირჟა",
+      "roman": "birža",
+      "en": "exchange, stock exchange",
+      "glosses": [
+        "exchange, stock exchange"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥iɾʒä]",
+      "audio": "audio/money/047.mp3",
+      "audioLocal": "audio/money/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian би́ржа (bírža), from German Börse. See there for further etymology."
+    },
+    {
+      "ka": "ბიუჯეტი",
+      "roman": "biuǯeṭi",
+      "en": "budget",
+      "glosses": [
+        "budget"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥iud͡ʒe̞tʼi]",
+      "audio": "audio/money/048.mp3",
+      "audioLocal": "audio/money/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Via Russian бюджет (bjudžet), ultimately from English budget."
+    },
+    {
+      "ka": "ბიუჯეტიანი",
+      "roman": "biuǯeṭiani",
+      "en": "budget",
+      "glosses": [
+        "budget"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥iud͡ʒe̞tʼiäni]",
+      "audio": "audio/money/049.mp3",
+      "audioLocal": "audio/money/049.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "დაბალ ბიუჯეტიანი",
+          "roman": "dabal biuǯeṭiani",
+          "en": "low-budget"
+        }
+      ],
+      "etymology": "From ბიუჯეტი (biuǯeṭi) + -იანი (-iani)."
+    },
+    {
+      "ka": "ბოლოდროინდელი",
+      "roman": "bolodroindeli",
+      "en": "recent",
+      "glosses": [
+        "recent"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥o̞ɫo̞dɾo̞inde̞li]",
+      "audio": "audio/money/050.mp3",
+      "audioLocal": "audio/money/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბულვარული",
+      "roman": "bulvaruli",
+      "en": "tabloid, sensationalist, yellow, cheap, lurid",
+      "glosses": [
+        "tabloid, sensationalist, yellow, cheap, lurid"
+      ],
+      "pos": "adj",
+      "ipa": "[b̥ulʷäɾuli]",
+      "audio": "audio/money/051.mp3",
+      "audioLocal": "audio/money/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Calque of Russian бульварный (bulʹvarnyj)."
+    },
+    {
+      "ka": "ბუნიკი",
+      "roman": "buniḳi",
+      "en": "tip of a flag",
+      "glosses": [
+        "tip of a flag"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥unikʼi]",
+      "audio": "audio/money/052.mp3",
+      "audioLocal": "audio/money/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადამხდელი",
+      "roman": "gadamxdeli",
+      "en": "payer",
+      "glosses": [
+        "payer"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädämχde̞li]",
+      "audio": "audio/money/053.mp3",
+      "audioLocal": "audio/money/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადასახადების შემცირება",
+      "roman": "gadasaxadebis šemcireba",
+      "en": "tax cut, tax reduction",
+      "glosses": [
+        "tax cut, tax reduction"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäsäχäde̞bis ʃe̞mt͡sʰiɾe̞bä]",
+      "audio": "audio/money/054.mp3",
+      "audioLocal": "audio/money/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადასახადი",
+      "roman": "gadasaxadi",
+      "en": "tax",
+      "glosses": [
+        "tax"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäsäχädi]",
+      "audio": "audio/money/055.mp3",
+      "audioLocal": "audio/money/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "The noun is a substantivization of the future passive participle."
+    },
+    {
+      "ka": "გადასახდელი",
+      "roman": "gadasaxdeli",
+      "en": "to be paid, due, payable, owed",
+      "glosses": [
+        "to be paid, due, payable, owed"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ädäsäχde̞li]",
+      "audio": "audio/money/056.mp3",
+      "audioLocal": "audio/money/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადაუხდელობა",
+      "roman": "gadauxdeloba",
+      "en": "nonpayment",
+      "glosses": [
+        "nonpayment"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäuχde̞ɫo̞bä]",
+      "audio": "audio/money/057.mp3",
+      "audioLocal": "audio/money/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გადაუხდელი (gadauxdeli) + -ობა (-oba)."
+    },
+    {
+      "ka": "გადაფასება",
+      "roman": "gadapaseba",
+      "en": "price change",
+      "glosses": [
+        "price change"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäpʰäse̞bä]",
+      "audio": "audio/money/058.mp3",
+      "audioLocal": "audio/money/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადაღეჭილი",
+      "roman": "gadaɣeč̣ili",
+      "en": "discussed, debated, overused so many times that something becomes cliche or of low price",
+      "glosses": [
+        "discussed, debated, overused so many times that something becomes cliche or of low price"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ädäʁe̞t͡ʃʼili]",
+      "audio": "audio/money/059.mp3",
+      "audioLocal": "audio/money/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Emphatic form დაღეჭილი (daɣeč̣ili, “chewed”)"
+    },
+    {
+      "ka": "გადახდა",
+      "roman": "gadaxda",
+      "en": "payment",
+      "glosses": [
+        "payment"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäχdä]",
+      "audio": "audio/money/060.mp3",
+      "audioLocal": "audio/money/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Proto-Kartvelian *qed-, *qid-, *qd-. Old Georgian ჴიდი (qidi) might be from the same source; see there for more."
+    },
+    {
+      "ka": "გადახდის ტერმინალი",
+      "roman": "gadaxdis ṭerminali",
+      "en": "payment terminal",
+      "glosses": [
+        "payment terminal"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ädäχdis tʼe̞ɾminäli]",
+      "audio": "audio/money/061.mp3",
+      "audioLocal": "audio/money/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გადახრილი",
+      "roman": "gadaxrili",
+      "en": "incurved, inflected, leaned, leant, slanted, sloped, tipped, trended, verged",
+      "glosses": [
+        "incurved, inflected, leaned, leant, slanted, sloped, tipped, trended, verged"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ädäχɾili]",
+      "audio": "audio/money/062.mp3",
+      "audioLocal": "audio/money/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაკოტრებული",
+      "roman": "gaḳoṭrebuli",
+      "en": "bankrupt, broke, insolvent, bankrupted, harried",
+      "glosses": [
+        "bankrupt, broke, insolvent, bankrupted, harried"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊äkʼo̞tʼɾe̞buli]",
+      "audio": "audio/money/063.mp3",
+      "audioLocal": "audio/money/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამოსაცვლელად",
+      "roman": "gamosacvlelad",
+      "en": "for exchanging, changing, swapping, replacing, in order to exchange, swap, replace",
+      "glosses": [
+        "for exchanging, changing, swapping, replacing, in order to exchange, swap, replace"
+      ],
+      "pos": "adv",
+      "ipa": "[ɡ̊ämo̞sät͡sʰʷle̞ɫätʰ]",
+      "audio": "audio/money/064.mp3",
+      "audioLocal": "audio/money/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამოყოფილი",
+      "roman": "gamoq̇opili",
+      "en": "separate, accentuated, dissevered, dissociated, emitted, excreted, seceded, secluded, secreted, segregated, separated",
+      "glosses": [
+        "separate, accentuated, dissevered, dissociated, emitted, excreted, seceded, secluded, secreted, segregated, separated"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ämo̞χʼo̞pʰili]",
+      "audio": "audio/money/065.mp3",
+      "audioLocal": "audio/money/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გამოყოფა (gamoq̇opa) + -ილი (-ili)."
+    },
+    {
+      "ka": "გამოჩენილი",
+      "roman": "gamočenili",
+      "en": "noted, outstanding, prominent, signal, emerged, noted",
+      "glosses": [
+        "noted, outstanding, prominent, signal, emerged, noted"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ämo̞t͡ʃʰe̞nili]",
+      "audio": "audio/money/066.mp3",
+      "audioLocal": "audio/money/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გამოჩენა (gamočena) + -ილი (-ili, past passive participle-forming suffix)"
+    },
+    {
+      "ka": "გამოხმაურება",
+      "roman": "gamoxmaureba",
+      "en": "feedback",
+      "glosses": [
+        "feedback"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ämo̞χmäuɾe̞bä]",
+      "audio": "audio/money/067.mp3",
+      "audioLocal": "audio/money/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამჭვირვალე",
+      "roman": "gamč̣virvale",
+      "en": "diaphanous, gauzy, limpid, pellucid, translucent, transparent",
+      "glosses": [
+        "diaphanous, gauzy, limpid, pellucid, translucent, transparent"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ämt͡ʃʼʷiɾʷäle̞]",
+      "audio": "audio/money/068.mp3",
+      "audioLocal": "audio/money/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "განაკვეთი",
+      "roman": "ganaḳveti",
+      "en": "rate (a monetary charge calculated as a percentage)",
+      "glosses": [
+        "rate (a monetary charge calculated as a percentage)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊änäkʼʷe̞tʰi]",
+      "audio": "audio/money/069.mp3",
+      "audioLocal": "audio/money/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაჟღენთილი",
+      "roman": "gažɣentili",
+      "en": "permeated, filled (describing scent/smell or a chemical gaseous substance)",
+      "glosses": [
+        "permeated, filled (describing scent/smell or a chemical gaseous substance)"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊äʒʁe̞ntʰili]",
+      "audio": "audio/money/070.mp3",
+      "audioLocal": "audio/money/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გარდაქმნა",
+      "roman": "gardakmna",
+      "en": "transformation, transmutation, changeover, conversion, alteration, realignment, change",
+      "glosses": [
+        "transformation, transmutation, changeover, conversion, alteration, realignment, change"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äɾdäkʰmnä]",
+      "audio": "audio/money/071.mp3",
+      "audioLocal": "audio/money/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გარდა- (garda-) + ქმნა (kmna)."
+    },
+    {
+      "ka": "გასამრჯელო",
+      "roman": "gasamrǯelo",
+      "en": "payment",
+      "glosses": [
+        "payment"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äsämɾd͡ʒe̞ɫo̞]",
+      "audio": "audio/money/072.mp3",
+      "audioLocal": "audio/money/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაყიდვების გადასახადი",
+      "roman": "gaq̇idvebis gadasaxadi",
+      "en": "sales tax",
+      "glosses": [
+        "sales tax"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äχʼidʷe̞bis ɡ̊ädäsäχädi]",
+      "audio": "audio/money/073.mp3",
+      "audioLocal": "audio/money/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გაცვლითი",
+      "roman": "gacvliti",
+      "en": "exchange-related",
+      "glosses": [
+        "exchange-related"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ät͡sʰʷlitʰi]",
+      "audio": "audio/money/074.mp3",
+      "audioLocal": "audio/money/074.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ამ ვალუტებს შორის გაცვლითი კურსი უაღრესად სწრაფად შეიცვალა",
+          "roman": "am valuṭebs šoris gacvliti ḳursi uaɣresad sc̣rapad šeicvala",
+          "en": "exchange rate changed extremely fast between these currencies"
+        },
+        {
+          "ka": "გაცვლითი პროგრამა ბევრ სტუდენტს აინტერესებს",
+          "roman": "gacvliti ṗrograma bevr sṭudenṭs ainṭeresebs",
+          "en": "Many students are interested in exchange programs"
+        }
+      ],
+      "etymology": "From გაცვლა (gacvla) + -ითი (-iti)."
+    },
+    {
+      "ka": "გაცვლითი კურსი",
+      "roman": "gacvliti ḳursi",
+      "en": "exchange rate",
+      "glosses": [
+        "exchange rate"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ät͡sʰʷlitʰi kʼuɾsi]",
+      "audio": "audio/money/075.mp3",
+      "audioLocal": "audio/money/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გახდომა",
+      "roman": "gaxdoma",
+      "en": "weight loss, losing weight",
+      "glosses": [
+        "weight loss, losing weight"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊äχdo̞mä]",
+      "audio": "audio/money/076.mp3",
+      "audioLocal": "audio/money/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გეოცენტრული",
+      "roman": "geocenṭruli",
+      "en": "geocentric",
+      "glosses": [
+        "geocentric"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊e̞o̞t͡sʰe̞ntʼɾuli]",
+      "audio": "audio/money/077.mp3",
+      "audioLocal": "audio/money/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გლოსონიმი",
+      "roman": "glosonimi",
+      "en": "glossonym",
+      "glosses": [
+        "glossonym"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ɫo̞so̞nimi]",
+      "audio": "audio/money/078.mp3",
+      "audioLocal": "audio/money/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გონებაჩლუნგი",
+      "roman": "gonebačlungi",
+      "en": "bovine, dull, feeble-minded, moronic, muddle-headed, pig-headed, thick-headed, beetle, dodo, moron",
+      "glosses": [
+        "bovine, dull, feeble-minded, moronic, muddle-headed, pig-headed, thick-headed, beetle, dodo, moron"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊o̞ne̞bät͡ʃʰɫuŋɡi]",
+      "audio": "audio/money/079.mp3",
+      "audioLocal": "audio/money/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გრავიტაციული სინგულარობა",
+      "roman": "graviṭaciuli singularoba",
+      "en": "gravitational singularity",
+      "glosses": [
+        "gravitational singularity"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ɾävitʼät͡sʰiuli siŋɡuɫäɾo̞bä]",
+      "audio": "audio/money/080.mp3",
+      "audioLocal": "audio/money/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გროში",
+      "roman": "groši",
+      "en": "groschen",
+      "glosses": [
+        "groschen"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ɾo̞ʃi]",
+      "audio": "audio/money/081.mp3",
+      "audioLocal": "audio/money/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გრძნობა",
+      "roman": "grʒnoba",
+      "en": "consciousness, feeling, sensation, sense, sentiment",
+      "glosses": [
+        "consciousness, feeling, sensation, sense, sentiment"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ɾd͡zno̞bä]",
+      "audio": "audio/money/082.mp3",
+      "audioLocal": "audio/money/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გულბანდი",
+      "roman": "gulbandi",
+      "en": "disease of sheep and other cattle that causes intense diarrhea, as well as constipation",
+      "glosses": [
+        "disease of sheep and other cattle that causes intense diarrhea, as well as constipation"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ulbändi]",
+      "audio": "audio/money/083.mp3",
+      "audioLocal": "audio/money/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გული (guli, “heart”)."
+    },
+    {
+      "ka": "გულჩათხრობილი",
+      "roman": "gulčatxrobili",
+      "en": "reluctant to reveal expressions, thoughts, grief, feelings etc., reserved",
+      "glosses": [
+        "reluctant to reveal expressions, thoughts, grief, feelings etc., reserved"
+      ],
+      "pos": "adj",
+      "ipa": "[ɡ̊ult͡ʃʰätʰχɾo̞bili]",
+      "audio": "audio/money/084.mp3",
+      "audioLocal": "audio/money/084.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გულ- (gul-) + ჩათხრობილი (čatxrobili)."
+    },
+    {
+      "ka": "გურჯი",
+      "roman": "gurǯi",
+      "en": "Muslim immigrants of Georgian descent who had settled in non-Georgian majority regions of Turkey",
+      "glosses": [
+        "Muslim immigrants of Georgian descent who had settled in non-Georgian majority regions of Turkey"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊uɾd͡ʒi]",
+      "audio": "audio/money/085.mp3",
+      "audioLocal": "audio/money/085.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაბალანსებული ბიუჯეტი",
+      "roman": "dabalansebuli biuǯeṭi",
+      "en": "balanced budget",
+      "glosses": [
+        "balanced budget"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äbäɫänse̞buli b̥iud͡ʒe̞tʼi]",
+      "audio": "audio/money/086.mp3",
+      "audioLocal": "audio/money/086.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაბალბიუჯეტიანი",
+      "roman": "dabalbiuǯeṭiani",
+      "en": "low-budget",
+      "glosses": [
+        "low-budget"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äbälbiud͡ʒe̞tʼiäni]",
+      "audio": "audio/money/087.mp3",
+      "audioLocal": "audio/money/087.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაბალფასიანი",
+      "roman": "dabalpasiani",
+      "en": "low-priced",
+      "glosses": [
+        "low-priced"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äbälpʰäsiäni]",
+      "audio": "audio/money/088.mp3",
+      "audioLocal": "audio/money/088.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაბეგვრა",
+      "roman": "dabegvra",
+      "en": "taxation",
+      "glosses": [
+        "taxation"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äbe̞ɡʷɾä]",
+      "audio": "audio/money/089.mp3",
+      "audioLocal": "audio/money/089.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაბეგვრადი",
+      "roman": "dabegvradi",
+      "en": "taxable",
+      "glosses": [
+        "taxable"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äbe̞ɡʷɾädi]",
+      "audio": "audio/money/090.mp3",
+      "audioLocal": "audio/money/090.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დაბეგვრა (dabegvra) + -ადი (-adi)."
+    },
+    {
+      "ka": "დაბეგვრადი შემოსავალი",
+      "roman": "dabegvradi šemosavali",
+      "en": "taxable income",
+      "glosses": [
+        "taxable income"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äbe̞ɡʷɾädi ʃe̞mo̞säväli]",
+      "audio": "audio/money/091.mp3",
+      "audioLocal": "audio/money/091.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაბეგვრადობა",
+      "roman": "dabegvradoba",
+      "en": "taxability",
+      "glosses": [
+        "taxability"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äbe̞ɡʷɾädo̞bä]",
+      "audio": "audio/money/092.mp3",
+      "audioLocal": "audio/money/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დაბეგვრადი (dabegvradi) + -ობა (-oba)."
+    },
+    {
+      "ka": "დაბუჟება",
+      "roman": "dabužeba",
+      "en": "numbness, loss of sensation",
+      "glosses": [
+        "numbness, loss of sensation"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äbuʒe̞bä]",
+      "audio": "audio/money/093.mp3",
+      "audioLocal": "audio/money/093.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დადებითი უკუკავშირი",
+      "roman": "dadebiti uḳuḳavširi",
+      "en": "positive feedback",
+      "glosses": [
+        "positive feedback"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äde̞bitʰi ukʼukʼäfʃiɾi]",
+      "audio": "audio/money/094.mp3",
+      "audioLocal": "audio/money/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დავალებული",
+      "roman": "davalebuli",
+      "en": "beholden, indebted, owed, tasked",
+      "glosses": [
+        "beholden, indebted, owed, tasked"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äväle̞buli]",
+      "audio": "audio/money/095.mp3",
+      "audioLocal": "audio/money/095.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დავალიანება",
+      "roman": "davalianeba",
+      "en": "arrears, indebtedness",
+      "glosses": [
+        "arrears, indebtedness"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äväliäne̞bä]",
+      "audio": "audio/money/096.mp3",
+      "audioLocal": "audio/money/096.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაზარალებული",
+      "roman": "dazaralebuli",
+      "en": "victim, one who sustained a loss",
+      "glosses": [
+        "victim, one who sustained a loss"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äzäɾäle̞buli]",
+      "audio": "audio/money/097.mp3",
+      "audioLocal": "audio/money/097.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დაზარალება (dazaraleba) + -ული (-uli, past passive participle-forming suffix)."
+    },
+    {
+      "ka": "დათქმა",
+      "roman": "datkma",
+      "en": "stipulation, provision, clause (especially in a legal or formal context)",
+      "glosses": [
+        "stipulation, provision, clause (especially in a legal or formal context)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ätʰkʰmä]",
+      "audio": "audio/money/098.mp3",
+      "audioLocal": "audio/money/098.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ხელშეკრულების დათქმა",
+          "roman": "xelšeḳrulebis datkma",
+          "en": "a provision of the contract"
+        },
+        {
+          "ka": "სპეციალური დათქმა",
+          "roman": "sṗecialuri datkma",
+          "en": "a special stipulation"
+        }
+      ],
+      "etymology": "From და- (da-, “preverb”) + თქმა (tkma, “saying, telling”)."
+    },
+    {
+      "ka": "დაკვირვებული",
+      "roman": "daḳvirvebuli",
+      "en": "observant, observing (alert and paying close attention; watchful)",
+      "glosses": [
+        "observant, observing (alert and paying close attention; watchful)"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äkʼʷiɾʷe̞buli]",
+      "audio": "audio/money/099.mp3",
+      "audioLocal": "audio/money/099.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From დაკვირვება (daḳvirveba) + -ული (-uli, past passive participle-forming suffix)."
+    },
+    {
+      "ka": "დამატებითი ღირებულების გადასახადი",
+      "roman": "damaṭebiti ɣirebulebis gadasaxadi",
+      "en": "value added tax",
+      "glosses": [
+        "value added tax"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämätʼe̞bitʰi ʁiɾe̞bule̞bis ɡ̊ädäsäχädi]",
+      "audio": "audio/money/100.mp3",
+      "audioLocal": "audio/money/100.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამბაჩა",
+      "roman": "dambača",
+      "en": "a flintlock handgun used from 16th to the 19th century",
+      "glosses": [
+        "a flintlock handgun used from 16th to the 19th century"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ämbät͡ʃʰä]",
+      "audio": "audio/money/101.mp3",
+      "audioLocal": "audio/money/101.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დამღუპველი",
+      "roman": "damɣuṗveli",
+      "en": "baleful, maleficent, malign, ruinous, subversive, blighter",
+      "glosses": [
+        "baleful, maleficent, malign, ruinous, subversive, blighter"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥ämʁupʼʷe̞li]",
+      "audio": "audio/money/102.mp3",
+      "audioLocal": "audio/money/102.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასაბეგრი შემოსავალი",
+      "roman": "dasabegri šemosavali",
+      "en": "taxable income",
+      "glosses": [
+        "taxable income"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äsäbe̞ɡɾi ʃe̞mo̞säväli]",
+      "audio": "audio/money/103.mp3",
+      "audioLocal": "audio/money/103.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასავლეთ ევროპელი",
+      "roman": "dasavlet evroṗeli",
+      "en": "Western European (of people only)",
+      "glosses": [
+        "Western European (of people only)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äsävle̞tʰ e̞vɾo̞pʼe̞li]",
+      "audio": "audio/money/104.mp3",
+      "audioLocal": "audio/money/104.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასავლეთ ევროპული",
+      "roman": "dasavlet evroṗuli",
+      "en": "Western European (things and non-human animals)",
+      "glosses": [
+        "Western European (things and non-human animals)"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äsävle̞tʰ e̞vɾo̞pʼuli]",
+      "audio": "audio/money/105.mp3",
+      "audioLocal": "audio/money/105.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დასავლეთევროპელი",
+      "roman": "dasavletevroṗeli",
+      "en": "Western European (of people only)",
+      "glosses": [
+        "Western European (of people only)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äsävle̞tʰe̞vɾo̞pʼe̞li]",
+      "audio": "audio/money/106.mp3",
+      "audioLocal": "audio/money/106.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაუბეგრავი",
+      "roman": "daubegravi",
+      "en": "untaxed",
+      "glosses": [
+        "untaxed"
+      ],
+      "pos": "adj",
+      "ipa": "[d̥äube̞ɡɾävi]",
+      "audio": "audio/money/107.mp3",
+      "audioLocal": "audio/money/107.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაცხომა",
+      "roman": "dacxoma",
+      "en": "a sudden feeling of being hot; discomfort from heat",
+      "glosses": [
+        "a sudden feeling of being hot; discomfort from heat"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ät͡sʰχo̞mä]",
+      "audio": "audio/money/108.mp3",
+      "audioLocal": "audio/money/108.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დახმარება",
+      "roman": "daxmareba",
+      "en": "Money given to people from the government to help improve their livelihood",
+      "glosses": [
+        "Money given to people from the government to help improve their livelihood"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥äχmäɾe̞bä]",
+      "audio": "audio/money/109.mp3",
+      "audioLocal": "audio/money/109.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დებეტები",
+      "roman": "debeṭebi",
+      "en": "debits",
+      "glosses": [
+        "debits"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥e̞be̞tʼe̞bi]",
+      "audio": "audio/money/110.mp3",
+      "audioLocal": "audio/money/110.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დებეტი",
+      "roman": "debeṭi",
+      "en": "debit",
+      "glosses": [
+        "debit"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥e̞be̞tʼi]",
+      "audio": "audio/money/111.mp3",
+      "audioLocal": "audio/money/111.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დეცენტრალიზაცია",
+      "roman": "decenṭralizacia",
+      "en": "decentralization",
+      "glosses": [
+        "decentralization"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥e̞t͡sʰe̞ntʼɾälizät͡sʰiä]",
+      "audio": "audio/money/112.mp3",
+      "audioLocal": "audio/money/112.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დიდებულად",
+      "roman": "didebulad",
+      "en": "first-class, imperially, magnificently, majestically, rankly, splendidly",
+      "glosses": [
+        "first-class, imperially, magnificently, majestically, rankly, splendidly"
+      ],
+      "pos": "adv",
+      "ipa": "[d̥ide̞buɫätʰ]",
+      "audio": "audio/money/113.mp3",
+      "audioLocal": "audio/money/113.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დისკრედიტაცია",
+      "roman": "disḳrediṭacia",
+      "en": "discreditation, discrediting, bringing into discredit",
+      "glosses": [
+        "discreditation, discrediting, bringing into discredit"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥iskʼɾe̞ditʼät͡sʰiä]",
+      "audio": "audio/money/114.mp3",
+      "audioLocal": "audio/money/114.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from French discréditer. Compare Russian дискредита́ция (diskreditácija)."
+    },
+    {
+      "ka": "დო",
+      "roman": "do",
+      "en": "do (musical note)",
+      "glosses": [
+        "do (musical note)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥o̞]",
+      "audio": "audio/money/115.mp3",
+      "audioLocal": "audio/money/115.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Italian do."
+    },
+    {
+      "ka": "დოვლათი",
+      "roman": "dovlati",
+      "en": "wealth, riches",
+      "glosses": [
+        "wealth, riches"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥o̞vɫätʰi]",
+      "audio": "audio/money/116.mp3",
+      "audioLocal": "audio/money/116.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დოლარებში",
+      "roman": "dolarebši",
+      "en": "plural postpositional suffixed with -ში of დოლარი (dolari)",
+      "glosses": [
+        "plural postpositional suffixed with -ში of დოლარი (dolari)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥o̞ɫäɾe̞bʃi]",
+      "audio": "audio/money/117.mp3",
+      "audioLocal": "audio/money/117.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დოლარი",
+      "roman": "dolari",
+      "en": "dollar",
+      "glosses": [
+        "dollar"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥o̞ɫäɾi]",
+      "audio": "audio/money/118.mp3",
+      "audioLocal": "audio/money/118.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დომენი",
+      "roman": "domeni",
+      "en": "domain (the highest taxonomic rank of organisms, such as Archaea, Bacteria, and Eukarya)",
+      "glosses": [
+        "domain (the highest taxonomic rank of organisms, such as Archaea, Bacteria, and Eukarya)"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥o̞me̞ni]",
+      "audio": "audio/money/119.mp3",
+      "audioLocal": "audio/money/119.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English domain, itself derived from French domaine, while ultimately from Latin dominium."
+    },
+    {
+      "ka": "დოც.",
+      "roman": "doc.",
+      "en": "docent, lecturer",
+      "glosses": [
+        "docent, lecturer"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥o̞t͡sʰ]",
+      "audio": "audio/money/120.mp3",
+      "audioLocal": "audio/money/120.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Abbreviation of დოცენტი (docenṭi, “docent”)."
+    },
+    {
+      "ka": "დრამა",
+      "roman": "",
+      "en": "a kind of silver coin",
+      "glosses": [
+        "a kind of silver coin"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ɾämä]",
+      "audio": "audio/money/121.mp3",
+      "audioLocal": "audio/money/121.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Old Armenian դրամ (dram), from Middle Persian 𐭦𐭥𐭦𐭭 (ZWZN /⁠drahm⁠/), from Ancient Greek δραχμή (drakhmḗ)."
+    },
+    {
+      "ka": "ეგოცენტრული",
+      "roman": "egocenṭruli",
+      "en": "egocentric, self-absorbed",
+      "glosses": [
+        "egocentric, self-absorbed"
+      ],
+      "pos": "adj",
+      "ipa": "[e̞ɡo̞t͡sʰe̞ntʼɾuli]",
+      "audio": "audio/money/122.mp3",
+      "audioLocal": "audio/money/122.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევრო",
+      "roman": "evro",
+      "en": "Euro",
+      "glosses": [
+        "Euro"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞]",
+      "audio": "audio/money/123.mp3",
+      "audioLocal": "audio/money/123.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროინტეგრაცია",
+      "roman": "evroinṭegracia",
+      "en": "European Integration, integration into the EU",
+      "glosses": [
+        "European Integration, integration into the EU"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞intʼe̞ɡɾät͡sʰiä]",
+      "audio": "audio/money/124.mp3",
+      "audioLocal": "audio/money/124.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროკავშირის კანონმდებლობა",
+      "roman": "evroḳavširis ḳanonmdebloba",
+      "en": "EU legislation, the laws of the European Union (in general)",
+      "glosses": [
+        "EU legislation, the laws of the European Union (in general)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞kʼäfʃiɾis kʼäno̞nmde̞bɫo̞bä]",
+      "audio": "audio/money/125.mp3",
+      "audioLocal": "audio/money/125.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროკომისარი",
+      "roman": "evroḳomisari",
+      "en": "European Commissioner",
+      "glosses": [
+        "European Commissioner"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞kʼo̞misäɾi]",
+      "audio": "audio/money/126.mp3",
+      "audioLocal": "audio/money/126.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ევრო- (evro-, “euro- i.e. European”) + კომისარი (ḳomisari, “commissioner”)."
+    },
+    {
+      "ka": "ევროპელი",
+      "roman": "evroṗeli",
+      "en": "European (person)",
+      "glosses": [
+        "European (person)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞pʼe̞li]",
+      "audio": "audio/money/127.mp3",
+      "audioLocal": "audio/money/127.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ევროპა (evroṗa, “Europe”) + -ელი (-eli)."
+    },
+    {
+      "ka": "ევროპის ეკონომიკური ზონა",
+      "roman": "evroṗis eḳonomiḳuri zona",
+      "en": "European Economic Area",
+      "glosses": [
+        "European Economic Area"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞pʼis e̞kʼo̞no̞mikʼuɾi zo̞nä]",
+      "audio": "audio/money/128.mp3",
+      "audioLocal": "audio/money/128.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროპის ეკონომიკური სივრცე",
+      "roman": "evroṗis eḳonomiḳuri sivrce",
+      "en": "European Economic Area",
+      "glosses": [
+        "European Economic Area"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞pʼis e̞kʼo̞no̞mikʼuɾi sivɾt͡sʰe̞]",
+      "audio": "audio/money/129.mp3",
+      "audioLocal": "audio/money/129.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროპიუმი",
+      "roman": "evroṗiumi",
+      "en": "europium",
+      "glosses": [
+        "europium"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞pʼiumi]",
+      "audio": "audio/money/130.mp3",
+      "audioLocal": "audio/money/130.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროპული",
+      "roman": "evroṗuli",
+      "en": "European",
+      "glosses": [
+        "European"
+      ],
+      "pos": "adj",
+      "ipa": "[e̞vɾo̞pʼuli]",
+      "audio": "audio/money/131.mp3",
+      "audioLocal": "audio/money/131.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევრორეალიზმი",
+      "roman": "evrorealizmi",
+      "en": "Eurorealism",
+      "glosses": [
+        "Eurorealism"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞ɾe̞älizmi]",
+      "audio": "audio/money/132.mp3",
+      "audioLocal": "audio/money/132.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევრორეალისტი",
+      "roman": "evrorealisṭi",
+      "en": "Eurorealist (person)",
+      "glosses": [
+        "Eurorealist (person)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞ɾe̞älistʼi]",
+      "audio": "audio/money/133.mp3",
+      "audioLocal": "audio/money/133.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროსკეპტიკოსი",
+      "roman": "evrosḳeṗṭiḳosi",
+      "en": "Eurosceptic (person)",
+      "glosses": [
+        "Eurosceptic (person)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞skʼe̞pʼtʼikʼo̞si]",
+      "audio": "audio/money/134.mp3",
+      "audioLocal": "audio/money/134.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროსკეპტიციზმი",
+      "roman": "evrosḳeṗṭicizmi",
+      "en": "Euroscepticism",
+      "glosses": [
+        "Euroscepticism"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞skʼe̞pʼtʼit͡sʰizmi]",
+      "audio": "audio/money/135.mp3",
+      "audioLocal": "audio/money/135.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროფედერალიზმი",
+      "roman": "evropederalizmi",
+      "en": "Eurofederalism",
+      "glosses": [
+        "Eurofederalism"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞pʰe̞de̞ɾälizmi]",
+      "audio": "audio/money/136.mp3",
+      "audioLocal": "audio/money/136.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროფედერალისტი",
+      "roman": "evropederalisṭi",
+      "en": "Eurofederalist (person)",
+      "glosses": [
+        "Eurofederalist (person)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞pʰe̞de̞ɾälistʼi]",
+      "audio": "audio/money/137.mp3",
+      "audioLocal": "audio/money/137.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ევროცენტრიზმი",
+      "roman": "evrocenṭrizmi",
+      "en": "Eurocentrism",
+      "glosses": [
+        "Eurocentrism"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞vɾo̞t͡sʰe̞ntʼɾizmi]",
+      "audio": "audio/money/138.mp3",
+      "audioLocal": "audio/money/138.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ემოციურად",
+      "roman": "emociurad",
+      "en": "emotionally, feelingly, soulfully",
+      "glosses": [
+        "emotionally, feelingly, soulfully"
+      ],
+      "pos": "adv",
+      "ipa": "[e̞mo̞t͡sʰiuɾätʰ]",
+      "audio": "audio/money/139.mp3",
+      "audioLocal": "audio/money/139.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ემოციური (emociuri) + -ად (-ad)."
+    },
+    {
+      "ka": "ეპიცენტრი",
+      "roman": "eṗicenṭri",
+      "en": "epicentre",
+      "glosses": [
+        "epicentre"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞pʼit͡sʰe̞ntʼɾi]",
+      "audio": "audio/money/140.mp3",
+      "audioLocal": "audio/money/140.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ერთობა",
+      "roman": "ertoba",
+      "en": "similarity",
+      "glosses": [
+        "similarity"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞ɾtʰo̞bä]",
+      "audio": "audio/money/141.mp3",
+      "audioLocal": "audio/money/141.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ერთობა (ertoba), ერთობაჲ (ertobay). By surface analysis, ერთი (erti, “one”) + -ობა (-oba, “-hood”)."
+    },
+    {
+      "ka": "ერთპოლუსიანობა",
+      "roman": "ertṗolusianoba",
+      "en": "unipolarity",
+      "glosses": [
+        "unipolarity"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞ɾtʰpʼo̞ɫusiäno̞bä]",
+      "audio": "audio/money/142.mp3",
+      "audioLocal": "audio/money/142.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ერთპოლუსიანი (ertṗolusiani) + -ობა (-oba)."
+    },
+    {
+      "ka": "ერთუჯრედიანობა",
+      "roman": "ertuǯredianoba",
+      "en": "unicellularity, monocellularity",
+      "glosses": [
+        "unicellularity, monocellularity"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞ɾtʰud͡ʒɾe̞diäno̞bä]",
+      "audio": "audio/money/143.mp3",
+      "audioLocal": "audio/money/143.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ერთუჯრედიანი (ertuǯrediani) + -ობა (-oba)."
+    },
+    {
+      "ka": "ერკემალი",
+      "roman": "erḳemali",
+      "en": "billy goat",
+      "glosses": [
+        "billy goat"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞ɾkʼe̞mäli]",
+      "audio": "audio/money/144.mp3",
+      "audioLocal": "audio/money/144.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian ერკემალი (erḳemali), from Old Armenian երկեամ (erkeam, “of two years”)."
+    },
+    {
+      "ka": "ვაგზალი",
+      "roman": "vagzali",
+      "en": "the Central Railway Station (principally in Tbilisi)",
+      "glosses": [
+        "the Central Railway Station (principally in Tbilisi)"
+      ],
+      "pos": "noun",
+      "ipa": "[väɡzäli]",
+      "audio": "audio/money/145.mp3",
+      "audioLocal": "audio/money/145.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian вокза́л (vokzál), itself from English Vauxhall."
+    },
+    {
+      "ka": "ვალი",
+      "roman": "vali",
+      "en": "debt",
+      "glosses": [
+        "debt"
+      ],
+      "pos": "noun",
+      "ipa": "[väli]",
+      "audio": "audio/money/146.mp3",
+      "audioLocal": "audio/money/146.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ვალი (vali)."
+    },
+    {
+      "ka": "ვალუტა",
+      "roman": "valuṭa",
+      "en": "currency",
+      "glosses": [
+        "currency"
+      ],
+      "pos": "noun",
+      "ipa": "[väɫutʼä]",
+      "audio": "audio/money/147.mp3",
+      "audioLocal": "audio/money/147.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Italian."
+    },
+    {
+      "ka": "ვალუტის კურსი",
+      "roman": "valuṭis ḳursi",
+      "en": "exchange rate",
+      "glosses": [
+        "exchange rate"
+      ],
+      "pos": "noun",
+      "ipa": "[väɫutʼis kʼuɾsi]",
+      "audio": "audio/money/148.mp3",
+      "audioLocal": "audio/money/148.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვასაკა",
+      "roman": "vasaḳa",
+      "en": "European tree frog (Hyla arborea)",
+      "glosses": [
+        "European tree frog (Hyla arborea)"
+      ],
+      "pos": "noun",
+      "ipa": "[väsäkʼä]",
+      "audio": "audio/money/149.mp3",
+      "audioLocal": "audio/money/149.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Possibly from Persian وزک (vazak), alternative form of وزغ (vazaġ, “toad”), suffixed with -ა."
+    }
+  ]
+}

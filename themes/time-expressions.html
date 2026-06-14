@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Theme — ქართული</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+Georgian:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../shared.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="back-link" href="../index.html">← map</a>
+    <div class="theme-title">
+      <h1 id="title-ka">…</h1>
+      <p id="title-en"></p>
+    </div>
+    <div style="display:flex;gap:10px;align-items:center">
+      <a href="../review.html" class="back-link" id="review-link">review</a>
+      <input class="search" id="search" type="search" placeholder="filter words" />
+    </div>
+  </header>
+
+  <main>
+    <div class="meta-row" id="meta"></div>
+    <div class="word-list" id="list"></div>
+    <div class="empty" id="empty" style="display:none">no matches</div>
+  </main>
+
+  <script src="../learning.js"></script>
+  <script src="time-expressions.js"></script>
+  <script>
+    const data = window.THEME_DATA;
+    const audioBase = "../";
+
+    document.title = `${data.nameKa} — ქართული`;
+    document.getElementById("title-ka").textContent = data.nameKa;
+    document.getElementById("title-en").textContent = data.name;
+
+    function updateMeta(words) {
+      const withAudio = words.filter(w => w.audio).length;
+      const known = words.filter(w => LearningStore.isKnown(data.id, w.ka)).length;
+      const flagged = words.filter(w => LearningStore.isFlagged(data.id, w.ka)).length;
+      document.getElementById("meta").innerHTML = `
+        <span>${words.length} words</span>
+        <span>·</span>
+        <span>${withAudio} with audio</span>
+        <span>·</span>
+        <span>${known} known</span>
+        <span>·</span>
+        <span>${flagged} flagged</span>
+      `;
+      const counts = LearningStore.getCounts();
+      document.getElementById("review-link").textContent = counts.flagged ? `review (${counts.flagged})` : "review";
+    }
+
+    let currentAudio = null;
+
+    function playWord(word, btn) {
+      if (!word.audio) return;
+      if (currentAudio) {
+        currentAudio.pause();
+        document.querySelectorAll(".play-btn.playing").forEach(b => b.classList.remove("playing"));
+      }
+      const src = word.audio.startsWith("http") ? word.audio : audioBase + word.audio;
+      currentAudio = new Audio(src);
+      btn.classList.add("playing");
+      currentAudio.play().catch(() => {});
+      currentAudio.onended = () => btn.classList.remove("playing");
+    }
+
+    function render(words) {
+      const list = document.getElementById("list");
+      const empty = document.getElementById("empty");
+      updateMeta(words);
+      if (!words.length) {
+        list.innerHTML = "";
+        empty.style.display = "block";
+        return;
+      }
+      empty.style.display = "none";
+      list.innerHTML = words.map((w, i) => {
+        const flagged = LearningStore.isFlagged(data.id, w.ka);
+        const known = LearningStore.isKnown(data.id, w.ka);
+        const extraGlosses = (w.glosses || []).filter(g => g !== w.en);
+        const examples = (w.examples || []).map(ex => `
+          <div class="example">
+            <div class="ka">${ex.ka}</div>
+            ${ex.roman ? `<div class="word-sub">${ex.roman}</div>` : ""}
+            ${ex.en ? `<div class="en">${ex.en}</div>` : ""}
+          </div>
+        `).join("");
+        const etymology = w.etymology ? `<details><summary>etymology</summary><p>${w.etymology}</p></details>` : "";
+        const exBlock = examples ? `<details open><summary>examples</summary>${examples}</details>` : "";
+        const cardClass = ["word-card", known ? "known" : "", flagged ? "flagged" : ""].filter(Boolean).join(" ");
+
+        return `
+          <article class="${cardClass}" data-i="${i}">
+            <div class="word-head">
+              <div>
+                <div class="word-ka">${w.ka}</div>
+                <div class="word-sub">${[w.roman, w.ipa, w.pos].filter(Boolean).join(" · ")}</div>
+              </div>
+              <div class="word-actions">
+                <button class="flag-btn ${flagged ? "active" : ""}" data-i="${i}" title="flag for review">★</button>
+                <button class="know-btn ${known ? "active" : ""}" data-i="${i}" title="mark as known">✓</button>
+                <button class="play-btn" data-play="${i}" ${w.audio ? "" : "disabled"} title="${w.audio ? "listen" : "no audio"}">▶</button>
+              </div>
+            </div>
+            <div class="word-en">${w.en}</div>
+            ${extraGlosses.length ? `<div class="word-glosses">${extraGlosses.join(" · ")}</div>` : ""}
+            ${exBlock}
+            ${etymology}
+          </article>
+        `;
+      }).join("");
+
+      list.querySelectorAll("[data-play]").forEach(btn => {
+        btn.addEventListener("click", () => playWord(words[Number(btn.dataset.play)], btn));
+      });
+      list.querySelectorAll(".flag-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const w = words[Number(btn.dataset.i)];
+          const on = LearningStore.toggleFlag(data.id, w.ka);
+          btn.classList.toggle("active", on);
+          btn.closest(".word-card").classList.toggle("flagged", on);
+          updateMeta(words);
+        });
+      });
+      list.querySelectorAll(".know-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const w = words[Number(btn.dataset.i)];
+          const on = LearningStore.toggleKnown(data.id, w.ka);
+          btn.classList.toggle("active", on);
+          const card = btn.closest(".word-card");
+          card.classList.toggle("known", on);
+          if (on) {
+            card.classList.remove("flagged");
+            card.querySelector(".flag-btn").classList.remove("active");
+          }
+          updateMeta(words);
+        });
+      });
+    }
+
+    render(data.words);
+
+    const hash = decodeURIComponent(location.hash.slice(1));
+    if (hash) {
+      const card = [...document.querySelectorAll(".word-card")].find(el => {
+        const i = Number(el.dataset.i);
+        return data.words[i] && data.words[i].ka === hash;
+      });
+      if (card) {
+        card.scrollIntoView({ behavior: "smooth", block: "center" });
+        card.style.borderColor = "rgba(167, 139, 250, 0.45)";
+      }
+    }
+
+    document.getElementById("search").addEventListener("input", (e) => {
+      const q = e.target.value.trim().toLowerCase();
+      if (!q) { render(data.words); return; }
+      const filtered = data.words.filter(w =>
+        w.ka.includes(q) ||
+        w.en.toLowerCase().includes(q) ||
+        (w.roman && w.roman.toLowerCase().includes(q))
+      );
+      render(filtered);
+    });
+  </script>
+</body>
+</html>
