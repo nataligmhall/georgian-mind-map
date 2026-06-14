@@ -2,467 +2,2017 @@
   "title": "Georgian Language Mind Map",
   "titleKa": "ქართული ენა",
   "stats": {
-    "themes": 37,
-    "words": 679
+    "themes": 40,
+    "words": 1065
   },
   "categories": [
     {
-      "id": "music",
-      "name": "Music",
-      "nameKa": "მუსიკა",
-      "icon": "♪",
-      "count": 45,
-      "page": "themes/music.html",
+      "id": "verbs",
+      "name": "Verbs",
+      "nameKa": "ზმნები",
+      "icon": "⚡",
+      "count": 200,
+      "page": "themes/verbs.html",
       "words": [
         {
-          "ka": "ალტერნატიული როკი",
-          "roman": "alṭernaṭiuli roḳi",
-          "en": "alternative rock",
-          "pos": "noun",
-          "ipa": "[ältʼe̞ɾnätʼiuli ɾo̞kʼi]",
-          "audio": "audio/music/000.mp3",
+          "ka": "მოდის",
+          "roman": "modis",
+          "en": "to come",
+          "pos": "verb",
+          "ipa": "[mo̞dis]",
+          "audio": "audio/verbs/000.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ალყა",
-          "roman": "alq̇a",
-          "en": "string (of an instrument)",
-          "pos": "noun",
-          "ipa": "[älχʼä]",
-          "audio": "audio/music/001.mp3",
+          "ka": "მიდის",
+          "roman": "midis",
+          "en": "to go",
+          "pos": "verb",
+          "ipa": "[midis]",
+          "audio": "audio/verbs/001.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "აქცენტი",
-          "roman": "akcenṭi",
-          "en": "accent",
-          "pos": "noun",
-          "ipa": "[äkʰt͡sʰe̞ntʼi]",
-          "audio": "audio/music/002.mp3",
+          "ka": "არის",
+          "roman": "aris",
+          "en": "to be",
+          "pos": "verb",
+          "ipa": "[äɾis]",
+          "audio": "audio/verbs/002.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ბარბითი",
-          "roman": "barbiti",
-          "en": "lute",
-          "pos": "noun",
-          "ipa": "[b̥äɾbitʰi]",
-          "audio": "audio/music/003.mp3",
+          "ka": "სვამს",
+          "roman": "svams",
+          "en": "to drink",
+          "pos": "verb",
+          "ipa": "[sʷäms]",
+          "audio": "audio/verbs/003.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ბლუგრასი",
-          "roman": "blugrasi",
-          "en": "bluegrass",
-          "pos": "noun",
-          "ipa": "[b̥ɫuɡɾäsi]",
-          "audio": "audio/music/004.mp3",
+          "ka": "აქვს",
+          "roman": "akvs",
+          "en": "to have",
+          "pos": "verb",
+          "ipa": "[äkʰʷs]",
+          "audio": "audio/verbs/004.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "გლემ-როკი",
-          "roman": "glem-roḳi",
-          "en": "glam rock",
-          "pos": "noun",
-          "ipa": "[ɡ̊le̞mɾo̞kʼi]",
-          "audio": "audio/music/005.mp3",
+          "ka": "უნდა",
+          "roman": "unda",
+          "en": "to want",
+          "pos": "verb",
+          "ipa": "[undä]",
+          "audio": "audio/verbs/005.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "გუდასტვირი",
-          "roman": "gudasṭviri",
-          "en": "Gudastviri",
-          "pos": "noun",
-          "ipa": "[ɡ̊udästʼʷiɾi]",
-          "audio": "audio/music/006.mp3",
+          "ka": "იცის",
+          "roman": "icis",
+          "en": "to know",
+          "pos": "verb",
+          "ipa": "[it͡sʰis]",
+          "audio": "audio/verbs/006.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყამი ინსტრუმენტი",
-          "roman": "dasarṭq̇ami insṭrumenṭi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼämi instʼɾume̞ntʼi]",
-          "audio": "audio/music/007.mp3",
+          "ka": "ჭამს",
+          "roman": "č̣ams",
+          "en": "to eat",
+          "pos": "verb",
+          "ipa": "[t͡ʃʼäms]",
+          "audio": "audio/verbs/007.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყამი მუსიკალური ინსტრუმენტი",
-          "roman": "dasarṭq̇ami musiḳaluri insṭrumenṭi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼämi musikʼäɫuɾi instʼɾume̞ntʼi]",
-          "audio": "audio/music/008.mp3",
+          "ka": "კითხულობს",
+          "roman": "ḳitxulobs",
+          "en": "to ask",
+          "pos": "verb",
+          "ipa": "[kʼitʰχuɫo̞bs]",
+          "audio": "audio/verbs/008.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყამი მუსიკალური საკრავი",
-          "roman": "dasarṭq̇ami musiḳaluri saḳravi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼämi musikʼäɫuɾi säkʼɾävi]",
-          "audio": "audio/music/009.mp3",
+          "ka": "წერს",
+          "roman": "c̣ers",
+          "en": "to write",
+          "pos": "verb",
+          "ipa": "[t͡sʼe̞ɾs]",
+          "audio": "audio/verbs/009.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყამი საკრავი",
-          "roman": "dasarṭq̇ami saḳravi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼämi säkʼɾävi]",
-          "audio": "audio/music/010.mp3",
+          "ka": "ყიდულობს",
+          "roman": "q̇idulobs",
+          "en": "to buy",
+          "pos": "verb",
+          "ipa": "[χʼiduɫo̞bs]",
+          "audio": "audio/verbs/010.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყმელი ინსტრუმენტი",
-          "roman": "dasarṭq̇meli insṭrumenṭi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼme̞li instʼɾume̞ntʼi]",
-          "audio": "audio/music/011.mp3",
+          "ka": "მუშაობს",
+          "roman": "mušaobs",
+          "en": "to work",
+          "pos": "verb",
+          "ipa": "[muʃäo̞bs]",
+          "audio": "audio/verbs/011.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყმელი მუსიკალური ინსტრუმენტი",
-          "roman": "dasarṭq̇meli musiḳaluri insṭrumenṭi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼme̞li musikʼäɫuɾi instʼɾume̞ntʼi]",
-          "audio": "audio/music/012.mp3",
+          "ka": "სწავლობს",
+          "roman": "sc̣avlobs",
+          "en": "to learn, study",
+          "pos": "verb",
+          "ipa": "[st͡sʼävɫo̞bs]",
+          "audio": "audio/verbs/012.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყმელი მუსიკალური საკრავი",
-          "roman": "dasarṭq̇meli musiḳaluri saḳravi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼme̞li musikʼäɫuɾi säkʼɾävi]",
-          "audio": "audio/music/013.mp3",
+          "ka": "სურს",
+          "roman": "surs",
+          "en": "to want",
+          "pos": "verb",
+          "ipa": "[suɾs]",
+          "audio": "audio/verbs/013.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დასარტყმელი საკრავი",
-          "roman": "dasarṭq̇meli saḳravi",
-          "en": "percussion instrument",
-          "pos": "noun",
-          "ipa": "[d̥äsäɾtʼχʼme̞li säkʼɾävi]",
-          "audio": "audio/music/014.mp3",
+          "ka": "ფიქრობს",
+          "roman": "pikrobs",
+          "en": "to think",
+          "pos": "verb",
+          "ipa": "[pʰikʰɾo̞bs]",
+          "audio": "audio/verbs/014.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დიპ-ჰაუსი",
-          "roman": "diṗ-hausi",
-          "en": "deep house",
-          "pos": "noun",
-          "ipa": "[d̥ipʼhäusi]",
-          "audio": "audio/music/015.mp3",
+          "ka": "ხედავს",
+          "roman": "xedavs",
+          "en": "to see (to meet, to visit)",
+          "pos": "verb",
+          "ipa": "[χe̞däfs]",
+          "audio": "audio/verbs/015.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დისკო",
-          "roman": "disḳo",
-          "en": "disco music",
-          "pos": "noun",
-          "ipa": "[d̥iskʼo̞]",
-          "audio": "audio/music/016.mp3",
+          "ka": "იღებს",
+          "roman": "iɣebs",
+          "en": "to take",
+          "pos": "verb",
+          "ipa": "[iʁe̞bs]",
+          "audio": "audio/verbs/016.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "დისკო-მუსიკა",
-          "roman": "disḳo-musiḳa",
-          "en": "disco, disco music",
-          "pos": "noun",
-          "ipa": "[d̥iskʼo̞musikʼä]",
-          "audio": "audio/music/017.mp3",
+          "ka": "ყიდის",
+          "roman": "q̇idis",
+          "en": "to sell",
+          "pos": "verb",
+          "ipa": "[χʼidis]",
+          "audio": "audio/verbs/017.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ელექტრონული მუსიკა",
-          "roman": "elekṭronuli musiḳa",
-          "en": "electronic music",
-          "pos": "noun",
-          "ipa": "[e̞le̞kʰtʼɾo̞nuli musikʼä]",
-          "audio": "audio/music/018.mp3",
+          "ka": "აძლევს",
+          "roman": "aʒlevs",
+          "en": "to give",
+          "pos": "verb",
+          "ipa": "[äd͡zle̞fs]",
+          "audio": "audio/verbs/018.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ელექტრონული საცეკვაო მუსიკა",
-          "roman": "elekṭronuli saceḳvao musiḳa",
-          "en": "EDM, electronic dance music",
-          "pos": "noun",
-          "ipa": "[e̞le̞kʰtʼɾo̞nuli sät͡sʰe̞kʼʷäo̞ musikʼä]",
-          "audio": "audio/music/019.mp3",
+          "ka": "წავა",
+          "roman": "c̣ava",
+          "en": "to go",
+          "pos": "verb",
+          "ipa": "[t͡sʼävä]",
+          "audio": "audio/verbs/019.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ვიოლინო",
-          "roman": "violino",
-          "en": "violin",
-          "pos": "noun",
-          "ipa": "[vio̞lino̞]",
-          "audio": "audio/music/020.mp3",
+          "ka": "ჯდება",
+          "roman": "ǯdeba",
+          "en": "to sit down",
+          "pos": "verb",
+          "ipa": "[d͡ʒde̞bä]",
+          "audio": "audio/verbs/020.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "თანამედროვე რიტმ-ენდ-ბლუზი",
-          "roman": "tanamedrove riṭm-end-bluzi",
-          "en": "contemporary R&B, modern R & B",
-          "pos": "noun",
-          "ipa": "[tʰänäme̞dɾo̞ve̞ ɾitʼme̞ndbɫuzi]",
-          "audio": "audio/music/021.mp3",
+          "ka": "ამთავრებს",
+          "roman": "amtavrebs",
+          "en": "to finish",
+          "pos": "verb",
+          "ipa": "[ämtʰävɾe̞bs]",
+          "audio": "audio/verbs/021.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ინდი-როკი",
-          "roman": "indi-roḳi",
-          "en": "indie rock",
-          "pos": "noun",
-          "ipa": "[indiɾo̞kʼi]",
-          "audio": "audio/music/022.mp3",
+          "ka": "გადის",
+          "roman": "gadis",
+          "en": "to leave, to go outwards",
+          "pos": "verb",
+          "ipa": "[ɡ̊ädis]",
+          "audio": "audio/verbs/022.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ინდუსტრიული მეტალი",
-          "roman": "indusṭriuli meṭali",
-          "en": "industrial metal",
-          "pos": "noun",
-          "ipa": "[industʼɾiuli me̞tʼäli]",
-          "audio": "audio/music/023.mp3",
+          "ka": "ცეკვავს",
+          "roman": "ceḳvavs",
+          "en": "to dance",
+          "pos": "verb",
+          "ipa": "[t͡sʰe̞kʼʷäfs]",
+          "audio": "audio/verbs/023.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ინდუსტრიული მუსიკა",
-          "roman": "indusṭriuli musiḳa",
-          "en": "industrial music",
-          "pos": "noun",
-          "ipa": "[industʼɾiuli musikʼä]",
-          "audio": "audio/music/024.mp3",
+          "ka": "შეძლებს",
+          "roman": "šeʒlebs",
+          "en": "to be able to, to manage",
+          "pos": "verb",
+          "ipa": "[ʃe̞d͡zle̞bs]",
+          "audio": "audio/verbs/024.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ინდუსტრიული როკი",
-          "roman": "indusṭriuli roḳi",
-          "en": "industrial rock",
-          "pos": "noun",
-          "ipa": "[industʼɾiuli ɾo̞kʼi]",
-          "audio": "audio/music/025.mp3",
+          "ka": "იწვევს",
+          "roman": "ic̣vevs",
+          "en": "to invite",
+          "pos": "verb",
+          "ipa": "[it͡sʼʷe̞fs]",
+          "audio": "audio/verbs/025.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კილო",
-          "roman": "ḳilo",
-          "en": "tune",
-          "pos": "noun",
-          "ipa": "[kʼiɫo̞]",
-          "audio": "audio/music/026.mp3",
+          "ka": "თამაშობს",
+          "roman": "tamašobs",
+          "en": "to play",
+          "pos": "verb",
+          "ipa": "[tʰämäʃo̞bs]",
+          "audio": "audio/verbs/026.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კლავიატურა",
-          "roman": "ḳlaviaṭura",
-          "en": "fingerboard, keyboard",
-          "pos": "noun",
-          "ipa": "[kʼɫäviätʼuɾä]",
-          "audio": "audio/music/027.mp3",
+          "ka": "იწყებს",
+          "roman": "ic̣q̇ebs",
+          "en": "to begin, to start, to initiate",
+          "pos": "verb",
+          "ipa": "[it͡sʼχʼe̞bs]",
+          "audio": "audio/verbs/027.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კლასიკური",
-          "roman": "ḳlasiḳuri",
-          "en": "classical",
-          "pos": "adj",
-          "ipa": "[kʼɫäsikʼuɾi]",
-          "audio": "audio/music/028.mp3",
+          "ka": "ჭრის",
+          "roman": "č̣ris",
+          "en": "to cut",
+          "pos": "verb",
+          "ipa": "[t͡ʃʼɾis]",
+          "audio": "audio/verbs/028.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კლასიკური მუსიკა",
-          "roman": "ḳlasiḳuri musiḳa",
-          "en": "classical music",
-          "pos": "noun",
-          "ipa": "[kʼɫäsikʼuɾi musikʼä]",
-          "audio": "audio/music/029.mp3",
+          "ka": "იძიებს",
+          "roman": "iʒiebs",
+          "en": "to search",
+          "pos": "verb",
+          "ipa": "[id͡zie̞bs]",
+          "audio": "audio/verbs/029.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კომპოზიცია",
-          "roman": "ḳomṗozicia",
-          "en": "composition",
-          "pos": "noun",
-          "ipa": "[kʼo̞mpʼo̞zit͡sʰiä]",
-          "audio": "audio/music/030.mp3",
+          "ka": "ჩამოდის",
+          "roman": "čamodis",
+          "en": "to come down",
+          "pos": "verb",
+          "ipa": "[t͡ʃʰämo̞dis]",
+          "audio": "audio/verbs/030.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კონცერტი",
-          "roman": "ḳoncerṭi",
-          "en": "concert, concerto",
-          "pos": "noun",
-          "ipa": "[kʼo̞nt͡sʰe̞ɾtʼi]",
-          "audio": "audio/music/031.mp3",
+          "ka": "ადის",
+          "roman": "adis",
+          "en": "to go upwards",
+          "pos": "verb",
+          "ipa": "[ädis]",
+          "audio": "audio/verbs/031.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კრაუტროკი",
-          "roman": "ḳrauṭroḳi",
-          "en": "krautrock",
-          "pos": "noun",
-          "ipa": "[kʼɾäutʼɾo̞kʼi]",
-          "audio": "audio/music/032.mp3",
+          "ka": "ნიშნავს",
+          "roman": "nišnavs",
+          "en": "to mark",
+          "pos": "verb",
+          "ipa": "[niʃnäfs]",
+          "audio": "audio/verbs/032.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "კრეშენდო",
-          "roman": "ḳrešendo",
-          "en": "crescendo",
-          "pos": "noun",
-          "ipa": "[kʼɾe̞ʃe̞ndo̞]",
-          "audio": "audio/music/033.mp3",
+          "ka": "შედის",
+          "roman": "šedis",
+          "en": "to enter, to go inwards",
+          "pos": "verb",
+          "ipa": "[ʃe̞dis]",
+          "audio": "audio/verbs/033.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "მუსიკალური",
-          "roman": "musiḳaluri",
-          "en": "musical",
-          "pos": "adj",
-          "ipa": "[musikʼäɫuɾi]",
-          "audio": "audio/music/034.mp3",
+          "ka": "ელის",
+          "roman": "elis",
+          "en": "to await",
+          "pos": "verb",
+          "ipa": "[e̞lis]",
+          "audio": "audio/verbs/034.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "მუსიკალური ნოტაცია",
-          "roman": "musiḳaluri noṭacia",
-          "en": "musical notation",
-          "pos": "noun",
-          "ipa": "[musikʼäɫuɾi no̞tʼät͡sʰiä]",
-          "audio": "audio/music/035.mp3",
+          "ka": "გამოდის",
+          "roman": "gamodis",
+          "en": "to come out, to leave",
+          "pos": "verb",
+          "ipa": "[ɡ̊ämo̞dis]",
+          "audio": "audio/verbs/035.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "მძიმე მეტალი",
-          "roman": "mʒime meṭali",
-          "en": "heavy metal",
-          "pos": "noun",
-          "ipa": "[md͡zime̞ me̞tʼäli]",
-          "audio": "audio/music/036.mp3",
+          "ka": "წევს",
+          "roman": "c̣evs",
+          "en": "to lie (to rest in a horizontal position on a surface)",
+          "pos": "verb",
+          "ipa": "[t͡sʼe̞fs]",
+          "audio": "audio/verbs/036.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "ორგანი",
-          "roman": "organi",
-          "en": "organ",
-          "pos": "noun",
-          "ipa": "[o̞ɾɡäni]",
-          "audio": "audio/music/037.mp3",
+          "ka": "ტოვებს",
+          "roman": "ṭovebs",
+          "en": "to leave (to depart from)",
+          "pos": "verb",
+          "ipa": "[tʼo̞ve̞bs]",
+          "audio": "audio/verbs/037.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "პანკ-როკი",
-          "roman": "ṗanḳ-roḳi",
-          "en": "punk rock",
-          "pos": "noun",
-          "ipa": "[pʼäŋkʼɾo̞kʼi]",
-          "audio": "audio/music/038.mp3",
+          "ka": "იცვამს",
+          "roman": "icvams",
+          "en": "to get dressed",
+          "pos": "verb",
+          "ipa": "[it͡sʰʷäms]",
+          "audio": "audio/verbs/038.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "პოპ-მუსიკა",
-          "roman": "ṗoṗ-musiḳa",
-          "en": "pop music",
-          "pos": "noun",
-          "ipa": "[pʼo̞pʼmusikʼä]",
-          "audio": "audio/music/039.mp3",
+          "ka": "დაწერს",
+          "roman": "dac̣ers",
+          "en": "to write",
+          "pos": "verb",
+          "ipa": "[d̥ät͡sʼe̞ɾs]",
+          "audio": "audio/verbs/039.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "პოპულარული მუსიკა",
-          "roman": "ṗoṗularuli musiḳa",
-          "en": "popular music, pop music",
-          "pos": "noun",
-          "ipa": "[pʼo̞pʼuɫäɾuli musikʼä]",
-          "audio": "audio/music/040.mp3",
+          "ka": "ლაპარაკობს",
+          "roman": "laṗaraḳobs",
+          "en": "to talk, to speak",
+          "pos": "verb",
+          "ipa": "[ɫäpʼäɾäkʼo̞bs]",
+          "audio": "audio/verbs/040.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "პროგრესული ჰაუსი",
-          "roman": "ṗrogresuli hausi",
-          "en": "progressive house",
-          "pos": "noun",
-          "ipa": "[pʼɾo̞ɡɾe̞suli häusi]",
-          "audio": "audio/music/041.mp3",
+          "ka": "ააბარგებს",
+          "roman": "aabargebs",
+          "en": "to make (someone) move house",
+          "pos": "verb",
+          "ipa": "[ääbäɾɡe̞bs]",
+          "audio": "audio/verbs/041.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "რემიქსი",
-          "roman": "remiksi",
-          "en": "remix",
-          "pos": "noun",
-          "ipa": "[ɾe̞mikʰsi]",
-          "audio": "audio/music/042.mp3",
+          "ka": "დაჯდება",
+          "roman": "daǯdeba",
+          "en": "to sit down",
+          "pos": "verb",
+          "ipa": "[d̥äd͡ʒde̞bä]",
+          "audio": "audio/verbs/042.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "რიტმ-ენდ-ბლუზი",
-          "roman": "riṭm-end-bluzi",
-          "en": "rhythm and blues, R & B",
-          "pos": "noun",
-          "ipa": "[ɾitʼme̞ndbɫuzi]",
-          "audio": "audio/music/043.mp3",
+          "ka": "დის",
+          "roman": "dis",
+          "en": "to flow",
+          "pos": "verb",
+          "ipa": "[d̥is]",
+          "audio": "audio/verbs/043.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
         },
         {
-          "ka": "როკ-ენ-როლი",
-          "roman": "roḳ-en-roli",
-          "en": "rock and roll",
-          "pos": "noun",
-          "ipa": "[ɾo̞kʼe̞nɾo̞li]",
-          "audio": "audio/music/044.mp3",
+          "ka": "დასხდება",
+          "roman": "dasxdeba",
+          "en": "to sit down",
+          "pos": "verb",
+          "ipa": "[d̥äsχde̞bä]",
+          "audio": "audio/verbs/044.mp3",
           "audioSource": "tts",
-          "page": "themes/music.html"
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "სხდება",
+          "roman": "sxdeba",
+          "en": "to sit down",
+          "pos": "verb",
+          "ipa": "[sχde̞bä]",
+          "audio": "audio/verbs/045.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ამოდის",
+          "roman": "amodis",
+          "en": "to come upwards",
+          "pos": "verb",
+          "ipa": "[ämo̞dis]",
+          "audio": "audio/verbs/046.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ჩადის",
+          "roman": "čadis",
+          "en": "to go downwards",
+          "pos": "verb",
+          "ipa": "[t͡ʃʰädis]",
+          "audio": "audio/verbs/047.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გაჩერდება",
+          "roman": "gačerdeba",
+          "en": "to stop",
+          "pos": "verb",
+          "ipa": "[ɡ̊ät͡ʃʰe̞ɾde̞bä]",
+          "audio": "audio/verbs/048.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ჩერდება",
+          "roman": "čerdeba",
+          "en": "to stop",
+          "pos": "verb",
+          "ipa": "[t͡ʃʰe̞ɾde̞bä]",
+          "audio": "audio/verbs/049.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დასრულდება",
+          "roman": "dasruldeba",
+          "en": "to be ended",
+          "pos": "verb",
+          "ipa": "[d̥äsɾulde̞bä]",
+          "audio": "audio/verbs/050.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "უყვარს",
+          "roman": "uq̇vars",
+          "en": "to love",
+          "pos": "verb",
+          "ipa": "[uχʼʷäɾs]",
+          "audio": "audio/verbs/051.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დალევს",
+          "roman": "dalevs",
+          "en": "to drink",
+          "pos": "verb",
+          "ipa": "[d̥äle̞fs]",
+          "audio": "audio/verbs/052.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იყიდის",
+          "roman": "iq̇idis",
+          "en": "to buy",
+          "pos": "verb",
+          "ipa": "[iχʼidis]",
+          "audio": "audio/verbs/053.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შეწუხდება",
+          "roman": "šec̣uxdeba",
+          "en": "to be troubled, to worry",
+          "pos": "verb",
+          "ipa": "[ʃe̞t͡sʼuχde̞bä]",
+          "audio": "audio/verbs/054.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გადადის",
+          "roman": "gadadis",
+          "en": "to go over, to cross (road, bridge, etc.)",
+          "pos": "verb",
+          "ipa": "[ɡ̊ädädis]",
+          "audio": "audio/verbs/055.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გადმოდის",
+          "roman": "gadmodis",
+          "en": "to go over, to cross (towards the speaker)",
+          "pos": "verb",
+          "ipa": "[ɡ̊ädmo̞dis]",
+          "audio": "audio/verbs/056.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შემოდის",
+          "roman": "šemodis",
+          "en": "to come in, to enter (towards the speaker)",
+          "pos": "verb",
+          "ipa": "[ʃe̞mo̞dis]",
+          "audio": "audio/verbs/057.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დანებდება",
+          "roman": "danebdeba",
+          "en": "to surrender, to capitulate",
+          "pos": "verb",
+          "ipa": "[d̥äne̞bde̞bä]",
+          "audio": "audio/verbs/058.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაესწრება",
+          "roman": "daesc̣reba",
+          "en": "to attend, to be in attendance, to be present",
+          "pos": "verb",
+          "ipa": "[d̥äe̞st͡sʼɾe̞bä]",
+          "audio": "audio/verbs/059.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აირჩევს",
+          "roman": "airčevs",
+          "en": "to choose",
+          "pos": "verb",
+          "ipa": "[äiɾt͡ʃʰe̞fs]",
+          "audio": "audio/verbs/060.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შეშფოთდება",
+          "roman": "šešpotdeba",
+          "en": "to worry, to get worried, to become anxious",
+          "pos": "verb",
+          "ipa": "[ʃe̞ʃpʰo̞tʰde̞bä]",
+          "audio": "audio/verbs/061.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დადის",
+          "roman": "dadis",
+          "en": "to walk",
+          "pos": "verb",
+          "ipa": "[d̥ädis]",
+          "audio": "audio/verbs/062.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შია",
+          "roman": "šia",
+          "en": "to be hungry",
+          "pos": "verb",
+          "ipa": "[ʃiä]",
+          "audio": "audio/verbs/063.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გაყიდის",
+          "roman": "gaq̇idis",
+          "en": "to betray, to sell out",
+          "pos": "verb",
+          "ipa": "[ɡ̊äχʼidis]",
+          "audio": "audio/verbs/064.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "მიიჩნევს",
+          "roman": "miičnevs",
+          "en": "to consider, to regard, to think (of) (to assign some quality to; to look upon (something) in a given way)",
+          "pos": "verb",
+          "ipa": "[miit͡ʃʰne̞fs]",
+          "audio": "audio/verbs/065.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "უმატებს",
+          "roman": "umaṭebs",
+          "en": "to add",
+          "pos": "verb",
+          "ipa": "[umätʼe̞bs]",
+          "audio": "audio/verbs/066.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ცვლის",
+          "roman": "cvlis",
+          "en": "to change",
+          "pos": "verb",
+          "ipa": "[t͡sʰʷlis]",
+          "audio": "audio/verbs/067.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გადაიხდის",
+          "roman": "gadaixdis",
+          "en": "to pay",
+          "pos": "verb",
+          "ipa": "[ɡ̊ädäiχdis]",
+          "audio": "audio/verbs/068.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაჭრის",
+          "roman": "dač̣ris",
+          "en": "to cut",
+          "pos": "verb",
+          "ipa": "[d̥ät͡ʃʼɾis]",
+          "audio": "audio/verbs/069.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შეჭამს",
+          "roman": "šeč̣ams",
+          "en": "to eat",
+          "pos": "verb",
+          "ipa": "[ʃe̞t͡ʃʼäms]",
+          "audio": "audio/verbs/070.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აავსებს",
+          "roman": "aavsebs",
+          "en": "to fill",
+          "pos": "verb",
+          "ipa": "[ääfse̞bs]",
+          "audio": "audio/verbs/071.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ათბობს",
+          "roman": "atbobs",
+          "en": "to warm",
+          "pos": "verb",
+          "ipa": "[ätʰbo̞bs]",
+          "audio": "audio/verbs/072.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აკეთებს",
+          "roman": "aḳetebs",
+          "en": "to make",
+          "pos": "verb",
+          "ipa": "[äkʼe̞tʰe̞bs]",
+          "audio": "audio/verbs/073.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ანახებს",
+          "roman": "anaxebs",
+          "en": "to show",
+          "pos": "verb",
+          "ipa": "[änäχe̞bs]",
+          "audio": "audio/verbs/074.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ასხამს",
+          "roman": "asxams",
+          "en": "to pour",
+          "pos": "verb",
+          "ipa": "[äsχäms]",
+          "audio": "audio/verbs/075.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აღებს",
+          "roman": "aɣebs",
+          "en": "to open",
+          "pos": "verb",
+          "ipa": "[äʁe̞bs]",
+          "audio": "audio/verbs/076.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აჩვენებს",
+          "roman": "ačvenebs",
+          "en": "to show",
+          "pos": "verb",
+          "ipa": "[ät͡ʃʰʷe̞ne̞bs]",
+          "audio": "audio/verbs/077.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აცხობს",
+          "roman": "acxobs",
+          "en": "to bake",
+          "pos": "verb",
+          "ipa": "[ät͡sʰχo̞bs]",
+          "audio": "audio/verbs/078.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გაავსებს",
+          "roman": "gaavsebs",
+          "en": "to fill",
+          "pos": "verb",
+          "ipa": "[ɡ̊ääfse̞bs]",
+          "audio": "audio/verbs/079.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გააკეთებს",
+          "roman": "gaaḳetebs",
+          "en": "to make",
+          "pos": "verb",
+          "ipa": "[ɡ̊ääkʼe̞tʰe̞bs]",
+          "audio": "audio/verbs/080.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გააღებს",
+          "roman": "gaaɣebs",
+          "en": "to open",
+          "pos": "verb",
+          "ipa": "[ɡ̊ääʁe̞bs]",
+          "audio": "audio/verbs/081.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გაგზავნის",
+          "roman": "gagzavnis",
+          "en": "to send",
+          "pos": "verb",
+          "ipa": "[ɡ̊äɡzävnis]",
+          "audio": "audio/verbs/082.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გამოაცხობს",
+          "roman": "gamoacxobs",
+          "en": "to bake",
+          "pos": "verb",
+          "ipa": "[ɡ̊ämo̞ät͡sʰχo̞bs]",
+          "audio": "audio/verbs/083.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გამოსცემს",
+          "roman": "gamoscems",
+          "en": "to emit",
+          "pos": "verb",
+          "ipa": "[ɡ̊ämo̞st͡sʰe̞ms]",
+          "audio": "audio/verbs/084.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გამოცდის",
+          "roman": "gamocdis",
+          "en": "to test",
+          "pos": "verb",
+          "ipa": "[ɡ̊ämo̞t͡sʰdis]",
+          "audio": "audio/verbs/085.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გზავნის",
+          "roman": "gzavnis",
+          "en": "to send",
+          "pos": "verb",
+          "ipa": "[ɡ̊zävnis]",
+          "audio": "audio/verbs/086.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაასხამს",
+          "roman": "daasxams",
+          "en": "to pour",
+          "pos": "verb",
+          "ipa": "[d̥ääsχäms]",
+          "audio": "audio/verbs/087.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იპოვის",
+          "roman": "iṗovis",
+          "en": "to find",
+          "pos": "verb",
+          "ipa": "[ipʼo̞vis]",
+          "audio": "audio/verbs/088.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "პოულობს",
+          "roman": "ṗoulobs",
+          "en": "to find",
+          "pos": "verb",
+          "ipa": "[pʼo̞uɫo̞bs]",
+          "audio": "audio/verbs/089.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "წვავს",
+          "roman": "c̣vavs",
+          "en": "to burn",
+          "pos": "verb",
+          "ipa": "[t͡sʼʷäfs]",
+          "audio": "audio/verbs/090.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ხსნის",
+          "roman": "xsnis",
+          "en": "to open",
+          "pos": "verb",
+          "ipa": "[χsnis]",
+          "audio": "audio/verbs/091.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ააშენებს",
+          "roman": "aašenebs",
+          "en": "to build",
+          "pos": "verb",
+          "ipa": "[ääʃe̞ne̞bs]",
+          "audio": "audio/verbs/092.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აგვირგვინებს",
+          "roman": "agvirgvinebs",
+          "en": "to crown",
+          "pos": "verb",
+          "ipa": "[äɡʷiɾɡʷine̞bs]",
+          "audio": "audio/verbs/093.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აკაკუნებს",
+          "roman": "aḳaḳunebs",
+          "en": "to knock",
+          "pos": "verb",
+          "ipa": "[äkʼäkʼune̞bs]",
+          "audio": "audio/verbs/094.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ასწავლის",
+          "roman": "asc̣avlis",
+          "en": "to teach",
+          "pos": "verb",
+          "ipa": "[äst͡sʼävlis]",
+          "audio": "audio/verbs/095.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აშენებს",
+          "roman": "ašenebs",
+          "en": "to build",
+          "pos": "verb",
+          "ipa": "[äʃe̞ne̞bs]",
+          "audio": "audio/verbs/096.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აწერს",
+          "roman": "ac̣ers",
+          "en": "to write",
+          "pos": "verb",
+          "ipa": "[ät͡sʼe̞ɾs]",
+          "audio": "audio/verbs/097.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაიჭერს",
+          "roman": "daič̣ers",
+          "en": "to catch",
+          "pos": "verb",
+          "ipa": "[d̥äit͡ʃʼe̞ɾs]",
+          "audio": "audio/verbs/098.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იპარავს",
+          "roman": "iṗaravs",
+          "en": "to steal",
+          "pos": "verb",
+          "ipa": "[ipʼäɾäfs]",
+          "audio": "audio/verbs/099.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ყრის",
+          "roman": "q̇ris",
+          "en": "to throw",
+          "pos": "verb",
+          "ipa": "[χʼɾis]",
+          "audio": "audio/verbs/100.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შესვამს",
+          "roman": "šesvams",
+          "en": "to drink",
+          "pos": "verb",
+          "ipa": "[ʃe̞sʷäms]",
+          "audio": "audio/verbs/101.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "წმენდს",
+          "roman": "c̣mends",
+          "en": "to clean",
+          "pos": "verb",
+          "ipa": "[t͡sʼme̞nds]",
+          "audio": "audio/verbs/102.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "წონის",
+          "roman": "c̣onis",
+          "en": "to weigh",
+          "pos": "verb",
+          "ipa": "[t͡sʼo̞nis]",
+          "audio": "audio/verbs/103.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ანებებს",
+          "roman": "anebebs",
+          "en": "to let",
+          "pos": "verb",
+          "ipa": "[äne̞be̞bs]",
+          "audio": "audio/verbs/104.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გამოიყენებს",
+          "roman": "gamoiq̇enebs",
+          "en": "to use",
+          "pos": "verb",
+          "ipa": "[ɡ̊ämo̞iχʼe̞ne̞bs]",
+          "audio": "audio/verbs/105.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაინახავს",
+          "roman": "dainaxavs",
+          "en": "to see",
+          "pos": "verb",
+          "ipa": "[d̥äinäχäfs]",
+          "audio": "audio/verbs/106.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაიცავს",
+          "roman": "daicavs",
+          "en": "to defend",
+          "pos": "verb",
+          "ipa": "[d̥äit͡sʰäfs]",
+          "audio": "audio/verbs/107.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "თესავს",
+          "roman": "tesavs",
+          "en": "to sow",
+          "pos": "verb",
+          "ipa": "[tʰe̞säfs]",
+          "audio": "audio/verbs/108.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იყენებს",
+          "roman": "iq̇enebs",
+          "en": "to use",
+          "pos": "verb",
+          "ipa": "[iχʼe̞ne̞bs]",
+          "audio": "audio/verbs/109.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იცავს",
+          "roman": "icavs",
+          "en": "to defend",
+          "pos": "verb",
+          "ipa": "[it͡sʰäfs]",
+          "audio": "audio/verbs/110.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "კერავს",
+          "roman": "ḳeravs",
+          "en": "to sew",
+          "pos": "verb",
+          "ipa": "[kʼe̞ɾäfs]",
+          "audio": "audio/verbs/111.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "კვეთს",
+          "roman": "ḳvets",
+          "en": "to cut",
+          "pos": "verb",
+          "ipa": "[kʼʷe̞tʰs]",
+          "audio": "audio/verbs/112.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "კრეფს",
+          "roman": "ḳreps",
+          "en": "to gather",
+          "pos": "verb",
+          "ipa": "[kʼɾe̞pʰs]",
+          "audio": "audio/verbs/113.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ნახავს",
+          "roman": "naxavs",
+          "en": "to see",
+          "pos": "verb",
+          "ipa": "[näχäfs]",
+          "audio": "audio/verbs/114.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ქმნის",
+          "roman": "kmnis",
+          "en": "to create",
+          "pos": "verb",
+          "ipa": "[kʰmnis]",
+          "audio": "audio/verbs/115.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შენიშნავს",
+          "roman": "šenišnavs",
+          "en": "to remark",
+          "pos": "verb",
+          "ipa": "[ʃe̞niʃnäfs]",
+          "audio": "audio/verbs/116.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შექმნის",
+          "roman": "šekmnis",
+          "en": "to create",
+          "pos": "verb",
+          "ipa": "[ʃe̞kʰmnis]",
+          "audio": "audio/verbs/117.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ჩაუმატებს",
+          "roman": "čaumaṭebs",
+          "en": "to add",
+          "pos": "verb",
+          "ipa": "[t͡ʃʰäumätʼe̞bs]",
+          "audio": "audio/verbs/118.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ხმარობს",
+          "roman": "xmarobs",
+          "en": "to use",
+          "pos": "verb",
+          "ipa": "[χmäɾo̞bs]",
+          "audio": "audio/verbs/119.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აბრუნებს",
+          "roman": "abrunebs",
+          "en": "to roll",
+          "pos": "verb",
+          "ipa": "[äbɾune̞bs]",
+          "audio": "audio/verbs/120.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აგნებს",
+          "roman": "agnebs",
+          "en": "to find",
+          "pos": "verb",
+          "ipa": "[äɡne̞bs]",
+          "audio": "audio/verbs/121.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ანადგურებს",
+          "roman": "anadgurebs",
+          "en": "to destroy",
+          "pos": "verb",
+          "ipa": "[änädɡuɾe̞bs]",
+          "audio": "audio/verbs/122.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ანგრევს",
+          "roman": "angrevs",
+          "en": "to destroy",
+          "pos": "verb",
+          "ipa": "[äŋɡɾe̞fs]",
+          "audio": "audio/verbs/123.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ასკანირებს",
+          "roman": "asḳanirebs",
+          "en": "to scan",
+          "pos": "verb",
+          "ipa": "[äskʼäniɾe̞bs]",
+          "audio": "audio/verbs/124.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აცხელებს",
+          "roman": "acxelebs",
+          "en": "to heat",
+          "pos": "verb",
+          "ipa": "[ät͡sʰχe̞le̞bs]",
+          "audio": "audio/verbs/125.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ახურებს",
+          "roman": "axurebs",
+          "en": "to heat",
+          "pos": "verb",
+          "ipa": "[äχuɾe̞bs]",
+          "audio": "audio/verbs/126.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გააცხელებს",
+          "roman": "gaacxelebs",
+          "en": "to heat",
+          "pos": "verb",
+          "ipa": "[ɡ̊äät͡sʰχe̞le̞bs]",
+          "audio": "audio/verbs/127.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაანგრევს",
+          "roman": "daangrevs",
+          "en": "to destroy",
+          "pos": "verb",
+          "ipa": "[d̥ääŋɡɾe̞fs]",
+          "audio": "audio/verbs/128.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაასკანირებს",
+          "roman": "daasḳanirebs",
+          "en": "to scan",
+          "pos": "verb",
+          "ipa": "[d̥ääskʼäniɾe̞bs]",
+          "audio": "audio/verbs/129.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაგეგმავს",
+          "roman": "dagegmavs",
+          "en": "to plan",
+          "pos": "verb",
+          "ipa": "[d̥äɡe̞ɡmäfs]",
+          "audio": "audio/verbs/130.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაიქირავებს",
+          "roman": "daikiravebs",
+          "en": "to rent",
+          "pos": "verb",
+          "ipa": "[d̥äikʰiɾäve̞bs]",
+          "audio": "audio/verbs/131.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაკეტავს",
+          "roman": "daḳeṭavs",
+          "en": "to lock",
+          "pos": "verb",
+          "ipa": "[d̥äkʼe̞tʼäfs]",
+          "audio": "audio/verbs/132.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დანიშნავს",
+          "roman": "danišnavs",
+          "en": "to mark",
+          "pos": "verb",
+          "ipa": "[d̥äniʃnäfs]",
+          "audio": "audio/verbs/133.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "თელავს",
+          "roman": "telavs",
+          "en": "to trample",
+          "pos": "verb",
+          "ipa": "[tʰe̞ɫäfs]",
+          "audio": "audio/verbs/134.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ითხოვს",
+          "roman": "itxovs",
+          "en": "to ask for",
+          "pos": "verb",
+          "ipa": "[itʰχo̞fs]",
+          "audio": "audio/verbs/135.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იცდის",
+          "roman": "icdis",
+          "en": "to wait",
+          "pos": "verb",
+          "ipa": "[it͡sʰdis]",
+          "audio": "audio/verbs/136.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ლოცულობს",
+          "roman": "loculobs",
+          "en": "to pray",
+          "pos": "verb",
+          "ipa": "[ɫo̞t͡sʰuɫo̞bs]",
+          "audio": "audio/verbs/137.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "მოიცდის",
+          "roman": "moicdis",
+          "en": "to wait",
+          "pos": "verb",
+          "ipa": "[mo̞it͡sʰdis]",
+          "audio": "audio/verbs/138.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "მღერის",
+          "roman": "mɣeris",
+          "en": "to sing",
+          "pos": "verb",
+          "ipa": "[mʁe̞ɾis]",
+          "audio": "audio/verbs/139.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ტრიალებს",
+          "roman": "ṭrialebs",
+          "en": "to spin",
+          "pos": "verb",
+          "ipa": "[tʼɾiäle̞bs]",
+          "audio": "audio/verbs/140.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ტყნავს",
+          "roman": "ṭq̇navs",
+          "en": "to fuck",
+          "pos": "verb",
+          "ipa": "[tʼχʼnäfs]",
+          "audio": "audio/verbs/141.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "უსურვებს",
+          "roman": "usurvebs",
+          "en": "to wish",
+          "pos": "verb",
+          "ipa": "[usuɾʷe̞bs]",
+          "audio": "audio/verbs/142.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ჩეხს",
+          "roman": "čexs",
+          "en": "to chop",
+          "pos": "verb",
+          "ipa": "[t͡ʃʰe̞χs]",
+          "audio": "audio/verbs/143.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ხუმრობს",
+          "roman": "xumrobs",
+          "en": "to joke",
+          "pos": "verb",
+          "ipa": "[χumɾo̞bs]",
+          "audio": "audio/verbs/144.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ჰყავს",
+          "roman": "hq̇avs",
+          "en": "to have (said of animate possessions and cars)",
+          "pos": "verb",
+          "ipa": "[hχʼäfs]",
+          "audio": "audio/verbs/145.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აგვიანებს",
+          "roman": "agvianebs",
+          "en": "to delay",
+          "pos": "verb",
+          "ipa": "[äɡʷiäne̞bs]",
+          "audio": "audio/verbs/146.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აფუჭებს",
+          "roman": "apuč̣ebs",
+          "en": "to spoil",
+          "pos": "verb",
+          "ipa": "[äpʰut͡ʃʼe̞bs]",
+          "audio": "audio/verbs/147.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ახველებს",
+          "roman": "axvelebs",
+          "en": "to cough",
+          "pos": "verb",
+          "ipa": "[äχʷe̞le̞bs]",
+          "audio": "audio/verbs/148.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გაატარებს",
+          "roman": "gaaṭarebs",
+          "en": "to drive",
+          "pos": "verb",
+          "ipa": "[ɡ̊äätʼäɾe̞bs]",
+          "audio": "audio/verbs/149.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გადაცვლის",
+          "roman": "gadacvlis",
+          "en": "to exchange",
+          "pos": "verb",
+          "ipa": "[ɡ̊ädät͡sʰʷlis]",
+          "audio": "audio/verbs/150.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გათიშავს",
+          "roman": "gatišavs",
+          "en": "to turn off",
+          "pos": "verb",
+          "ipa": "[ɡ̊ätʰiʃäfs]",
+          "audio": "audio/verbs/151.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გაცვლის",
+          "roman": "gacvlis",
+          "en": "to exchange",
+          "pos": "verb",
+          "ipa": "[ɡ̊ät͡sʰʷlis]",
+          "audio": "audio/verbs/152.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დააგვიანებს",
+          "roman": "daagvianebs",
+          "en": "to delay",
+          "pos": "verb",
+          "ipa": "[d̥ääɡʷiäne̞bs]",
+          "audio": "audio/verbs/153.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაახველებს",
+          "roman": "daaxvelebs",
+          "en": "to cough",
+          "pos": "verb",
+          "ipa": "[d̥ääχʷe̞le̞bs]",
+          "audio": "audio/verbs/154.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დალოცავს",
+          "roman": "dalocavs",
+          "en": "to bless",
+          "pos": "verb",
+          "ipa": "[d̥äɫo̞t͡sʰäfs]",
+          "audio": "audio/verbs/155.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დატოვებს",
+          "roman": "daṭovebs",
+          "en": "to leave",
+          "pos": "verb",
+          "ipa": "[d̥ätʼo̞ve̞bs]",
+          "audio": "audio/verbs/156.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დღვებს",
+          "roman": "dɣvebs",
+          "en": "to churn",
+          "pos": "verb",
+          "ipa": "[d̥ʁʷe̞bs]",
+          "audio": "audio/verbs/157.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იცინის",
+          "roman": "icinis",
+          "en": "to laugh",
+          "pos": "verb",
+          "ipa": "[it͡sʰinis]",
+          "audio": "audio/verbs/158.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იხდის",
+          "roman": "ixdis",
+          "en": "to take off (:clothing)",
+          "pos": "verb",
+          "ipa": "[iχdis]",
+          "audio": "audio/verbs/159.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "კეტავს",
+          "roman": "ḳeṭavs",
+          "en": "to close",
+          "pos": "verb",
+          "ipa": "[kʼe̞tʼäfs]",
+          "audio": "audio/verbs/160.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ლოცავს",
+          "roman": "locavs",
+          "en": "to bless",
+          "pos": "verb",
+          "ipa": "[ɫo̞t͡sʰäfs]",
+          "audio": "audio/verbs/161.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "მოაყრის",
+          "roman": "moaq̇ris",
+          "en": "to sprinkle",
+          "pos": "verb",
+          "ipa": "[mo̞äχʼɾis]",
+          "audio": "audio/verbs/162.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "სტკივა",
+          "roman": "sṭḳiva",
+          "en": "to suffer, to feel pain",
+          "pos": "verb",
+          "ipa": "[stʼkʼivä]",
+          "audio": "audio/verbs/163.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ტეხს",
+          "roman": "ṭexs",
+          "en": "to break",
+          "pos": "verb",
+          "ipa": "[tʼe̞χs]",
+          "audio": "audio/verbs/164.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "შვრება",
+          "roman": "švreba",
+          "en": "to do",
+          "pos": "verb",
+          "ipa": "[ʃʷɾe̞bä]",
+          "audio": "audio/verbs/165.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აადვილებს",
+          "roman": "aadvilebs",
+          "en": "to make easy",
+          "pos": "verb",
+          "ipa": "[äädʷile̞bs]",
+          "audio": "audio/verbs/166.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ადევნებს",
+          "roman": "adevnebs",
+          "en": "to follow",
+          "pos": "verb",
+          "ipa": "[äde̞vne̞bs]",
+          "audio": "audio/verbs/167.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ამბობს",
+          "roman": "ambobs",
+          "en": "to say",
+          "pos": "verb",
+          "ipa": "[ämbo̞bs]",
+          "audio": "audio/verbs/168.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ამჯობინებს",
+          "roman": "amǯobinebs",
+          "en": "to prefer",
+          "pos": "verb",
+          "ipa": "[ämd͡ʒo̞bine̞bs]",
+          "audio": "audio/verbs/169.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ასწორებს",
+          "roman": "asc̣orebs",
+          "en": "to put right",
+          "pos": "verb",
+          "ipa": "[äst͡sʼo̞ɾe̞bs]",
+          "audio": "audio/verbs/170.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აშრობს",
+          "roman": "ašrobs",
+          "en": "to dry",
+          "pos": "verb",
+          "ipa": null,
+          "audio": "audio/verbs/171.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გააჩენს",
+          "roman": "gaačens",
+          "en": "to create",
+          "pos": "verb",
+          "ipa": "[ɡ̊äät͡ʃʰe̞ns]",
+          "audio": "audio/verbs/172.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გადათარგმნის",
+          "roman": "gadatargmnis",
+          "en": "to translate",
+          "pos": "verb",
+          "ipa": "[ɡ̊ädätʰäɾɡmnis]",
+          "audio": "audio/verbs/173.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გაიმეორებს",
+          "roman": "gaimeorebs",
+          "en": "to repeat",
+          "pos": "verb",
+          "ipa": "[ɡ̊äime̞o̞ɾe̞bs]",
+          "audio": "audio/verbs/174.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "გახდება",
+          "roman": "gaxdeba",
+          "en": "to become",
+          "pos": "verb",
+          "ipa": "[ɡ̊äχde̞bä]",
+          "audio": "audio/verbs/175.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაასრულებს",
+          "roman": "daasrulebs",
+          "en": "to finish",
+          "pos": "verb",
+          "ipa": "[d̥ääsɾule̞bs]",
+          "audio": "audio/verbs/176.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "დაპატიჟებს",
+          "roman": "daṗaṭižebs",
+          "en": "to invite",
+          "pos": "verb",
+          "ipa": "[d̥äpʼätʼiʒe̞bs]",
+          "audio": "audio/verbs/177.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "თარგმნის",
+          "roman": "targmnis",
+          "en": "to translate",
+          "pos": "verb",
+          "ipa": "[tʰäɾɡmnis]",
+          "audio": "audio/verbs/178.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ივიწყებს",
+          "roman": "ivic̣q̇ebs",
+          "en": "to forget",
+          "pos": "verb",
+          "ipa": "[ivit͡sʼχʼe̞bs]",
+          "audio": "audio/verbs/179.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "იმეორებს",
+          "roman": "imeorebs",
+          "en": "to repeat",
+          "pos": "verb",
+          "ipa": "[ime̞o̞ɾe̞bs]",
+          "audio": "audio/verbs/180.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "კვდება",
+          "roman": "ḳvdeba",
+          "en": "to die",
+          "pos": "verb",
+          "ipa": "[kʼʷde̞bä]",
+          "audio": "audio/verbs/181.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "მგზავრობს",
+          "roman": "mgzavrobs",
+          "en": "to travel",
+          "pos": "verb",
+          "ipa": "[mɡzävɾo̞bs]",
+          "audio": "audio/verbs/182.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "პატიჟებს",
+          "roman": "ṗaṭižebs",
+          "en": "to invite",
+          "pos": "verb",
+          "ipa": "[pʼätʼiʒe̞bs]",
+          "audio": "audio/verbs/183.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "უბნობს",
+          "roman": "ubnobs",
+          "en": "to say",
+          "pos": "verb",
+          "ipa": "[ubno̞bs]",
+          "audio": "audio/verbs/184.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ფრინავს",
+          "roman": "prinavs",
+          "en": "to fly",
+          "pos": "verb",
+          "ipa": "[pʰɾinäfs]",
+          "audio": "audio/verbs/185.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ქანცავს",
+          "roman": "kancavs",
+          "en": "to irk",
+          "pos": "verb",
+          "ipa": "[kʰänt͡sʰäfs]",
+          "audio": "audio/verbs/186.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ცდილობს",
+          "roman": "cdilobs",
+          "en": "to try",
+          "pos": "verb",
+          "ipa": "[t͡sʰdiɫo̞bs]",
+          "audio": "audio/verbs/187.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ჰკითხავს",
+          "roman": "hḳitxavs",
+          "en": "to ask",
+          "pos": "verb",
+          "ipa": "[hkʼitʰχäfs]",
+          "audio": "audio/verbs/188.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აბრტყელებს",
+          "roman": "abrṭq̇elebs",
+          "en": "to flatten",
+          "pos": "verb",
+          "ipa": "[äbɾtʼχʼe̞le̞bs]",
+          "audio": "audio/verbs/189.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აგბობს",
+          "roman": "agbobs",
+          "en": "to boil",
+          "pos": "verb",
+          "ipa": "[äɡbo̞bs]",
+          "audio": "audio/verbs/190.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აგებს",
+          "roman": "agebs",
+          "en": "to lose",
+          "pos": "verb",
+          "ipa": "[äɡe̞bs]",
+          "audio": "audio/verbs/191.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ადუღებს",
+          "roman": "aduɣebs",
+          "en": "to boil",
+          "pos": "verb",
+          "ipa": "[äduʁe̞bs]",
+          "audio": "audio/verbs/192.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ავსებს",
+          "roman": "avsebs",
+          "en": "to fill",
+          "pos": "verb",
+          "ipa": "[äfse̞bs]",
+          "audio": "audio/verbs/193.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ათრევს",
+          "roman": "atrevs",
+          "en": "to drag",
+          "pos": "verb",
+          "ipa": "[ätʰɾe̞fs]",
+          "audio": "audio/verbs/194.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ათხოვებს",
+          "roman": "atxovebs",
+          "en": "to lend",
+          "pos": "verb",
+          "ipa": "[ätʰχo̞ve̞bs]",
+          "audio": "audio/verbs/195.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აიღებს",
+          "roman": "aiɣebs",
+          "en": "to take, pick",
+          "pos": "verb",
+          "ipa": "[äiʁe̞bs]",
+          "audio": "audio/verbs/196.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აკლდება",
+          "roman": "aḳldeba",
+          "en": "to lose",
+          "pos": "verb",
+          "ipa": null,
+          "audio": "audio/verbs/197.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "აკლია",
+          "roman": "aḳlia",
+          "en": "to lack",
+          "pos": "verb",
+          "ipa": "[äkʼliä]",
+          "audio": "audio/verbs/198.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
+        },
+        {
+          "ka": "ამთქნარებს",
+          "roman": "amtknarebs",
+          "en": "to yawn",
+          "pos": "verb",
+          "ipa": "[ämtʰkʰnäɾe̞bs]",
+          "audio": "audio/verbs/199.mp3",
+          "audioSource": "tts",
+          "page": "themes/verbs.html"
         }
       ]
     },
@@ -471,7 +2021,7 @@
       "name": "Colors",
       "nameKa": "ფერები",
       "icon": "◉",
-      "count": 45,
+      "count": 97,
       "page": "themes/colors.html",
       "words": [
         {
@@ -923,6 +2473,2076 @@
           "audio": "audio/colors/044.mp3",
           "audioSource": "tts",
           "page": "themes/colors.html"
+        },
+        {
+          "ka": "მოყავისფრო",
+          "roman": "moq̇avispro",
+          "en": "brownish",
+          "pos": "adj",
+          "ipa": "[mo̞χʼävispʰɾo̞]",
+          "audio": "audio/colors/045.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მოყვითალო",
+          "roman": "moq̇vitalo",
+          "en": "sallow, yellowish",
+          "pos": "adj",
+          "ipa": "[mo̞χʼʷitʰäɫo̞]",
+          "audio": "audio/colors/046.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მოშავო",
+          "roman": "mošavo",
+          "en": "blackish",
+          "pos": "adj",
+          "ipa": "[mo̞ʃävo̞]",
+          "audio": "audio/colors/047.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მოცისფრო",
+          "roman": "mocispro",
+          "en": "light bluish/blueish, somewhat sky blue",
+          "pos": "adj",
+          "ipa": "[mo̞t͡sʰispʰɾo̞]",
+          "audio": "audio/colors/048.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მოცისფრო-მწვანე",
+          "roman": "mocispro-mc̣vane",
+          "en": "aquamarine, sky blue-green",
+          "pos": "adj",
+          "ipa": "[mo̞t͡sʰispʰɾo̞mt͡sʼʷäne̞]",
+          "audio": "audio/colors/049.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მოწითალო",
+          "roman": "moc̣italo",
+          "en": "reddish",
+          "pos": "adj",
+          "ipa": "[mo̞t͡sʼitʰäɫo̞]",
+          "audio": "audio/colors/050.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მოწითალო-მოლურჯო",
+          "roman": "moc̣italo-molurǯo",
+          "en": "purple, reddish-blueish, red-blue mix",
+          "pos": "adj",
+          "ipa": "[mo̞t͡sʼitʰäɫo̞mo̞ɫuɾd͡ʒo̞]",
+          "audio": "audio/colors/051.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მტრედისფერი",
+          "roman": "mṭredisperi",
+          "en": "light blue, tealish",
+          "pos": "adj",
+          "ipa": "[mtʼɾe̞dispʰe̞ɾi]",
+          "audio": "audio/colors/052.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მუქლურჯი",
+          "roman": "muklurǯi",
+          "en": "dark blue",
+          "pos": "adj",
+          "ipa": "[mukʰɫuɾd͡ʒi]",
+          "audio": "audio/colors/053.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მწვანე",
+          "roman": "mc̣vane",
+          "en": "green",
+          "pos": "adj",
+          "ipa": "/mt͡sʼvanɛ/",
+          "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/Ka-%E1%83%9B%E1%83%AC%E1%83%95%E1%83%90%E1%83%9C%E1%83%94-Nicodene-mom.ogg/Ka-%E1%83%9B%E1%83%AC%E1%83%95%E1%83%90%E1%83%9C%E1%83%94-Nicodene-mom.ogg.mp3",
+          "audioSource": "wiktionary",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "მხიე",
+          "roman": "mxie",
+          "en": "gray, ash-colored",
+          "pos": "adj",
+          "ipa": "[mχie̞]",
+          "audio": "audio/colors/055.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ნაცრისფერი",
+          "roman": "nacrisperi",
+          "en": "grey",
+          "pos": "adj",
+          "ipa": "[nät͡sʰɾispʰe̞ɾi]",
+          "audio": "audio/colors/056.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ორაგულისფერი",
+          "roman": "oragulisperi",
+          "en": "salmon-colored",
+          "pos": "adj",
+          "ipa": "[o̞ɾäɡulispʰe̞ɾi]",
+          "audio": "audio/colors/057.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ოქროსფერი",
+          "roman": "okrosperi",
+          "en": "golden (color)",
+          "pos": "adj",
+          "ipa": "[o̞kʰɾo̞spʰe̞ɾi]",
+          "audio": "audio/colors/058.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ოქროცურვილი",
+          "roman": "okrocurvili",
+          "en": "golden, yellow",
+          "pos": "adj",
+          "ipa": "[o̞kʰɾo̞t͡sʰuɾʷili]",
+          "audio": "audio/colors/059.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "პიტნისფერი",
+          "roman": "ṗiṭnisperi",
+          "en": "mint-colored",
+          "pos": "adj",
+          "ipa": "[pʼitʼnispʰe̞ɾi]",
+          "audio": "audio/colors/060.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "პლატინისფერი",
+          "roman": "ṗlaṭinisperi",
+          "en": "platinum (color)",
+          "pos": "adj",
+          "ipa": "[pʼɫätʼinispʰe̞ɾi]",
+          "audio": "audio/colors/061.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ჟოლოსფერი",
+          "roman": "žolosperi",
+          "en": "raspberry-colored, crimson",
+          "pos": "adj",
+          "ipa": "[ʒo̞ɫo̞spʰe̞ɾi]",
+          "audio": "audio/colors/062.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "რკინისფერი",
+          "roman": "rḳinisperi",
+          "en": "iron-colored, iron gray",
+          "pos": "adj",
+          "ipa": "[ɾkʼinispʰe̞ɾi]",
+          "audio": "audio/colors/063.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "სადაფისფერი",
+          "roman": "sadapisperi",
+          "en": "iridescent, nacre-colored",
+          "pos": "adj",
+          "ipa": "[sädäpʰispʰe̞ɾi]",
+          "audio": "audio/colors/064.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "საზამთროსფერი",
+          "roman": "sazamtrosperi",
+          "en": "watermelon-colored, pinkish, color of watermelon pulp",
+          "pos": "adj",
+          "ipa": "[säzämtʰɾo̞spʰe̞ɾi]",
+          "audio": "audio/colors/065.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "სალათისფერი",
+          "roman": "salatisperi",
+          "en": "bright green, light green",
+          "pos": "adj",
+          "ipa": "[säɫätʰispʰe̞ɾi]",
+          "audio": "audio/colors/066.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "საფირისფერი",
+          "roman": "sapirisperi",
+          "en": "sapphire-colored",
+          "pos": "adj",
+          "ipa": "[säpʰiɾispʰe̞ɾi]",
+          "audio": "audio/colors/067.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "სისხლისფერი",
+          "roman": "sisxlisperi",
+          "en": "blood-colored, crimson, bright red, deep red",
+          "pos": "adj",
+          "ipa": "[sisχlispʰe̞ɾi]",
+          "audio": "audio/colors/068.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "სპეტაკი",
+          "roman": "sṗeṭaḳi",
+          "en": "very white, snow-white",
+          "pos": "adj",
+          "ipa": "[spʼe̞tʼäkʼi]",
+          "audio": "audio/colors/069.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "სპილოსძვლისფერი",
+          "roman": "sṗilosʒvlisperi",
+          "en": "ivory-colored",
+          "pos": "adj",
+          "ipa": "[spʼiɫo̞sd͡zʷlispʰe̞ɾi]",
+          "audio": "audio/colors/070.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "სტაფილოსფერი",
+          "roman": "sṭapilosperi",
+          "en": "carrot-colored, orange",
+          "pos": "adj",
+          "ipa": "[stʼäpʰiɫo̞spʰe̞ɾi]",
+          "audio": "audio/colors/071.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ფირუზისფერი",
+          "roman": "piruzisperi",
+          "en": "turquoise, greenish-blue, bluish-green",
+          "pos": "adj",
+          "ipa": "[pʰiɾuzispʰe̞ɾi]",
+          "audio": "audio/colors/072.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ფოლადისფერი",
+          "roman": "poladisperi",
+          "en": "steel-gray",
+          "pos": "adj",
+          "ipa": "[pʰo̞ɫädispʰe̞ɾi]",
+          "audio": "audio/colors/073.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ფორთოხლისფერი",
+          "roman": "portoxlisperi",
+          "en": "orange-colored, orange",
+          "pos": "adj",
+          "ipa": "[pʰo̞ɾtʰo̞χlispʰe̞ɾi]",
+          "audio": "audio/colors/074.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ქარვისფერი",
+          "roman": "karvisperi",
+          "en": "amber colored, yellow- orange, beige",
+          "pos": "adj",
+          "ipa": "[kʰäɾʷispʰe̞ɾi]",
+          "audio": "audio/colors/075.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ქლიავისფერი",
+          "roman": "kliavisperi",
+          "en": "plum (color)",
+          "pos": "adj",
+          "ipa": "[kʰliävispʰe̞ɾi]",
+          "audio": "audio/colors/076.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ქორისფერი",
+          "roman": "korisperi",
+          "en": "dull or pale dark bluish-gray",
+          "pos": "adj",
+          "ipa": "[kʰo̞ɾispʰe̞ɾi]",
+          "audio": "audio/colors/077.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ღვინისფერი",
+          "roman": "ɣvinisperi",
+          "en": "wine-colored",
+          "pos": "adj",
+          "ipa": "[ʁʷinispʰe̞ɾi]",
+          "audio": "audio/colors/078.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ყვითელ-მწვანე",
+          "roman": "q̇vitel-mc̣vane",
+          "en": "lime, yellow-green, yellowish-greenish",
+          "pos": "adj",
+          "ipa": "[χʼʷitʰe̞lmt͡sʼʷäne̞]",
+          "audio": "audio/colors/079.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "შაბიამნისფერი",
+          "roman": "šabiamnisperi",
+          "en": "vivid-blue, Prussian blue, deep-cyan, vitriol-blue",
+          "pos": "adj",
+          "ipa": "[ʃäbiämnispʰe̞ɾi]",
+          "audio": "audio/colors/080.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "შავი",
+          "roman": "šavi",
+          "en": "black",
+          "pos": "adj",
+          "ipa": "[ʃävi]",
+          "audio": "audio/colors/081.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "შოკოლადისფერი",
+          "roman": "šoḳoladisperi",
+          "en": "chocolate-colored, chocolate-brown",
+          "pos": "adj",
+          "ipa": "[ʃo̞kʼo̞ɫädispʰe̞ɾi]",
+          "audio": "audio/colors/082.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ჩალისფერი",
+          "roman": "čalisperi",
+          "en": "flaxen, straw-coloured, beige",
+          "pos": "adj",
+          "ipa": "[t͡ʃʰälispʰe̞ɾi]",
+          "audio": "audio/colors/083.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ცარცისფერი",
+          "roman": "carcisperi",
+          "en": "chalk-colored, light gray, white",
+          "pos": "adj",
+          "ipa": "[t͡sʰäɾt͡sʰispʰe̞ɾi]",
+          "audio": "audio/colors/084.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ცაცხვისფერი",
+          "roman": "cacxvisperi",
+          "en": "lime, lime green, literally linden-colored",
+          "pos": "adj",
+          "ipa": "[t͡sʰät͡sʰχʷispʰe̞ɾi]",
+          "audio": "audio/colors/085.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ცერცვისფერი",
+          "roman": "cercvisperi",
+          "en": "bean-colored, yellowish green, chartreuse",
+          "pos": "adj",
+          "ipa": "[t͡sʰe̞ɾt͡sʰʷispʰe̞ɾi]",
+          "audio": "audio/colors/086.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ცივი ქერა",
+          "roman": "civi kera",
+          "en": "platinum (color), whitish blond, pale blond",
+          "pos": "adj",
+          "ipa": "[t͡sʰivi kʰe̞ɾä]",
+          "audio": "audio/colors/087.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ცისარტყელასფერი",
+          "roman": "cisarṭq̇elasperi",
+          "en": "rainbow-colored",
+          "pos": "adj",
+          "ipa": "[t͡sʰisäɾtʼχʼe̞ɫäspʰe̞ɾi]",
+          "audio": "audio/colors/088.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ცისფერი",
+          "roman": "cisperi",
+          "en": "sky blue",
+          "pos": "adj",
+          "ipa": "[t͡sʰispʰe̞ɾi]",
+          "audio": "audio/colors/089.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ძვლისფერი",
+          "roman": "ʒvlisperi",
+          "en": "bone-colored, whitish-yellowish",
+          "pos": "adj",
+          "ipa": "[d͡zʷlispʰe̞ɾi]",
+          "audio": "audio/colors/090.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "წაბლისფერი",
+          "roman": "c̣ablisperi",
+          "en": "chestnut-colored, reddish brown, bay, maroon, brownish auburn",
+          "pos": "adj",
+          "ipa": "[t͡sʼäblispʰe̞ɾi]",
+          "audio": "audio/colors/091.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "წითელ-ყვითელი",
+          "roman": "c̣itel-q̇viteli",
+          "en": "yellow-red",
+          "pos": "adj",
+          "ipa": "[t͡sʼitʰe̞lχʼʷitʰe̞li]",
+          "audio": "audio/colors/092.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "წითელი",
+          "roman": "c̣iteli",
+          "en": "red",
+          "pos": "adj",
+          "ipa": "[t͡sʼitʰe̞li]",
+          "audio": "audio/colors/093.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "წითური",
+          "roman": "c̣ituri",
+          "en": "ginger",
+          "pos": "adj",
+          "ipa": "[t͡sʼitʰuɾi]",
+          "audio": "audio/colors/094.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ჭრელი",
+          "roman": "č̣reli",
+          "en": "multicolored and with white flecks",
+          "pos": "adj",
+          "ipa": "[t͡ʃʼɾe̞li]",
+          "audio": "audio/colors/095.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        },
+        {
+          "ka": "ხვლიკისფერი",
+          "roman": "xvliḳisperi",
+          "en": "olive-gray, olive-green, lizard-green",
+          "pos": "adj",
+          "ipa": "[χʷlikʼispʰe̞ɾi]",
+          "audio": "audio/colors/096.mp3",
+          "audioSource": "tts",
+          "page": "themes/colors.html"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "nameKa": "მუსიკა",
+      "icon": "♪",
+      "count": 79,
+      "page": "themes/music.html",
+      "words": [
+        {
+          "ka": "ალტერნატიული როკი",
+          "roman": "alṭernaṭiuli roḳi",
+          "en": "alternative rock",
+          "pos": "noun",
+          "ipa": "[ältʼe̞ɾnätʼiuli ɾo̞kʼi]",
+          "audio": "audio/music/000.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ალყა",
+          "roman": "alq̇a",
+          "en": "string (of an instrument)",
+          "pos": "noun",
+          "ipa": "[älχʼä]",
+          "audio": "audio/music/001.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "აქცენტი",
+          "roman": "akcenṭi",
+          "en": "accent",
+          "pos": "noun",
+          "ipa": "[äkʰt͡sʰe̞ntʼi]",
+          "audio": "audio/music/002.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ბარბითი",
+          "roman": "barbiti",
+          "en": "lute",
+          "pos": "noun",
+          "ipa": "[b̥äɾbitʰi]",
+          "audio": "audio/music/003.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ბეჩო",
+          "roman": "bečo",
+          "en": "shawm (zurna) mouthpiece",
+          "pos": "noun",
+          "ipa": "[b̥e̞t͡ʃʰo̞]",
+          "audio": "audio/music/004.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ბლუგრასი",
+          "roman": "blugrasi",
+          "en": "bluegrass",
+          "pos": "noun",
+          "ipa": "[b̥ɫuɡɾäsi]",
+          "audio": "audio/music/005.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "გლემ-როკი",
+          "roman": "glem-roḳi",
+          "en": "glam rock",
+          "pos": "noun",
+          "ipa": "[ɡ̊le̞mɾo̞kʼi]",
+          "audio": "audio/music/006.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "გუდასტვირი",
+          "roman": "gudasṭviri",
+          "en": "Gudastviri",
+          "pos": "noun",
+          "ipa": "[ɡ̊udästʼʷiɾi]",
+          "audio": "audio/music/007.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყამი ინსტრუმენტი",
+          "roman": "dasarṭq̇ami insṭrumenṭi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼämi instʼɾume̞ntʼi]",
+          "audio": "audio/music/008.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყამი მუსიკალური ინსტრუმენტი",
+          "roman": "dasarṭq̇ami musiḳaluri insṭrumenṭi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼämi musikʼäɫuɾi instʼɾume̞ntʼi]",
+          "audio": "audio/music/009.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყამი მუსიკალური საკრავი",
+          "roman": "dasarṭq̇ami musiḳaluri saḳravi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼämi musikʼäɫuɾi säkʼɾävi]",
+          "audio": "audio/music/010.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყამი საკრავი",
+          "roman": "dasarṭq̇ami saḳravi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼämi säkʼɾävi]",
+          "audio": "audio/music/011.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყმელი ინსტრუმენტი",
+          "roman": "dasarṭq̇meli insṭrumenṭi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼme̞li instʼɾume̞ntʼi]",
+          "audio": "audio/music/012.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყმელი მუსიკალური ინსტრუმენტი",
+          "roman": "dasarṭq̇meli musiḳaluri insṭrumenṭi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼme̞li musikʼäɫuɾi instʼɾume̞ntʼi]",
+          "audio": "audio/music/013.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყმელი მუსიკალური საკრავი",
+          "roman": "dasarṭq̇meli musiḳaluri saḳravi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼme̞li musikʼäɫuɾi säkʼɾävi]",
+          "audio": "audio/music/014.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დასარტყმელი საკრავი",
+          "roman": "dasarṭq̇meli saḳravi",
+          "en": "percussion instrument",
+          "pos": "noun",
+          "ipa": "[d̥äsäɾtʼχʼme̞li säkʼɾävi]",
+          "audio": "audio/music/015.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დიპ-ჰაუსი",
+          "roman": "diṗ-hausi",
+          "en": "deep house",
+          "pos": "noun",
+          "ipa": "[d̥ipʼhäusi]",
+          "audio": "audio/music/016.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დისკო",
+          "roman": "disḳo",
+          "en": "disco music",
+          "pos": "noun",
+          "ipa": "[d̥iskʼo̞]",
+          "audio": "audio/music/017.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "დისკო-მუსიკა",
+          "roman": "disḳo-musiḳa",
+          "en": "disco, disco music",
+          "pos": "noun",
+          "ipa": "[d̥iskʼo̞musikʼä]",
+          "audio": "audio/music/018.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ელექტრონული მუსიკა",
+          "roman": "elekṭronuli musiḳa",
+          "en": "electronic music",
+          "pos": "noun",
+          "ipa": "[e̞le̞kʰtʼɾo̞nuli musikʼä]",
+          "audio": "audio/music/019.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ელექტრონული საცეკვაო მუსიკა",
+          "roman": "elekṭronuli saceḳvao musiḳa",
+          "en": "EDM, electronic dance music",
+          "pos": "noun",
+          "ipa": "[e̞le̞kʰtʼɾo̞nuli sät͡sʰe̞kʼʷäo̞ musikʼä]",
+          "audio": "audio/music/020.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ექსპოზიცია",
+          "roman": "eksṗozicia",
+          "en": "exposition (the opening section of a movement in sonata form; the opening section of a fugue)",
+          "pos": "noun",
+          "ipa": "[e̞kʰspʼo̞zit͡sʰiä]",
+          "audio": "audio/music/021.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ვიოლინო",
+          "roman": "violino",
+          "en": "violin",
+          "pos": "noun",
+          "ipa": "[vio̞lino̞]",
+          "audio": "audio/music/022.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "თანამედროვე რიტმ-ენდ-ბლუზი",
+          "roman": "tanamedrove riṭm-end-bluzi",
+          "en": "contemporary R&B, modern R & B",
+          "pos": "noun",
+          "ipa": "[tʰänäme̞dɾo̞ve̞ ɾitʼme̞ndbɫuzi]",
+          "audio": "audio/music/023.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ინდი-როკი",
+          "roman": "indi-roḳi",
+          "en": "indie rock",
+          "pos": "noun",
+          "ipa": "[indiɾo̞kʼi]",
+          "audio": "audio/music/024.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ინდუსტრიული მეტალი",
+          "roman": "indusṭriuli meṭali",
+          "en": "industrial metal",
+          "pos": "noun",
+          "ipa": "[industʼɾiuli me̞tʼäli]",
+          "audio": "audio/music/025.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ინდუსტრიული მუსიკა",
+          "roman": "indusṭriuli musiḳa",
+          "en": "industrial music",
+          "pos": "noun",
+          "ipa": "[industʼɾiuli musikʼä]",
+          "audio": "audio/music/026.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ინდუსტრიული როკი",
+          "roman": "indusṭriuli roḳi",
+          "en": "industrial rock",
+          "pos": "noun",
+          "ipa": "[industʼɾiuli ɾo̞kʼi]",
+          "audio": "audio/music/027.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კილო",
+          "roman": "ḳilo",
+          "en": "tune",
+          "pos": "noun",
+          "ipa": "[kʼiɫo̞]",
+          "audio": "audio/music/028.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კლავიატურა",
+          "roman": "ḳlaviaṭura",
+          "en": "fingerboard, keyboard",
+          "pos": "noun",
+          "ipa": "[kʼɫäviätʼuɾä]",
+          "audio": "audio/music/029.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კლასიკური",
+          "roman": "ḳlasiḳuri",
+          "en": "classical",
+          "pos": "adj",
+          "ipa": "[kʼɫäsikʼuɾi]",
+          "audio": "audio/music/030.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კლასიკური მუსიკა",
+          "roman": "ḳlasiḳuri musiḳa",
+          "en": "classical music",
+          "pos": "noun",
+          "ipa": "[kʼɫäsikʼuɾi musikʼä]",
+          "audio": "audio/music/031.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კომპოზიცია",
+          "roman": "ḳomṗozicia",
+          "en": "composition",
+          "pos": "noun",
+          "ipa": "[kʼo̞mpʼo̞zit͡sʰiä]",
+          "audio": "audio/music/032.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კონცერტი",
+          "roman": "ḳoncerṭi",
+          "en": "concert, concerto",
+          "pos": "noun",
+          "ipa": "[kʼo̞nt͡sʰe̞ɾtʼi]",
+          "audio": "audio/music/033.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კრაუტროკი",
+          "roman": "ḳrauṭroḳi",
+          "en": "krautrock",
+          "pos": "noun",
+          "ipa": "[kʼɾäutʼɾo̞kʼi]",
+          "audio": "audio/music/034.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "კრეშენდო",
+          "roman": "ḳrešendo",
+          "en": "crescendo",
+          "pos": "noun",
+          "ipa": "[kʼɾe̞ʃe̞ndo̞]",
+          "audio": "audio/music/035.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "მუსიკალური",
+          "roman": "musiḳaluri",
+          "en": "musical",
+          "pos": "adj",
+          "ipa": "[musikʼäɫuɾi]",
+          "audio": "audio/music/036.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "მუსიკალური ნოტაცია",
+          "roman": "musiḳaluri noṭacia",
+          "en": "musical notation",
+          "pos": "noun",
+          "ipa": "[musikʼäɫuɾi no̞tʼät͡sʰiä]",
+          "audio": "audio/music/037.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "მძიმე მეტალი",
+          "roman": "mʒime meṭali",
+          "en": "heavy metal",
+          "pos": "noun",
+          "ipa": "[md͡zime̞ me̞tʼäli]",
+          "audio": "audio/music/038.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ორგანი",
+          "roman": "organi",
+          "en": "organ",
+          "pos": "noun",
+          "ipa": "[o̞ɾɡäni]",
+          "audio": "audio/music/039.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "პანკ-როკი",
+          "roman": "ṗanḳ-roḳi",
+          "en": "punk rock",
+          "pos": "noun",
+          "ipa": "[pʼäŋkʼɾo̞kʼi]",
+          "audio": "audio/music/040.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "პოპ-მუსიკა",
+          "roman": "ṗoṗ-musiḳa",
+          "en": "pop music",
+          "pos": "noun",
+          "ipa": "[pʼo̞pʼmusikʼä]",
+          "audio": "audio/music/041.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "პოპულარული მუსიკა",
+          "roman": "ṗoṗularuli musiḳa",
+          "en": "popular music, pop music",
+          "pos": "noun",
+          "ipa": "[pʼo̞pʼuɫäɾuli musikʼä]",
+          "audio": "audio/music/042.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "პროგრესული ჰაუსი",
+          "roman": "ṗrogresuli hausi",
+          "en": "progressive house",
+          "pos": "noun",
+          "ipa": "[pʼɾo̞ɡɾe̞suli häusi]",
+          "audio": "audio/music/043.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "რემიქსი",
+          "roman": "remiksi",
+          "en": "remix",
+          "pos": "noun",
+          "ipa": "[ɾe̞mikʰsi]",
+          "audio": "audio/music/044.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "რიტმ-ენდ-ბლუზი",
+          "roman": "riṭm-end-bluzi",
+          "en": "rhythm and blues, R & B",
+          "pos": "noun",
+          "ipa": "[ɾitʼme̞ndbɫuzi]",
+          "audio": "audio/music/045.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "როკ-ენ-როლი",
+          "roman": "roḳ-en-roli",
+          "en": "rock and roll",
+          "pos": "noun",
+          "ipa": "[ɾo̞kʼe̞nɾo̞li]",
+          "audio": "audio/music/046.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "როკ-მუსიკა",
+          "roman": "roḳ-musiḳa",
+          "en": "rock, rock music",
+          "pos": "noun",
+          "ipa": "[ɾo̞kʼmusikʼä]",
+          "audio": "audio/music/047.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "როკი",
+          "roman": "roḳi",
+          "en": "rock music",
+          "pos": "noun",
+          "ipa": "[ɾo̞kʼi]",
+          "audio": "audio/music/048.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "საცეკვაო მუსიკა",
+          "roman": "saceḳvao musiḳa",
+          "en": "shortening of EDM, electronic dance music",
+          "pos": "noun",
+          "ipa": "[sät͡sʰe̞kʼʷäo̞ musikʼä]",
+          "audio": "audio/music/049.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სემპლერი",
+          "roman": "semṗleri",
+          "en": "sampler",
+          "pos": "noun",
+          "ipa": "[se̞mpʼle̞ɾi]",
+          "audio": "audio/music/050.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სიმებიანი ინსტრუმენტი",
+          "roman": "simebiani insṭrumenṭi",
+          "en": "string instrument, stringed instrument, chordophone",
+          "pos": "noun",
+          "ipa": "[sime̞biäni instʼɾume̞ntʼi]",
+          "audio": "audio/music/051.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სიმებიანი მუსიკალური ინსტრუმენტი",
+          "roman": "simebiani musiḳaluri insṭrumenṭi",
+          "en": "string instrument, stringed instrument, chordophone",
+          "pos": "noun",
+          "ipa": "[sime̞biäni musikʼäɫuɾi instʼɾume̞ntʼi]",
+          "audio": "audio/music/052.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სიმებიანი მუსიკალური საკრავი",
+          "roman": "simebiani musiḳaluri saḳravi",
+          "en": "string instrument, stringed instrument, chordophone",
+          "pos": "noun",
+          "ipa": "[sime̞biäni musikʼäɫuɾi säkʼɾävi]",
+          "audio": "audio/music/053.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სიმებიანი საკრავი",
+          "roman": "simebiani saḳravi",
+          "en": "string instrument, stringed instrument, chordophone",
+          "pos": "noun",
+          "ipa": "[sime̞biäni säkʼɾävi]",
+          "audio": "audio/music/054.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სიმღერა",
+          "roman": "simɣera",
+          "en": "song",
+          "pos": "noun",
+          "ipa": "[simʁe̞ɾä]",
+          "audio": "audio/music/055.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სინთეზატორი",
+          "roman": "sintezaṭori",
+          "en": "synthesizer",
+          "pos": "noun",
+          "ipa": "[sintʰe̞zätʼo̞ɾi]",
+          "audio": "audio/music/056.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "სოული",
+          "roman": "souli",
+          "en": "soul, soul music",
+          "pos": "noun",
+          "ipa": "[so̞uli]",
+          "audio": "audio/music/057.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ტექნო",
+          "roman": "ṭekno",
+          "en": "techno",
+          "pos": "noun",
+          "ipa": "[tʼe̞kʰno̞]",
+          "audio": "audio/music/058.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ტონი",
+          "roman": "ṭoni",
+          "en": "tone",
+          "pos": "noun",
+          "ipa": "[tʼo̞ni]",
+          "audio": "audio/music/059.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ფანტაზია",
+          "roman": "panṭazia",
+          "en": "fantasia",
+          "pos": "noun",
+          "ipa": "[pʰäntʼäziä]",
+          "audio": "audio/music/060.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ფილარმონია",
+          "roman": "pilarmonia",
+          "en": "philharmonic institution/society",
+          "pos": "noun",
+          "ipa": "[pʰiɫäɾmo̞niä]",
+          "audio": "audio/music/061.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ფილარმონიული",
+          "roman": "pilarmoniuli",
+          "en": "philharmonic",
+          "pos": "adj",
+          "ipa": "[pʰiɫäɾmo̞niuli]",
+          "audio": "audio/music/062.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ფლეიტა",
+          "roman": "pleiṭa",
+          "en": "flute",
+          "pos": "noun",
+          "ipa": "[pʰle̞itʼä]",
+          "audio": "audio/music/063.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ფოლკ-მუსიკა",
+          "roman": "polḳ-musiḳa",
+          "en": "folk music",
+          "pos": "noun",
+          "ipa": "[pʰo̞lkʼmusikʼä]",
+          "audio": "audio/music/064.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ფსიქოდელიური როკი",
+          "roman": "psikodeliuri roḳi",
+          "en": "psychedelic rock",
+          "pos": "noun",
+          "ipa": "[pʰsikʰo̞de̞liuɾi ɾo̞kʼi]",
+          "audio": "audio/music/065.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ფუგა",
+          "roman": "puga",
+          "en": "fugue",
+          "pos": "noun",
+          "ipa": "[pʰuɡä]",
+          "audio": "audio/music/066.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ქამანჩა",
+          "roman": "kamanča",
+          "en": "kamāncha",
+          "pos": "noun",
+          "ipa": "[kʰämänt͡ʃʰä]",
+          "audio": "audio/music/067.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ქანთრი",
+          "roman": "kantri",
+          "en": "country music",
+          "pos": "noun",
+          "ipa": "[kʰäntʰɾi]",
+          "audio": "audio/music/068.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ქანთრი-როკ მუსიკა",
+          "roman": "kantri-roḳ musiḳa",
+          "en": "country rock, country rock music",
+          "pos": "noun",
+          "ipa": "[kʰäntʰɾiɾo̞kʼ musikʼä]",
+          "audio": "audio/music/069.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ქანთრი-როკი",
+          "roman": "kantri-roḳi",
+          "en": "country rock",
+          "pos": "noun",
+          "ipa": "[kʰäntʰɾiɾo̞kʼi]",
+          "audio": "audio/music/070.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჩანგი",
+          "roman": "čangi",
+          "en": "chang",
+          "pos": "noun",
+          "ipa": "[t͡ʃʰäŋɡi]",
+          "audio": "audio/music/071.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჩასაბერი ინსტრუმენტი",
+          "roman": "časaberi insṭrumenṭi",
+          "en": "wind instrument",
+          "pos": "noun",
+          "ipa": "[t͡ʃʰäsäbe̞ɾi instʼɾume̞ntʼi]",
+          "audio": "audio/music/072.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჩასაბერი მუსიკალური ინსტრუმენტი",
+          "roman": "časaberi musiḳaluri insṭrumenṭi",
+          "en": "wind instrument",
+          "pos": "noun",
+          "ipa": "[t͡ʃʰäsäbe̞ɾi musikʼäɫuɾi instʼɾume̞ntʼi]",
+          "audio": "audio/music/073.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჩასაბერი მუსიკალური საკრავი",
+          "roman": "časaberi musiḳaluri saḳravi",
+          "en": "wind instrument",
+          "pos": "noun",
+          "ipa": "[t͡ʃʰäsäbe̞ɾi musikʼäɫuɾi säkʼɾävi]",
+          "audio": "audio/music/074.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჩასაბერი საკრავი",
+          "roman": "časaberi saḳravi",
+          "en": "wind instrument",
+          "pos": "noun",
+          "ipa": "[t͡ʃʰäsäbe̞ɾi säkʼɾävi]",
+          "audio": "audio/music/075.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჰარმონიზაცია",
+          "roman": "harmonizacia",
+          "en": "harmonization",
+          "pos": "noun",
+          "ipa": "[häɾmo̞nizät͡sʰiä]",
+          "audio": "audio/music/076.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჰაუს-მუსიკა",
+          "roman": "haus-musiḳa",
+          "en": "house music",
+          "pos": "noun",
+          "ipa": "[häusmusikʼä]",
+          "audio": "audio/music/077.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        },
+        {
+          "ka": "ჰაუსი",
+          "roman": "hausi",
+          "en": "house, house music",
+          "pos": "noun",
+          "ipa": "[häusi]",
+          "audio": "audio/music/078.mp3",
+          "audioSource": "tts",
+          "page": "themes/music.html"
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "name": "Phrases",
+      "nameKa": "ფრაზები",
+      "icon": "💬",
+      "count": 74,
+      "page": "themes/phrases.html",
+      "words": [
+        {
+          "ka": "ადრე თუ გვიან",
+          "roman": "adre tu gvian",
+          "en": "sooner or later",
+          "pos": "phrase",
+          "ipa": "[ädɾe̞ tʰu ɡ̊ʷiän]",
+          "audio": "audio/phrases/000.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ამ შემთხვევაში",
+          "roman": "am šemtxvevaši",
+          "en": "in this case, in this instance, in this event",
+          "pos": "phrase",
+          "ipa": "[äm ʃe̞mtʰχʷe̞väʃi]",
+          "audio": "audio/phrases/001.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "არ ვიცი",
+          "roman": "ar vici",
+          "en": "I don’t know",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/002.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "არა უშავს",
+          "roman": "ara ušavs",
+          "en": "never mind, do not fret",
+          "pos": "phrase",
+          "ipa": "[äɾä uʃäfs]",
+          "audio": "audio/phrases/003.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ასე გასინჯეთ",
+          "roman": "ase gasinǯet",
+          "en": "used to pay one's attention to the subsequent phrase",
+          "pos": "phrase",
+          "ipa": "[äse̞ ɡ̊äsind͡ʒe̞tʰ]",
+          "audio": "audio/phrases/004.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "აღგვა პირისაგან მიწისა",
+          "roman": "",
+          "en": "to wipe off the face of the earth, to obliterate, to destroy completely",
+          "pos": "phrase",
+          "ipa": "[äʁɡʷä pʼiɾisäɡän mit͡sʼisä]",
+          "audio": "audio/phrases/005.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "გააჩნია",
+          "roman": "gaačnia",
+          "en": "it depends",
+          "pos": "phrase",
+          "ipa": "[ɡ̊äät͡ʃʰniä]",
+          "audio": "audio/phrases/006.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "გვარს არ დავასახელებ",
+          "roman": "gvars ar davasaxeleb",
+          "en": "you-know-who",
+          "pos": "phrase",
+          "ipa": "[ɡ̊ʷäɾs äɾ d̥äväsäχe̞le̞pʰ]",
+          "audio": "audio/phrases/007.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "გილოცავ ახალ წელს",
+          "roman": "gilocav axal c̣els",
+          "en": "happy New Year (informally to one person)",
+          "pos": "phrase",
+          "ipa": "[ɡ̊iɫo̞t͡sʰäv äχäl t͡sʼe̞ls]",
+          "audio": "audio/phrases/008.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "გილოცავ დაბადების დღეს",
+          "roman": "gilocav dabadebis dɣes",
+          "en": "happy birthday (singular)",
+          "pos": "phrase",
+          "ipa": "[ɡ̊iɫo̞t͡sʰäv d̥äbäde̞bis d̥ʁe̞s]",
+          "audio": "audio/phrases/009.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "გილოცავთ ახალ წელს",
+          "roman": "gilocavt axal c̣els",
+          "en": "happy New Year (to more than one person or formally to one person)",
+          "pos": "phrase",
+          "ipa": "[ɡ̊iɫo̞t͡sʰäftʰ äχäl t͡sʼe̞ls]",
+          "audio": "audio/phrases/010.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "და ასე შემდეგ",
+          "roman": "da ase šemdeg",
+          "en": "and so forth, and so on, et cetera",
+          "pos": "phrase",
+          "ipa": "[d̥ä äse̞ ʃe̞mde̞kʰ]",
+          "audio": "audio/phrases/011.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "დაყავი და იბატონე",
+          "roman": "daq̇avi da ibaṭone",
+          "en": "divide and conquer",
+          "pos": "phrase",
+          "ipa": "[d̥äχʼävi d̥ä ibätʼo̞ne̞]",
+          "audio": "audio/phrases/012.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "დროთა განმავლობაში",
+          "roman": "drota ganmavlobaši",
+          "en": "over time",
+          "pos": "phrase",
+          "ipa": "[d̥ɾo̞tʰä ɡ̊änmävɫo̞bäʃi]",
+          "audio": "audio/phrases/013.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ეს ხომ ელემენტარულია, უოტსონ",
+          "roman": "es xom elemenṭarulia",
+          "en": "elementary, my dear Watson",
+          "pos": "phrase",
+          "ipa": "[e̞s χo̞m e̞le̞me̞ntʼäɾuliä uo̞tʼso̞n]",
+          "audio": "audio/phrases/014.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ეს ხომ ელემენტარულია, ძვირფასო უოტსონ",
+          "roman": "es xom elemenṭarulia",
+          "en": "elementary, my dear Watson",
+          "pos": "phrase",
+          "ipa": "[e̞s χo̞m e̞le̞me̞ntʼäɾuliä d͡zʷiɾpʰäso̞ uo̞tʼso̞n]",
+          "audio": "audio/phrases/015.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ეშმაკს არ სძინავს",
+          "roman": "ešmaḳs ar sʒinavs",
+          "en": "Indicates and warns an interlocutor that an unpleasant incident can occur to anyone anytime",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/016.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ვაზროვნებ მაშასადამე ვარსებობ",
+          "roman": "vazrovneb mašasadame varsebob",
+          "en": "I think therefore I am",
+          "pos": "phrase",
+          "ipa": "[väzɾo̞vne̞pʰ mäʃäsädäme̞ väɾse̞bo̞pʰ]",
+          "audio": "audio/phrases/017.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "თავისუფალ დროს",
+          "roman": "tavisupal dros",
+          "en": "in one’s free time, during free time, in times of leisure",
+          "pos": "phrase",
+          "ipa": "[tʰävisupʰäl d̥ɾo̞s]",
+          "audio": "audio/phrases/018.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "თუ შეიძლება",
+          "roman": "tu šeiʒleba",
+          "en": "if possible",
+          "pos": "phrase",
+          "ipa": "[tʰu ʃe̞id͡zle̞bä]",
+          "audio": "audio/phrases/019.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "თურმე ნუ იტყვით",
+          "roman": "turme nu iṭq̇vit",
+          "en": "usually said when the speaker learns something unexpected or surprising",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/020.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ინგლისური იცით",
+          "roman": "inglisuri icit?",
+          "en": "Do you speak English?",
+          "pos": "phrase",
+          "ipa": "[iŋɡlisuɾi it͡sʰitʰ]",
+          "audio": "audio/phrases/021.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "იყო და არა იყო რა",
+          "roman": "iq̇o da ara iq̇o ra",
+          "en": "once upon a time",
+          "pos": "phrase",
+          "ipa": "[iχʼo̞ d̥ä äɾä iχʼo̞ ɾä]",
+          "audio": "audio/phrases/022.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "იყო და არა იყო რა, ღვთის უკეთესი რა იქნებოდა",
+          "roman": "iq̇o da ara iq̇o ra",
+          "en": "once upon a time",
+          "pos": "phrase",
+          "ipa": "[iχʼo̞ d̥ä äɾä iχʼo̞ ɾä ʁʷtʰis ukʼe̞tʰe̞si ɾä ikʰne̞bo̞dä]",
+          "audio": "audio/phrases/023.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "კაი ერთი",
+          "roman": "ḳai erti",
+          "en": "you don't say",
+          "pos": "phrase",
+          "ipa": "[kʼäi e̞ɾtʰi]",
+          "audio": "audio/phrases/024.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "კანში ვერ ეტევა",
+          "roman": "ḳanši ver eṭeva",
+          "en": "to be very fat, to be obese",
+          "pos": "phrase",
+          "ipa": "[kʼänʃi ve̞ɾ e̞tʼe̞vä]",
+          "audio": "audio/phrases/025.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "კარგი საქონელია",
+          "roman": "ḳargi sakonelia",
+          "en": "It is good, needful, necessary",
+          "pos": "phrase",
+          "ipa": "[kʼäɾɡi säkʰo̞ne̞liä]",
+          "audio": "audio/phrases/026.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "კეთილი იყოს თქვენი მობრძანება",
+          "roman": "ḳetili iq̇os tkveni mobrʒaneba",
+          "en": "welcome",
+          "pos": "phrase",
+          "ipa": "[kʼe̞tʰili iχʼo̞s tʰkʰʷe̞ni mo̞bɾd͡zäne̞bä]",
+          "audio": "audio/phrases/027.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "კითხვა მაქვს",
+          "roman": "ḳitxva makvs",
+          "en": "I have a question",
+          "pos": "phrase",
+          "ipa": "[kʼitʰχʷä mäkʰʷs]",
+          "audio": "audio/phrases/028.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "კულისებს მიღმა",
+          "roman": "ḳulisebs miɣma",
+          "en": "behind the scenes",
+          "pos": "phrase",
+          "ipa": "[kʼulise̞bs miʁmä]",
+          "audio": "audio/phrases/029.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ლოლ",
+          "roman": "lol",
+          "en": "Adaptation of LOL",
+          "pos": "phrase",
+          "ipa": "[ɫo̞l]",
+          "audio": "audio/phrases/030.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მე ქართველი ვარ",
+          "roman": "me kartveli var",
+          "en": "I am Georgian",
+          "pos": "phrase",
+          "ipa": "[me̞ kʰäɾtʰʷe̞li väɾ]",
+          "audio": "audio/phrases/031.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მე შენ მიყვარხარ",
+          "roman": "me šen miq̇varxar",
+          "en": "I love you",
+          "pos": "phrase",
+          "ipa": "[me̞ ʃe̞n miχʼʷäɾχäɾ]",
+          "audio": "audio/phrases/032.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მიველ, ვნახე, დავამარცხე",
+          "roman": "mivel",
+          "en": "I came, I saw, I conquered",
+          "pos": "phrase",
+          "ipa": "[mive̞l vnäχe̞ d̥ävämäɾt͡sʰχe̞]",
+          "audio": "audio/phrases/033.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მოცალეობის დროს",
+          "roman": "mocaleobis dros",
+          "en": "in one’s free time, during free time, in times of leisure",
+          "pos": "phrase",
+          "ipa": "[mo̞t͡sʰäle̞o̞bis d̥ɾo̞s]",
+          "audio": "audio/phrases/034.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მოცალეობის ჟამს",
+          "roman": "mocaleobis žams",
+          "en": "in one’s free time, during free time, in times of leisure",
+          "pos": "phrase",
+          "ipa": "[mo̞t͡sʰäle̞o̞bis ʒäms]",
+          "audio": "audio/phrases/035.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მსოფლიო მასშტაბით",
+          "roman": "msoplio masšṭabit",
+          "en": "worldwide, around the world, on the world scale",
+          "pos": "phrase",
+          "ipa": "[mso̞pʰlio̞ mäsʃtʼäbitʰ]",
+          "audio": "audio/phrases/036.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მსოფლიოს გარშემო",
+          "roman": "msoplios garšemo",
+          "en": "around the world, worldwide",
+          "pos": "phrase",
+          "ipa": "[mso̞pʰlio̞s ɡ̊äɾʃe̞mo̞]",
+          "audio": "audio/phrases/037.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "მტყუანს შევეცი",
+          "roman": "mṭq̇uans ševeci",
+          "en": "Said when the speaker wants to indicate that the person they are talking to is wrong",
+          "pos": "phrase",
+          "ipa": "[mtʼχʼuäns ʃe̞ve̞t͡sʰi]",
+          "audio": "audio/phrases/038.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ნიკოფსიიდან დარუბანდამდე",
+          "roman": "niḳopsiidan darubandamde",
+          "en": "used to describe the extent of the medieval kingdom of Georgia by its westernmost and easternmost cities",
+          "pos": "phrase",
+          "ipa": "[nikʼo̞pʰsiidän d̥äɾubändämde̞]",
+          "audio": "audio/phrases/039.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "პროლეტარებო ყველა ქვეყნისა, შეერთდით",
+          "roman": "ṗroleṭarebo q̇vela kveq̇nisa",
+          "en": "workers of the world, unite!",
+          "pos": "phrase",
+          "ipa": "[pʼɾo̞le̞tʼäɾe̞bo̞ χʼʷe̞ɫä kʰʷe̞χʼnisä ʃe̞e̞ɾtʰditʰ]",
+          "audio": "audio/phrases/040.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "რა თქმა უნდა",
+          "roman": "ra tkma unda",
+          "en": "of course",
+          "pos": "phrase",
+          "ipa": "[ɾä tʰkʰmä undä]",
+          "audio": "audio/phrases/041.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "რა უშავს",
+          "roman": "ra ušavs?",
+          "en": "Indicates regret and wish.",
+          "pos": "phrase",
+          "ipa": "[ɾä uʃäfs]",
+          "audio": "audio/phrases/042.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "რავი",
+          "roman": "ravi",
+          "en": "abbreviation of რავიცი (ravici)",
+          "pos": "phrase",
+          "ipa": "[ɾävi]",
+          "audio": "audio/phrases/043.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "რავიცი",
+          "roman": "ravici",
+          "en": "alternative spelling of რა ვიცი (ra vici)",
+          "pos": "phrase",
+          "ipa": "[ɾävit͡sʰi]",
+          "audio": "audio/phrases/044.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "როგორ მიდის საქმეები",
+          "roman": "rogor midis sakmeebi",
+          "en": "how is it going? how are you?",
+          "pos": "phrase",
+          "ipa": "[ɾo̞ɡo̞ɾ midis säkʰme̞e̞bi]",
+          "audio": "audio/phrases/045.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "როგორა ხარ",
+          "roman": "rogora xar",
+          "en": "how are you?",
+          "pos": "phrase",
+          "ipa": "[ɾo̞ɡo̞ɾä χäɾ]",
+          "audio": "audio/phrases/046.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "რომელი საათია",
+          "roman": "romeli saatia?",
+          "en": "what time is it?",
+          "pos": "phrase",
+          "ipa": "[ɾo̞me̞li säätʰiä]",
+          "audio": "audio/phrases/047.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "როცა ვირი ხეზე ავა",
+          "roman": "roca viri xeze ava",
+          "en": "when pigs fly",
+          "pos": "phrase",
+          "ipa": "[ɾo̞t͡sʰä viɾi χe̞ze̞ ävä]",
+          "audio": "audio/phrases/048.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "რქების დადგმა",
+          "roman": "rkebis dadgma",
+          "en": "to cuckold (literally, to put horns on)",
+          "pos": "phrase",
+          "ipa": "[ɾkʰe̞bis d̥ädɡmä]",
+          "audio": "audio/phrases/049.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "საერთო ენის გამონახვა",
+          "roman": "saerto enis gamonaxva",
+          "en": "to come to terms with sb",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/050.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "სასიამოვნოა თქვენი გაცნობა",
+          "roman": "sasiamovnoa tkveni gacnoba",
+          "en": "pleased to meet you, nice to meet you",
+          "pos": "phrase",
+          "ipa": "[säsiämo̞vno̞ä tʰkʰʷe̞ni ɡ̊ät͡sʰno̞bä]",
+          "audio": "audio/phrases/051.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "სკილასა და ქარიბდას შორის",
+          "roman": "sḳilasa da karibdas šoris",
+          "en": "between Scylla and Charybdis",
+          "pos": "phrase",
+          "ipa": "[skʼiɫäsä d̥ä kʰäɾibdäs ʃo̞ɾis]",
+          "audio": "audio/phrases/052.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "სულერთია",
+          "roman": "sulertia",
+          "en": "it's all the same, it doesn't matter",
+          "pos": "phrase",
+          "ipa": "[sule̞ɾtʰiä]",
+          "audio": "audio/phrases/053.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "სხვა შემთხვევაში",
+          "roman": "sxva šemtxvevaši",
+          "en": "otherwise, in other cases",
+          "pos": "phrase",
+          "ipa": "[sχʷä ʃe̞mtʰχʷe̞väʃi]",
+          "audio": "audio/phrases/054.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "სხვათა შორის",
+          "roman": "sxvata šoris",
+          "en": "by the way",
+          "pos": "phrase",
+          "ipa": "[sχʷätʰä ʃo̞ɾis]",
+          "audio": "audio/phrases/055.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ტკბილი ძილი",
+          "roman": "ṭḳbili ʒili",
+          "en": "sweet dreams",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/056.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "უკაცრავად პასუხია",
+          "roman": "uḳacravad ṗasuxia",
+          "en": "Used to apologize for the use of profanity or unpleasant phrase.",
+          "pos": "phrase",
+          "ipa": "[ukʼät͡sʰɾävätʰ pʼäsuχiä]",
+          "audio": "audio/phrases/057.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "უკუნითი უკუნისამდე",
+          "roman": "uḳuniti uḳunisamde",
+          "en": "for all time, for all eternity",
+          "pos": "phrase",
+          "ipa": "[ukʼunitʰi ukʼunisämde̞]",
+          "audio": "audio/phrases/058.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "უპირველეს ყოვლისა",
+          "roman": "uṗirveles q̇ovlisa",
+          "en": "above all, above everything",
+          "pos": "phrase",
+          "ipa": "[upʼiɾʷe̞le̞s χʼo̞vlisä]",
+          "audio": "audio/phrases/059.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ფერადი სიზმრები",
+          "roman": "peradi sizmrebi",
+          "en": "sweet dreams, good night (literallyː colorful dreams)",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/060.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ქართულად ვერ ვლაპარაკობ",
+          "roman": "kartulad ver vlaṗaraḳob",
+          "en": "I don’t speak Georgian",
+          "pos": "phrase",
+          "ipa": "[kʰäɾtʰuɫätʰ ve̞ɾ vɫäpʼäɾäkʼo̞pʰ]",
+          "audio": "audio/phrases/061.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ქართულად ვლაპარაკობ",
+          "roman": "kartulad vlaṗaraḳob",
+          "en": "I speak Georgian",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/062.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ქართული იცით",
+          "roman": "kartuli icit",
+          "en": "Do you speak Georgian?",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/063.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ღამე ნებისა",
+          "roman": "ɣame nebisa",
+          "en": "sweet dreams, good night",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/064.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "შე ჩემა",
+          "roman": "še čema",
+          "en": "used as an expletive",
+          "pos": "phrase",
+          "ipa": "[ʃe̞ t͡ʃʰe̞mä]",
+          "audio": "audio/phrases/065.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "შენი ჭირიმე",
+          "roman": "šeni č̣irime",
+          "en": "an untranslatable expression of endearment towards a familiar listener.",
+          "pos": "phrase",
+          "ipa": "[ʃe̞ni t͡ʃʼiɾime̞]",
+          "audio": "audio/phrases/066.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "შენს პირს შაქარი",
+          "roman": "šens ṗirs šakari",
+          "en": "Expresses the wish that previously said statement come true",
+          "pos": "phrase",
+          "ipa": "[ʃe̞ns pʼiɾs ʃäkʰäɾi]",
+          "audio": "audio/phrases/067.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ჩემი ყლე",
+          "roman": "čemi q̇le",
+          "en": "the fuck",
+          "pos": "phrase",
+          "ipa": "[t͡ʃʰe̞mi χʼle̞]",
+          "audio": "audio/phrases/068.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ჩემით გავალ",
+          "roman": "čemit gaval",
+          "en": "I'll get my coat",
+          "pos": "phrase",
+          "ipa": "[t͡ʃʰe̞mitʰ ɡ̊äväl]",
+          "audio": "audio/phrases/069.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ჩემო კარგო",
+          "roman": "čemo ḳargo",
+          "en": "darling, dear (expression of endearment)",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/070.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ჩიტმა ამბავი მომიტანა",
+          "roman": "čiṭma ambavi momiṭana",
+          "en": "a little bird told me (literal translation: a bird brought me the story)",
+          "pos": "phrase",
+          "ipa": "[t͡ʃʰitʼmä ämbävi mo̞mitʼänä]",
+          "audio": "audio/phrases/071.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "ძილი ნებისა",
+          "roman": "ʒili nebisa",
+          "en": "sweet dreams, good night",
+          "pos": "phrase",
+          "ipa": null,
+          "audio": "audio/phrases/072.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
+        },
+        {
+          "ka": "წინააღმდეგ შემთხვევაში",
+          "roman": "c̣inaaɣmdeg šemtxvevaši",
+          "en": "otherwise, or else",
+          "pos": "phrase",
+          "ipa": "[t͡sʼinääʁmde̞kʰ ʃe̞mtʰχʷe̞väʃi]",
+          "audio": "audio/phrases/073.mp3",
+          "audioSource": "tts",
+          "page": "themes/phrases.html"
         }
       ]
     },
@@ -1427,7 +5047,7 @@
         {
           "ka": "ბალი",
           "roman": "bali",
-          "en": "sweet cherry",
+          "en": "cherry",
           "pos": "noun",
           "ipa": "[b̥äli]",
           "audio": "audio/fruits/005.mp3",
@@ -2097,7 +5717,7 @@
         {
           "ka": "ციხე",
           "roman": "cixe",
-          "en": "jail, prison",
+          "en": "fortress",
           "pos": "noun",
           "ipa": "[t͡sʰiχe̞]",
           "audio": "audio/buildings/033.mp3",
@@ -3147,7 +6767,7 @@
         {
           "ka": "ზვარაკი",
           "roman": "zvaraḳi",
-          "en": "offering, sacrifice",
+          "en": "sacrificial livestock",
           "pos": "noun",
           "ipa": "[zʷäɾäkʼi]",
           "audio": "audio/religion/003.mp3",
@@ -3353,6 +6973,236 @@
           "audio": "audio/religion/023.mp3",
           "audioSource": "tts",
           "page": "themes/religion.html"
+        }
+      ]
+    },
+    {
+      "id": "trees",
+      "name": "Trees",
+      "nameKa": "ხეები",
+      "icon": "🌲",
+      "count": 22,
+      "page": "themes/trees.html",
+      "words": [
+        {
+          "ka": "ალვის ხე",
+          "roman": "alvis xe",
+          "en": "poplar",
+          "pos": "noun",
+          "ipa": "[älʷis χe̞]",
+          "audio": "audio/trees/000.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "არყი",
+          "roman": "arq̇i",
+          "en": "birch",
+          "pos": "noun",
+          "ipa": "[äɾχʼi]",
+          "audio": "audio/trees/001.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "თელა",
+          "roman": "tela",
+          "en": "elm",
+          "pos": "noun",
+          "ipa": "[tʰe̞ɫä]",
+          "audio": "audio/trees/002.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "კაკალი",
+          "roman": "ḳaḳali",
+          "en": "walnut-tree, Juglans regia",
+          "pos": "noun",
+          "ipa": "[kʼäkʼäli]",
+          "audio": "audio/trees/003.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "კვიპაროსი",
+          "roman": "ḳviṗarosi",
+          "en": "cypress",
+          "pos": "noun",
+          "ipa": "[kʼʷipʼäɾo̞si]",
+          "audio": "audio/trees/004.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "კუნძი",
+          "roman": "ḳunʒi",
+          "en": "stump, chump, snag",
+          "pos": "noun",
+          "ipa": "[kʼund͡zi]",
+          "audio": "audio/trees/005.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "მურყანი",
+          "roman": "murq̇ani",
+          "en": "alder (Alnus spp.)",
+          "pos": "noun",
+          "ipa": "[muɾχʼäni]",
+          "audio": "audio/trees/006.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "მუხა",
+          "roman": "muxa",
+          "en": "oak",
+          "pos": "noun",
+          "ipa": "[muχä]",
+          "audio": "audio/trees/007.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ნეკერჩხალი",
+          "roman": "neḳerčxali",
+          "en": "maple",
+          "pos": "noun",
+          "ipa": "[ne̞kʼe̞ɾt͡ʃʰχäli]",
+          "audio": "audio/trees/008.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "რკო",
+          "roman": "rḳo",
+          "en": "oak",
+          "pos": "noun",
+          "ipa": "[ɾkʼo̞]",
+          "audio": "audio/trees/009.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "როზგი",
+          "roman": "rozgi",
+          "en": "birch, birch-rod, knout",
+          "pos": "noun",
+          "ipa": "[ɾo̞zɡi]",
+          "audio": "audio/trees/010.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "სარო",
+          "roman": "saro",
+          "en": "cypress",
+          "pos": "noun",
+          "ipa": "[säɾo̞]",
+          "audio": "audio/trees/011.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "საშობაო ნაძვის ხე",
+          "roman": "sašobao naʒvis xe",
+          "en": "Christmas tree",
+          "pos": "noun",
+          "ipa": "[säʃo̞bäo̞ näd͡zʷis χe̞]",
+          "audio": "audio/trees/012.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "სოჭი",
+          "roman": "soč̣i",
+          "en": "fir",
+          "pos": "noun",
+          "ipa": "[so̞t͡ʃʼi]",
+          "audio": "audio/trees/013.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ტირიფი",
+          "roman": "ṭiripi",
+          "en": "willow",
+          "pos": "noun",
+          "ipa": "[tʼiɾipʰi]",
+          "audio": "audio/trees/014.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ფიჭვი",
+          "roman": "pič̣vi",
+          "en": "pine",
+          "pos": "noun",
+          "ipa": "[pʰit͡ʃʼʷi]",
+          "audio": "audio/trees/015.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ღვია",
+          "roman": "ɣvia",
+          "en": "juniper tree",
+          "pos": "noun",
+          "ipa": "[ʁʷiä]",
+          "audio": "audio/trees/016.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ჩინარი",
+          "roman": "činari",
+          "en": "planetree",
+          "pos": "noun",
+          "ipa": "[t͡ʃʰinäɾi]",
+          "audio": "audio/trees/017.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "წიფელი",
+          "roman": "c̣ipeli",
+          "en": "beech",
+          "pos": "noun",
+          "ipa": "[t͡sʼipʰe̞li]",
+          "audio": "audio/trees/018.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ჭადარი",
+          "roman": "č̣adari",
+          "en": "plane tree",
+          "pos": "noun",
+          "ipa": "[t͡ʃʼädäɾi]",
+          "audio": "audio/trees/019.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ხე",
+          "roman": "xe",
+          "en": "tree",
+          "pos": "noun",
+          "ipa": "[χe̞]",
+          "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/Ka-%E1%83%AE%E1%83%94.ogg/Ka-%E1%83%AE%E1%83%94.ogg.mp3",
+          "audioSource": "wiktionary",
+          "page": "themes/trees.html"
+        },
+        {
+          "ka": "ჯონჯოლი",
+          "roman": "ǯonǯoli",
+          "en": "bladdernut",
+          "pos": "noun",
+          "ipa": "[d͡ʒo̞nd͡ʒo̞li]",
+          "audio": "audio/trees/021.mp3",
+          "audioSource": "tts",
+          "page": "themes/trees.html"
         }
       ]
     },
@@ -4987,7 +8837,7 @@
         {
           "ka": "თათმანი",
           "roman": "tatmani",
-          "en": "mitten",
+          "en": "glove",
           "pos": "noun",
           "ipa": "[tʰätʰmäni]",
           "audio": "audio/clothing/001.mp3",
@@ -5165,22 +9015,12 @@
           "page": "themes/sports.html"
         },
         {
-          "ka": "გაიტანს",
-          "roman": "gaiṭans",
-          "en": "to score",
-          "pos": "verb",
-          "ipa": "[ɡ̊äitʼäns]",
-          "audio": "audio/sports/001.mp3",
-          "audioSource": "tts",
-          "page": "themes/sports.html"
-        },
-        {
           "ka": "გოლი",
           "roman": "goli",
           "en": "goal",
           "pos": "noun",
           "ipa": "[ɡ̊o̞li]",
-          "audio": "audio/sports/002.mp3",
+          "audio": "audio/sports/001.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
         },
@@ -5190,7 +9030,7 @@
           "en": "basketball",
           "pos": "noun",
           "ipa": "[kʼäɫätʰbuɾtʰi]",
-          "audio": "audio/sports/003.mp3",
+          "audio": "audio/sports/002.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
         },
@@ -5200,7 +9040,7 @@
           "en": "combination",
           "pos": "noun",
           "ipa": "[kʼo̞mbinät͡sʰiä]",
-          "audio": "audio/sports/004.mp3",
+          "audio": "audio/sports/003.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
         },
@@ -5210,7 +9050,7 @@
           "en": "counterstrike",
           "pos": "noun",
           "ipa": "[kʼo̞ntʼɾdäɾtʼχʼmä]",
-          "audio": "audio/sports/005.mp3",
+          "audio": "audio/sports/004.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
         },
@@ -5220,7 +9060,7 @@
           "en": "goalkeeper",
           "pos": "noun",
           "ipa": "[me̞kʼäɾe̞]",
-          "audio": "audio/sports/006.mp3",
+          "audio": "audio/sports/005.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
         },
@@ -5230,7 +9070,7 @@
           "en": "wrestler",
           "pos": "noun",
           "ipa": "[mo̞t͡ʃʼidäve̞]",
-          "audio": "audio/sports/007.mp3",
+          "audio": "audio/sports/006.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
         },
@@ -5240,7 +9080,7 @@
           "en": "team",
           "pos": "noun",
           "ipa": "[näkʼɾe̞bi]",
-          "audio": "audio/sports/008.mp3",
+          "audio": "audio/sports/007.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
         },
@@ -5250,6 +9090,16 @@
           "en": "sportsman",
           "pos": "noun",
           "ipa": "[spʼo̞ɾtʼsme̞ni]",
+          "audio": "audio/sports/008.mp3",
+          "audioSource": "tts",
+          "page": "themes/sports.html"
+        },
+        {
+          "ka": "ტრაპეცია",
+          "roman": "ṭraṗecia",
+          "en": "trapeze",
+          "pos": "noun",
+          "ipa": "[tʼɾäpʼe̞t͡sʰiä]",
           "audio": "audio/sports/009.mp3",
           "audioSource": "tts",
           "page": "themes/sports.html"
@@ -5377,7 +9227,7 @@
         {
           "ka": "მარტორქა",
           "roman": "marṭorka",
-          "en": "rhinoceros (mammal)",
+          "en": "unicorn",
           "pos": "noun",
           "ipa": "[mäɾtʼo̞ɾkʰä]",
           "audio": "audio/mammals/005.mp3",
@@ -5633,6 +9483,156 @@
           "audio": "audio/vegetables/014.mp3",
           "audioSource": "tts",
           "page": "themes/vegetables.html"
+        }
+      ]
+    },
+    {
+      "id": "face",
+      "name": "Face",
+      "nameKa": "სახე",
+      "icon": "◯",
+      "count": 14,
+      "page": "themes/face.html",
+      "words": [
+        {
+          "ka": "ბაგე",
+          "roman": "bage",
+          "en": "lip",
+          "pos": "noun",
+          "ipa": "[b̥äɡe̞]",
+          "audio": "audio/face/000.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "ლოყა",
+          "roman": "loq̇a",
+          "en": "cheek",
+          "pos": "noun",
+          "ipa": "[ɫo̞χʼä]",
+          "audio": "audio/face/001.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "ნესტო",
+          "roman": "nesṭo",
+          "en": "nostril",
+          "pos": "noun",
+          "ipa": "[ne̞stʼo̞]",
+          "audio": "audio/face/002.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "ნიკაპი",
+          "roman": "niḳaṗi",
+          "en": "chin",
+          "pos": "noun",
+          "ipa": "[nikʼäpʼi]",
+          "audio": "audio/face/003.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "პინჩვი",
+          "roman": "ṗinčvi",
+          "en": "nostrils",
+          "pos": "noun",
+          "ipa": null,
+          "audio": "audio/face/004.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "პინჩი",
+          "roman": "ṗinči",
+          "en": "nostril",
+          "pos": "noun",
+          "ipa": "[pʼint͡ʃʰi]",
+          "audio": "audio/face/005.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "პირი",
+          "roman": "ṗiri",
+          "en": "face",
+          "pos": "noun",
+          "ipa": "[pʼiɾi]",
+          "audio": "audio/face/006.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "პოპორი",
+          "roman": "ṗoṗori",
+          "en": "lip, face",
+          "pos": "noun",
+          "ipa": "[pʼo̞pʼo̞ɾi]",
+          "audio": "audio/face/007.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "საულვაშე",
+          "roman": "saulvaše",
+          "en": "area on the face (above the lips), where the mustache grows",
+          "pos": "noun",
+          "ipa": "[säulʷäʃe̞]",
+          "audio": "audio/face/008.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "ღაწვი",
+          "roman": "ɣac̣vi",
+          "en": "synonym of ლოყა (loq̇a, “cheek”)",
+          "pos": "noun",
+          "ipa": "[ʁät͡sʼʷi]",
+          "audio": "audio/face/009.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "ღოჯი",
+          "roman": "ɣoǯi",
+          "en": "bucktooth",
+          "pos": "noun",
+          "ipa": "[ʁo̞d͡ʒi]",
+          "audio": "audio/face/010.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "შუბლი",
+          "roman": "šubli",
+          "en": "forehead",
+          "pos": "noun",
+          "ipa": "[ʃubli]",
+          "audio": "audio/face/011.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "ცხვირი",
+          "roman": "cxviri",
+          "en": "nose",
+          "pos": "noun",
+          "ipa": "/t͡sxviri/",
+          "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Ka-%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98%E1%83%A0%E1%83%98-Nicodene-mom.ogg/Ka-%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98%E1%83%A0%E1%83%98-Nicodene-mom.ogg.mp3",
+          "audioSource": "wiktionary",
+          "page": "themes/face.html"
+        },
+        {
+          "ka": "წარბი",
+          "roman": "c̣arbi",
+          "en": "brow, eyebrow",
+          "pos": "noun",
+          "ipa": "[t͡sʼäɾbi]",
+          "audio": "audio/face/013.mp3",
+          "audioSource": "tts",
+          "page": "themes/face.html"
         }
       ]
     },
@@ -5937,146 +9937,6 @@
       ]
     },
     {
-      "id": "face",
-      "name": "Face",
-      "nameKa": "სახე",
-      "icon": "◯",
-      "count": 13,
-      "page": "themes/face.html",
-      "words": [
-        {
-          "ka": "ბაგე",
-          "roman": "bage",
-          "en": "lip",
-          "pos": "noun",
-          "ipa": "[b̥äɡe̞]",
-          "audio": "audio/face/000.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "ლოყა",
-          "roman": "loq̇a",
-          "en": "cheek",
-          "pos": "noun",
-          "ipa": "[ɫo̞χʼä]",
-          "audio": "audio/face/001.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "ნესტო",
-          "roman": "nesṭo",
-          "en": "nostril",
-          "pos": "noun",
-          "ipa": "[ne̞stʼo̞]",
-          "audio": "audio/face/002.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "ნიკაპი",
-          "roman": "niḳaṗi",
-          "en": "chin",
-          "pos": "noun",
-          "ipa": "[nikʼäpʼi]",
-          "audio": "audio/face/003.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "პინჩვი",
-          "roman": "ṗinčvi",
-          "en": "nostrils",
-          "pos": "noun",
-          "ipa": null,
-          "audio": "audio/face/004.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "პინჩი",
-          "roman": "ṗinči",
-          "en": "nostril",
-          "pos": "noun",
-          "ipa": "[pʼint͡ʃʰi]",
-          "audio": "audio/face/005.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "პოპორი",
-          "roman": "ṗoṗori",
-          "en": "lip, face",
-          "pos": "noun",
-          "ipa": "[pʼo̞pʼo̞ɾi]",
-          "audio": "audio/face/006.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "საულვაშე",
-          "roman": "saulvaše",
-          "en": "area on the face (above the lips), where the mustache grows",
-          "pos": "noun",
-          "ipa": "[säulʷäʃe̞]",
-          "audio": "audio/face/007.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "ღაწვი",
-          "roman": "ɣac̣vi",
-          "en": "synonym of ლოყა (loq̇a, “cheek”)",
-          "pos": "noun",
-          "ipa": "[ʁät͡sʼʷi]",
-          "audio": "audio/face/008.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "ღოჯი",
-          "roman": "ɣoǯi",
-          "en": "bucktooth",
-          "pos": "noun",
-          "ipa": "[ʁo̞d͡ʒi]",
-          "audio": "audio/face/009.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "შუბლი",
-          "roman": "šubli",
-          "en": "forehead",
-          "pos": "noun",
-          "ipa": "[ʃubli]",
-          "audio": "audio/face/010.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "ცხვირი",
-          "roman": "cxviri",
-          "en": "nose",
-          "pos": "noun",
-          "ipa": "/t͡sxviri/",
-          "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Ka-%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98%E1%83%A0%E1%83%98-Nicodene-mom.ogg/Ka-%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98%E1%83%A0%E1%83%98-Nicodene-mom.ogg.mp3",
-          "audioSource": "wiktionary",
-          "page": "themes/face.html"
-        },
-        {
-          "ka": "წარბი",
-          "roman": "c̣arbi",
-          "en": "brow, eyebrow",
-          "pos": "noun",
-          "ipa": "[t͡sʼäɾbi]",
-          "audio": "audio/face/012.mp3",
-          "audioSource": "tts",
-          "page": "themes/face.html"
-        }
-      ]
-    },
-    {
       "id": "light-sources",
       "name": "Light sources",
       "nameKa": "სინათლე",
@@ -6147,7 +10007,7 @@
         {
           "ka": "სანთელი",
           "roman": "santeli",
-          "en": "candle",
+          "en": "wax",
           "pos": "noun",
           "ipa": "[säntʰe̞li]",
           "audio": "audio/light-sources/006.mp3",
@@ -6203,6 +10063,126 @@
           "audio": "audio/light-sources/011.mp3",
           "audioSource": "tts",
           "page": "themes/light-sources.html"
+        }
+      ]
+    },
+    {
+      "id": "proverbs",
+      "name": "Proverbs",
+      "nameKa": "ანდაზები",
+      "icon": "📜",
+      "count": 11,
+      "page": "themes/proverbs.html",
+      "words": [
+        {
+          "ka": "ასჯერ გაგონილს ერთხელ ნანახი ჯობიაო",
+          "roman": "asǯer gagonils ertxel nanaxi ǯobiao",
+          "en": "picture is worth a thousand words",
+          "pos": "proverb",
+          "ipa": "[äsd͡ʒe̞ɾ ɡ̊äɡo̞nils e̞ɾtʰχe̞l nänäχi d͡ʒo̞biäo̞]",
+          "audio": "audio/proverbs/000.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "გემოვნებაზე არ დაობენ",
+          "roman": "gemovnebaze ar daoben",
+          "en": "there's no accounting for taste",
+          "pos": "proverb",
+          "ipa": null,
+          "audio": "audio/proverbs/001.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "დრო ყველაფრის მკურნალია",
+          "roman": "dro q̇velapris mḳurnalia",
+          "en": "time heals all wounds",
+          "pos": "proverb",
+          "ipa": "[d̥ɾo̞ χʼʷe̞ɫäpʰɾis mkʼuɾnäliä]",
+          "audio": "audio/proverbs/002.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "ვისაც ვინ უყვარს, მისი ლამაზიც ის არის",
+          "roman": "visac vin uq̇vars",
+          "en": "beauty is in the eye of the beholder",
+          "pos": "proverb",
+          "ipa": "[visät͡sʰ vin uχʼʷäɾs misi ɫämäzit͡sʰ is äɾis]",
+          "audio": "audio/proverbs/003.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "თხელ ყინულზე",
+          "roman": "txel q̇inulze",
+          "en": "on thin ice",
+          "pos": "proverb",
+          "ipa": "[tʰχe̞l χʼinulze̞]",
+          "audio": "audio/proverbs/004.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "მიზანი ამართლებს საშუალებას",
+          "roman": "mizani amartlebs sašualebas",
+          "en": "the end justifies the means",
+          "pos": "proverb",
+          "ipa": "[mizäni ämäɾtʰle̞bs säʃuäle̞bäs]",
+          "audio": "audio/proverbs/005.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "რასაცა გასცემ შენია, რას არა დაკარგულია",
+          "roman": "rasaca gascem šenia",
+          "en": "That which we give makes us richer, that which is hoarded is lost",
+          "pos": "proverb",
+          "ipa": null,
+          "audio": "audio/proverbs/006.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "ყვავმა ყვავს უთხრა შე შავოო",
+          "roman": "q̇vavma q̇vavs utxra še šavoo",
+          "en": "pot calling the kettle black",
+          "pos": "proverb",
+          "ipa": "[χʼʷävmä χʼʷäfs utʰχɾä ʃe̞ ʃävo̞o̞]",
+          "audio": "audio/proverbs/007.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "ჩემი მტრის მტერი ჩემი მეგობარია",
+          "roman": "čemi mṭris mṭeri čemi megobaria",
+          "en": "the enemy of my enemy is my friend",
+          "pos": "proverb",
+          "ipa": "[t͡ʃʰe̞mi mtʼɾis mtʼe̞ɾi t͡ʃʰe̞mi me̞ɡo̞bäɾiä]",
+          "audio": "audio/proverbs/008.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "ძაღლი ახსენე და ჯოხი ხელში დაიჭირეო",
+          "roman": "ʒaɣli axsene da ǯoxi xelši daič̣ireo",
+          "en": "speak of the devil and he shall appear, talk of the devil",
+          "pos": "proverb",
+          "ipa": "[d͡zäʁli äχse̞ne̞ d̥ä d͡ʒo̞χi χe̞lʃi d̥äit͡ʃʼiɾe̞o̞]",
+          "audio": "audio/proverbs/009.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
+        },
+        {
+          "ka": "ძაღლი ყეფს ქარავანი მიდის",
+          "roman": "ʒaɣli q̇eps karavani midis",
+          "en": "the dogs bark, but the caravan goes on",
+          "pos": "proverb",
+          "ipa": "[d͡zäʁli χʼe̞pʰs kʰäɾäväni midis]",
+          "audio": "audio/proverbs/010.mp3",
+          "audioSource": "tts",
+          "page": "themes/proverbs.html"
         }
       ]
     },
@@ -6307,6 +10287,106 @@
       ]
     },
     {
+      "id": "female-family-members",
+      "name": "Female family members",
+      "nameKa": "მდედრობითი ოჯახი",
+      "icon": "♀",
+      "count": 9,
+      "page": "themes/female-family-members.html",
+      "words": [
+        {
+          "ka": "არაღვიძლი და",
+          "roman": "araɣviʒli da",
+          "en": "stepsister",
+          "pos": "noun",
+          "ipa": "[äɾäʁʷid͡zli d̥ä]",
+          "audio": "audio/female-family-members/000.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "არაღვიძლი ქალიშვილი",
+          "roman": "araɣviʒli kališvili",
+          "en": "stepdaughter",
+          "pos": "noun",
+          "ipa": "[äɾäʁʷid͡zli kʰäliʃʷili]",
+          "audio": "audio/female-family-members/001.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "ბებიაჩემი",
+          "roman": "bebiačemi",
+          "en": "the speaker's grandmother; my grandmother",
+          "pos": "noun",
+          "ipa": "[b̥e̞biät͡ʃʰe̞mi]",
+          "audio": "audio/female-family-members/002.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "და",
+          "roman": "da",
+          "en": "sister",
+          "pos": "noun",
+          "ipa": "[d̥ä]",
+          "audio": "audio/female-family-members/003.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "დედაშენი",
+          "roman": "dedašeni",
+          "en": "your mother",
+          "pos": "noun",
+          "ipa": "[d̥e̞däʃe̞ni]",
+          "audio": "audio/female-family-members/004.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "დედაჩემი",
+          "roman": "dedačemi",
+          "en": "mother of the speaker, my mother",
+          "pos": "noun",
+          "ipa": "[d̥e̞dät͡ʃʰe̞mi]",
+          "audio": "audio/female-family-members/005.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "რძალი",
+          "roman": "rʒali",
+          "en": "the wife of one‘s spouse‘s sibling (with the sibling usually being the brother of one‘s husband)",
+          "pos": "noun",
+          "ipa": "[ɾd͡zäli]",
+          "audio": "audio/female-family-members/006.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "შილი",
+          "roman": "šili",
+          "en": "brother-in-law's (only husband's brother) wife",
+          "pos": "noun",
+          "ipa": "[ʃili]",
+          "audio": "audio/female-family-members/007.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        },
+        {
+          "ka": "ცოლი",
+          "roman": "coli",
+          "en": "wife",
+          "pos": "noun",
+          "ipa": "[t͡sʰo̞li]",
+          "audio": "audio/female-family-members/008.mp3",
+          "audioSource": "tts",
+          "page": "themes/female-family-members.html"
+        }
+      ]
+    },
+    {
       "id": "musical-instruments",
       "name": "Musical instruments",
       "nameKa": "მუსიკალური ინსტრუმენტები",
@@ -6403,106 +10483,6 @@
           "audio": "audio/musical-instruments/008.mp3",
           "audioSource": "tts",
           "page": "themes/musical-instruments.html"
-        }
-      ]
-    },
-    {
-      "id": "trees",
-      "name": "Trees",
-      "nameKa": "ხეები",
-      "icon": "🌲",
-      "count": 9,
-      "page": "themes/trees.html",
-      "words": [
-        {
-          "ka": "თელა",
-          "roman": "tela",
-          "en": "gold (metal)",
-          "pos": "noun",
-          "ipa": "[tʰe̞ɫä]",
-          "audio": "audio/trees/000.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "კაკალი",
-          "roman": "ḳaḳali",
-          "en": "walnut-tree, Juglans regia",
-          "pos": "noun",
-          "ipa": "[kʼäkʼäli]",
-          "audio": "audio/trees/001.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "კუნძი",
-          "roman": "ḳunʒi",
-          "en": "stump, chump, snag",
-          "pos": "noun",
-          "ipa": "[kʼund͡zi]",
-          "audio": "audio/trees/002.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "საშობაო ნაძვის ხე",
-          "roman": "sašobao naʒvis xe",
-          "en": "Christmas tree",
-          "pos": "noun",
-          "ipa": "[säʃo̞bäo̞ näd͡zʷis χe̞]",
-          "audio": "audio/trees/003.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "ღვია",
-          "roman": "ɣvia",
-          "en": "juniper tree",
-          "pos": "noun",
-          "ipa": "[ʁʷiä]",
-          "audio": "audio/trees/004.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "ჩინარი",
-          "roman": "činari",
-          "en": "planetree",
-          "pos": "noun",
-          "ipa": "[t͡ʃʰinäɾi]",
-          "audio": "audio/trees/005.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "წიფელი",
-          "roman": "c̣ipeli",
-          "en": "beech",
-          "pos": "noun",
-          "ipa": "[t͡sʼipʰe̞li]",
-          "audio": "audio/trees/006.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "ხე",
-          "roman": "xe",
-          "en": "tree",
-          "pos": "noun",
-          "ipa": "[χe̞]",
-          "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/Ka-%E1%83%AE%E1%83%94.ogg/Ka-%E1%83%AE%E1%83%94.ogg.mp3",
-          "audioSource": "wiktionary",
-          "page": "themes/trees.html"
-        },
-        {
-          "ka": "ჯონჯოლი",
-          "roman": "ǯonǯoli",
-          "en": "bladdernut",
-          "pos": "noun",
-          "ipa": "[d͡ʒo̞nd͡ʒo̞li]",
-          "audio": "audio/trees/008.mp3",
-          "audioSource": "tts",
-          "page": "themes/trees.html"
         }
       ]
     },
@@ -6693,96 +10673,6 @@
           "audio": "audio/days-of-the-week/007.mp3",
           "audioSource": "tts",
           "page": "themes/days-of-the-week.html"
-        }
-      ]
-    },
-    {
-      "id": "female-family-members",
-      "name": "Female family members",
-      "nameKa": "მდედრობითი ოჯახი",
-      "icon": "♀",
-      "count": 8,
-      "page": "themes/female-family-members.html",
-      "words": [
-        {
-          "ka": "არაღვიძლი და",
-          "roman": "araɣviʒli da",
-          "en": "stepsister",
-          "pos": "noun",
-          "ipa": "[äɾäʁʷid͡zli d̥ä]",
-          "audio": "audio/female-family-members/000.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
-        },
-        {
-          "ka": "არაღვიძლი ქალიშვილი",
-          "roman": "araɣviʒli kališvili",
-          "en": "stepdaughter",
-          "pos": "noun",
-          "ipa": "[äɾäʁʷid͡zli kʰäliʃʷili]",
-          "audio": "audio/female-family-members/001.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
-        },
-        {
-          "ka": "ბებიაჩემი",
-          "roman": "bebiačemi",
-          "en": "the speaker's grandmother; my grandmother",
-          "pos": "noun",
-          "ipa": "[b̥e̞biät͡ʃʰe̞mi]",
-          "audio": "audio/female-family-members/002.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
-        },
-        {
-          "ka": "და",
-          "roman": "da",
-          "en": "sister",
-          "pos": "noun",
-          "ipa": "[d̥ä]",
-          "audio": "audio/female-family-members/003.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
-        },
-        {
-          "ka": "დედაშენი",
-          "roman": "dedašeni",
-          "en": "your mother",
-          "pos": "noun",
-          "ipa": "[d̥e̞däʃe̞ni]",
-          "audio": "audio/female-family-members/004.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
-        },
-        {
-          "ka": "დედაჩემი",
-          "roman": "dedačemi",
-          "en": "mother of the speaker, my mother",
-          "pos": "noun",
-          "ipa": "[d̥e̞dät͡ʃʰe̞mi]",
-          "audio": "audio/female-family-members/005.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
-        },
-        {
-          "ka": "შილი",
-          "roman": "šili",
-          "en": "brother-in-law's (only husband's brother) wife",
-          "pos": "noun",
-          "ipa": "[ʃili]",
-          "audio": "audio/female-family-members/006.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
-        },
-        {
-          "ka": "ცოლი",
-          "roman": "coli",
-          "en": "wife",
-          "pos": "noun",
-          "ipa": "[t͡sʰo̞li]",
-          "audio": "audio/female-family-members/007.mp3",
-          "audioSource": "tts",
-          "page": "themes/female-family-members.html"
         }
       ]
     },

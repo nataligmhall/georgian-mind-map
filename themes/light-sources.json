@@ -10,7 +10,6 @@
       "roman": "bazma",
       "en": "burning walnut placed before a child ill with smallpox, scarlet fever or measles, to save it from death",
       "glosses": [
-        "a small oil lamp, typically used to light an icon in a church",
         "burning walnut placed before a child ill with smallpox, scarlet fever or measles, to save it from death"
       ],
       "pos": "noun",
@@ -86,8 +85,7 @@
       "roman": "natura",
       "en": "light bulb",
       "glosses": [
-        "light bulb",
-        "lamp"
+        "light bulb"
       ],
       "pos": "noun",
       "ipa": "[nätʰuɾä]",
@@ -100,11 +98,9 @@
     {
       "ka": "სანთელი",
       "roman": "santeli",
-      "en": "candle",
+      "en": "wax",
       "glosses": [
-        "candle",
-        "wax",
-        "suppository"
+        "wax"
       ],
       "pos": "noun",
       "ipa": "[säntʰe̞li]",

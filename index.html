@@ -152,7 +152,17 @@
     const audioCount = data.categories.reduce((n, c) => n + c.words.filter(w => w.audio).length, 0);
     statsEl.textContent = `${data.stats.themes} themes · ${data.stats.words} words · ${audioCount} audio`;
 
-    themeMenu.innerHTML = data.categories.map(c =>
+    const pinned = ["verbs", "phrases", "proverbs"];
+    const menuCategories = [...data.categories].sort((a, b) => {
+      const ai = pinned.indexOf(a.id);
+      const bi = pinned.indexOf(b.id);
+      if (ai >= 0 && bi >= 0) return ai - bi;
+      if (ai >= 0) return -1;
+      if (bi >= 0) return 1;
+      return b.count - a.count;
+    });
+
+    themeMenu.innerHTML = menuCategories.map(c =>
       `<a href="${c.page}">${c.name}<span>${c.nameKa} · ${c.count}</span></a>`
     ).join("");
 

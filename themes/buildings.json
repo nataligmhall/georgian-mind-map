@@ -40,7 +40,6 @@
       "roman": "beɣo",
       "en": "sparrow",
       "glosses": [
-        "shed for sheaves",
         "sparrow"
       ],
       "pos": "noun",
@@ -56,9 +55,7 @@
       "roman": "biblioteḳa",
       "en": "library",
       "glosses": [
-        "library",
-        "library (collection of books)",
-        "library (collection of analogous information)"
+        "library"
       ],
       "pos": "noun",
       "ipa": "[b̥iblio̞tʰe̞kʼä]",
@@ -88,8 +85,7 @@
       "roman": "godoli",
       "en": "pillar",
       "glosses": [
-        "pillar",
-        "tower"
+        "pillar"
       ],
       "pos": "noun",
       "ipa": "[ɡ̊o̞do̞li]",
@@ -104,7 +100,6 @@
       "roman": "darbazi",
       "en": "palace",
       "glosses": [
-        "hall, chamber",
         "palace"
       ],
       "pos": "noun",
@@ -112,13 +107,7 @@
       "audio": "audio/buildings/006.mp3",
       "audioLocal": "audio/buildings/006.mp3",
       "audioSource": "tts",
-      "examples": [
-        {
-          "ka": "მოსაცდელი დარბაზი",
-          "roman": "mosacdeli darbazi",
-          "en": "waiting hall"
-        }
-      ],
+      "examples": [],
       "etymology": "Borrowed from Middle Persian [Book Pahlavi needed] (dlpʾs /⁠darbās⁠/). Compare Old Armenian դարպաս (darpas), also from Iranian. Further compare Persian دروازه (darvâze, “gate”)."
     },
     {
@@ -126,8 +115,7 @@
       "roman": "dukani",
       "en": "dukhan",
       "glosses": [
-        "dukhan",
-        "shop, store"
+        "dukhan"
       ],
       "pos": "noun",
       "ipa": "[d̥ukʰäni]",
@@ -187,8 +175,7 @@
       "roman": "ḳošḳi",
       "en": "tower",
       "glosses": [
-        "tower",
-        "castle"
+        "tower"
       ],
       "pos": "noun",
       "ipa": "[kʼo̞ʃkʼi]",
@@ -308,7 +295,6 @@
       "roman": "salaro",
       "en": "cash register, till",
       "glosses": [
-        "cashier's office",
         "cash register, till"
       ],
       "pos": "noun",
@@ -459,8 +445,7 @@
       "roman": "pacxa",
       "en": "wattled hut",
       "glosses": [
-        "wattled hut",
-        "small basket put on the stone in the mill, into which maize pours from the box"
+        "wattled hut"
       ],
       "pos": "noun",
       "ipa": null,
@@ -518,10 +503,9 @@
     {
       "ka": "ციხე",
       "roman": "cixe",
-      "en": "jail, prison",
+      "en": "fortress",
       "glosses": [
-        "fortress",
-        "jail, prison"
+        "fortress"
       ],
       "pos": "noun",
       "ipa": "[t͡sʰiχe̞]",

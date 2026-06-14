@@ -1,0 +1,690 @@
+{
+  "id": "food-and-drink",
+  "name": "Food and drink",
+  "nameKa": "საჭმელი და სასმელი",
+  "icon": "◈",
+  "count": 45,
+  "words": [
+    {
+      "ka": "00-იანები",
+      "roman": "00-ianebi",
+      "en": "'00s, noughties, aughts",
+      "glosses": [
+        "'00s, noughties, aughts"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/food-and-drink/000.mp3",
+      "audioLocal": "audio/food-and-drink/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "00-იანი წლები",
+      "roman": "00-iani c̣lebi",
+      "en": "'00s, noughties, aughts",
+      "glosses": [
+        "'00s, noughties, aughts"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/food-and-drink/001.mp3",
+      "audioLocal": "audio/food-and-drink/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "10-იანები",
+      "roman": "10-ianebi",
+      "en": "'10s, tens",
+      "glosses": [
+        "'10s, tens"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/002.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "10-იანი წლები",
+      "roman": "10-iani c̣lebi",
+      "en": "'10s, tens",
+      "glosses": [
+        "'10s, tens"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/003.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "20-იანები",
+      "roman": "20-ianebi",
+      "en": "'20s, twenties",
+      "glosses": [
+        "'20s, twenties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/004.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "20-იანი წლები",
+      "roman": "20-iani c̣lebi",
+      "en": "'20s, twenties",
+      "glosses": [
+        "'20s, twenties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/005.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "30-იანები",
+      "roman": "30-ianebi",
+      "en": "'30s, thirties",
+      "glosses": [
+        "'30s, thirties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/006.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "30-იანი წლები",
+      "roman": "30-iani c̣lebi",
+      "en": "'30s, thirties",
+      "glosses": [
+        "'30s, thirties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/007.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "40-იანები",
+      "roman": "40-ianebi",
+      "en": "'40s, forties",
+      "glosses": [
+        "'40s, forties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/008.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "40-იანი წლები",
+      "roman": "40-iani c̣lebi",
+      "en": "'40s, forties",
+      "glosses": [
+        "'40s, forties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/009.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "50-იანები",
+      "roman": "50-ianebi",
+      "en": "'50s, fifties",
+      "glosses": [
+        "'50s, fifties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/010.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "50-იანი წლები",
+      "roman": "50-iani c̣lebi",
+      "en": "'50s, fifties",
+      "glosses": [
+        "'50s, fifties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/011.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "60-იანები",
+      "roman": "60-ianebi",
+      "en": "'60s, sixties",
+      "glosses": [
+        "'60s, sixties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/012.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "60-იანი წლები",
+      "roman": "60-iani c̣lebi",
+      "en": "'60s, sixties",
+      "glosses": [
+        "'60s, sixties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/013.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "70-იანები",
+      "roman": "70-ianebi",
+      "en": "'70s, seventies",
+      "glosses": [
+        "'70s, seventies"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/014.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "70-იანი წლები",
+      "roman": "70-iani c̣lebi",
+      "en": "'70s, seventies",
+      "glosses": [
+        "'70s, seventies"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/015.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "80-იანები",
+      "roman": "80-ianebi",
+      "en": "'80s, eighties",
+      "glosses": [
+        "'80s, eighties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/016.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "80-იანი წლები",
+      "roman": "80-iani c̣lebi",
+      "en": "'80s, eighties",
+      "glosses": [
+        "'80s, eighties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/017.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "90-იანები",
+      "roman": "90-ianebi",
+      "en": "'90s, nineties",
+      "glosses": [
+        "'90s, nineties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/018.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "90-იანი წლები",
+      "roman": "90-iani c̣lebi",
+      "en": "'90s, nineties",
+      "glosses": [
+        "'90s, nineties"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/019.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "A ვიტამინი",
+      "roman": "A viṭamini",
+      "en": "vitamin A",
+      "glosses": [
+        "vitamin A"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/020.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B ვიტამინი",
+      "roman": "B viṭamini",
+      "en": "vitamin B (any of the vitamins in the vitamin B complex)",
+      "glosses": [
+        "vitamin B (any of the vitamins in the vitamin B complex)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/021.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B ჯგუფის ვიტამინების კომპლექსი",
+      "roman": "B ǯgupis viṭaminebis ḳomṗleksi",
+      "en": "vitamin B complex",
+      "glosses": [
+        "vitamin B complex"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/022.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B-ვიტამინების კომპლექსი",
+      "roman": "B-viṭaminebis ḳomṗleksi",
+      "en": "vitamin B complex",
+      "glosses": [
+        "vitamin B complex"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/023.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "B-ჯგუფის ვიტამინები",
+      "roman": "B-ǯgupis viṭaminebi",
+      "en": "vitamin B complex (vitamins belonging to group B)",
+      "glosses": [
+        "vitamin B complex (vitamins belonging to group B)"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/024.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "C ვიტამინი",
+      "roman": "C viṭamini",
+      "en": "vitamin C",
+      "glosses": [
+        "vitamin C"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/025.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "D ვიტამინი",
+      "roman": "D viṭamini",
+      "en": "vitamin D",
+      "glosses": [
+        "vitamin D"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/026.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "E ვიტამინი",
+      "roman": "E viṭamini",
+      "en": "vitamin E",
+      "glosses": [
+        "vitamin E"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/027.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "K ვიტამინი",
+      "roman": "K viṭamini",
+      "en": "vitamin K",
+      "glosses": [
+        "vitamin K"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/028.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "SIM-ბარათი",
+      "roman": "SIM-barati",
+      "en": "SIM card",
+      "glosses": [
+        "SIM card"
+      ],
+      "pos": "noun",
+      "ipa": "[simbäɾätʰi]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/029.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ა.შ.",
+      "roman": "",
+      "en": "etc.",
+      "glosses": [
+        "etc."
+      ],
+      "pos": "adv",
+      "ipa": null,
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/030.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Abbreviation of ასე შემდეგ (ase šemdeg, “and so on”)."
+    },
+    {
+      "ka": "ააბარგებს",
+      "roman": "aabargebs",
+      "en": "to make (someone) move house",
+      "glosses": [
+        "to make (someone) move house"
+      ],
+      "pos": "verb",
+      "ipa": "[ääbäɾɡe̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/031.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ააგდებს",
+      "roman": "aagdebs",
+      "en": "to throw (something) up",
+      "glosses": [
+        "to throw (something) up"
+      ],
+      "pos": "verb",
+      "ipa": "[ääɡde̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/032.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ააგიზგიზებს",
+      "roman": "aagizgizebs",
+      "en": "to start a strong, roaring fire",
+      "glosses": [
+        "to start a strong, roaring fire"
+      ],
+      "pos": "verb",
+      "ipa": "[ääɡizɡize̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/033.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "See აგიზგიზება (agizgizeba)."
+    },
+    {
+      "ka": "აადვილებს",
+      "roman": "aadvilebs",
+      "en": "to make easy",
+      "glosses": [
+        "to make easy"
+      ],
+      "pos": "verb",
+      "ipa": "[äädʷile̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/034.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "See გაადვილება (gaadvileba)."
+    },
+    {
+      "ka": "აავსებს",
+      "roman": "aavsebs",
+      "en": "to fill",
+      "glosses": [
+        "to fill"
+      ],
+      "pos": "verb",
+      "ipa": "[ääfse̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/035.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ა- (a-) + ავსებს (avsebs)."
+    },
+    {
+      "ka": "აალაგებს",
+      "roman": "aalagebs",
+      "en": "to tidy, to tidy up",
+      "glosses": [
+        "to tidy, to tidy up"
+      ],
+      "pos": "verb",
+      "ipa": "[ääɫäɡe̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/036.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ა- (a-) + ალაგებს (alagebs)."
+    },
+    {
+      "ka": "აალება",
+      "roman": "aaleba",
+      "en": "ignition",
+      "glosses": [
+        "ignition"
+      ],
+      "pos": "noun",
+      "ipa": "[ääle̞bä]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/037.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აალებადი",
+      "roman": "aalebadi",
+      "en": "flammable",
+      "glosses": [
+        "flammable"
+      ],
+      "pos": "adj",
+      "ipa": "[ääle̞bädi]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/038.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From აალება (aaleba, “ignition”) + -ადი (-adi)."
+    },
+    {
+      "ka": "აამებს",
+      "roman": "aamebs",
+      "en": "to bring pleasure to",
+      "glosses": [
+        "to bring pleasure to"
+      ],
+      "pos": "verb",
+      "ipa": "[ääme̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/039.mp3",
+      "audioSource": null,
+      "examples": [
+        {
+          "ka": "მისმა საჩუქარმა ძალიან მაამა",
+          "roman": "misma sačukarma ʒalian maama",
+          "en": "His present delighted me very much"
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "ააფეთქებს",
+      "roman": "aapetkebs",
+      "en": "to blow up, to explode",
+      "glosses": [
+        "to blow up, to explode"
+      ],
+      "pos": "verb",
+      "ipa": "[ääpʰe̞tʰkʰe̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/040.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ა- (a-) + აფეთქებს (apetkebs)."
+    },
+    {
+      "ka": "ააშენებს",
+      "roman": "aašenebs",
+      "en": "to build",
+      "glosses": [
+        "to build"
+      ],
+      "pos": "verb",
+      "ipa": "[ääʃe̞ne̞bs]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/041.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "From ა- (a-) + აშენებს (ašenebs)."
+    },
+    {
+      "ka": "აბაზანა",
+      "roman": "abazana",
+      "en": "bathtub",
+      "glosses": [
+        "bathtub"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäzänä]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/042.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "An Iranian borrowing. Compare Persian آبزن (âbzan, “bathtub”) and see there for more. Doublet of ავაზანი (avazani)."
+    },
+    {
+      "ka": "აბაზი",
+      "roman": "abazi",
+      "en": "abazi, 20 kopeck coin",
+      "glosses": [
+        "abazi, 20 kopeck coin"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäzi]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/043.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Classical Persian عَبَّاسِی (abbāsī)."
+    },
+    {
+      "ka": "აბაკი",
+      "roman": "abaḳi",
+      "en": "abacus",
+      "glosses": [
+        "abacus"
+      ],
+      "pos": "noun",
+      "ipa": "[äbäkʼi]",
+      "audio": null,
+      "audioLocal": "audio/food-and-drink/044.mp3",
+      "audioSource": null,
+      "examples": [],
+      "etymology": "Borrowed from Russian аба́к (abák)."
+    }
+  ]
+}

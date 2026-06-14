@@ -3,7 +3,7 @@
   "name": "Colors",
   "nameKa": "ფერები",
   "icon": "◉",
-  "count": 45,
+  "count": 97,
   "words": [
     {
       "ka": "ალისფერი",
@@ -451,8 +451,7 @@
       "roman": "mec̣amuli",
       "en": "dark red",
       "glosses": [
-        "dark red",
-        "purple"
+        "dark red"
       ],
       "pos": "adj",
       "ipa": "[me̞t͡sʼämuli]",
@@ -686,6 +685,786 @@
       "audioSource": "tts",
       "examples": [],
       "etymology": "From ფორთოხლისფერი (portoxlisperi) + მო- -ო (mo- -o)."
+    },
+    {
+      "ka": "მოყავისფრო",
+      "roman": "moq̇avispro",
+      "en": "brownish",
+      "glosses": [
+        "brownish"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞χʼävispʰɾo̞]",
+      "audio": "audio/colors/045.mp3",
+      "audioLocal": "audio/colors/045.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ყავისფერი (q̇avisperi) + მო- -ო (mo- -o)."
+    },
+    {
+      "ka": "მოყვითალო",
+      "roman": "moq̇vitalo",
+      "en": "sallow, yellowish",
+      "glosses": [
+        "sallow, yellowish"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞χʼʷitʰäɫo̞]",
+      "audio": "audio/colors/046.mp3",
+      "audioLocal": "audio/colors/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ყვითელი (q̇viteli) + მო- -ო (mo- -o)."
+    },
+    {
+      "ka": "მოშავო",
+      "roman": "mošavo",
+      "en": "blackish",
+      "glosses": [
+        "blackish"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞ʃävo̞]",
+      "audio": "audio/colors/047.mp3",
+      "audioLocal": "audio/colors/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შავი (šavi) + მო- -ო (mo- -o)."
+    },
+    {
+      "ka": "მოცისფრო",
+      "roman": "mocispro",
+      "en": "light bluish/blueish, somewhat sky blue",
+      "glosses": [
+        "light bluish/blueish, somewhat sky blue"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞t͡sʰispʰɾo̞]",
+      "audio": "audio/colors/048.mp3",
+      "audioLocal": "audio/colors/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცისფერი (cisperi) + მო- -ო (mo- -o)."
+    },
+    {
+      "ka": "მოცისფრო-მწვანე",
+      "roman": "mocispro-mc̣vane",
+      "en": "aquamarine, sky blue-green",
+      "glosses": [
+        "aquamarine, sky blue-green"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞t͡sʰispʰɾo̞mt͡sʼʷäne̞]",
+      "audio": "audio/colors/049.mp3",
+      "audioLocal": "audio/colors/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოწითალო",
+      "roman": "moc̣italo",
+      "en": "reddish",
+      "glosses": [
+        "reddish"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞t͡sʼitʰäɫo̞]",
+      "audio": "audio/colors/050.mp3",
+      "audioLocal": "audio/colors/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From წითელი (c̣iteli) + მო- -ო (mo- -o)."
+    },
+    {
+      "ka": "მოწითალო-მოლურჯო",
+      "roman": "moc̣italo-molurǯo",
+      "en": "purple, reddish-blueish, red-blue mix",
+      "glosses": [
+        "purple, reddish-blueish, red-blue mix"
+      ],
+      "pos": "adj",
+      "ipa": "[mo̞t͡sʼitʰäɫo̞mo̞ɫuɾd͡ʒo̞]",
+      "audio": "audio/colors/051.mp3",
+      "audioLocal": "audio/colors/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მტრედისფერი",
+      "roman": "mṭredisperi",
+      "en": "light blue, tealish",
+      "glosses": [
+        "light blue, tealish"
+      ],
+      "pos": "adj",
+      "ipa": "[mtʼɾe̞dispʰe̞ɾi]",
+      "audio": "audio/colors/052.mp3",
+      "audioLocal": "audio/colors/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მტრედი (mṭredi, “pigeon”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "მუქლურჯი",
+      "roman": "muklurǯi",
+      "en": "dark blue",
+      "glosses": [
+        "dark blue"
+      ],
+      "pos": "adj",
+      "ipa": "[mukʰɫuɾd͡ʒi]",
+      "audio": "audio/colors/053.mp3",
+      "audioLocal": "audio/colors/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მუქი (muki, “dark”) + ლურჯი (lurǯi, “blue”)."
+    },
+    {
+      "ka": "მწვანე",
+      "roman": "mc̣vane",
+      "en": "green",
+      "glosses": [
+        "green"
+      ],
+      "pos": "adj",
+      "ipa": "/mt͡sʼvanɛ/",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/Ka-%E1%83%9B%E1%83%AC%E1%83%95%E1%83%90%E1%83%9C%E1%83%94-Nicodene-mom.ogg/Ka-%E1%83%9B%E1%83%AC%E1%83%95%E1%83%90%E1%83%9C%E1%83%94-Nicodene-mom.ogg.mp3",
+      "audioLocal": "audio/colors/054.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მხიე",
+      "roman": "mxie",
+      "en": "gray, ash-colored",
+      "glosses": [
+        "gray, ash-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[mχie̞]",
+      "audio": "audio/colors/055.mp3",
+      "audioLocal": "audio/colors/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Perhaps borrowed from Armenian մուխ (mux, “smoke”)."
+    },
+    {
+      "ka": "ნაცრისფერი",
+      "roman": "nacrisperi",
+      "en": "grey",
+      "glosses": [
+        "grey"
+      ],
+      "pos": "adj",
+      "ipa": "[nät͡sʰɾispʰe̞ɾi]",
+      "audio": "audio/colors/056.mp3",
+      "audioLocal": "audio/colors/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნაცარი (nacari, “ash”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ორაგულისფერი",
+      "roman": "oragulisperi",
+      "en": "salmon-colored",
+      "glosses": [
+        "salmon-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[o̞ɾäɡulispʰe̞ɾi]",
+      "audio": "audio/colors/057.mp3",
+      "audioLocal": "audio/colors/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ორაგული (oraguli) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ოქროსფერი",
+      "roman": "okrosperi",
+      "en": "golden (color)",
+      "glosses": [
+        "golden (color)"
+      ],
+      "pos": "adj",
+      "ipa": "[o̞kʰɾo̞spʰe̞ɾi]",
+      "audio": "audio/colors/058.mp3",
+      "audioLocal": "audio/colors/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ოქრო (okro) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ოქროცურვილი",
+      "roman": "okrocurvili",
+      "en": "golden, yellow",
+      "glosses": [
+        "golden, yellow"
+      ],
+      "pos": "adj",
+      "ipa": "[o̞kʰɾo̞t͡sʰuɾʷili]",
+      "audio": "audio/colors/059.mp3",
+      "audioLocal": "audio/colors/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ოქრო (okro) + ცურვილი (curvili)."
+    },
+    {
+      "ka": "პიტნისფერი",
+      "roman": "ṗiṭnisperi",
+      "en": "mint-colored",
+      "glosses": [
+        "mint-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼitʼnispʰe̞ɾi]",
+      "audio": "audio/colors/060.mp3",
+      "audioLocal": "audio/colors/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From პიტნა (ṗiṭna) + -ფერი (-peri)."
+    },
+    {
+      "ka": "პლატინისფერი",
+      "roman": "ṗlaṭinisperi",
+      "en": "platinum (color)",
+      "glosses": [
+        "platinum (color)"
+      ],
+      "pos": "adj",
+      "ipa": "[pʼɫätʼinispʰe̞ɾi]",
+      "audio": "audio/colors/061.mp3",
+      "audioLocal": "audio/colors/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From პლატინა (ṗlaṭina) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ჟოლოსფერი",
+      "roman": "žolosperi",
+      "en": "raspberry-colored, crimson",
+      "glosses": [
+        "raspberry-colored, crimson"
+      ],
+      "pos": "adj",
+      "ipa": "[ʒo̞ɫo̞spʰe̞ɾi]",
+      "audio": "audio/colors/062.mp3",
+      "audioLocal": "audio/colors/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ჟოლო (žolo, “raspberry”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "რკინისფერი",
+      "roman": "rḳinisperi",
+      "en": "iron-colored, iron gray",
+      "glosses": [
+        "iron-colored, iron gray"
+      ],
+      "pos": "adj",
+      "ipa": "[ɾkʼinispʰe̞ɾi]",
+      "audio": "audio/colors/063.mp3",
+      "audioLocal": "audio/colors/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From რკინა (rḳina) + -ფერი (-peri)."
+    },
+    {
+      "ka": "სადაფისფერი",
+      "roman": "sadapisperi",
+      "en": "iridescent, nacre-colored",
+      "glosses": [
+        "iridescent, nacre-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[sädäpʰispʰe̞ɾi]",
+      "audio": "audio/colors/064.mp3",
+      "audioLocal": "audio/colors/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სადაფი (sadapi, “nacre”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "საზამთროსფერი",
+      "roman": "sazamtrosperi",
+      "en": "watermelon-colored, pinkish, color of watermelon pulp",
+      "glosses": [
+        "watermelon-colored, pinkish, color of watermelon pulp"
+      ],
+      "pos": "adj",
+      "ipa": "[säzämtʰɾo̞spʰe̞ɾi]",
+      "audio": "audio/colors/065.mp3",
+      "audioLocal": "audio/colors/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From საზამთრო (sazamtro, “watermelon”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "სალათისფერი",
+      "roman": "salatisperi",
+      "en": "bright green, light green",
+      "glosses": [
+        "bright green, light green"
+      ],
+      "pos": "adj",
+      "ipa": "[säɫätʰispʰe̞ɾi]",
+      "audio": "audio/colors/066.mp3",
+      "audioLocal": "audio/colors/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სალათა (salata) + -ფერი (-peri). Calque of Russian сала́товый (salátovyj)."
+    },
+    {
+      "ka": "საფირისფერი",
+      "roman": "sapirisperi",
+      "en": "sapphire-colored",
+      "glosses": [
+        "sapphire-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[säpʰiɾispʰe̞ɾi]",
+      "audio": "audio/colors/067.mp3",
+      "audioLocal": "audio/colors/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From საფირი (sapiri) + -ფერი (-peri)."
+    },
+    {
+      "ka": "სისხლისფერი",
+      "roman": "sisxlisperi",
+      "en": "blood-colored, crimson, bright red, deep red",
+      "glosses": [
+        "blood-colored, crimson, bright red, deep red"
+      ],
+      "pos": "adj",
+      "ipa": "[sisχlispʰe̞ɾi]",
+      "audio": "audio/colors/068.mp3",
+      "audioLocal": "audio/colors/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სისხლი (sisxli, “blood”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "სპეტაკი",
+      "roman": "sṗeṭaḳi",
+      "en": "very white, snow-white",
+      "glosses": [
+        "very white, snow-white"
+      ],
+      "pos": "adj",
+      "ipa": "[spʼe̞tʼäkʼi]",
+      "audio": "audio/colors/069.mp3",
+      "audioLocal": "audio/colors/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian სპეტაკი (sṗeṭaḳi), from Middle Iranian. Compare Middle Persian spytk' (spēdag, “white (of egg, etc.)”) and Old Armenian սպիտակ (spitak). See Persian سفید (safid) for more."
+    },
+    {
+      "ka": "სპილოსძვლისფერი",
+      "roman": "sṗilosʒvlisperi",
+      "en": "ivory-colored",
+      "glosses": [
+        "ivory-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[spʼiɫo̞sd͡zʷlispʰe̞ɾi]",
+      "audio": "audio/colors/070.mp3",
+      "audioLocal": "audio/colors/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სპილოს ძვალი (sṗilos ʒvali) + -ფერი (-peri)."
+    },
+    {
+      "ka": "სტაფილოსფერი",
+      "roman": "sṭapilosperi",
+      "en": "carrot-colored, orange",
+      "glosses": [
+        "carrot-colored, orange"
+      ],
+      "pos": "adj",
+      "ipa": "[stʼäpʰiɫo̞spʰe̞ɾi]",
+      "audio": "audio/colors/071.mp3",
+      "audioLocal": "audio/colors/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სტაფილო (sṭapilo, “carrot”) + -ის (-is, “genitive case marker”) + -ფერი (-peri, “-colored”)."
+    },
+    {
+      "ka": "ფირუზისფერი",
+      "roman": "piruzisperi",
+      "en": "turquoise, greenish-blue, bluish-green",
+      "glosses": [
+        "turquoise, greenish-blue, bluish-green"
+      ],
+      "pos": "adj",
+      "ipa": "[pʰiɾuzispʰe̞ɾi]",
+      "audio": "audio/colors/072.mp3",
+      "audioLocal": "audio/colors/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფირუზი (piruzi) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ფოლადისფერი",
+      "roman": "poladisperi",
+      "en": "steel-gray",
+      "glosses": [
+        "steel-gray"
+      ],
+      "pos": "adj",
+      "ipa": "[pʰo̞ɫädispʰe̞ɾi]",
+      "audio": "audio/colors/073.mp3",
+      "audioLocal": "audio/colors/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფოლადი (poladi) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ფორთოხლისფერი",
+      "roman": "portoxlisperi",
+      "en": "orange-colored, orange",
+      "glosses": [
+        "orange-colored, orange"
+      ],
+      "pos": "adj",
+      "ipa": "[pʰo̞ɾtʰo̞χlispʰe̞ɾi]",
+      "audio": "audio/colors/074.mp3",
+      "audioLocal": "audio/colors/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფორთოხალი (portoxali, “orange”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ქარვისფერი",
+      "roman": "karvisperi",
+      "en": "amber colored, yellow- orange, beige",
+      "glosses": [
+        "amber colored, yellow- orange, beige"
+      ],
+      "pos": "adj",
+      "ipa": "[kʰäɾʷispʰe̞ɾi]",
+      "audio": "audio/colors/075.mp3",
+      "audioLocal": "audio/colors/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ქარვა (karva) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ქლიავისფერი",
+      "roman": "kliavisperi",
+      "en": "plum (color)",
+      "glosses": [
+        "plum (color)"
+      ],
+      "pos": "adj",
+      "ipa": "[kʰliävispʰe̞ɾi]",
+      "audio": "audio/colors/076.mp3",
+      "audioLocal": "audio/colors/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ქლიავი (kliavi) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ქორისფერი",
+      "roman": "korisperi",
+      "en": "dull or pale dark bluish-gray",
+      "glosses": [
+        "dull or pale dark bluish-gray"
+      ],
+      "pos": "adj",
+      "ipa": "[kʰo̞ɾispʰe̞ɾi]",
+      "audio": "audio/colors/077.mp3",
+      "audioLocal": "audio/colors/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ქორი (kori, “goshawk”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ღვინისფერი",
+      "roman": "ɣvinisperi",
+      "en": "wine-colored",
+      "glosses": [
+        "wine-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[ʁʷinispʰe̞ɾi]",
+      "audio": "audio/colors/078.mp3",
+      "audioLocal": "audio/colors/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ღვინო (ɣvino) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ყვითელ-მწვანე",
+      "roman": "q̇vitel-mc̣vane",
+      "en": "lime, yellow-green, yellowish-greenish",
+      "glosses": [
+        "lime, yellow-green, yellowish-greenish"
+      ],
+      "pos": "adj",
+      "ipa": "[χʼʷitʰe̞lmt͡sʼʷäne̞]",
+      "audio": "audio/colors/079.mp3",
+      "audioLocal": "audio/colors/079.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ყვითელი (q̇viteli) and მწვანე (mc̣vane)."
+    },
+    {
+      "ka": "შაბიამნისფერი",
+      "roman": "šabiamnisperi",
+      "en": "vivid-blue, Prussian blue, deep-cyan, vitriol-blue",
+      "glosses": [
+        "vivid-blue, Prussian blue, deep-cyan, vitriol-blue"
+      ],
+      "pos": "adj",
+      "ipa": "[ʃäbiämnispʰe̞ɾi]",
+      "audio": "audio/colors/080.mp3",
+      "audioLocal": "audio/colors/080.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შაბიამანი (šabiamani, “Bordeaux mixture”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "შავი",
+      "roman": "šavi",
+      "en": "black",
+      "glosses": [
+        "black"
+      ],
+      "pos": "adj",
+      "ipa": "[ʃävi]",
+      "audio": "audio/colors/081.mp3",
+      "audioLocal": "audio/colors/081.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian შავი (šavi), ultimately from Proto-Iranian *cyaHwáh. For the problem of the initial consonant see Old Armenian Շաւասպ (Šawasp)."
+    },
+    {
+      "ka": "შოკოლადისფერი",
+      "roman": "šoḳoladisperi",
+      "en": "chocolate-colored, chocolate-brown",
+      "glosses": [
+        "chocolate-colored, chocolate-brown"
+      ],
+      "pos": "adj",
+      "ipa": "[ʃo̞kʼo̞ɫädispʰe̞ɾi]",
+      "audio": "audio/colors/082.mp3",
+      "audioLocal": "audio/colors/082.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შოკოლადი (šoḳoladi, “chocolate”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ჩალისფერი",
+      "roman": "čalisperi",
+      "en": "flaxen, straw-coloured, beige",
+      "glosses": [
+        "flaxen, straw-coloured, beige"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡ʃʰälispʰe̞ɾi]",
+      "audio": "audio/colors/083.mp3",
+      "audioLocal": "audio/colors/083.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ცარცისფერი",
+      "roman": "carcisperi",
+      "en": "chalk-colored, light gray, white",
+      "glosses": [
+        "chalk-colored, light gray, white"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰäɾt͡sʰispʰe̞ɾi]",
+      "audio": "audio/colors/084.mp3",
+      "audioLocal": "audio/colors/084.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცარცი (carci, “chalk”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ცაცხვისფერი",
+      "roman": "cacxvisperi",
+      "en": "lime, lime green, literally linden-colored",
+      "glosses": [
+        "lime, lime green, literally linden-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰät͡sʰχʷispʰe̞ɾi]",
+      "audio": "audio/colors/085.mp3",
+      "audioLocal": "audio/colors/085.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცაცხვი (cacxvi) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ცერცვისფერი",
+      "roman": "cercvisperi",
+      "en": "bean-colored, yellowish green, chartreuse",
+      "glosses": [
+        "bean-colored, yellowish green, chartreuse"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰe̞ɾt͡sʰʷispʰe̞ɾi]",
+      "audio": "audio/colors/086.mp3",
+      "audioLocal": "audio/colors/086.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცერცვი (cercvi) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ცივი ქერა",
+      "roman": "civi kera",
+      "en": "platinum (color), whitish blond, pale blond",
+      "glosses": [
+        "platinum (color), whitish blond, pale blond"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰivi kʰe̞ɾä]",
+      "audio": "audio/colors/087.mp3",
+      "audioLocal": "audio/colors/087.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცივი (civi) + ქერა (kera), literally cold blond."
+    },
+    {
+      "ka": "ცისარტყელასფერი",
+      "roman": "cisarṭq̇elasperi",
+      "en": "rainbow-colored",
+      "glosses": [
+        "rainbow-colored"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰisäɾtʼχʼe̞ɫäspʰe̞ɾi]",
+      "audio": "audio/colors/088.mp3",
+      "audioLocal": "audio/colors/088.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცისარტყელა (cisarṭq̇ela, “rainbow”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "ცისფერი",
+      "roman": "cisperi",
+      "en": "sky blue",
+      "glosses": [
+        "sky blue"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʰispʰe̞ɾi]",
+      "audio": "audio/colors/089.mp3",
+      "audioLocal": "audio/colors/089.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ცა (ca, “sky”) + -ფერი (-peri). The sense “gay, homosexual” is a semantic loan from Russian голубо́й (golubój, “light blue, gay”), see there for its development."
+    },
+    {
+      "ka": "ძვლისფერი",
+      "roman": "ʒvlisperi",
+      "en": "bone-colored, whitish-yellowish",
+      "glosses": [
+        "bone-colored, whitish-yellowish"
+      ],
+      "pos": "adj",
+      "ipa": "[d͡zʷlispʰe̞ɾi]",
+      "audio": "audio/colors/090.mp3",
+      "audioLocal": "audio/colors/090.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ძვალი (ʒvali, “bone”) + -ფერი (-peri)."
+    },
+    {
+      "ka": "წაბლისფერი",
+      "roman": "c̣ablisperi",
+      "en": "chestnut-colored, reddish brown, bay, maroon, brownish auburn",
+      "glosses": [
+        "chestnut-colored, reddish brown, bay, maroon, brownish auburn"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʼäblispʰe̞ɾi]",
+      "audio": "audio/colors/091.mp3",
+      "audioLocal": "audio/colors/091.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From წაბლი (c̣abli) + -ფერი (-peri)."
+    },
+    {
+      "ka": "წითელ-ყვითელი",
+      "roman": "c̣itel-q̇viteli",
+      "en": "yellow-red",
+      "glosses": [
+        "yellow-red"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʼitʰe̞lχʼʷitʰe̞li]",
+      "audio": "audio/colors/092.mp3",
+      "audioLocal": "audio/colors/092.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From წითელი (c̣iteli) and ყვითელი (q̇viteli)."
+    },
+    {
+      "ka": "წითელი",
+      "roman": "c̣iteli",
+      "en": "red",
+      "glosses": [
+        "red"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʼitʰe̞li]",
+      "audio": "audio/colors/093.mp3",
+      "audioLocal": "audio/colors/093.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian წითელი (c̣iteli), from Proto-Georgian-Zan *c̣₁it-el-."
+    },
+    {
+      "ka": "წითური",
+      "roman": "c̣ituri",
+      "en": "ginger",
+      "glosses": [
+        "ginger"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡sʼitʰuɾi]",
+      "audio": "audio/colors/094.mp3",
+      "audioLocal": "audio/colors/094.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from *c̣₁it- (“to redden, become red”). Compare Georgian წითელი (c̣iteli, “red”)."
+    },
+    {
+      "ka": "ჭრელი",
+      "roman": "č̣reli",
+      "en": "multicolored and with white flecks",
+      "glosses": [
+        "multicolored and with white flecks"
+      ],
+      "pos": "adj",
+      "ipa": "[t͡ʃʼɾe̞li]",
+      "audio": "audio/colors/095.mp3",
+      "audioLocal": "audio/colors/095.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჭრელი (č̣reli), from Proto-Georgian-Zan *č̣er-el-."
+    },
+    {
+      "ka": "ხვლიკისფერი",
+      "roman": "xvliḳisperi",
+      "en": "olive-gray, olive-green, lizard-green",
+      "glosses": [
+        "olive-gray, olive-green, lizard-green"
+      ],
+      "pos": "adj",
+      "ipa": "[χʷlikʼispʰe̞ɾi]",
+      "audio": "audio/colors/096.mp3",
+      "audioLocal": "audio/colors/096.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ხვლიკი (xvliḳi) + -ფერი (-peri)."
     }
   ]
 }

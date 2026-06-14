@@ -10,7 +10,6 @@
       "roman": "arṭala",
       "en": "dish made from beef shank",
       "glosses": [
-        "beef shank",
         "dish made from beef shank"
       ],
       "pos": "noun",
@@ -41,8 +40,7 @@
       "roman": "aǯapsandali",
       "en": "ajapsandali",
       "glosses": [
-        "ajapsandali",
-        "hodgepodge"
+        "ajapsandali"
       ],
       "pos": "noun",
       "ipa": "[äd͡ʒäpʰsändäli]",
@@ -72,34 +70,14 @@
       "roman": "ḳaḳali",
       "en": "walnut-tree, Juglans regia",
       "glosses": [
-        "walnut-tree, Juglans regia",
-        "walnut (whole)",
-        "human testicle",
-        "grain (of millet)",
-        "piece, one"
+        "walnut-tree, Juglans regia"
       ],
       "pos": "noun",
       "ipa": "[kʼäkʼäli]",
       "audio": "audio/foods/004.mp3",
       "audioLocal": "audio/foods/004.mp3",
       "audioSource": "tts",
-      "examples": [
-        {
-          "ka": "თვალის კაკალი",
-          "roman": "tvalis ḳaḳali",
-          "en": "eyeball"
-        },
-        {
-          "ka": "კაკალ-კაკალ",
-          "roman": "ḳaḳal-ḳaḳal",
-          "en": "grain by grain"
-        },
-        {
-          "ka": "ერთი კაკალი კაცი",
-          "roman": "erti ḳaḳali ḳaci",
-          "en": "one man"
-        }
-      ],
+      "examples": [],
       "etymology": "From Proto-Georgian-Zan *ḳaḳ-. Cognate with Mingrelian კაკალი (ḳaḳali), Laz კაკალი (ǩaǩali). Armenian կակալ (kakal), կակըլ (kakəl) are probably borrowed from Kartvelian."
     },
     {
@@ -362,8 +340,7 @@
       "roman": "xaši",
       "en": "khash (a traditional dish in Caucasus)",
       "glosses": [
-        "khash (a traditional dish in Caucasus)",
-        "sourdough"
+        "khash (a traditional dish in Caucasus)"
       ],
       "pos": "noun",
       "ipa": "[χäʃi]",

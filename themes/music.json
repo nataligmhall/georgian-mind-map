@@ -3,7 +3,7 @@
   "name": "Music",
   "nameKa": "მუსიკა",
   "icon": "♪",
-  "count": 45,
+  "count": 79,
   "words": [
     {
       "ka": "ალტერნატიული როკი",
@@ -40,10 +40,7 @@
       "roman": "akcenṭi",
       "en": "accent",
       "glosses": [
-        "accent (higher-pitched or stronger articulation of a particular syllable)",
-        "accent (distinctive pronunciation associated with a region, social group, etc.)",
-        "accent",
-        "accent (emphasis or importance in general)"
+        "accent"
       ],
       "pos": "noun",
       "ipa": "[äkʰt͡sʰe̞ntʼi]",
@@ -69,6 +66,21 @@
       "etymology": "Borrowed from Persian بربط (barbat, “lute”), possibly."
     },
     {
+      "ka": "ბეჩო",
+      "roman": "bečo",
+      "en": "shawm (zurna) mouthpiece",
+      "glosses": [
+        "shawm (zurna) mouthpiece"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞t͡ʃʰo̞]",
+      "audio": "audio/music/004.mp3",
+      "audioLocal": "audio/music/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Cognate with Mingrelian ბეჩუ (beču), if the latter is inherited from Proto-Georgian-Zan and is not borrowed from Georgian."
+    },
+    {
       "ka": "ბლუგრასი",
       "roman": "blugrasi",
       "en": "bluegrass",
@@ -77,8 +89,8 @@
       ],
       "pos": "noun",
       "ipa": "[b̥ɫuɡɾäsi]",
-      "audio": "audio/music/004.mp3",
-      "audioLocal": "audio/music/004.mp3",
+      "audio": "audio/music/005.mp3",
+      "audioLocal": "audio/music/005.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from English bluegrass."
@@ -92,8 +104,8 @@
       ],
       "pos": "noun",
       "ipa": "[ɡ̊le̞mɾo̞kʼi]",
-      "audio": "audio/music/005.mp3",
-      "audioLocal": "audio/music/005.mp3",
+      "audio": "audio/music/006.mp3",
+      "audioLocal": "audio/music/006.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from English glam rock."
@@ -103,13 +115,12 @@
       "roman": "gudasṭviri",
       "en": "Gudastviri",
       "glosses": [
-        "Gudastviri",
-        "bagpipes"
+        "Gudastviri"
       ],
       "pos": "noun",
       "ipa": "[ɡ̊udästʼʷiɾi]",
-      "audio": "audio/music/006.mp3",
-      "audioLocal": "audio/music/006.mp3",
+      "audio": "audio/music/007.mp3",
+      "audioLocal": "audio/music/007.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From გუდა (guda) + სტვირი (sṭviri)."
@@ -123,8 +134,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼämi instʼɾume̞ntʼi]",
-      "audio": "audio/music/007.mp3",
-      "audioLocal": "audio/music/007.mp3",
+      "audio": "audio/music/008.mp3",
+      "audioLocal": "audio/music/008.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -138,8 +149,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼämi musikʼäɫuɾi instʼɾume̞ntʼi]",
-      "audio": "audio/music/008.mp3",
-      "audioLocal": "audio/music/008.mp3",
+      "audio": "audio/music/009.mp3",
+      "audioLocal": "audio/music/009.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -153,8 +164,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼämi musikʼäɫuɾi säkʼɾävi]",
-      "audio": "audio/music/009.mp3",
-      "audioLocal": "audio/music/009.mp3",
+      "audio": "audio/music/010.mp3",
+      "audioLocal": "audio/music/010.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -168,8 +179,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼämi säkʼɾävi]",
-      "audio": "audio/music/010.mp3",
-      "audioLocal": "audio/music/010.mp3",
+      "audio": "audio/music/011.mp3",
+      "audioLocal": "audio/music/011.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -183,8 +194,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼme̞li instʼɾume̞ntʼi]",
-      "audio": "audio/music/011.mp3",
-      "audioLocal": "audio/music/011.mp3",
+      "audio": "audio/music/012.mp3",
+      "audioLocal": "audio/music/012.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -198,8 +209,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼme̞li musikʼäɫuɾi instʼɾume̞ntʼi]",
-      "audio": "audio/music/012.mp3",
-      "audioLocal": "audio/music/012.mp3",
+      "audio": "audio/music/013.mp3",
+      "audioLocal": "audio/music/013.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -213,8 +224,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼme̞li musikʼäɫuɾi säkʼɾävi]",
-      "audio": "audio/music/013.mp3",
-      "audioLocal": "audio/music/013.mp3",
+      "audio": "audio/music/014.mp3",
+      "audioLocal": "audio/music/014.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -228,8 +239,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥äsäɾtʼχʼme̞li säkʼɾävi]",
-      "audio": "audio/music/014.mp3",
-      "audioLocal": "audio/music/014.mp3",
+      "audio": "audio/music/015.mp3",
+      "audioLocal": "audio/music/015.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -243,8 +254,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥ipʼhäusi]",
-      "audio": "audio/music/015.mp3",
-      "audioLocal": "audio/music/015.mp3",
+      "audio": "audio/music/016.mp3",
+      "audioLocal": "audio/music/016.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from English deep house."
@@ -254,13 +265,12 @@
       "roman": "disḳo",
       "en": "disco music",
       "glosses": [
-        "disco music",
-        "disk, disc"
+        "disco music"
       ],
       "pos": "noun",
       "ipa": "[d̥iskʼo̞]",
-      "audio": "audio/music/016.mp3",
-      "audioLocal": "audio/music/016.mp3",
+      "audio": "audio/music/017.mp3",
+      "audioLocal": "audio/music/017.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -274,8 +284,8 @@
       ],
       "pos": "noun",
       "ipa": "[d̥iskʼo̞musikʼä]",
-      "audio": "audio/music/017.mp3",
-      "audioLocal": "audio/music/017.mp3",
+      "audio": "audio/music/018.mp3",
+      "audioLocal": "audio/music/018.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -289,8 +299,8 @@
       ],
       "pos": "noun",
       "ipa": "[e̞le̞kʰtʼɾo̞nuli musikʼä]",
-      "audio": "audio/music/018.mp3",
-      "audioLocal": "audio/music/018.mp3",
+      "audio": "audio/music/019.mp3",
+      "audioLocal": "audio/music/019.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -304,11 +314,26 @@
       ],
       "pos": "noun",
       "ipa": "[e̞le̞kʰtʼɾo̞nuli sät͡sʰe̞kʼʷäo̞ musikʼä]",
-      "audio": "audio/music/019.mp3",
-      "audioLocal": "audio/music/019.mp3",
+      "audio": "audio/music/020.mp3",
+      "audioLocal": "audio/music/020.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
+    },
+    {
+      "ka": "ექსპოზიცია",
+      "roman": "eksṗozicia",
+      "en": "exposition (the opening section of a movement in sonata form; the opening section of a fugue)",
+      "glosses": [
+        "exposition (the opening section of a movement in sonata form; the opening section of a fugue)"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞kʰspʼo̞zit͡sʰiä]",
+      "audio": "audio/music/021.mp3",
+      "audioLocal": "audio/music/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian экспози́ция (ekspozícija), from Latin expositiō."
     },
     {
       "ka": "ვიოლინო",
@@ -319,8 +344,8 @@
       ],
       "pos": "noun",
       "ipa": "[vio̞lino̞]",
-      "audio": "audio/music/020.mp3",
-      "audioLocal": "audio/music/020.mp3",
+      "audio": "audio/music/022.mp3",
+      "audioLocal": "audio/music/022.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Italian violino."
@@ -334,8 +359,8 @@
       ],
       "pos": "noun",
       "ipa": "[tʰänäme̞dɾo̞ve̞ ɾitʼme̞ndbɫuzi]",
-      "audio": "audio/music/021.mp3",
-      "audioLocal": "audio/music/021.mp3",
+      "audio": "audio/music/023.mp3",
+      "audioLocal": "audio/music/023.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -349,8 +374,8 @@
       ],
       "pos": "noun",
       "ipa": "[indiɾo̞kʼi]",
-      "audio": "audio/music/022.mp3",
-      "audioLocal": "audio/music/022.mp3",
+      "audio": "audio/music/024.mp3",
+      "audioLocal": "audio/music/024.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from English indie rock."
@@ -364,8 +389,8 @@
       ],
       "pos": "noun",
       "ipa": "[industʼɾiuli me̞tʼäli]",
-      "audio": "audio/music/023.mp3",
-      "audioLocal": "audio/music/023.mp3",
+      "audio": "audio/music/025.mp3",
+      "audioLocal": "audio/music/025.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Loan translation from English industrial metal."
@@ -379,8 +404,8 @@
       ],
       "pos": "noun",
       "ipa": "[industʼɾiuli musikʼä]",
-      "audio": "audio/music/024.mp3",
-      "audioLocal": "audio/music/024.mp3",
+      "audio": "audio/music/026.mp3",
+      "audioLocal": "audio/music/026.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Loan translation from English industrial music."
@@ -394,8 +419,8 @@
       ],
       "pos": "noun",
       "ipa": "[industʼɾiuli ɾo̞kʼi]",
-      "audio": "audio/music/025.mp3",
-      "audioLocal": "audio/music/025.mp3",
+      "audio": "audio/music/027.mp3",
+      "audioLocal": "audio/music/027.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from English industrial rock."
@@ -405,17 +430,12 @@
       "roman": "ḳilo",
       "en": "tune",
       "glosses": [
-        "mood",
-        "dialect",
-        "idiolect",
-        "tune",
-        "arrow-notch",
-        "hinge"
+        "tune"
       ],
       "pos": "noun",
       "ipa": "[kʼiɫo̞]",
-      "audio": "audio/music/026.mp3",
-      "audioLocal": "audio/music/026.mp3",
+      "audio": "audio/music/028.mp3",
+      "audioLocal": "audio/music/028.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -425,13 +445,12 @@
       "roman": "ḳlaviaṭura",
       "en": "fingerboard, keyboard",
       "glosses": [
-        "fingerboard, keyboard",
-        "computer keyboard"
+        "fingerboard, keyboard"
       ],
       "pos": "noun",
       "ipa": "[kʼɫäviätʼuɾä]",
-      "audio": "audio/music/027.mp3",
-      "audioLocal": "audio/music/027.mp3",
+      "audio": "audio/music/029.mp3",
+      "audioLocal": "audio/music/029.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Russian клавиату́ра (klaviatúra)."
@@ -441,14 +460,12 @@
       "roman": "ḳlasiḳuri",
       "en": "classical",
       "glosses": [
-        "classical, classic (of or relating to the first class or rank, especially in literature or art)",
-        "classical",
-        "classic (exhibiting timeless quality and excellence)"
+        "classical"
       ],
       "pos": "adj",
       "ipa": "[kʼɫäsikʼuɾi]",
-      "audio": "audio/music/028.mp3",
-      "audioLocal": "audio/music/028.mp3",
+      "audio": "audio/music/030.mp3",
+      "audioLocal": "audio/music/030.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Ultimately from Latin classicus. By surface analysis, კლასიკა (ḳlasiḳa) + -ური (-uri)."
@@ -462,8 +479,8 @@
       ],
       "pos": "noun",
       "ipa": "[kʼɫäsikʼuɾi musikʼä]",
-      "audio": "audio/music/029.mp3",
-      "audioLocal": "audio/music/029.mp3",
+      "audio": "audio/music/031.mp3",
+      "audioLocal": "audio/music/031.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -477,8 +494,8 @@
       ],
       "pos": "noun",
       "ipa": "[kʼo̞mpʼo̞zit͡sʰiä]",
-      "audio": "audio/music/030.mp3",
-      "audioLocal": "audio/music/030.mp3",
+      "audio": "audio/music/032.mp3",
+      "audioLocal": "audio/music/032.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Latin compositiō."
@@ -492,8 +509,8 @@
       ],
       "pos": "noun",
       "ipa": "[kʼo̞nt͡sʰe̞ɾtʼi]",
-      "audio": "audio/music/031.mp3",
-      "audioLocal": "audio/music/031.mp3",
+      "audio": "audio/music/033.mp3",
+      "audioLocal": "audio/music/033.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from Russian конце́рт (koncért), from Italian concerto."
@@ -507,8 +524,8 @@
       ],
       "pos": "noun",
       "ipa": "[kʼɾäutʼɾo̞kʼi]",
-      "audio": "audio/music/032.mp3",
-      "audioLocal": "audio/music/032.mp3",
+      "audio": "audio/music/034.mp3",
+      "audioLocal": "audio/music/034.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -522,8 +539,8 @@
       ],
       "pos": "noun",
       "ipa": "[kʼɾe̞ʃe̞ndo̞]",
-      "audio": "audio/music/033.mp3",
-      "audioLocal": "audio/music/033.mp3",
+      "audio": "audio/music/035.mp3",
+      "audioLocal": "audio/music/035.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -537,8 +554,8 @@
       ],
       "pos": "adj",
       "ipa": "[musikʼäɫuɾi]",
-      "audio": "audio/music/034.mp3",
-      "audioLocal": "audio/music/034.mp3",
+      "audio": "audio/music/036.mp3",
+      "audioLocal": "audio/music/036.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Medieval Latin mūsicālis + -ური (-uri)."
@@ -552,8 +569,8 @@
       ],
       "pos": "noun",
       "ipa": "[musikʼäɫuɾi no̞tʼät͡sʰiä]",
-      "audio": "audio/music/035.mp3",
-      "audioLocal": "audio/music/035.mp3",
+      "audio": "audio/music/037.mp3",
+      "audioLocal": "audio/music/037.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -567,8 +584,8 @@
       ],
       "pos": "noun",
       "ipa": "[md͡zime̞ me̞tʼäli]",
-      "audio": "audio/music/036.mp3",
-      "audioLocal": "audio/music/036.mp3",
+      "audio": "audio/music/038.mp3",
+      "audioLocal": "audio/music/038.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Loan translation from English heavy metal."
@@ -582,8 +599,8 @@
       ],
       "pos": "noun",
       "ipa": "[o̞ɾɡäni]",
-      "audio": "audio/music/037.mp3",
-      "audioLocal": "audio/music/037.mp3",
+      "audio": "audio/music/039.mp3",
+      "audioLocal": "audio/music/039.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -597,8 +614,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʼäŋkʼɾo̞kʼi]",
-      "audio": "audio/music/038.mp3",
-      "audioLocal": "audio/music/038.mp3",
+      "audio": "audio/music/040.mp3",
+      "audioLocal": "audio/music/040.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -612,8 +629,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʼo̞pʼmusikʼä]",
-      "audio": "audio/music/039.mp3",
-      "audioLocal": "audio/music/039.mp3",
+      "audio": "audio/music/041.mp3",
+      "audioLocal": "audio/music/041.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Borrowed from English pop music."
@@ -627,8 +644,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʼo̞pʼuɫäɾuli musikʼä]",
-      "audio": "audio/music/040.mp3",
-      "audioLocal": "audio/music/040.mp3",
+      "audio": "audio/music/042.mp3",
+      "audioLocal": "audio/music/042.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Calque of English popular music."
@@ -642,8 +659,8 @@
       ],
       "pos": "noun",
       "ipa": "[pʼɾo̞ɡɾe̞suli häusi]",
-      "audio": "audio/music/041.mp3",
-      "audioLocal": "audio/music/041.mp3",
+      "audio": "audio/music/043.mp3",
+      "audioLocal": "audio/music/043.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -657,8 +674,8 @@
       ],
       "pos": "noun",
       "ipa": "[ɾe̞mikʰsi]",
-      "audio": "audio/music/042.mp3",
-      "audioLocal": "audio/music/042.mp3",
+      "audio": "audio/music/044.mp3",
+      "audioLocal": "audio/music/044.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -672,8 +689,8 @@
       ],
       "pos": "noun",
       "ipa": "[ɾitʼme̞ndbɫuzi]",
-      "audio": "audio/music/043.mp3",
-      "audioLocal": "audio/music/043.mp3",
+      "audio": "audio/music/045.mp3",
+      "audioLocal": "audio/music/045.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -687,11 +704,491 @@
       ],
       "pos": "noun",
       "ipa": "[ɾo̞kʼe̞nɾo̞li]",
-      "audio": "audio/music/044.mp3",
-      "audioLocal": "audio/music/044.mp3",
+      "audio": "audio/music/046.mp3",
+      "audioLocal": "audio/music/046.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
+    },
+    {
+      "ka": "როკ-მუსიკა",
+      "roman": "roḳ-musiḳa",
+      "en": "rock, rock music",
+      "glosses": [
+        "rock, rock music"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾo̞kʼmusikʼä]",
+      "audio": "audio/music/047.mp3",
+      "audioLocal": "audio/music/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "როკი",
+      "roman": "roḳi",
+      "en": "rock music",
+      "glosses": [
+        "rock music"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾo̞kʼi]",
+      "audio": "audio/music/048.mp3",
+      "audioLocal": "audio/music/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საცეკვაო მუსიკა",
+      "roman": "saceḳvao musiḳa",
+      "en": "shortening of EDM, electronic dance music",
+      "glosses": [
+        "shortening of EDM, electronic dance music"
+      ],
+      "pos": "noun",
+      "ipa": "[sät͡sʰe̞kʼʷäo̞ musikʼä]",
+      "audio": "audio/music/049.mp3",
+      "audioLocal": "audio/music/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სემპლერი",
+      "roman": "semṗleri",
+      "en": "sampler",
+      "glosses": [
+        "sampler"
+      ],
+      "pos": "noun",
+      "ipa": "[se̞mpʼle̞ɾi]",
+      "audio": "audio/music/050.mp3",
+      "audioLocal": "audio/music/050.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სიმებიანი ინსტრუმენტი",
+      "roman": "simebiani insṭrumenṭi",
+      "en": "string instrument, stringed instrument, chordophone",
+      "glosses": [
+        "string instrument, stringed instrument, chordophone"
+      ],
+      "pos": "noun",
+      "ipa": "[sime̞biäni instʼɾume̞ntʼi]",
+      "audio": "audio/music/051.mp3",
+      "audioLocal": "audio/music/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სიმებიანი მუსიკალური ინსტრუმენტი",
+      "roman": "simebiani musiḳaluri insṭrumenṭi",
+      "en": "string instrument, stringed instrument, chordophone",
+      "glosses": [
+        "string instrument, stringed instrument, chordophone"
+      ],
+      "pos": "noun",
+      "ipa": "[sime̞biäni musikʼäɫuɾi instʼɾume̞ntʼi]",
+      "audio": "audio/music/052.mp3",
+      "audioLocal": "audio/music/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სიმებიანი მუსიკალური საკრავი",
+      "roman": "simebiani musiḳaluri saḳravi",
+      "en": "string instrument, stringed instrument, chordophone",
+      "glosses": [
+        "string instrument, stringed instrument, chordophone"
+      ],
+      "pos": "noun",
+      "ipa": "[sime̞biäni musikʼäɫuɾi säkʼɾävi]",
+      "audio": "audio/music/053.mp3",
+      "audioLocal": "audio/music/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სიმებიანი საკრავი",
+      "roman": "simebiani saḳravi",
+      "en": "string instrument, stringed instrument, chordophone",
+      "glosses": [
+        "string instrument, stringed instrument, chordophone"
+      ],
+      "pos": "noun",
+      "ipa": "[sime̞biäni säkʼɾävi]",
+      "audio": "audio/music/054.mp3",
+      "audioLocal": "audio/music/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სიმღერა",
+      "roman": "simɣera",
+      "en": "song",
+      "glosses": [
+        "song"
+      ],
+      "pos": "noun",
+      "ipa": "[simʁe̞ɾä]",
+      "audio": "audio/music/055.mp3",
+      "audioLocal": "audio/music/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სინთეზატორი",
+      "roman": "sintezaṭori",
+      "en": "synthesizer",
+      "glosses": [
+        "synthesizer"
+      ],
+      "pos": "noun",
+      "ipa": "[sintʰe̞zätʼo̞ɾi]",
+      "audio": "audio/music/056.mp3",
+      "audioLocal": "audio/music/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სოული",
+      "roman": "souli",
+      "en": "soul, soul music",
+      "glosses": [
+        "soul, soul music"
+      ],
+      "pos": "noun",
+      "ipa": "[so̞uli]",
+      "audio": "audio/music/057.mp3",
+      "audioLocal": "audio/music/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English soul. Please note that the similarity between სული (suli) and soul are coincidental."
+    },
+    {
+      "ka": "ტექნო",
+      "roman": "ṭekno",
+      "en": "techno",
+      "glosses": [
+        "techno"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼe̞kʰno̞]",
+      "audio": "audio/music/058.mp3",
+      "audioLocal": "audio/music/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ტონი",
+      "roman": "ṭoni",
+      "en": "tone",
+      "glosses": [
+        "tone"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼo̞ni]",
+      "audio": "audio/music/059.mp3",
+      "audioLocal": "audio/music/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ფანტაზია",
+      "roman": "panṭazia",
+      "en": "fantasia",
+      "glosses": [
+        "fantasia"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰäntʼäziä]",
+      "audio": "audio/music/060.mp3",
+      "audioLocal": "audio/music/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek φαντασία (phantasía)."
+    },
+    {
+      "ka": "ფილარმონია",
+      "roman": "pilarmonia",
+      "en": "philharmonic institution/society",
+      "glosses": [
+        "philharmonic institution/society"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰiɫäɾmo̞niä]",
+      "audio": "audio/music/061.mp3",
+      "audioLocal": "audio/music/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Ancient Greek φιλέω (philéō) and ἁρμονία (harmonía). Compare Russian филармо́ния (filarmónija)."
+    },
+    {
+      "ka": "ფილარმონიული",
+      "roman": "pilarmoniuli",
+      "en": "philharmonic",
+      "glosses": [
+        "philharmonic"
+      ],
+      "pos": "adj",
+      "ipa": "[pʰiɫäɾmo̞niuli]",
+      "audio": "audio/music/062.mp3",
+      "audioLocal": "audio/music/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ფილარმონია (pilarmonia) + -ული (-uli)."
+    },
+    {
+      "ka": "ფლეიტა",
+      "roman": "pleiṭa",
+      "en": "flute",
+      "glosses": [
+        "flute"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰle̞itʼä]",
+      "audio": "audio/music/063.mp3",
+      "audioLocal": "audio/music/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian фле́йта (fléjta)."
+    },
+    {
+      "ka": "ფოლკ-მუსიკა",
+      "roman": "polḳ-musiḳa",
+      "en": "folk music",
+      "glosses": [
+        "folk music"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰo̞lkʼmusikʼä]",
+      "audio": "audio/music/064.mp3",
+      "audioLocal": "audio/music/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ფსიქოდელიური როკი",
+      "roman": "psikodeliuri roḳi",
+      "en": "psychedelic rock",
+      "glosses": [
+        "psychedelic rock"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰsikʰo̞de̞liuɾi ɾo̞kʼi]",
+      "audio": "audio/music/065.mp3",
+      "audioLocal": "audio/music/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English psychedelic rock."
+    },
+    {
+      "ka": "ფუგა",
+      "roman": "puga",
+      "en": "fugue",
+      "glosses": [
+        "fugue"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰuɡä]",
+      "audio": "audio/music/066.mp3",
+      "audioLocal": "audio/music/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Italian."
+    },
+    {
+      "ka": "ქამანჩა",
+      "roman": "kamanča",
+      "en": "kamāncha",
+      "glosses": [
+        "kamāncha"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰämänt͡ʃʰä]",
+      "audio": "audio/music/067.mp3",
+      "audioLocal": "audio/music/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian کمانچه (kamânče)."
+    },
+    {
+      "ka": "ქანთრი",
+      "roman": "kantri",
+      "en": "country music",
+      "glosses": [
+        "country music"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰäntʰɾi]",
+      "audio": "audio/music/068.mp3",
+      "audioLocal": "audio/music/068.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English country."
+    },
+    {
+      "ka": "ქანთრი-როკ მუსიკა",
+      "roman": "kantri-roḳ musiḳa",
+      "en": "country rock, country rock music",
+      "glosses": [
+        "country rock, country rock music"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰäntʰɾiɾo̞kʼ musikʼä]",
+      "audio": "audio/music/069.mp3",
+      "audioLocal": "audio/music/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ქანთრი-როკი",
+      "roman": "kantri-roḳi",
+      "en": "country rock",
+      "glosses": [
+        "country rock"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰäntʰɾiɾo̞kʼi]",
+      "audio": "audio/music/070.mp3",
+      "audioLocal": "audio/music/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩანგი",
+      "roman": "čangi",
+      "en": "chang",
+      "glosses": [
+        "chang"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰäŋɡi]",
+      "audio": "audio/music/071.mp3",
+      "audioLocal": "audio/music/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Persian چنگ (čang)."
+    },
+    {
+      "ka": "ჩასაბერი ინსტრუმენტი",
+      "roman": "časaberi insṭrumenṭi",
+      "en": "wind instrument",
+      "glosses": [
+        "wind instrument"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰäsäbe̞ɾi instʼɾume̞ntʼi]",
+      "audio": "audio/music/072.mp3",
+      "audioLocal": "audio/music/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩასაბერი მუსიკალური ინსტრუმენტი",
+      "roman": "časaberi musiḳaluri insṭrumenṭi",
+      "en": "wind instrument",
+      "glosses": [
+        "wind instrument"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰäsäbe̞ɾi musikʼäɫuɾi instʼɾume̞ntʼi]",
+      "audio": "audio/music/073.mp3",
+      "audioLocal": "audio/music/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩასაბერი მუსიკალური საკრავი",
+      "roman": "časaberi musiḳaluri saḳravi",
+      "en": "wind instrument",
+      "glosses": [
+        "wind instrument"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰäsäbe̞ɾi musikʼäɫuɾi säkʼɾävi]",
+      "audio": "audio/music/074.mp3",
+      "audioLocal": "audio/music/074.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩასაბერი საკრავი",
+      "roman": "časaberi saḳravi",
+      "en": "wind instrument",
+      "glosses": [
+        "wind instrument"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰäsäbe̞ɾi säkʼɾävi]",
+      "audio": "audio/music/075.mp3",
+      "audioLocal": "audio/music/075.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჰარმონიზაცია",
+      "roman": "harmonizacia",
+      "en": "harmonization",
+      "glosses": [
+        "harmonization"
+      ],
+      "pos": "noun",
+      "ipa": "[häɾmo̞nizät͡sʰiä]",
+      "audio": "audio/music/076.mp3",
+      "audioLocal": "audio/music/076.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Likely from Russian гармониза́ция (garmonizácija)."
+    },
+    {
+      "ka": "ჰაუს-მუსიკა",
+      "roman": "haus-musiḳa",
+      "en": "house music",
+      "glosses": [
+        "house music"
+      ],
+      "pos": "noun",
+      "ipa": "[häusmusikʼä]",
+      "audio": "audio/music/077.mp3",
+      "audioLocal": "audio/music/077.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English house music."
+    },
+    {
+      "ka": "ჰაუსი",
+      "roman": "hausi",
+      "en": "house, house music",
+      "glosses": [
+        "house, house music"
+      ],
+      "pos": "noun",
+      "ipa": "[häusi]",
+      "audio": "audio/music/078.mp3",
+      "audioLocal": "audio/music/078.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English house."
     }
   ]
 }

@@ -55,7 +55,6 @@
       "roman": "aṭami",
       "en": "peach tree",
       "glosses": [
-        "peach (fruit)",
         "peach tree"
       ],
       "pos": "noun",
@@ -84,10 +83,9 @@
     {
       "ka": "ბალი",
       "roman": "bali",
-      "en": "sweet cherry",
+      "en": "cherry",
       "glosses": [
-        "cherry",
-        "sweet cherry"
+        "cherry"
       ],
       "pos": "noun",
       "ipa": "[b̥äli]",
@@ -252,9 +250,7 @@
       "roman": "lapani",
       "en": "Caucasian wingnut (Pterocarya fraxinifolia)",
       "glosses": [
-        "Caucasian wingnut (Pterocarya fraxinifolia)",
-        "bast",
-        "velvet maple (Acer velutinum)"
+        "Caucasian wingnut (Pterocarya fraxinifolia)"
       ],
       "pos": "noun",
       "ipa": "[ɫäpʰäni]",
@@ -314,7 +310,6 @@
       "roman": "mocxari",
       "en": "currant (genus)",
       "glosses": [
-        "currant (fruit)",
         "currant (genus)"
       ],
       "pos": "noun",
@@ -405,7 +400,6 @@
       "roman": "ṭq̇emali",
       "en": "tkemali, a cherry plum sauce",
       "glosses": [
-        "Prunus cerasifera, syn. Prunus divaricata: cherry plum",
         "tkemali, a cherry plum sauce"
       ],
       "pos": "noun",

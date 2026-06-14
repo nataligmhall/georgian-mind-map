@@ -40,8 +40,7 @@
       "roman": "zvara",
       "en": "sacrificial livestock",
       "glosses": [
-        "sacrificial livestock",
-        "cow's first calf"
+        "sacrificial livestock"
       ],
       "pos": "noun",
       "ipa": "[zʷäɾä]",
@@ -54,10 +53,9 @@
     {
       "ka": "ზვარაკი",
       "roman": "zvaraḳi",
-      "en": "offering, sacrifice",
+      "en": "sacrificial livestock",
       "glosses": [
-        "sacrificial livestock",
-        "offering, sacrifice"
+        "sacrificial livestock"
       ],
       "pos": "noun",
       "ipa": "[zʷäɾäkʼi]",
@@ -132,9 +130,6 @@
       "roman": "ḳanoni",
       "en": "canon",
       "glosses": [
-        "law (legal rule)",
-        "law (natural rule)",
-        "law (societal rule)",
         "canon"
       ],
       "pos": "noun",
@@ -142,23 +137,7 @@
       "audio": "audio/religion/008.mp3",
       "audioLocal": "audio/religion/008.mp3",
       "audioSource": "tts",
-      "examples": [
-        {
-          "ka": "კანონი მიიღეს",
-          "roman": "ḳanoni miiɣes",
-          "en": "a law was adopted"
-        },
-        {
-          "ka": "ბუნების კანონი",
-          "roman": "bunebis ḳanoni",
-          "en": "law of nature"
-        },
-        {
-          "ka": "მორალური კანონები",
-          "roman": "moraluri ḳanonebi",
-          "en": "moral laws"
-        }
-      ],
+      "examples": [],
       "etymology": "From Old Georgian კანონი (ḳanoni), directly from Ancient Greek κανών (kanṓn) or possibly via Arabic Arabic قانون (qānūn)."
     },
     {
@@ -346,8 +325,7 @@
       "roman": "šemokmedi",
       "en": "God, Universe creator",
       "glosses": [
-        "God, Universe creator",
-        "artist, creative person, creative, creator"
+        "God, Universe creator"
       ],
       "pos": "noun",
       "ipa": "[ʃe̞mo̞kʰme̞di]",

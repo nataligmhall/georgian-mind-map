@@ -1,0 +1,1147 @@
+{
+  "id": "phrases",
+  "name": "Phrases",
+  "nameKa": "ფრაზები",
+  "icon": "💬",
+  "count": 74,
+  "words": [
+    {
+      "ka": "ადრე თუ გვიან",
+      "roman": "adre tu gvian",
+      "en": "sooner or later",
+      "glosses": [
+        "sooner or later"
+      ],
+      "pos": "phrase",
+      "ipa": "[ädɾe̞ tʰu ɡ̊ʷiän]",
+      "audio": "audio/phrases/000.mp3",
+      "audioLocal": "audio/phrases/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, \"early or late\"."
+    },
+    {
+      "ka": "ამ შემთხვევაში",
+      "roman": "am šemtxvevaši",
+      "en": "in this case, in this instance, in this event",
+      "glosses": [
+        "in this case, in this instance, in this event"
+      ],
+      "pos": "phrase",
+      "ipa": "[äm ʃe̞mtʰχʷe̞väʃi]",
+      "audio": "audio/phrases/001.mp3",
+      "audioLocal": "audio/phrases/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ამ (am, “this”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative singular of შემთხვევა (šemtxveva)."
+    },
+    {
+      "ka": "არ ვიცი",
+      "roman": "ar vici",
+      "en": "I don’t know",
+      "glosses": [
+        "I don’t know"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/002.mp3",
+      "audioLocal": "audio/phrases/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "არა უშავს",
+      "roman": "ara ušavs",
+      "en": "never mind, do not fret",
+      "glosses": [
+        "never mind, do not fret",
+        "[It is] not bad"
+      ],
+      "pos": "phrase",
+      "ipa": "[äɾä uʃäfs]",
+      "audio": "audio/phrases/003.mp3",
+      "audioLocal": "audio/phrases/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ასე გასინჯეთ",
+      "roman": "ase gasinǯet",
+      "en": "used to pay one's attention to the subsequent phrase",
+      "glosses": [
+        "used to pay one's attention to the subsequent phrase"
+      ],
+      "pos": "phrase",
+      "ipa": "[äse̞ ɡ̊äsind͡ʒe̞tʰ]",
+      "audio": "audio/phrases/004.mp3",
+      "audioLocal": "audio/phrases/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "აღგვა პირისაგან მიწისა",
+      "roman": "",
+      "en": "to wipe off the face of the earth, to obliterate, to destroy completely",
+      "glosses": [
+        "to wipe off the face of the earth, to obliterate, to destroy completely"
+      ],
+      "pos": "phrase",
+      "ipa": "[äʁɡʷä pʼiɾisäɡän mit͡sʼisä]",
+      "audio": "audio/phrases/005.mp3",
+      "audioLocal": "audio/phrases/005.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "მტერი პირისაგან მიწისა აღიგავა.",
+          "roman": "mṭeri ṗirisagan mic̣isa aɣigava.",
+          "en": "The enemy was wiped off the face of the earth."
+        }
+      ],
+      "etymology": "Literally, “to sweep/wipe from the face of the earth.” A calque of the Ancient Greek ἐξαλείψω... ἀπὸ προσώπου τῆς γῆς (exaleípsō... apò prosṓpou tês gês) found in the Old Georgian translation of the Bible, specifically Genesis 6:7 and 7:4."
+    },
+    {
+      "ka": "გააჩნია",
+      "roman": "gaačnia",
+      "en": "it depends",
+      "glosses": [
+        "it depends"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɡ̊äät͡ʃʰniä]",
+      "audio": "audio/phrases/006.mp3",
+      "audioLocal": "audio/phrases/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გვარს არ დავასახელებ",
+      "roman": "gvars ar davasaxeleb",
+      "en": "you-know-who",
+      "glosses": [
+        "you-know-who"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɡ̊ʷäɾs äɾ d̥äväsäχe̞le̞pʰ]",
+      "audio": "audio/phrases/007.mp3",
+      "audioLocal": "audio/phrases/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, \"I won't give [his/her] surname\"."
+    },
+    {
+      "ka": "გილოცავ ახალ წელს",
+      "roman": "gilocav axal c̣els",
+      "en": "happy New Year (informally to one person)",
+      "glosses": [
+        "happy New Year (informally to one person)"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɡ̊iɫo̞t͡sʰäv äχäl t͡sʼe̞ls]",
+      "audio": "audio/phrases/008.mp3",
+      "audioLocal": "audio/phrases/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გილოცავ დაბადების დღეს",
+      "roman": "gilocav dabadebis dɣes",
+      "en": "happy birthday (singular)",
+      "glosses": [
+        "happy birthday (singular)"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɡ̊iɫo̞t͡sʰäv d̥äbäde̞bis d̥ʁe̞s]",
+      "audio": "audio/phrases/009.mp3",
+      "audioLocal": "audio/phrases/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ლოცვა (locva, “pray (for)”) + დაბადება (dabadeba, “birth”) + დღე (dɣe, “day”)."
+    },
+    {
+      "ka": "გილოცავთ ახალ წელს",
+      "roman": "gilocavt axal c̣els",
+      "en": "happy New Year (to more than one person or formally to one person)",
+      "glosses": [
+        "happy New Year (to more than one person or formally to one person)"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɡ̊iɫo̞t͡sʰäftʰ äχäl t͡sʼe̞ls]",
+      "audio": "audio/phrases/010.mp3",
+      "audioLocal": "audio/phrases/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "და ასე შემდეგ",
+      "roman": "da ase šemdeg",
+      "en": "and so forth, and so on, et cetera",
+      "glosses": [
+        "and so forth, and so on, et cetera"
+      ],
+      "pos": "phrase",
+      "ipa": "[d̥ä äse̞ ʃe̞mde̞kʰ]",
+      "audio": "audio/phrases/011.mp3",
+      "audioLocal": "audio/phrases/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დაყავი და იბატონე",
+      "roman": "daq̇avi da ibaṭone",
+      "en": "divide and conquer",
+      "glosses": [
+        "divide and conquer"
+      ],
+      "pos": "phrase",
+      "ipa": "[d̥äχʼävi d̥ä ibätʼo̞ne̞]",
+      "audio": "audio/phrases/012.mp3",
+      "audioLocal": "audio/phrases/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დროთა განმავლობაში",
+      "roman": "drota ganmavlobaši",
+      "en": "over time",
+      "glosses": [
+        "over time"
+      ],
+      "pos": "phrase",
+      "ipa": "[d̥ɾo̞tʰä ɡ̊änmävɫo̞bäʃi]",
+      "audio": "audio/phrases/013.mp3",
+      "audioLocal": "audio/phrases/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ეს ხომ ელემენტარულია, უოტსონ",
+      "roman": "es xom elemenṭarulia",
+      "en": "elementary, my dear Watson",
+      "glosses": [
+        "elementary, my dear Watson"
+      ],
+      "pos": "phrase",
+      "ipa": "[e̞s χo̞m e̞le̞me̞ntʼäɾuliä uo̞tʼso̞n]",
+      "audio": "audio/phrases/014.mp3",
+      "audioLocal": "audio/phrases/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ეს ხომ ელემენტარულია, ძვირფასო უოტსონ",
+      "roman": "es xom elemenṭarulia",
+      "en": "elementary, my dear Watson",
+      "glosses": [
+        "elementary, my dear Watson"
+      ],
+      "pos": "phrase",
+      "ipa": "[e̞s χo̞m e̞le̞me̞ntʼäɾuliä d͡zʷiɾpʰäso̞ uo̞tʼso̞n]",
+      "audio": "audio/phrases/015.mp3",
+      "audioLocal": "audio/phrases/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ეშმაკს არ სძინავს",
+      "roman": "ešmaḳs ar sʒinavs",
+      "en": "Indicates and warns an interlocutor that an unpleasant incident can occur to anyone anytime",
+      "glosses": [
+        "Indicates and warns an interlocutor that an unpleasant incident can occur to anyone anytime"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/016.mp3",
+      "audioLocal": "audio/phrases/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, \"Devil does not sleep\"."
+    },
+    {
+      "ka": "ვაზროვნებ მაშასადამე ვარსებობ",
+      "roman": "vazrovneb mašasadame varsebob",
+      "en": "I think therefore I am",
+      "glosses": [
+        "I think therefore I am"
+      ],
+      "pos": "phrase",
+      "ipa": "[väzɾo̞vne̞pʰ mäʃäsädäme̞ väɾse̞bo̞pʰ]",
+      "audio": "audio/phrases/017.mp3",
+      "audioLocal": "audio/phrases/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თავისუფალ დროს",
+      "roman": "tavisupal dros",
+      "en": "in one’s free time, during free time, in times of leisure",
+      "glosses": [
+        "in one’s free time, during free time, in times of leisure"
+      ],
+      "pos": "phrase",
+      "ipa": "[tʰävisupʰäl d̥ɾo̞s]",
+      "audio": "audio/phrases/018.mp3",
+      "audioLocal": "audio/phrases/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From თავისუფალი დრო (tavisupali dro)."
+    },
+    {
+      "ka": "თუ შეიძლება",
+      "roman": "tu šeiʒleba",
+      "en": "if possible",
+      "glosses": [
+        "if possible",
+        "please"
+      ],
+      "pos": "phrase",
+      "ipa": "[tʰu ʃe̞id͡zle̞bä]",
+      "audio": "audio/phrases/019.mp3",
+      "audioLocal": "audio/phrases/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თურმე ნუ იტყვით",
+      "roman": "turme nu iṭq̇vit",
+      "en": "usually said when the speaker learns something unexpected or surprising",
+      "glosses": [
+        "usually said when the speaker learns something unexpected or surprising"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/020.mp3",
+      "audioLocal": "audio/phrases/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ინგლისური იცით",
+      "roman": "inglisuri icit?",
+      "en": "Do you speak English?",
+      "glosses": [
+        "Do you speak English?"
+      ],
+      "pos": "phrase",
+      "ipa": "[iŋɡlisuɾi it͡sʰitʰ]",
+      "audio": "audio/phrases/021.mp3",
+      "audioLocal": "audio/phrases/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იყო და არა იყო რა",
+      "roman": "iq̇o da ara iq̇o ra",
+      "en": "once upon a time",
+      "glosses": [
+        "once upon a time"
+      ],
+      "pos": "phrase",
+      "ipa": "[iχʼo̞ d̥ä äɾä iχʼo̞ ɾä]",
+      "audio": "audio/phrases/022.mp3",
+      "audioLocal": "audio/phrases/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, “there was and there was not”.\nCompare the similar semantics of Azerbaijani biri var idi, biri yox idi (“once upon a time/there was, there was not”), Turkish bir varmış, bir yokmuş (“once upon a time/there was, there was not”), Persian یکی بود یکی نبود (yeki bud yeki nabud, “once upon a time/there was, there was not”), Armenian լինում է, չի լինում (linum ē, čʻi linum) and կար-չկար (kar-…"
+    },
+    {
+      "ka": "იყო და არა იყო რა, ღვთის უკეთესი რა იქნებოდა",
+      "roman": "iq̇o da ara iq̇o ra",
+      "en": "once upon a time",
+      "glosses": [
+        "once upon a time"
+      ],
+      "pos": "phrase",
+      "ipa": "[iχʼo̞ d̥ä äɾä iχʼo̞ ɾä ʁʷtʰis ukʼe̞tʰe̞si ɾä ikʰne̞bo̞dä]",
+      "audio": "audio/phrases/023.mp3",
+      "audioLocal": "audio/phrases/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "A larger variant of იყო და არა იყო რა (iq̇o da ara iq̇o ra). It literally means \"there was and there was not, there was not anything better than Lord\". Compare Persian یکی بود، یکی نبود، غیر از خدا هیچ کس نبود"
+    },
+    {
+      "ka": "კაი ერთი",
+      "roman": "ḳai erti",
+      "en": "you don't say",
+      "glosses": [
+        "you don't say"
+      ],
+      "pos": "phrase",
+      "ipa": "[kʼäi e̞ɾtʰi]",
+      "audio": "audio/phrases/024.mp3",
+      "audioLocal": "audio/phrases/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კანში ვერ ეტევა",
+      "roman": "ḳanši ver eṭeva",
+      "en": "to be very fat, to be obese",
+      "glosses": [
+        "to be very fat, to be obese"
+      ],
+      "pos": "phrase",
+      "ipa": "[kʼänʃi ve̞ɾ e̞tʼe̞vä]",
+      "audio": "audio/phrases/025.mp3",
+      "audioLocal": "audio/phrases/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "The literal translation would be: [their own] skin cannot hold them, they cannot fit in [their own] skin."
+    },
+    {
+      "ka": "კარგი საქონელია",
+      "roman": "ḳargi sakonelia",
+      "en": "It is good, needful, necessary",
+      "glosses": [
+        "It is good, needful, necessary"
+      ],
+      "pos": "phrase",
+      "ipa": "[kʼäɾɡi säkʰo̞ne̞liä]",
+      "audio": "audio/phrases/026.mp3",
+      "audioLocal": "audio/phrases/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კეთილი იყოს თქვენი მობრძანება",
+      "roman": "ḳetili iq̇os tkveni mobrʒaneba",
+      "en": "welcome",
+      "glosses": [
+        "welcome"
+      ],
+      "pos": "phrase",
+      "ipa": "[kʼe̞tʰili iχʼo̞s tʰkʰʷe̞ni mo̞bɾd͡zäne̞bä]",
+      "audio": "audio/phrases/027.mp3",
+      "audioLocal": "audio/phrases/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, \"Let your coming be good\""
+    },
+    {
+      "ka": "კითხვა მაქვს",
+      "roman": "ḳitxva makvs",
+      "en": "I have a question",
+      "glosses": [
+        "I have a question"
+      ],
+      "pos": "phrase",
+      "ipa": "[kʼitʰχʷä mäkʰʷs]",
+      "audio": "audio/phrases/028.mp3",
+      "audioLocal": "audio/phrases/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კულისებს მიღმა",
+      "roman": "ḳulisebs miɣma",
+      "en": "behind the scenes",
+      "glosses": [
+        "behind the scenes"
+      ],
+      "pos": "phrase",
+      "ipa": "[kʼulise̞bs miʁmä]",
+      "audio": "audio/phrases/029.mp3",
+      "audioLocal": "audio/phrases/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally \"beyond the stage/set\"."
+    },
+    {
+      "ka": "ლოლ",
+      "roman": "lol",
+      "en": "Adaptation of LOL",
+      "glosses": [
+        "Adaptation of LOL"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɫo̞l]",
+      "audio": "audio/phrases/030.mp3",
+      "audioLocal": "audio/phrases/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მე ქართველი ვარ",
+      "roman": "me kartveli var",
+      "en": "I am Georgian",
+      "glosses": [
+        "I am Georgian"
+      ],
+      "pos": "phrase",
+      "ipa": "[me̞ kʰäɾtʰʷe̞li väɾ]",
+      "audio": "audio/phrases/031.mp3",
+      "audioLocal": "audio/phrases/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მე შენ მიყვარხარ",
+      "roman": "me šen miq̇varxar",
+      "en": "I love you",
+      "glosses": [
+        "I love you"
+      ],
+      "pos": "phrase",
+      "ipa": "[me̞ ʃe̞n miχʼʷäɾχäɾ]",
+      "audio": "audio/phrases/032.mp3",
+      "audioLocal": "audio/phrases/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მიველ, ვნახე, დავამარცხე",
+      "roman": "mivel",
+      "en": "I came, I saw, I conquered",
+      "glosses": [
+        "I came, I saw, I conquered"
+      ],
+      "pos": "phrase",
+      "ipa": "[mive̞l vnäχe̞ d̥ävämäɾt͡sʰχe̞]",
+      "audio": "audio/phrases/033.mp3",
+      "audioLocal": "audio/phrases/033.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Calque of Latin vēnī, vīdī, vīcī (“I came, I saw, I conquered”)"
+    },
+    {
+      "ka": "მოცალეობის დროს",
+      "roman": "mocaleobis dros",
+      "en": "in one’s free time, during free time, in times of leisure",
+      "glosses": [
+        "in one’s free time, during free time, in times of leisure"
+      ],
+      "pos": "phrase",
+      "ipa": "[mo̞t͡sʰäle̞o̞bis d̥ɾo̞s]",
+      "audio": "audio/phrases/034.mp3",
+      "audioLocal": "audio/phrases/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მოცალეობის ჟამს",
+      "roman": "mocaleobis žams",
+      "en": "in one’s free time, during free time, in times of leisure",
+      "glosses": [
+        "in one’s free time, during free time, in times of leisure"
+      ],
+      "pos": "phrase",
+      "ipa": "[mo̞t͡sʰäle̞o̞bis ʒäms]",
+      "audio": "audio/phrases/035.mp3",
+      "audioLocal": "audio/phrases/035.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მოცალეობის ჟამი (mocaleobis žami)."
+    },
+    {
+      "ka": "მსოფლიო მასშტაბით",
+      "roman": "msoplio masšṭabit",
+      "en": "worldwide, around the world, on the world scale",
+      "glosses": [
+        "worldwide, around the world, on the world scale"
+      ],
+      "pos": "phrase",
+      "ipa": "[mso̞pʰlio̞ mäsʃtʼäbitʰ]",
+      "audio": "audio/phrases/036.mp3",
+      "audioLocal": "audio/phrases/036.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მსოფლიოს გარშემო",
+      "roman": "msoplios garšemo",
+      "en": "around the world, worldwide",
+      "glosses": [
+        "around the world, worldwide"
+      ],
+      "pos": "phrase",
+      "ipa": "[mso̞pʰlio̞s ɡ̊äɾʃe̞mo̞]",
+      "audio": "audio/phrases/037.mp3",
+      "audioLocal": "audio/phrases/037.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მტყუანს შევეცი",
+      "roman": "mṭq̇uans ševeci",
+      "en": "Said when the speaker wants to indicate that the person they are talking to is wrong",
+      "glosses": [
+        "Said when the speaker wants to indicate that the person they are talking to is wrong"
+      ],
+      "pos": "phrase",
+      "ipa": "[mtʼχʼuäns ʃe̞ve̞t͡sʰi]",
+      "audio": "audio/phrases/038.mp3",
+      "audioLocal": "audio/phrases/038.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally: 'fuck the wrong [unjust] one'."
+    },
+    {
+      "ka": "ნიკოფსიიდან დარუბანდამდე",
+      "roman": "niḳopsiidan darubandamde",
+      "en": "used to describe the extent of the medieval kingdom of Georgia by its westernmost and easternmost cities",
+      "glosses": [
+        "used to describe the extent of the medieval kingdom of Georgia by its westernmost and easternmost cities"
+      ],
+      "pos": "phrase",
+      "ipa": "[nikʼo̞pʰsiidän d̥äɾubändämde̞]",
+      "audio": "audio/phrases/039.mp3",
+      "audioLocal": "audio/phrases/039.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, from Nikopsia to Derbent."
+    },
+    {
+      "ka": "პროლეტარებო ყველა ქვეყნისა, შეერთდით",
+      "roman": "ṗroleṭarebo q̇vela kveq̇nisa",
+      "en": "workers of the world, unite!",
+      "glosses": [
+        "workers of the world, unite!"
+      ],
+      "pos": "phrase",
+      "ipa": "[pʼɾo̞le̞tʼäɾe̞bo̞ χʼʷe̞ɫä kʰʷe̞χʼnisä ʃe̞e̞ɾtʰditʰ]",
+      "audio": "audio/phrases/040.mp3",
+      "audioLocal": "audio/phrases/040.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რა თქმა უნდა",
+      "roman": "ra tkma unda",
+      "en": "of course",
+      "glosses": [
+        "of course"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾä tʰkʰmä undä]",
+      "audio": "audio/phrases/041.mp3",
+      "audioLocal": "audio/phrases/041.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, needless to say"
+    },
+    {
+      "ka": "რა უშავს",
+      "roman": "ra ušavs?",
+      "en": "Indicates regret and wish.",
+      "glosses": [
+        "Indicates regret and wish."
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾä uʃäfs]",
+      "audio": "audio/phrases/042.mp3",
+      "audioLocal": "audio/phrases/042.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "რა უშავდა მეც მყოლოდა მანქანა.",
+          "roman": "ra ušavda mec mq̇oloda mankana.",
+          "en": "If only I had a car too."
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "რავი",
+      "roman": "ravi",
+      "en": "abbreviation of რავიცი (ravici)",
+      "glosses": [
+        "abbreviation of რავიცი (ravici)"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾävi]",
+      "audio": "audio/phrases/043.mp3",
+      "audioLocal": "audio/phrases/043.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რავიცი",
+      "roman": "ravici",
+      "en": "alternative spelling of რა ვიცი (ra vici)",
+      "glosses": [
+        "alternative spelling of რა ვიცი (ra vici)"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾävit͡sʰi]",
+      "audio": "audio/phrases/044.mp3",
+      "audioLocal": "audio/phrases/044.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "როგორ მიდის საქმეები",
+      "roman": "rogor midis sakmeebi",
+      "en": "how is it going? how are you?",
+      "glosses": [
+        "how is it going? how are you?"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾo̞ɡo̞ɾ midis säkʰme̞e̞bi]",
+      "audio": "audio/phrases/045.mp3",
+      "audioLocal": "audio/phrases/045.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "როგორა ხარ",
+      "roman": "rogora xar",
+      "en": "how are you?",
+      "glosses": [
+        "how are you?"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾo̞ɡo̞ɾä χäɾ]",
+      "audio": "audio/phrases/046.mp3",
+      "audioLocal": "audio/phrases/046.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რომელი საათია",
+      "roman": "romeli saatia?",
+      "en": "what time is it?",
+      "glosses": [
+        "what time is it?"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾo̞me̞li säätʰiä]",
+      "audio": "audio/phrases/047.mp3",
+      "audioLocal": "audio/phrases/047.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "როცა ვირი ხეზე ავა",
+      "roman": "roca viri xeze ava",
+      "en": "when pigs fly",
+      "glosses": [
+        "when pigs fly"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾo̞t͡sʰä viɾi χe̞ze̞ ävä]",
+      "audio": "audio/phrases/048.mp3",
+      "audioLocal": "audio/phrases/048.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally \"when the donkey climbs the tree\"."
+    },
+    {
+      "ka": "რქების დადგმა",
+      "roman": "rkebis dadgma",
+      "en": "to cuckold (literally, to put horns on)",
+      "glosses": [
+        "to cuckold (literally, to put horns on)"
+      ],
+      "pos": "phrase",
+      "ipa": "[ɾkʰe̞bis d̥ädɡmä]",
+      "audio": "audio/phrases/049.mp3",
+      "audioLocal": "audio/phrases/049.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საერთო ენის გამონახვა",
+      "roman": "saerto enis gamonaxva",
+      "en": "to come to terms with sb",
+      "glosses": [
+        "to come to terms with sb"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/050.mp3",
+      "audioLocal": "audio/phrases/050.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "მე და ჩემმა დამ საერთო ენა გამოვნახეთ.",
+          "roman": "me da čemma dam saerto ena gamovnaxet.",
+          "en": "I came to terms with my sister."
+        }
+      ],
+      "etymology": null
+    },
+    {
+      "ka": "სასიამოვნოა თქვენი გაცნობა",
+      "roman": "sasiamovnoa tkveni gacnoba",
+      "en": "pleased to meet you, nice to meet you",
+      "glosses": [
+        "pleased to meet you, nice to meet you"
+      ],
+      "pos": "phrase",
+      "ipa": "[säsiämo̞vno̞ä tʰkʰʷe̞ni ɡ̊ät͡sʰno̞bä]",
+      "audio": "audio/phrases/051.mp3",
+      "audioLocal": "audio/phrases/051.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სასიამოვნო (sasiamovno, “pleasant”) + -ა (-a, “is”) + თქვენი (tkveni, “your”) + გაცნობა (gacnoba, “getting to know”).\nGeorgian phrasebook\n This entry is part of the phrasebook project, which presents criteria for inclusion based on utility, simplicity and commonness."
+    },
+    {
+      "ka": "სკილასა და ქარიბდას შორის",
+      "roman": "sḳilasa da karibdas šoris",
+      "en": "between Scylla and Charybdis",
+      "glosses": [
+        "between Scylla and Charybdis"
+      ],
+      "pos": "phrase",
+      "ipa": "[skʼiɫäsä d̥ä kʰäɾibdäs ʃo̞ɾis]",
+      "audio": "audio/phrases/052.mp3",
+      "audioLocal": "audio/phrases/052.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სულერთია",
+      "roman": "sulertia",
+      "en": "it's all the same, it doesn't matter",
+      "glosses": [
+        "it's all the same, it doesn't matter"
+      ],
+      "pos": "phrase",
+      "ipa": "[sule̞ɾtʰiä]",
+      "audio": "audio/phrases/053.mp3",
+      "audioLocal": "audio/phrases/053.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Univerbation of სულ (sul) + ერთია (ertia). Literally, “it's all one”."
+    },
+    {
+      "ka": "სხვა შემთხვევაში",
+      "roman": "sxva šemtxvevaši",
+      "en": "otherwise, in other cases",
+      "glosses": [
+        "otherwise, in other cases"
+      ],
+      "pos": "phrase",
+      "ipa": "[sχʷä ʃe̞mtʰχʷe̞väʃi]",
+      "audio": "audio/phrases/054.mp3",
+      "audioLocal": "audio/phrases/054.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სხვა (sxva, “other”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative singular of შემთხვევა (šemtxveva)."
+    },
+    {
+      "ka": "სხვათა შორის",
+      "roman": "sxvata šoris",
+      "en": "by the way",
+      "glosses": [
+        "by the way",
+        "for your information"
+      ],
+      "pos": "phrase",
+      "ipa": "[sχʷätʰä ʃo̞ɾis]",
+      "audio": "audio/phrases/055.mp3",
+      "audioLocal": "audio/phrases/055.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სხვათა (sxvata, “others”, old-fashioned genitive plural) + შორის (šoris, “amongst”)."
+    },
+    {
+      "ka": "ტკბილი ძილი",
+      "roman": "ṭḳbili ʒili",
+      "en": "sweet dreams",
+      "glosses": [
+        "sweet dreams"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/056.mp3",
+      "audioLocal": "audio/phrases/056.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უკაცრავად პასუხია",
+      "roman": "uḳacravad ṗasuxia",
+      "en": "Used to apologize for the use of profanity or unpleasant phrase.",
+      "glosses": [
+        "Used to apologize for the use of profanity or unpleasant phrase.",
+        "Used to indicate bad attitude or make fun of."
+      ],
+      "pos": "phrase",
+      "ipa": "[ukʼät͡sʰɾävätʰ pʼäsuχiä]",
+      "audio": "audio/phrases/057.mp3",
+      "audioLocal": "audio/phrases/057.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უკუნითი უკუნისამდე",
+      "roman": "uḳuniti uḳunisamde",
+      "en": "for all time, for all eternity",
+      "glosses": [
+        "for all time, for all eternity"
+      ],
+      "pos": "phrase",
+      "ipa": "[ukʼunitʰi ukʼunisämde̞]",
+      "audio": "audio/phrases/058.mp3",
+      "audioLocal": "audio/phrases/058.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "უპირველეს ყოვლისა",
+      "roman": "uṗirveles q̇ovlisa",
+      "en": "above all, above everything",
+      "glosses": [
+        "above all, above everything"
+      ],
+      "pos": "phrase",
+      "ipa": "[upʼiɾʷe̞le̞s χʼo̞vlisä]",
+      "audio": "audio/phrases/059.mp3",
+      "audioLocal": "audio/phrases/059.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally \"[coming] first of everything\"."
+    },
+    {
+      "ka": "ფერადი სიზმრები",
+      "roman": "peradi sizmrebi",
+      "en": "sweet dreams, good night (literallyː colorful dreams)",
+      "glosses": [
+        "sweet dreams, good night (literallyː colorful dreams)"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/060.mp3",
+      "audioLocal": "audio/phrases/060.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ქართულად ვერ ვლაპარაკობ",
+      "roman": "kartulad ver vlaṗaraḳob",
+      "en": "I don’t speak Georgian",
+      "glosses": [
+        "I don’t speak Georgian"
+      ],
+      "pos": "phrase",
+      "ipa": "[kʰäɾtʰuɫätʰ ve̞ɾ vɫäpʼäɾäkʼo̞pʰ]",
+      "audio": "audio/phrases/061.mp3",
+      "audioLocal": "audio/phrases/061.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ქართულად ვლაპარაკობ",
+      "roman": "kartulad vlaṗaraḳob",
+      "en": "I speak Georgian",
+      "glosses": [
+        "I speak Georgian"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/062.mp3",
+      "audioLocal": "audio/phrases/062.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ქართული იცით",
+      "roman": "kartuli icit",
+      "en": "Do you speak Georgian?",
+      "glosses": [
+        "Do you speak Georgian?"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/063.mp3",
+      "audioLocal": "audio/phrases/063.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ღამე ნებისა",
+      "roman": "ɣame nebisa",
+      "en": "sweet dreams, good night",
+      "glosses": [
+        "sweet dreams, good night"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/064.mp3",
+      "audioLocal": "audio/phrases/064.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "შე ჩემა",
+      "roman": "še čema",
+      "en": "used as an expletive",
+      "glosses": [
+        "used as an expletive"
+      ],
+      "pos": "phrase",
+      "ipa": "[ʃe̞ t͡ʃʰe̞mä]",
+      "audio": "audio/phrases/065.mp3",
+      "audioLocal": "audio/phrases/065.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "შენი ჭირიმე",
+      "roman": "šeni č̣irime",
+      "en": "an untranslatable expression of endearment towards a familiar listener.",
+      "glosses": [
+        "an untranslatable expression of endearment towards a familiar listener."
+      ],
+      "pos": "phrase",
+      "ipa": "[ʃe̞ni t͡ʃʼiɾime̞]",
+      "audio": "audio/phrases/066.mp3",
+      "audioLocal": "audio/phrases/066.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, \"your grief to me\". Compare Armenian ցավդ տանեմ (cʻavd tanem)."
+    },
+    {
+      "ka": "შენს პირს შაქარი",
+      "roman": "šens ṗirs šakari",
+      "en": "Expresses the wish that previously said statement come true",
+      "glosses": [
+        "Expresses the wish that previously said statement come true"
+      ],
+      "pos": "phrase",
+      "ipa": "[ʃe̞ns pʼiɾs ʃäkʰäɾi]",
+      "audio": "audio/phrases/067.mp3",
+      "audioLocal": "audio/phrases/067.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, \"sugar to your mouth\"."
+    },
+    {
+      "ka": "ჩემი ყლე",
+      "roman": "čemi q̇le",
+      "en": "the fuck",
+      "glosses": [
+        "the fuck"
+      ],
+      "pos": "phrase",
+      "ipa": "[t͡ʃʰe̞mi χʼle̞]",
+      "audio": "audio/phrases/068.mp3",
+      "audioLocal": "audio/phrases/068.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "ვინ ჩემი ყლეა რაჯეშ ტუნდრა?",
+          "roman": "vin čemi q̇lea raǯeš ṭundra?",
+          "en": "Who the fuck is Rajesh Tundra?"
+        }
+      ],
+      "etymology": "Literally, my dick."
+    },
+    {
+      "ka": "ჩემით გავალ",
+      "roman": "čemit gaval",
+      "en": "I'll get my coat",
+      "glosses": [
+        "I'll get my coat"
+      ],
+      "pos": "phrase",
+      "ipa": "[t͡ʃʰe̞mitʰ ɡ̊äväl]",
+      "audio": "audio/phrases/069.mp3",
+      "audioLocal": "audio/phrases/069.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩემო კარგო",
+      "roman": "čemo ḳargo",
+      "en": "darling, dear (expression of endearment)",
+      "glosses": [
+        "darling, dear (expression of endearment)"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/070.mp3",
+      "audioLocal": "audio/phrases/070.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Literally, \"you, my good\", \"you, my goodness\". This phrase is completely in the vocative case."
+    },
+    {
+      "ka": "ჩიტმა ამბავი მომიტანა",
+      "roman": "čiṭma ambavi momiṭana",
+      "en": "a little bird told me (literal translation: a bird brought me the story)",
+      "glosses": [
+        "a little bird told me (literal translation: a bird brought me the story)"
+      ],
+      "pos": "phrase",
+      "ipa": "[t͡ʃʰitʼmä ämbävi mo̞mitʼänä]",
+      "audio": "audio/phrases/071.mp3",
+      "audioLocal": "audio/phrases/071.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ძილი ნებისა",
+      "roman": "ʒili nebisa",
+      "en": "sweet dreams, good night",
+      "glosses": [
+        "sweet dreams, good night"
+      ],
+      "pos": "phrase",
+      "ipa": null,
+      "audio": "audio/phrases/072.mp3",
+      "audioLocal": "audio/phrases/072.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "წინააღმდეგ შემთხვევაში",
+      "roman": "c̣inaaɣmdeg šemtxvevaši",
+      "en": "otherwise, or else",
+      "glosses": [
+        "otherwise, or else"
+      ],
+      "pos": "phrase",
+      "ipa": "[t͡sʼinääʁmde̞kʰ ʃe̞mtʰχʷe̞väʃi]",
+      "audio": "audio/phrases/073.mp3",
+      "audioLocal": "audio/phrases/073.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From წინააღმდეგ (c̣inaaɣmdeg, “opposite, against”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative-like postpositional inflected singular form of შემთხვევა (šemtxveva)."
+    }
+  ]
+}

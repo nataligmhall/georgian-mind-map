@@ -70,8 +70,6 @@
       "roman": "lomi",
       "en": "Leo",
       "glosses": [
-        "lion",
-        "Leo constellation",
         "Leo"
       ],
       "pos": "noun",
@@ -85,9 +83,8 @@
     {
       "ka": "მარტორქა",
       "roman": "marṭorka",
-      "en": "rhinoceros (mammal)",
+      "en": "unicorn",
       "glosses": [
-        "rhinoceros (mammal)",
         "unicorn"
       ],
       "pos": "noun",
@@ -103,9 +100,7 @@
       "roman": "mela",
       "en": "fox fur",
       "glosses": [
-        "fox",
-        "fox fur",
-        "crafty, insinuating person"
+        "fox fur"
       ],
       "pos": "noun",
       "ipa": "[me̞ɫä]",
@@ -210,8 +205,7 @@
       "roman": "ǯori",
       "en": "mule",
       "glosses": [
-        "mule",
-        "donkey"
+        "mule"
       ],
       "pos": "noun",
       "ipa": "[d͡ʒo̞ɾi]",

@@ -3,7 +3,7 @@
   "name": "Face",
   "nameKa": "სახე",
   "icon": "◯",
-  "count": 13,
+  "count": 14,
   "words": [
     {
       "ka": "ბაგე",
@@ -96,17 +96,37 @@
       "etymology": "From Old Georgian პინჩი (ṗinči). Compare Old Armenian պինչ (pinčʻ)."
     },
     {
+      "ka": "პირი",
+      "roman": "ṗiri",
+      "en": "face",
+      "glosses": [
+        "face"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼiɾi]",
+      "audio": "audio/face/006.mp3",
+      "audioLocal": "audio/face/006.mp3",
+      "audioSource": "tts",
+      "examples": [
+        {
+          "ka": "პირზე იმედიანი ღიმილი უთამაშებდა.",
+          "roman": "ṗirze imediani ɣimili utamašebda.",
+          "en": "A hopeful smile was dancing on her (his) face."
+        }
+      ],
+      "etymology": "From Old Georgian პირი (ṗiri), from Proto-Kartvelian *ṗir-."
+    },
+    {
       "ka": "პოპორი",
       "roman": "ṗoṗori",
       "en": "lip, face",
       "glosses": [
-        "lip of a child prepared to cry",
         "lip, face"
       ],
       "pos": "noun",
       "ipa": "[pʼo̞pʼo̞ɾi]",
-      "audio": "audio/face/006.mp3",
-      "audioLocal": "audio/face/006.mp3",
+      "audio": "audio/face/007.mp3",
+      "audioLocal": "audio/face/007.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "Doesn't seem to be related to Mingrelian პოპორი (ṗoṗori)."
@@ -120,8 +140,8 @@
       ],
       "pos": "noun",
       "ipa": "[säulʷäʃe̞]",
-      "audio": "audio/face/007.mp3",
-      "audioLocal": "audio/face/007.mp3",
+      "audio": "audio/face/008.mp3",
+      "audioLocal": "audio/face/008.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From ულვაში (ulvaši) + სა- -ე (sa- -e)."
@@ -135,8 +155,8 @@
       ],
       "pos": "noun",
       "ipa": "[ʁät͡sʼʷi]",
-      "audio": "audio/face/008.mp3",
-      "audioLocal": "audio/face/008.mp3",
+      "audio": "audio/face/009.mp3",
+      "audioLocal": "audio/face/009.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian ღაწჳ (ɣac̣wi), from Proto-Kartvelian *ɣac̣₁w-."
@@ -150,8 +170,8 @@
       ],
       "pos": "noun",
       "ipa": "[ʁo̞d͡ʒi]",
-      "audio": "audio/face/009.mp3",
-      "audioLocal": "audio/face/009.mp3",
+      "audio": "audio/face/010.mp3",
+      "audioLocal": "audio/face/010.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -165,8 +185,8 @@
       ],
       "pos": "noun",
       "ipa": "[ʃubli]",
-      "audio": "audio/face/010.mp3",
-      "audioLocal": "audio/face/010.mp3",
+      "audio": "audio/face/011.mp3",
+      "audioLocal": "audio/face/011.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian შუბლი (šubli), from Proto-Kartvelian *šubl-."
@@ -181,7 +201,7 @@
       "pos": "noun",
       "ipa": "/t͡sxviri/",
       "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Ka-%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98%E1%83%A0%E1%83%98-Nicodene-mom.ogg/Ka-%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98%E1%83%A0%E1%83%98-Nicodene-mom.ogg.mp3",
-      "audioLocal": "audio/face/011.mp3",
+      "audioLocal": "audio/face/012.mp3",
       "audioSource": "wiktionary",
       "examples": [],
       "etymology": "From Old Georgian ცხჳრი (cxwiri), from Proto-Georgian-Zan *c₁xwir-."
@@ -195,8 +215,8 @@
       ],
       "pos": "noun",
       "ipa": "[t͡sʼäɾbi]",
-      "audio": "audio/face/012.mp3",
-      "audioLocal": "audio/face/012.mp3",
+      "audio": "audio/face/013.mp3",
+      "audioLocal": "audio/face/013.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian წარბი (c̣arbi), from Proto-Georgian-Zan *c̣₁arb-."

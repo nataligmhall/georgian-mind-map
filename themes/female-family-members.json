@@ -3,7 +3,7 @@
   "name": "Female family members",
   "nameKa": "მდედრობითი ოჯახი",
   "icon": "♀",
-  "count": 8,
+  "count": 9,
   "words": [
     {
       "ka": "არაღვიძლი და",
@@ -96,6 +96,21 @@
       "etymology": "From დედა (deda, “mother”) + ჩემი (čemi, “my, mine”)."
     },
     {
+      "ka": "რძალი",
+      "roman": "rʒali",
+      "en": "the wife of one‘s spouse‘s sibling (with the sibling usually being the brother of one‘s husband)",
+      "glosses": [
+        "the wife of one‘s spouse‘s sibling (with the sibling usually being the brother of one‘s husband)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾd͡zäli]",
+      "audio": "audio/female-family-members/006.mp3",
+      "audioLocal": "audio/female-family-members/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian რძალი (rʒali), from Old Georgian სძალი (sʒali)."
+    },
+    {
       "ka": "შილი",
       "roman": "šili",
       "en": "brother-in-law's (only husband's brother) wife",
@@ -104,8 +119,8 @@
       ],
       "pos": "noun",
       "ipa": "[ʃili]",
-      "audio": "audio/female-family-members/006.mp3",
-      "audioLocal": "audio/female-family-members/006.mp3",
+      "audio": "audio/female-family-members/007.mp3",
+      "audioLocal": "audio/female-family-members/007.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": null
@@ -119,8 +134,8 @@
       ],
       "pos": "noun",
       "ipa": "[t͡sʰo̞li]",
-      "audio": "audio/female-family-members/007.mp3",
-      "audioLocal": "audio/female-family-members/007.mp3",
+      "audio": "audio/female-family-members/008.mp3",
+      "audioLocal": "audio/female-family-members/008.mp3",
       "audioSource": "tts",
       "examples": [],
       "etymology": "From Old Georgian ცოლი (coli), from Proto-Kartvelian *c₁olʿ-."
