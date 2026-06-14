@@ -117,18 +117,14 @@ PRIORITY_VERBS = [
     "გამოდის", "იცვამს", "იბანება",
 ]
 
-TENSE_LABELS = [
+CONJUGATION_GROUPS = [
     ("present", "Present"),
-    ("imperfect", "Imperfect"),
     ("future", "Future"),
-    ("aorist", "Aorist"),
-    ("perfect", "Perfect"),
-    ("pluperfect", "Pluperfect"),
-    ("imperative", "Imperative"),
-    ("subjunctive", "Subjunctive"),
-    ("conditional", "Conditional"),
-    ("optative", "Optative"),
+    ("past_aorist", "Past (aorist)"),
+    ("past_perfect", "Past (perfect)"),
 ]
+
+EXCLUDED_MOOD_TAGS = frozenset({"subjunctive", "conditional", "imperative", "optative"})
 
 PERSON_ROWS = [
     (("first-person", "singular"), "1sg"),
@@ -428,38 +424,80 @@ def is_lemma_verb_gloss(gloss: str) -> bool:
     return g.startswith("to ") and "form of" not in g
 
 
+def is_conjugation_person_form(tags: set) -> bool:
+    return bool(
+        {"first-person", "second-person", "third-person"} & tags
+        and {"singular", "plural"} & tags
+    )
+
+
+def should_skip_conjugation_form(tags: set, ka: str) -> bool:
+    if tags & {"table-tags", "inflection-template", "noun-from-verb"}:
+        return True
+    return not ka or ka in {"no-table-tags", "q", "-"}
+
+
+def classify_conjugation_bucket(tags: set) -> Optional[str]:
+    """Map Wiktionary tags to learner-facing tense groups."""
+    if not is_conjugation_person_form(tags):
+        return None
+    if "present" in tags:
+        if EXCLUDED_MOOD_TAGS & tags:
+            return None
+        return "present"
+    if "future" in tags:
+        if EXCLUDED_MOOD_TAGS & tags:
+            return None
+        return "future"
+    if "aorist" in tags:
+        if "optative" in tags:
+            return None
+        return "past_aorist"
+    if "perfect" in tags:
+        if "subjunctive" in tags:
+            return None
+        return "past_perfect"
+    return None
+
+
+def conjugation_form_rank(tags: set) -> int:
+    """Prefer explicitly indicative forms when multiple rows share a person slot."""
+    rank = 0
+    if "indicative" in tags:
+        rank += 2
+    if not (EXCLUDED_MOOD_TAGS & tags):
+        rank += 1
+    return rank
+
+
 def conjugation_form_count(entry: dict) -> int:
     count = 0
     for form in entry.get("forms") or []:
         if form.get("source") != "conjugation":
             continue
         tags = set(form.get("tags") or [])
-        if tags & {"table-tags", "inflection-template", "error-unrecognized-form", "noun-from-verb"}:
-            continue
         ka = (form.get("form") or "").strip()
-        if not ka or ka in {"no-table-tags", "q", "-"}:
+        if should_skip_conjugation_form(tags, ka):
             continue
-        count += 1
+        if classify_conjugation_bucket(tags):
+            count += 1
     return count
 
 
 def extract_conjugation(entry: dict) -> Optional[dict]:
-    """Group conjugation forms by tense into a compact grid."""
-    by_tense: Dict[str, Dict[str, dict]] = defaultdict(dict)
+    """Group indicative conjugation forms into Present, Future, and Past."""
+    by_bucket: Dict[str, Dict[str, Tuple[dict, int]]] = defaultdict(dict)
 
     for form in entry.get("forms") or []:
         if form.get("source") != "conjugation":
             continue
         tags = set(form.get("tags") or [])
-        if tags & {"table-tags", "inflection-template", "error-unrecognized-form", "noun-from-verb"}:
-            continue
-
         ka = (form.get("form") or "").strip()
-        if not ka or ka in {"no-table-tags", "q", "-"}:
+        if should_skip_conjugation_form(tags, ka):
             continue
 
-        tense = next((key for key, _ in TENSE_LABELS if key in tags), None)
-        if not tense:
+        bucket = classify_conjugation_bucket(tags)
+        if not bucket:
             continue
 
         label = next(
@@ -469,24 +507,23 @@ def extract_conjugation(entry: dict) -> Optional[dict]:
         if not label:
             continue
 
-        by_tense[tense][label] = {
-            "ka": ka,
-            "roman": form.get("roman", ""),
-        }
+        record = {"ka": ka, "roman": form.get("roman", "")}
+        rank = conjugation_form_rank(tags)
+        prev = by_bucket[bucket].get(label)
+        if prev is None or rank > prev[1]:
+            by_bucket[bucket][label] = (record, rank)
 
-    if not by_tense:
+    if not by_bucket:
         return None
 
     groups = []
-    for tense_key, tense_label in TENSE_LABELS:
-        rows = by_tense.get(tense_key)
+    for bucket_key, bucket_label in CONJUGATION_GROUPS:
+        rows = by_bucket.get(bucket_key)
         if not rows:
             continue
-        forms = [rows[lbl] for _, lbl in PERSON_ROWS if lbl in rows]
+        forms = [rows[lbl][0] for _, lbl in PERSON_ROWS if lbl in rows]
         if forms:
-            groups.append({"tense": tense_label, "forms": forms})
-        if len(groups) >= 8:
-            break
+            groups.append({"tense": bucket_label, "forms": forms})
 
     return {"groups": groups} if groups else None
 
