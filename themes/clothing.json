@@ -1,0 +1,265 @@
+{
+  "id": "clothing",
+  "name": "Clothing",
+  "nameKa": "ტანისამოსი",
+  "icon": "◐",
+  "count": 17,
+  "words": [
+    {
+      "ka": "აბზინდა",
+      "roman": "abzinda",
+      "en": "buckle",
+      "glosses": [
+        "buckle"
+      ],
+      "pos": "noun",
+      "ipa": "[äbzindä]",
+      "audio": "audio/clothing/000.mp3",
+      "audioLocal": "audio/clothing/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "An Iranian borrowing, compare Arabic إِبْزِيم (ʔibzīm)."
+    },
+    {
+      "ka": "თათმანი",
+      "roman": "tatmani",
+      "en": "mitten",
+      "glosses": [
+        "mitten",
+        "glove"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰätʰmäni]",
+      "audio": "audio/clothing/001.mp3",
+      "audioLocal": "audio/clothing/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From late Middle Georgian თათმანი (tatmani), borrowed from the Middle Armenian antecedent of dialectal Armenian թաթման (tʻatʻman). See թաթպան (tʻatʻpan) for more."
+    },
+    {
+      "ka": "კაბა",
+      "roman": "ḳaba",
+      "en": "dress, frock",
+      "glosses": [
+        "dress, frock"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäbä]",
+      "audio": "audio/clothing/002.mp3",
+      "audioLocal": "audio/clothing/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Arabic قَبَاء (qabāʔ)."
+    },
+    {
+      "ka": "ლაბადა",
+      "roman": "labada",
+      "en": "cape",
+      "glosses": [
+        "cape"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫäbädä]",
+      "audio": "audio/clothing/003.mp3",
+      "audioLocal": "audio/clothing/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Classical Persian لَبَّادَه (labbāda)."
+    },
+    {
+      "ka": "მაისური",
+      "roman": "maisuri",
+      "en": "T-shirt",
+      "glosses": [
+        "T-shirt"
+      ],
+      "pos": "noun",
+      "ipa": "[mäisuɾi]",
+      "audio": "audio/clothing/004.mp3",
+      "audioLocal": "audio/clothing/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From მაისი (maisi, “month of May”) + -ური (-uri, relational suffix). Presumably a calque of Russian ма́йка (májka), which was also borrowed directly as the 'barbarism' მაიკა (maiḳa)."
+    },
+    {
+      "ka": "პანამა",
+      "roman": "ṗanama",
+      "en": "Panama hat",
+      "glosses": [
+        "Panama hat"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼänämä]",
+      "audio": "audio/clothing/005.mp3",
+      "audioLocal": "audio/clothing/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჟილეტი",
+      "roman": "žileṭi",
+      "en": "vest, waistcoat",
+      "glosses": [
+        "vest, waistcoat"
+      ],
+      "pos": "noun",
+      "ipa": "[ʒile̞tʼi]",
+      "audio": "audio/clothing/006.mp3",
+      "audioLocal": "audio/clothing/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სარი",
+      "roman": "sari",
+      "en": "pale, stake",
+      "glosses": [
+        "pale, stake"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾi]",
+      "audio": "audio/clothing/007.mp3",
+      "audioLocal": "audio/clothing/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Related to Middle Armenian սարի (sari) and սարբինայ (sarbinay)."
+    },
+    {
+      "ka": "სარტყელი",
+      "roman": "sarṭq̇eli",
+      "en": "belt, cincture, girdle, sash",
+      "glosses": [
+        "belt, cincture, girdle, sash"
+      ],
+      "pos": "noun",
+      "ipa": "[säɾtʼχʼe̞li]",
+      "audio": "audio/clothing/008.mp3",
+      "audioLocal": "audio/clothing/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian სარტყელი (sarṭq̇eli), from Proto-Kartvelian *raṭq̇- : *rṭq̇- (“to gird, engird”)."
+    },
+    {
+      "ka": "ფრაკი",
+      "roman": "praḳi",
+      "en": "tailcoat",
+      "glosses": [
+        "tailcoat"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰɾäkʼi]",
+      "audio": "audio/clothing/009.mp3",
+      "audioLocal": "audio/clothing/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian фрак (frak), from French frac."
+    },
+    {
+      "ka": "ქამარი",
+      "roman": "kamari",
+      "en": "belt, cummerbund, thong, waistband",
+      "glosses": [
+        "belt, cummerbund, thong, waistband"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰämäɾi]",
+      "audio": "audio/clothing/010.mp3",
+      "audioLocal": "audio/clothing/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian کمر (kamar, “waist”). Doublet of კამარა (ḳamara)."
+    },
+    {
+      "ka": "ღვედი",
+      "roman": "ɣvedi",
+      "en": "belt, strap, thong",
+      "glosses": [
+        "belt, strap, thong"
+      ],
+      "pos": "noun",
+      "ipa": "[ʁʷe̞di]",
+      "audio": "audio/clothing/011.mp3",
+      "audioLocal": "audio/clothing/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ღუედი (ɣuedi), see there for more."
+    },
+    {
+      "ka": "შარვალი",
+      "roman": "šarvali",
+      "en": "pantaloon, trousers, pants",
+      "glosses": [
+        "pantaloon, trousers, pants"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃäɾʷäli]",
+      "audio": "audio/clothing/012.mp3",
+      "audioLocal": "audio/clothing/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შალვარი (šalvari), from Persian شلوار, itself Middle Persian [script needed] (šlwʾl /⁠šalwār⁠/, “trousers”), ultimately from Proto-Iranian *šarawāra."
+    },
+    {
+      "ka": "შარფი",
+      "roman": "šarpi",
+      "en": "scarf",
+      "glosses": [
+        "scarf"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃäɾpʰi]",
+      "audio": "audio/clothing/013.mp3",
+      "audioLocal": "audio/clothing/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian шарф (šarf)."
+    },
+    {
+      "ka": "ჩოხა",
+      "roman": "čoxa",
+      "en": "chokha",
+      "glosses": [
+        "chokha"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰo̞χä]",
+      "audio": "audio/clothing/014.mp3",
+      "audioLocal": "audio/clothing/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჩოჴაჲ (čoqay), from Persian چوقا (čôqâ). See Ottoman Turkish چوقه (çoka, çoha, çuka, çuha) for more."
+    },
+    {
+      "ka": "ხამლი",
+      "roman": "xamli",
+      "en": "a type of medieval footwear; turnshoe",
+      "glosses": [
+        "a type of medieval footwear; turnshoe"
+      ],
+      "pos": "noun",
+      "ipa": "[χämli]",
+      "audio": "audio/clothing/015.mp3",
+      "audioLocal": "audio/clothing/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჴამლი (qamli), from Proto-Kartvelian *qaml-."
+    },
+    {
+      "ka": "ჯინსი",
+      "roman": "ǯinsi",
+      "en": "jeans",
+      "glosses": [
+        "jeans"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/clothing/016.mp3",
+      "audioLocal": "audio/clothing/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

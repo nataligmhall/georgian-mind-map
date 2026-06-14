@@ -1,0 +1,261 @@
+{
+  "id": "sports",
+  "name": "Sports",
+  "nameKa": "სპორტი",
+  "icon": "⚑",
+  "count": 16,
+  "words": [
+    {
+      "ka": "არბიტრი",
+      "roman": "arbiṭri",
+      "en": "referee",
+      "glosses": [
+        "referee",
+        "arbiter, arbitrator, moderator"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾbitʼɾi]",
+      "audio": "audio/sports/000.mp3",
+      "audioLocal": "audio/sports/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian арбитр (arbitr), from French arbitre."
+    },
+    {
+      "ka": "გაიტანს",
+      "roman": "gaiṭans",
+      "en": "to score",
+      "glosses": [
+        "to take out (to remove; to move from inside to outside)",
+        "to withdraw",
+        "to run over (to drive over, causing injury or death)",
+        "to bring forward (to call up for consideration: issue, report, etc.)",
+        "to support (to provide sustenance or maintenance for)",
+        "to score"
+      ],
+      "pos": "verb",
+      "ipa": "[ɡ̊äitʼäns]",
+      "audio": "audio/sports/001.mp3",
+      "audioLocal": "audio/sports/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From გა- (ga-) + იტანს (iṭans)."
+    },
+    {
+      "ka": "გოლი",
+      "roman": "goli",
+      "en": "goal",
+      "glosses": [
+        "goal"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊o̞li]",
+      "audio": "audio/sports/002.mp3",
+      "audioLocal": "audio/sports/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კალათბურთი",
+      "roman": "ḳalatburti",
+      "en": "basketball",
+      "glosses": [
+        "basketball"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼäɫätʰbuɾtʰi]",
+      "audio": "audio/sports/003.mp3",
+      "audioLocal": "audio/sports/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კალათი (ḳalati) + ბურთი (burti)."
+    },
+    {
+      "ka": "კომბინაცია",
+      "roman": "ḳombinacia",
+      "en": "combination",
+      "glosses": [
+        "combination (the act of combining, the state of being combined or the result of combining)",
+        "scheme (a plot or secret, devious plan)",
+        "combination"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞mbinät͡sʰiä]",
+      "audio": "audio/sports/004.mp3",
+      "audioLocal": "audio/sports/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian комбинация (kombinacija), from Latin combīnātiō."
+    },
+    {
+      "ka": "კონტრდარტყმა",
+      "roman": "ḳonṭrdarṭq̇ma",
+      "en": "counterstrike",
+      "glosses": [
+        "counterstrike"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼɾdäɾtʼχʼmä]",
+      "audio": "audio/sports/005.mp3",
+      "audioLocal": "audio/sports/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კონტრ- (ḳonṭr-) + დარტყმა (darṭq̇ma)."
+    },
+    {
+      "ka": "მეკარე",
+      "roman": "meḳare",
+      "en": "goalkeeper",
+      "glosses": [
+        "porter",
+        "goalkeeper"
+      ],
+      "pos": "noun",
+      "ipa": "[me̞kʼäɾe̞]",
+      "audio": "audio/sports/006.mp3",
+      "audioLocal": "audio/sports/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კარი (ḳari, “door”) + მე- -ე (me- -e, occupational circumfix)."
+    },
+    {
+      "ka": "მოჭიდავე",
+      "roman": "moč̣idave",
+      "en": "wrestler",
+      "glosses": [
+        "wrestler"
+      ],
+      "pos": "noun",
+      "ipa": "[mo̞t͡ʃʼidäve̞]",
+      "audio": "audio/sports/007.mp3",
+      "audioLocal": "audio/sports/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From present participle of ჭიდაობს (č̣idaobs). ვ (v) was lost due to the presence of ო (o), appearing again when the thematic suffix was gone."
+    },
+    {
+      "ka": "ნაკრები",
+      "roman": "naḳrebi",
+      "en": "team",
+      "glosses": [
+        "team"
+      ],
+      "pos": "noun",
+      "ipa": "[näkʼɾe̞bi]",
+      "audio": "audio/sports/008.mp3",
+      "audioLocal": "audio/sports/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სპორტსმენი",
+      "roman": "sṗorṭsmeni",
+      "en": "sportsman",
+      "glosses": [
+        "sportsman"
+      ],
+      "pos": "noun",
+      "ipa": "[spʼo̞ɾtʼsme̞ni]",
+      "audio": "audio/sports/009.mp3",
+      "audioLocal": "audio/sports/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English sportsman."
+    },
+    {
+      "ka": "ფეხბურთი",
+      "roman": "pexburti",
+      "en": "association football",
+      "glosses": [
+        "association football"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰe̞χbuɾtʰi]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/66/Ka-%E1%83%A4%E1%83%94%E1%83%AE%E1%83%91%E1%83%A3%E1%83%A0%E1%83%97%E1%83%98.ogg/Ka-%E1%83%A4%E1%83%94%E1%83%AE%E1%83%91%E1%83%A3%E1%83%A0%E1%83%97%E1%83%98.ogg.mp3",
+      "audioLocal": "audio/sports/010.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "From ფეხი (pexi) + ბურთი (burti), calque of English football."
+    },
+    {
+      "ka": "ფრენბურთი",
+      "roman": "prenburti",
+      "en": "volleyball",
+      "glosses": [
+        "volleyball"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰɾe̞nbuɾtʰi]",
+      "audio": "audio/sports/011.mp3",
+      "audioLocal": "audio/sports/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Most probably from the root of ფრენა (prena, “flying”) and ბურთი (burti, “ball”)."
+    },
+    {
+      "ka": "ჩემპიონატი",
+      "roman": "čemṗionaṭi",
+      "en": "championship",
+      "glosses": [
+        "championship"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰe̞mpʼio̞nätʼi]",
+      "audio": "audio/sports/012.mp3",
+      "audioLocal": "audio/sports/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English."
+    },
+    {
+      "ka": "ჩოგბურთი",
+      "roman": "čogburti",
+      "en": "tennis",
+      "glosses": [
+        "tennis"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰo̞ɡbuɾtʰi]",
+      "audio": "audio/sports/013.mp3",
+      "audioLocal": "audio/sports/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Blend of ჩოგანი (čogani, “racquet”) + ბურთი (burti, “ball”)."
+    },
+    {
+      "ka": "ძელი",
+      "roman": "ʒeli",
+      "en": "goalpost (the crossbars and the two poles standing upright)",
+      "glosses": [
+        "tree",
+        "beam",
+        "log, bar",
+        "goalpost (the crossbars and the two poles standing upright)"
+      ],
+      "pos": "noun",
+      "ipa": "[d͡ze̞li]",
+      "audio": "audio/sports/014.mp3",
+      "audioLocal": "audio/sports/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ძელი (ʒeli), from Proto-Georgian-Zan *ʒ₁el-. Cognate with Mingrelian ჯა (ǯa, “tree”) and Laz ჯა (ca, “tree”)."
+    },
+    {
+      "ka": "ჯიუ-ჯიცუ",
+      "roman": "ǯiu-ǯicu",
+      "en": "jiu-jitsu",
+      "glosses": [
+        "jiu-jitsu"
+      ],
+      "pos": "noun",
+      "ipa": "[d͡ʒiud͡ʒit͡sʰu]",
+      "audio": "audio/sports/015.mp3",
+      "audioLocal": "audio/sports/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

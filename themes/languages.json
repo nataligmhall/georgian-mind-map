@@ -1,0 +1,114 @@
+{
+  "id": "languages",
+  "name": "Languages",
+  "nameKa": "ენები",
+  "icon": "ა",
+  "count": 7,
+  "words": [
+    {
+      "ka": "ბელარუსული",
+      "roman": "belarusuli",
+      "en": "Belarusian (language)",
+      "glosses": [
+        "Belarusian (language)"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥e̞ɫäɾusuli]",
+      "audio": "audio/languages/000.mp3",
+      "audioLocal": "audio/languages/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იაპონური",
+      "roman": "iaṗonuri",
+      "en": "Japanese",
+      "glosses": [
+        "Japanese"
+      ],
+      "pos": "adj",
+      "ipa": "[iäpʼo̞nuɾi]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/Ka-%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98.ogg/Ka-%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98.ogg.mp3",
+      "audioLocal": "audio/languages/001.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "From იაპონ(ია) (iaṗon(ia)) + -ური (-uri)."
+    },
+    {
+      "ka": "კორეული",
+      "roman": "ḳoreuli",
+      "en": "Korean",
+      "glosses": [
+        "Korean"
+      ],
+      "pos": "adj",
+      "ipa": "[kʼo̞ɾe̞uli]",
+      "audio": "audio/languages/002.mp3",
+      "audioLocal": "audio/languages/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "რუსული",
+      "roman": "rusuli",
+      "en": "Russian language",
+      "glosses": [
+        "Russian language"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾusuli]",
+      "audio": "audio/languages/003.mp3",
+      "audioLocal": "audio/languages/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სანსკრიტი",
+      "roman": "sansḳriṭi",
+      "en": "Sanskrit",
+      "glosses": [
+        "Sanskrit"
+      ],
+      "pos": "noun",
+      "ipa": "[sänskʼɾitʼi]",
+      "audio": "audio/languages/004.mp3",
+      "audioLocal": "audio/languages/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სანსკრიტული",
+      "roman": "sansḳriṭuli",
+      "en": "Sanskrit",
+      "glosses": [
+        "Sanskrit"
+      ],
+      "pos": "adj",
+      "ipa": "[sänskʼɾitʼuli]",
+      "audio": "audio/languages/005.mp3",
+      "audioLocal": "audio/languages/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ტაიური",
+      "roman": "ṭaiuri",
+      "en": "the Thai language",
+      "glosses": [
+        "the Thai language"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼäiuɾi]",
+      "audio": "audio/languages/006.mp3",
+      "audioLocal": "audio/languages/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

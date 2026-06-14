@@ -1,0 +1,146 @@
+{
+  "id": "family",
+  "name": "Family",
+  "nameKa": "ოჯახი",
+  "icon": "♡",
+  "count": 9,
+  "words": [
+    {
+      "ka": "ასული",
+      "roman": "asuli",
+      "en": "daughter",
+      "glosses": [
+        "daughter"
+      ],
+      "pos": "noun",
+      "ipa": "[äsuli]",
+      "audio": "audio/family/000.mp3",
+      "audioLocal": "audio/family/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ასული (asuli), from Proto-Kartvelian *asul-. Cognate with Mingrelian and Laz ოსური (osuri) and Svan ასუშ (asuš)."
+    },
+    {
+      "ka": "დიდედა",
+      "roman": "dideda",
+      "en": "grandmother",
+      "glosses": [
+        "grandmother"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥ide̞dä]",
+      "audio": "audio/family/001.mp3",
+      "audioLocal": "audio/family/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მამა",
+      "roman": "mama",
+      "en": "father",
+      "glosses": [
+        "father"
+      ],
+      "pos": "noun",
+      "ipa": "[mämä]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/Ka-%E1%83%9B%E1%83%90%E1%83%9B%E1%83%90.ogg/Ka-%E1%83%9B%E1%83%90%E1%83%9B%E1%83%90.ogg.mp3",
+      "audioLocal": "audio/family/002.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "From Old Georgian მამაჲ (mamay), from Proto-Kartvelian *mam- (“father”)."
+    },
+    {
+      "ka": "მული",
+      "roman": "muli",
+      "en": "sister-in-law (sister of husband)",
+      "glosses": [
+        "sister-in-law (sister of husband)"
+      ],
+      "pos": "noun",
+      "ipa": "[muli]",
+      "audio": "audio/family/003.mp3",
+      "audioLocal": "audio/family/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ობოლი",
+      "roman": "oboli",
+      "en": "orphan",
+      "glosses": [
+        "orphan"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞bo̞li]",
+      "audio": "audio/family/004.mp3",
+      "audioLocal": "audio/family/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "The origin is uncertain.\nOften compared to Proto-Indo-European *h₃órbʰos (“orphan”), especially to its reflex Old Armenian որբո- (orbo-), and sometimes considered a borrowing from the Armenian term.\nIn his earlier work Klimov (1964) reconstructs Proto-Georgian-Zan *obol- (“orphan”), however later he doubts the nativeness of the Kartvelian terms, and this reconstruction is no longer considered in h…"
+    },
+    {
+      "ka": "რძალი",
+      "roman": "rʒali",
+      "en": "the wife of one's sibling",
+      "glosses": [
+        "daughter-in-law",
+        "the wife of one's sibling",
+        "the wife of one‘s spouse‘s sibling (with the sibling usually being the brother of one‘s husband)"
+      ],
+      "pos": "noun",
+      "ipa": "[ɾd͡zäli]",
+      "audio": "audio/family/005.mp3",
+      "audioLocal": "audio/family/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian რძალი (rʒali), from Old Georgian სძალი (sʒali)."
+    },
+    {
+      "ka": "შვილთაშვილი",
+      "roman": "šviltašvili",
+      "en": "great-grandchild, great-granddaughter, great-grandson",
+      "glosses": [
+        "great-grandchild, great-granddaughter, great-grandson"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃʷiltʰäʃʷili]",
+      "audio": "audio/family/006.mp3",
+      "audioLocal": "audio/family/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შვილთა (švilta) + შვილი (švili), meaning a child of children. Children in this sense indicates the 3 degrees of separation, i.e. one’s own child, then one’s child’s child/grandchild and then comes the grandchild’s child."
+    },
+    {
+      "ka": "შვილიშვილი",
+      "roman": "švilišvili",
+      "en": "grandchild, granddaughter, grandson",
+      "glosses": [
+        "grandchild, granddaughter, grandson"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃʷiliʃʷili]",
+      "audio": "audio/family/007.mp3",
+      "audioLocal": "audio/family/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From შვილის (švilis) + შვილი (švili), meaning child of a child."
+    },
+    {
+      "ka": "ძე",
+      "roman": "ʒe",
+      "en": "son",
+      "glosses": [
+        "son"
+      ],
+      "pos": "noun",
+      "ipa": "[d͡ze̞]",
+      "audio": "audio/family/008.mp3",
+      "audioLocal": "audio/family/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ძჱ (ʒē), ძეჲ (ʒey, “son”)."
+    }
+  ]
+}

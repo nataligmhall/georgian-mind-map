@@ -1,0 +1,144 @@
+{
+  "id": "animals",
+  "name": "Animals",
+  "nameKa": "ცხოველები",
+  "icon": "✦",
+  "count": 9,
+  "words": [
+    {
+      "ka": "ზაქი",
+      "roman": "zaki",
+      "en": "the young of animals, especially a buffalo baby",
+      "glosses": [
+        "the young of animals, especially a buffalo baby"
+      ],
+      "pos": "noun",
+      "ipa": "[zäkʰi]",
+      "audio": "audio/animals/000.mp3",
+      "audioLocal": "audio/animals/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "A borrowing from the family of words represented by Mingrelian ზოკი (zoḳi), ძოკი (ʒoḳi), Old Armenian ձագ (jag), Classical Syriac ܙܓܐ (zāggā), Persian زاق (zâq). The immediate source of the Georgian is uncertain."
+    },
+    {
+      "ka": "თხუნელა",
+      "roman": "txunela",
+      "en": "mole",
+      "glosses": [
+        "mole"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰχune̞ɫä]",
+      "audio": "audio/animals/001.mp3",
+      "audioLocal": "audio/animals/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "იხვნისკარტა",
+      "roman": "ixvnisḳarṭa",
+      "en": "platypus",
+      "glosses": [
+        "platypus"
+      ],
+      "pos": "noun",
+      "ipa": "[iχʷniskʼäɾtʼä]",
+      "audio": "audio/animals/002.mp3",
+      "audioLocal": "audio/animals/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From იხვი (ixvi, “duck”) + ნისკარტი (nisḳarṭi, “beak”)."
+    },
+    {
+      "ka": "კენგურუ",
+      "roman": "ḳenguru",
+      "en": "kangaroo",
+      "glosses": [
+        "kangaroo"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼe̞ŋɡuɾu]",
+      "audio": "audio/animals/003.mp3",
+      "audioLocal": "audio/animals/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from English kangaroo."
+    },
+    {
+      "ka": "კოალა",
+      "roman": "ḳoala",
+      "en": "koala",
+      "glosses": [
+        "koala"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞äɫä]",
+      "audio": "audio/animals/004.mp3",
+      "audioLocal": "audio/animals/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სიასამური",
+      "roman": "siasamuri",
+      "en": "sable",
+      "glosses": [
+        "sable"
+      ],
+      "pos": "noun",
+      "ipa": "[siäsämuɾi]",
+      "audio": "audio/animals/005.mp3",
+      "audioLocal": "audio/animals/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Persian smwl. For the first part compare Persian سیاه (siyâh, “black”)."
+    },
+    {
+      "ka": "ფოცხვერი",
+      "roman": "pocxveri",
+      "en": "lynx",
+      "glosses": [
+        "lynx"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰo̞t͡sʰχʷe̞ɾi]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/Ka-%E1%83%A4%E1%83%9D%E1%83%AA%E1%83%AE%E1%83%95%E1%83%94%E1%83%A0%E1%83%98.ogg/Ka-%E1%83%A4%E1%83%9D%E1%83%AA%E1%83%AE%E1%83%95%E1%83%94%E1%83%A0%E1%83%98.ogg.mp3",
+      "audioLocal": "audio/animals/006.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ცხოველი",
+      "roman": "cxoveli",
+      "en": "beastly animal",
+      "glosses": [
+        "beastly animal"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰχo̞ve̞li]",
+      "audio": "audio/animals/007.mp3",
+      "audioLocal": "audio/animals/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ცხოველი (cxoveli), ცხოელი (cxoeli), from Proto-Georgian-Zan *c₁xow-el-, from *c₁xow- (whence also Georgian ცხვარი (cxvari), Georgian ცხოვრება (cxovreba)). Cognate with Mingrelian ჩხოუ (čxou, “cow”) and Laz მჩხური (mçxuri, “sheep”); see below for more."
+    },
+    {
+      "ka": "ძროხა",
+      "roman": "ʒroxa",
+      "en": "cow",
+      "glosses": [
+        "cow"
+      ],
+      "pos": "noun",
+      "ipa": "[d͡zɾo̞χä]",
+      "audio": "audio/animals/008.mp3",
+      "audioLocal": "audio/animals/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Theme — ქართული</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+Georgian:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../shared.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="back-link" href="../index.html">← map</a>
+    <div class="theme-title">
+      <h1 id="title-ka">…</h1>
+      <p id="title-en"></p>
+    </div>
+    <input class="search" id="search" type="search" placeholder="filter words" />
+  </header>
+
+  <main>
+    <div class="meta-row" id="meta"></div>
+    <div class="word-list" id="list"></div>
+    <div class="empty" id="empty" style="display:none">no matches</div>
+  </main>
+
+  <script src="buildings.js"></script>
+  <script>
+    const data = window.THEME_DATA;
+    const audioBase = "../";
+
+    document.title = `${data.nameKa} — ქართული`;
+    document.getElementById("title-ka").textContent = data.nameKa;
+    document.getElementById("title-en").textContent = data.name;
+
+    const withAudio = data.words.filter(w => w.audio).length;
+    document.getElementById("meta").innerHTML = `
+      <span>${data.count} words</span>
+      <span>·</span>
+      <span>${withAudio} with audio</span>
+    `;
+
+    let currentAudio = null;
+
+    function playWord(word, btn) {
+      if (!word.audio) return;
+      if (currentAudio) {
+        currentAudio.pause();
+        document.querySelectorAll(".play-btn.playing").forEach(b => b.classList.remove("playing"));
+      }
+      const src = word.audio.startsWith("http") ? word.audio : audioBase + word.audio;
+      currentAudio = new Audio(src);
+      btn.classList.add("playing");
+      currentAudio.play().catch(() => {});
+      currentAudio.onended = () => btn.classList.remove("playing");
+    }
+
+    function render(words) {
+      const list = document.getElementById("list");
+      const empty = document.getElementById("empty");
+      if (!words.length) {
+        list.innerHTML = "";
+        empty.style.display = "block";
+        return;
+      }
+      empty.style.display = "none";
+      list.innerHTML = words.map((w, i) => {
+        const extraGlosses = (w.glosses || []).filter(g => g !== w.en);
+        const examples = (w.examples || []).map(ex => `
+          <div class="example">
+            <div class="ka">${ex.ka}</div>
+            ${ex.roman ? `<div class="word-sub">${ex.roman}</div>` : ""}
+            ${ex.en ? `<div class="en">${ex.en}</div>` : ""}
+          </div>
+        `).join("");
+
+        const etymology = w.etymology ? `<details><summary>etymology</summary><p>${w.etymology}</p></details>` : "";
+        const exBlock = examples ? `<details open><summary>examples</summary>${examples}</details>` : "";
+
+        return `
+          <article class="word-card" data-i="${i}">
+            <div class="word-head">
+              <div>
+                <div class="word-ka">${w.ka}</div>
+                <div class="word-sub">${[w.roman, w.ipa, w.pos].filter(Boolean).join(" · ")}</div>
+              </div>
+              <button class="play-btn" data-i="${i}" ${w.audio ? "" : "disabled"} title="${w.audio ? "listen" : "no audio"}">▶</button>
+            </div>
+            <div class="word-en">${w.en}</div>
+            ${extraGlosses.length ? `<div class="word-glosses">${extraGlosses.join(" · ")}</div>` : ""}
+            ${exBlock}
+            ${etymology}
+          </article>
+        `;
+      }).join("");
+
+      list.querySelectorAll(".play-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const w = words[Number(btn.dataset.i)];
+          playWord(w, btn);
+        });
+      });
+    }
+
+    render(data.words);
+
+    const hash = decodeURIComponent(location.hash.slice(1));
+    if (hash) {
+      const card = [...document.querySelectorAll(".word-card")].find(el => {
+        const i = Number(el.dataset.i);
+        return data.words[i] && data.words[i].ka === hash;
+      });
+      if (card) {
+        card.scrollIntoView({ behavior: "smooth", block: "center" });
+        card.style.borderColor = "rgba(167, 139, 250, 0.45)";
+      }
+    }
+
+    document.getElementById("search").addEventListener("input", (e) => {
+      const q = e.target.value.trim().toLowerCase();
+      if (!q) { render(data.words); return; }
+      const filtered = data.words.filter(w =>
+        w.ka.includes(q) ||
+        w.en.toLowerCase().includes(q) ||
+        (w.roman && w.roman.toLowerCase().includes(q))
+      );
+      render(filtered);
+    });
+  </script>
+</body>
+</html>

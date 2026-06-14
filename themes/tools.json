@@ -1,0 +1,312 @@
+{
+  "id": "tools",
+  "name": "Tools",
+  "nameKa": "ხელსაწყოები",
+  "icon": "⚒",
+  "count": 20,
+  "words": [
+    {
+      "ka": "გამადიდებელი მინა",
+      "roman": "gamadidebeli mina",
+      "en": "magnifying glass",
+      "glosses": [
+        "magnifying glass"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ämädide̞be̞li minä]",
+      "audio": "audio/tools/000.mp3",
+      "audioLocal": "audio/tools/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "გამადიდებელი შუშა",
+      "roman": "gamadidebeli šuša",
+      "en": "magnifying glass",
+      "glosses": [
+        "magnifying glass"
+      ],
+      "pos": "noun",
+      "ipa": "[ɡ̊ämädide̞be̞li ʃuʃä]",
+      "audio": "audio/tools/001.mp3",
+      "audioLocal": "audio/tools/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "დანა",
+      "roman": "dana",
+      "en": "knife",
+      "glosses": [
+        "knife"
+      ],
+      "pos": "noun",
+      "ipa": "[d̥änä]",
+      "audio": "audio/tools/002.mp3",
+      "audioLocal": "audio/tools/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian დანაკი (danaḳi), from Iranian (see the Old Georgian entry for more). For the development of the ending see -აკი (-aḳi)."
+    },
+    {
+      "ka": "ეჩო",
+      "roman": "ečo",
+      "en": "adze",
+      "glosses": [
+        "adze"
+      ],
+      "pos": "noun",
+      "ipa": "[e̞t͡ʃʰo̞]",
+      "audio": "audio/tools/003.mp3",
+      "audioLocal": "audio/tools/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ეჩუეჲ (ečuey), ეჩოჲ (ečoy), ეჩუაჲ (ečuay), from Proto-Georgian-Zan *ečw-."
+    },
+    {
+      "ka": "თოხი",
+      "roman": "toxi",
+      "en": "hoe (tool for working soil)",
+      "glosses": [
+        "hoe (tool for working soil)"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰo̞χi]",
+      "audio": "audio/tools/004.mp3",
+      "audioLocal": "audio/tools/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian თოჴი (toqi), from Proto-Georgian-Zan *toq-."
+    },
+    {
+      "ka": "კეტი",
+      "roman": "ḳeṭi",
+      "en": "baton, large stick",
+      "glosses": [
+        "baton, large stick"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼe̞tʼi]",
+      "audio": "audio/tools/005.mp3",
+      "audioLocal": "audio/tools/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კეტი (ḳeṭi), კედი (ḳedi), whence also Old Armenian կեդ (ked)."
+    },
+    {
+      "ka": "კვესი",
+      "roman": "ḳvesi",
+      "en": "piece of steel used to make a fire by striking it with a flint, a firestriker",
+      "glosses": [
+        "piece of steel used to make a fire by striking it with a flint, a firestriker"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼʷe̞si]",
+      "audio": "audio/tools/006.mp3",
+      "audioLocal": "audio/tools/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კუესი (ḳuesi), from Proto-Georgian-Zan *ḳwes- (“to strike fire”)."
+    },
+    {
+      "ka": "ლუპა",
+      "roman": "luṗa",
+      "en": "magnifying glass",
+      "glosses": [
+        "magnifying glass"
+      ],
+      "pos": "noun",
+      "ipa": "[ɫupʼä]",
+      "audio": "audio/tools/007.mp3",
+      "audioLocal": "audio/tools/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian лу́па (lúpa)."
+    },
+    {
+      "ka": "მაკრატელი",
+      "roman": "maḳraṭeli",
+      "en": "scissors",
+      "glosses": [
+        "scissors"
+      ],
+      "pos": "noun",
+      "ipa": "[mäkʼɾätʼe̞li]",
+      "audio": "audio/tools/008.mp3",
+      "audioLocal": "audio/tools/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian მაკრატელი (maḳraṭeli), from Middle Armenian մկրատ (mkrat), from Arabic مِقْرَاض (miqrāḍ)."
+    },
+    {
+      "ka": "მარწუხი",
+      "roman": "marc̣uxi",
+      "en": "barnacles, cramp-iron, crampon, pincer, thumbscrew, tongs, vice",
+      "glosses": [
+        "barnacles, cramp-iron, crampon, pincer, thumbscrew, tongs, vice"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɾt͡sʼuχi]",
+      "audio": "audio/tools/009.mp3",
+      "audioLocal": "audio/tools/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაშა",
+      "roman": "maša",
+      "en": "pliers, tongs",
+      "glosses": [
+        "pliers, tongs"
+      ],
+      "pos": "noun",
+      "ipa": "[mäʃä]",
+      "audio": "audio/tools/010.mp3",
+      "audioLocal": "audio/tools/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish ماشه (maşa), itself from Persian ماشه (mâše)."
+    },
+    {
+      "ka": "ნაჯახი",
+      "roman": "naǯaxi",
+      "en": "axe, hatchet",
+      "glosses": [
+        "axe, hatchet"
+      ],
+      "pos": "noun",
+      "ipa": "[näd͡ʒäχi]",
+      "audio": "audio/tools/011.mp3",
+      "audioLocal": "audio/tools/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish ناجاق (nacak)."
+    },
+    {
+      "ka": "საჭრისი",
+      "roman": "sač̣risi",
+      "en": "chisel",
+      "glosses": [
+        "chisel"
+      ],
+      "pos": "noun",
+      "ipa": "[sät͡ʃʼɾisi]",
+      "audio": "audio/tools/012.mp3",
+      "audioLocal": "audio/tools/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სახრახნისი",
+      "roman": "saxraxnisi",
+      "en": "screwdriver",
+      "glosses": [
+        "screwdriver"
+      ],
+      "pos": "noun",
+      "ipa": "[säχɾäχnisi]",
+      "audio": "audio/tools/013.mp3",
+      "audioLocal": "audio/tools/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ურო",
+      "roman": "uro",
+      "en": "hammer, mallet",
+      "glosses": [
+        "hammer, mallet",
+        "sledgehammer"
+      ],
+      "pos": "noun",
+      "ipa": "[uɾo̞]",
+      "audio": "audio/tools/014.mp3",
+      "audioLocal": "audio/tools/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian უროჲ (uroy). See it for more."
+    },
+    {
+      "ka": "ფიწალი",
+      "roman": "pic̣ali",
+      "en": "pitchfork",
+      "glosses": [
+        "pitchfork"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰit͡sʼäli]",
+      "audio": "audio/tools/015.mp3",
+      "audioLocal": "audio/tools/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "A diminutive–pejorative reshaping of ფითხი (pitxi)."
+    },
+    {
+      "ka": "ცელი",
+      "roman": "celi",
+      "en": "scythe",
+      "glosses": [
+        "scythe"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰe̞li]",
+      "audio": "audio/tools/016.mp3",
+      "audioLocal": "audio/tools/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ცელი (celi), from Proto-Georgian-Zan *cel-."
+    },
+    {
+      "ka": "წერაქვი",
+      "roman": "c̣erakvi",
+      "en": "pickaxe",
+      "glosses": [
+        "pickaxe"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʼe̞ɾäkʰʷi]",
+      "audio": "audio/tools/017.mp3",
+      "audioLocal": "audio/tools/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Akin to წერა (c̣era, “to write”) and ქვა (kva, “stone”)."
+    },
+    {
+      "ka": "ხერხი",
+      "roman": "xerxi",
+      "en": "jigsaw, saw",
+      "glosses": [
+        "jigsaw, saw"
+      ],
+      "pos": "noun",
+      "ipa": "[χe̞ɾχi]",
+      "audio": "audio/tools/018.mp3",
+      "audioLocal": "audio/tools/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ხერხი (xerxi), from Proto-Georgian-Zan *xarx-."
+    },
+    {
+      "ka": "ხოპი",
+      "roman": "xoṗi",
+      "en": "oar",
+      "glosses": [
+        "oar",
+        "crab carapace",
+        "wooden scraper (to clean plough, chop salad)"
+      ],
+      "pos": "noun",
+      "ipa": "[χo̞pʼi]",
+      "audio": "audio/tools/019.mp3",
+      "audioLocal": "audio/tools/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Akin to Mingrelian ხოპი (xoṗi), Laz ხოპე (xop̌e), Old Armenian խոփ (xopʻ)."
+    }
+  ]
+}

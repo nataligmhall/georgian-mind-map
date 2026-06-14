@@ -1,0 +1,145 @@
+{
+  "id": "musical-instruments",
+  "name": "Musical instruments",
+  "nameKa": "მუსიკალური ინსტრუმენტები",
+  "icon": "♫",
+  "count": 9,
+  "words": [
+    {
+      "ka": "არღანი",
+      "roman": "arɣani",
+      "en": "hurdy-gurdy",
+      "glosses": [
+        "hurdy-gurdy",
+        "barrel organ"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾʁäni]",
+      "audio": "audio/musical-instruments/000.mp3",
+      "audioLocal": "audio/musical-instruments/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Persian ارغن (arġan). Doublet of ორღანო (orɣano)."
+    },
+    {
+      "ka": "ვიოლინო",
+      "roman": "violino",
+      "en": "violin",
+      "glosses": [
+        "violin"
+      ],
+      "pos": "noun",
+      "ipa": "[vio̞lino̞]",
+      "audio": "audio/musical-instruments/001.mp3",
+      "audioLocal": "audio/musical-instruments/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Italian violino."
+    },
+    {
+      "ka": "ზურნა",
+      "roman": "zurna",
+      "en": "zurna",
+      "glosses": [
+        "zurna"
+      ],
+      "pos": "noun",
+      "ipa": "[zuɾnä]",
+      "audio": "audio/musical-instruments/002.mp3",
+      "audioLocal": "audio/musical-instruments/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Persian زرنا (zornâ)."
+    },
+    {
+      "ka": "თეორბო",
+      "roman": "teorbo",
+      "en": "theorbo",
+      "glosses": [
+        "theorbo"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰe̞o̞ɾbo̞]",
+      "audio": "audio/musical-instruments/003.mp3",
+      "audioLocal": "audio/musical-instruments/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კლარნეტი",
+      "roman": "ḳlarneṭi",
+      "en": "clarinet",
+      "glosses": [
+        "clarinet"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɫäɾne̞tʼi]",
+      "audio": "audio/musical-instruments/004.mp3",
+      "audioLocal": "audio/musical-instruments/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian кларне́т (klarnét)."
+    },
+    {
+      "ka": "ფაგოტი",
+      "roman": "pagoṭi",
+      "en": "bassoon",
+      "glosses": [
+        "bassoon"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰäɡo̞tʼi]",
+      "audio": "audio/musical-instruments/005.mp3",
+      "audioLocal": "audio/musical-instruments/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian фаго́т (fagót)."
+    },
+    {
+      "ka": "ჭიანური",
+      "roman": "č̣ianuri",
+      "en": "3/4-stringed Georgian viol",
+      "glosses": [
+        "3/4-stringed Georgian viol"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/musical-instruments/006.mp3",
+      "audioLocal": "audio/musical-instruments/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Related to Old Armenian ջնար (ǰnar), and Georgian ჭუნირი (č̣uniri, “three-stringed Svan viol”)."
+    },
+    {
+      "ka": "ჭუნირი",
+      "roman": "č̣uniri",
+      "en": "a bowed, three-stringed viol-type instrument from Svaneti, Racha, Khevsureti and Tusheti",
+      "glosses": [
+        "a bowed, three-stringed viol-type instrument from Svaneti, Racha, Khevsureti and Tusheti"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʼuniɾi]",
+      "audio": "audio/musical-instruments/007.mp3",
+      "audioLocal": "audio/musical-instruments/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Related to ჭიანური (č̣ianuri)."
+    },
+    {
+      "ka": "ჰობოი",
+      "roman": "hoboi",
+      "en": "hautboy, oboe",
+      "glosses": [
+        "hautboy, oboe"
+      ],
+      "pos": "noun",
+      "ipa": "[ho̞bo̞i]",
+      "audio": "audio/musical-instruments/008.mp3",
+      "audioLocal": "audio/musical-instruments/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian гобой (goboj), with replacement of /ɡ/ with /h/ in Georgian per English hautboy, the further source."
+    }
+  ]
+}

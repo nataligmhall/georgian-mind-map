@@ -1,0 +1,220 @@
+{
+  "id": "transport",
+  "name": "Transport",
+  "nameKa": "ტრანსპორტი",
+  "icon": "➤",
+  "count": 14,
+  "words": [
+    {
+      "ka": "ავტობუსი",
+      "roman": "avṭobusi",
+      "en": "bus",
+      "glosses": [
+        "bus"
+      ],
+      "pos": "noun",
+      "ipa": "[äftʼo̞busi]",
+      "audio": "audio/transport/000.mp3",
+      "audioLocal": "audio/transport/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian авто́бус (avtóbus)."
+    },
+    {
+      "ka": "თვითმფრინავი",
+      "roman": "tvitmprinavi",
+      "en": "airplane, aircraft",
+      "glosses": [
+        "airplane, aircraft"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰʷitʰmpʰɾinävi]",
+      "audio": "audio/transport/001.mp3",
+      "audioLocal": "audio/transport/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Calque of Russian самолёт (samoljót). Surface analysis yields თვით- (tvit-, “self-”) + მფრინავი (mprinavi, “flyer”)."
+    },
+    {
+      "ka": "მაგნიტოპლანი",
+      "roman": "magniṭoṗlani",
+      "en": "maglev, magnetic levitation train",
+      "glosses": [
+        "maglev, magnetic levitation train"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɡnitʼo̞pʼɫäni]",
+      "audio": "audio/transport/002.mp3",
+      "audioLocal": "audio/transport/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგნიტურბალიშიანი მატარებელი",
+      "roman": "magniṭurbališiani maṭarebeli",
+      "en": "maglev, magnetic levitation train",
+      "glosses": [
+        "maglev, magnetic levitation train"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɡnitʼuɾbäliʃiäni mätʼäɾe̞be̞li]",
+      "audio": "audio/transport/003.mp3",
+      "audioLocal": "audio/transport/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგნიტური ლევიტაცია",
+      "roman": "magniṭuri leviṭacia",
+      "en": "magnetic levitation, maglev",
+      "glosses": [
+        "magnetic levitation, maglev"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɡnitʼuɾi le̞vitʼät͡sʰiä]",
+      "audio": "audio/transport/004.mp3",
+      "audioLocal": "audio/transport/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მაგნიტური ლევიტაციის მატარებელი",
+      "roman": "magniṭuri leviṭaciis maṭarebeli",
+      "en": "maglev, magnetic levitation train",
+      "glosses": [
+        "maglev, magnetic levitation train"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɡnitʼuɾi le̞vitʼät͡sʰiis mätʼäɾe̞be̞li]",
+      "audio": "audio/transport/005.mp3",
+      "audioLocal": "audio/transport/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მატარებელი",
+      "roman": "maṭarebeli",
+      "en": "train",
+      "glosses": [
+        "train",
+        "carrier (person or organism that has inherited a genetic trait)"
+      ],
+      "pos": "noun",
+      "ipa": "[mätʼäɾe̞be̞li]",
+      "audio": "audio/transport/006.mp3",
+      "audioLocal": "audio/transport/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From present participle of ტარება (ṭareba) (ტარება (ṭareba) + მა- -ელი (ma- -eli)) undergoing substantivization."
+    },
+    {
+      "ka": "საფრენი აპარატი",
+      "roman": "sapreni aṗaraṭi",
+      "en": "aircraft",
+      "glosses": [
+        "aircraft"
+      ],
+      "pos": "noun",
+      "ipa": "[säpʰɾe̞ni äpʼäɾätʼi]",
+      "audio": "audio/transport/007.mp3",
+      "audioLocal": "audio/transport/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "საჰაერო ხომალდი",
+      "roman": "sahaero xomaldi",
+      "en": "aircraft",
+      "glosses": [
+        "aircraft"
+      ],
+      "pos": "noun",
+      "ipa": "[sähäe̞ɾo̞ χo̞mäldi]",
+      "audio": "audio/transport/008.mp3",
+      "audioLocal": "audio/transport/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ტაქსი",
+      "roman": "ṭaksi",
+      "en": "taxi",
+      "glosses": [
+        "taxi"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼäkʰsi]",
+      "audio": "audio/transport/009.mp3",
+      "audioLocal": "audio/transport/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian такси́ (taksí)."
+    },
+    {
+      "ka": "ტრამვაი",
+      "roman": "ṭramvai",
+      "en": "tram",
+      "glosses": [
+        "tram"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼɾämʷäi]",
+      "audio": "audio/transport/010.mp3",
+      "audioLocal": "audio/transport/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian трамва́й (tramváj), from English tramway."
+    },
+    {
+      "ka": "ტრანსპორტი",
+      "roman": "ṭransṗorṭi",
+      "en": "transport",
+      "glosses": [
+        "transport"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼɾänspʼo̞ɾtʼi]",
+      "audio": "audio/transport/011.mp3",
+      "audioLocal": "audio/transport/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "ტროლეიბუსი",
+      "roman": "ṭroleibusi",
+      "en": "trolley bus",
+      "glosses": [
+        "trolley bus"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼɾo̞le̞ibusi]",
+      "audio": "audio/transport/012.mp3",
+      "audioLocal": "audio/transport/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian тролле́йбус (trolléjbus), from English trolley bus."
+    },
+    {
+      "ka": "ურიკა",
+      "roman": "uriḳa",
+      "en": "hand truck",
+      "glosses": [
+        "hand truck"
+      ],
+      "pos": "noun",
+      "ipa": "[uɾikʼä]",
+      "audio": "audio/transport/013.mp3",
+      "audioLocal": "audio/transport/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

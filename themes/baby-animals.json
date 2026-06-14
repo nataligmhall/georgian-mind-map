@@ -1,0 +1,283 @@
+{
+  "id": "baby-animals",
+  "name": "Baby animals",
+  "nameKa": "პატარა ცხოველები",
+  "icon": "✦",
+  "count": 18,
+  "words": [
+    {
+      "ka": "ბარტყი",
+      "roman": "barṭq̇i",
+      "en": "nestling, chick",
+      "glosses": [
+        "nestling, chick"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äɾtʼχʼi]",
+      "audio": "audio/baby-animals/000.mp3",
+      "audioLocal": "audio/baby-animals/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ბატკანი",
+      "roman": "baṭḳani",
+      "en": "lamb",
+      "glosses": [
+        "lamb"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ätʼkʼäni]",
+      "audio": "audio/baby-animals/001.mp3",
+      "audioLocal": "audio/baby-animals/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian ბატკანი (baṭḳani). It's hypothesized, that ბა- (ba-) is a prefix to show small age, youngness of something. Possibly, the -ან- (-an-) element is also an affix (cf. ბატკი (baṭḳi)). Compare ბავშვი (bavšvi) and ბარტყი (barṭq̇i)."
+    },
+    {
+      "ka": "ვარია",
+      "roman": "varia",
+      "en": "pullet",
+      "glosses": [
+        "pullet"
+      ],
+      "pos": "noun",
+      "ipa": "[väɾiä]",
+      "audio": "audio/baby-animals/002.mp3",
+      "audioLocal": "audio/baby-animals/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian *ვარიაკი (*variaḳi) (see -აკი (-aḳi) for this sound change), borrowed from Old Armenian *վառեակ (*vaṙeak) (see Middle Armenian վառեկ (vaṙek)) or directly from its Iranian source."
+    },
+    {
+      "ka": "თავკომბალა",
+      "roman": "tavḳombala",
+      "en": "globe thistle (Echinops)",
+      "glosses": [
+        "tadpole",
+        "globe thistle (Echinops)"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰäfkʼo̞mbäɫä]",
+      "audio": "audio/baby-animals/003.mp3",
+      "audioLocal": "audio/baby-animals/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From თავი (tavi) + კომბალი (ḳombali) + -ა (-a), literally “a thing, that has a head similar to a shepherd's crook”."
+    },
+    {
+      "ka": "კვიცი",
+      "roman": "ḳvici",
+      "en": "foal, colt",
+      "glosses": [
+        "foal, colt"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼʷit͡sʰi]",
+      "audio": "audio/baby-animals/004.mp3",
+      "audioLocal": "audio/baby-animals/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კიცჳ (ḳicwi), from Proto-Kartvelian *ḳwic-."
+    },
+    {
+      "ka": "კნუტი",
+      "roman": "ḳnuṭi",
+      "en": "kitten",
+      "glosses": [
+        "kitten"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼnutʼi]",
+      "audio": "audio/baby-animals/005.mp3",
+      "audioLocal": "audio/baby-animals/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კრავი",
+      "roman": "ḳravi",
+      "en": "baa-lamb, lamb, lambkin",
+      "glosses": [
+        "baa-lamb, lamb, lambkin"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼɾävi]",
+      "audio": "audio/baby-animals/006.mp3",
+      "audioLocal": "audio/baby-animals/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კრავი (ḳravi), from Proto-Georgian-Zan *ḳraw-."
+    },
+    {
+      "ka": "კურია",
+      "roman": "ḳuria",
+      "en": "foal, coal",
+      "glosses": [
+        "foal, coal"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼuɾiä]",
+      "audio": "audio/baby-animals/007.mp3",
+      "audioLocal": "audio/baby-animals/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Iranian, compare Persian کره (korra, “colt, foal”)."
+    },
+    {
+      "ka": "მართვე",
+      "roman": "martve",
+      "en": "the young of a predatory bird (e.g. eaglet, owling)",
+      "glosses": [
+        "the young of a predatory bird (e.g. eaglet, owling)"
+      ],
+      "pos": "noun",
+      "ipa": "[mäɾtʰʷe̞]",
+      "audio": "audio/baby-animals/008.mp3",
+      "audioLocal": "audio/baby-animals/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მართუჱ (martuē), from Proto-Georgian-Zan *martw-."
+    },
+    {
+      "ka": "მუტრუკი",
+      "roman": "muṭruḳi",
+      "en": "rude, ill-mannered person",
+      "glosses": [
+        "young donkey",
+        "rude, ill-mannered person"
+      ],
+      "pos": "noun",
+      "ipa": "[mutʼɾukʼi]",
+      "audio": "audio/baby-animals/009.mp3",
+      "audioLocal": "audio/baby-animals/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From late Old Georgian მუტრუკი (muṭruḳi, “ass”), from Old Armenian մտրուկ (mtruk)."
+    },
+    {
+      "ka": "ტარიგი",
+      "roman": "ṭarigi",
+      "en": "yearling lamb",
+      "glosses": [
+        "yearling lamb"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼäɾiɡi]",
+      "audio": "audio/baby-animals/010.mp3",
+      "audioLocal": "audio/baby-animals/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ტარიგი (ṭarigi), from Old Armenian *տարիկ (*tarik), from տարի (tari, “year”) + -իկ (-ik). Typologically compare Old Armenian ամիկ (amik, “yearling kid or lamb”), Armenian տարեկան (tarekan, “yearling piglet”)."
+    },
+    {
+      "ka": "ქვირა",
+      "roman": "kvira",
+      "en": "foal, colt",
+      "glosses": [
+        "foal, colt"
+      ],
+      "pos": "noun",
+      "ipa": "[kʰʷiɾä]",
+      "audio": "audio/baby-animals/011.mp3",
+      "audioLocal": "audio/baby-animals/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Iranian, compare Persian کره (korra, “colt, foal”)."
+    },
+    {
+      "ka": "ქვირანაჸი",
+      "roman": "kviranaʾi",
+      "en": "foal, colt",
+      "glosses": [
+        "foal, colt"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/baby-animals/012.mp3",
+      "audioLocal": "audio/baby-animals/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Ultimately from Iranian, compare Persian کره (korra, “colt, foal”)."
+    },
+    {
+      "ka": "ჩოჩორი",
+      "roman": "čočori",
+      "en": "infant donkey",
+      "glosses": [
+        "infant donkey"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰo̞t͡ʃʰo̞ɾi]",
+      "audio": "audio/baby-animals/013.mp3",
+      "audioLocal": "audio/baby-animals/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ციკანი",
+      "roman": "ciḳani",
+      "en": "kid (offspring of a goat or tur)",
+      "glosses": [
+        "kid (offspring of a goat or tur)"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰikʼäni]",
+      "audio": "audio/baby-animals/014.mp3",
+      "audioLocal": "audio/baby-animals/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian თიკანი (tiḳani). A wanderwort of unknown origin; see Old Armenian տիկ (tik) for more."
+    },
+    {
+      "ka": "ცინდალი",
+      "roman": "cindali",
+      "en": "kitten",
+      "glosses": [
+        "kitten"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʰindäli]",
+      "audio": "audio/baby-animals/015.mp3",
+      "audioLocal": "audio/baby-animals/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Proto-Kartvelian *cindal-, cognate with Svan ცინდა̈უ̂ (cindäû, “offspring, chick, brood”)."
+    },
+    {
+      "ka": "წიწილა",
+      "roman": "c̣ic̣ila",
+      "en": "A young chicken: chick",
+      "glosses": [
+        "A young chicken: chick"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʼit͡sʼiɫä]",
+      "audio": "audio/baby-animals/016.mp3",
+      "audioLocal": "audio/baby-animals/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ხუნდი",
+      "roman": "xundi",
+      "en": "brake shoe",
+      "glosses": [
+        "shackles, stocks",
+        "trap",
+        "brake shoe"
+      ],
+      "pos": "noun",
+      "ipa": "[χundi]",
+      "audio": "audio/baby-animals/017.mp3",
+      "audioLocal": "audio/baby-animals/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ჴუნდი (qundi), from Proto-Georgian-Zan *qund-. The third meaning is a semantic loan from Russian коло́дка (kolódka)."
+    }
+  ]
+}

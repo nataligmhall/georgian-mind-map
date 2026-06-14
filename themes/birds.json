@@ -1,0 +1,295 @@
+{
+  "id": "birds",
+  "name": "Birds",
+  "nameKa": "ფრინველები",
+  "icon": "✧",
+  "count": 18,
+  "words": [
+    {
+      "ka": "ბაზი",
+      "roman": "bazi",
+      "en": "falcon",
+      "glosses": [
+        "falcon"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äzi]",
+      "audio": "audio/birds/000.mp3",
+      "audioLocal": "audio/birds/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Of Iranian origin. See also Old Armenian բազէ (bazē)."
+    },
+    {
+      "ka": "ბატი",
+      "roman": "baṭi",
+      "en": "goose",
+      "glosses": [
+        "goose",
+        "fool"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ätʼi]",
+      "audio": "audio/birds/001.mp3",
+      "audioLocal": "audio/birds/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ბატი (baṭi), from Iranian. Compare Pashto بته. Related to Armenian բադ (bad).\nSulkhan-Saba mentions the word comes from Armenian instead."
+    },
+    {
+      "ka": "ბულბული",
+      "roman": "bulbuli",
+      "en": "nightingale",
+      "glosses": [
+        "nightingale"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥ulbuli]",
+      "audio": "audio/birds/002.mp3",
+      "audioLocal": "audio/birds/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Middle Georgian ბულბული (bulbuli), borrowed from Arabic بُلْبُل (bulbul)."
+    },
+    {
+      "ka": "ზარნაშო",
+      "roman": "zarnašo",
+      "en": "horned owl, eagle owl (Bubo)",
+      "glosses": [
+        "horned owl, eagle owl (Bubo)"
+      ],
+      "pos": "noun",
+      "ipa": "[zäɾnäʃo̞]",
+      "audio": "audio/birds/003.mp3",
+      "audioLocal": "audio/birds/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "თუთიყუში",
+      "roman": "tutiq̇uši",
+      "en": "parrot",
+      "glosses": [
+        "parrot",
+        "one who repeats what one hears"
+      ],
+      "pos": "noun",
+      "ipa": "[tʰutʰiχʼuʃi]",
+      "audio": "audio/birds/004.mp3",
+      "audioLocal": "audio/birds/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish طوطی قوشی (dudu kuşu, literally “parrot-bird”), from Persian طوطی (tuti, “parrot”) and Ottoman Turkish قوش (kuş, “bird”)."
+    },
+    {
+      "ka": "იხვი",
+      "roman": "ixvi",
+      "en": "duck (aquatic bird)",
+      "glosses": [
+        "duck (aquatic bird)"
+      ],
+      "pos": "noun",
+      "ipa": "[iχʷi]",
+      "audio": "audio/birds/005.mp3",
+      "audioLocal": "audio/birds/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian იხუ (ixu), იხჳ (ixwi), from Proto-Georgian-Zan *ixw-. Mingrelian იხვინჯა (ixvinǯa) is a cognate to dialectal Zanism ხვირიკა (xviriḳa)."
+    },
+    {
+      "ka": "კაჭკაჭი",
+      "roman": "ḳač̣ḳač̣i",
+      "en": "magpie, pie",
+      "glosses": [
+        "magpie, pie"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼät͡ʃʼkʼät͡ʃʼi]",
+      "audio": "audio/birds/006.mp3",
+      "audioLocal": "audio/birds/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "მამალი",
+      "roman": "mamali",
+      "en": "male animal, bird or insect",
+      "glosses": [
+        "male animal, bird or insect",
+        "cock, rooster"
+      ],
+      "pos": "noun",
+      "ipa": "[mämäli]",
+      "audio": "audio/birds/007.mp3",
+      "audioLocal": "audio/birds/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian მამალი (mamali), ultimately from Proto-Kartvelian *mam-. Compare დედალი (dedali)."
+    },
+    {
+      "ka": "მყივანი გედი",
+      "roman": "mq̇ivani gedi",
+      "en": "whooper swan (Cygnus cygnus)",
+      "glosses": [
+        "whooper swan (Cygnus cygnus)"
+      ],
+      "pos": "noun",
+      "ipa": "[mχʼiväni ɡ̊e̞di]",
+      "audio": "audio/birds/008.mp3",
+      "audioLocal": "audio/birds/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ოფოფი",
+      "roman": "opopi",
+      "en": "hoopoe",
+      "glosses": [
+        "hoopoe"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞pʰo̞pʰi]",
+      "audio": "audio/birds/009.mp3",
+      "audioLocal": "audio/birds/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ოფოფი (opopi), from Proto-Georgian-Zan *opop- (“hoopoe”). Compare Mingrelian ოფოფი (opopi) and Laz ოფამფე (opampe). Likely of onomatopoeic origin, but compare also similar words in some Indo-European languages, such as Old Armenian յոպոպ (yopop), Latin upupa, Ancient Greek ἔποψ (épops), Latvian pupuķis, and Persian پوپو (pôpô)."
+    },
+    {
+      "ka": "სირი",
+      "roman": "siri",
+      "en": "bird",
+      "glosses": [
+        "bird",
+        "ostrich",
+        "penis",
+        "dickhead, jerk"
+      ],
+      "pos": "noun",
+      "ipa": "[siɾi]",
+      "audio": "audio/birds/010.mp3",
+      "audioLocal": "audio/birds/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian სირი (siri), from Proto-Kartvelian *sir-."
+    },
+    {
+      "ka": "სისინა გედი",
+      "roman": "sisina gedi",
+      "en": "mute swan (Cygnus olor)",
+      "glosses": [
+        "mute swan (Cygnus olor)"
+      ],
+      "pos": "noun",
+      "ipa": "[sisinä ɡ̊e̞di]",
+      "audio": "audio/birds/011.mp3",
+      "audioLocal": "audio/birds/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ტარბი",
+      "roman": "ṭarbi",
+      "en": "rosy starling, Pastor roseus",
+      "glosses": [
+        "rosy starling, Pastor roseus"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼäɾbi]",
+      "audio": "audio/birds/012.mp3",
+      "audioLocal": "audio/birds/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Armenian տարբ (tarb), the Tbilisi dialect form of տարմ (tarm)."
+    },
+    {
+      "ka": "ყვავი",
+      "roman": "q̇vavi",
+      "en": "spade",
+      "glosses": [
+        "crow",
+        "spade"
+      ],
+      "pos": "noun",
+      "ipa": "[χʼʷävi]",
+      "audio": "audio/birds/013.mp3",
+      "audioLocal": "audio/birds/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ყუავი (q̇uavi), most probably of onomatopoeic origin. Compare Mingrelian ყვარია (q̇varia), კვარია (ḳvaria) and Laz ყვარი (qvari), ყვაროჯი (qvaroci), ყვაოჯი (qvaoci). Also compare onomatopoeiae Georgian ყვა (q̇va, “caw”), Mingrelian ყვა (q̇va), ყვაუ (q̇vau) and Svan ყუა (q̇ua), ყუ̂ა (q̇ûa)."
+    },
+    {
+      "ka": "ყორანი",
+      "roman": "q̇orani",
+      "en": "raven",
+      "glosses": [
+        "raven"
+      ],
+      "pos": "noun",
+      "ipa": "[χʼo̞ɾäni]",
+      "audio": "audio/birds/014.mp3",
+      "audioLocal": "audio/birds/014.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ყორანი (q̇orani), likely of onomatopoeic origin."
+    },
+    {
+      "ka": "შევარდენი",
+      "roman": "ševardeni",
+      "en": "falcon",
+      "glosses": [
+        "falcon"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃe̞väɾde̞ni]",
+      "audio": "audio/birds/015.mp3",
+      "audioLocal": "audio/birds/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩვეულებრივი ზარნაშო",
+      "roman": "čveulebrivi zarnašo",
+      "en": "eurasian eagle owl (Bubo bubo)",
+      "glosses": [
+        "eurasian eagle owl (Bubo bubo)"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰʷe̞ule̞bɾivi zäɾnäʃo̞]",
+      "audio": "audio/birds/016.mp3",
+      "audioLocal": "audio/birds/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ჩიტი",
+      "roman": "čiṭi",
+      "en": "bird",
+      "glosses": [
+        "bird",
+        "sparrow",
+        "thickened grape-juice dripping from fresh churchkhela",
+        "(loom) reed/heald supports"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʰitʼi]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/Ka-%E1%83%A9%E1%83%98%E1%83%A2%E1%83%98.ogg/Ka-%E1%83%A9%E1%83%98%E1%83%A2%E1%83%98.ogg.mp3",
+      "audioLocal": "audio/birds/017.mp3",
+      "audioSource": "wiktionary",
+      "examples": [
+        {
+          "ka": "ვარდის ჩიტი",
+          "roman": "vardis čiṭi",
+          "en": "nightingale"
+        }
+      ],
+      "etymology": "Attested since Middle Georgian.\nAccording to Čubinov, an Armenian borrowing: compare Old Armenian ծիտ (cit), Middle Armenian չիտ (čʻit), ջիտ (ǰit, “sparrow”). This is rejected by Ačaṙean, because in Armenian the word is used post-classically and infrequently and now is present in Eastern dialects only; he considers the Armenian words to be borrowed from Kartvelian, the Middle Armenian forms specif…"
+    }
+  ]
+}

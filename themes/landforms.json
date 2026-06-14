@@ -1,0 +1,540 @@
+{
+  "id": "landforms",
+  "name": "Landforms",
+  "nameKa": "რელიეფი",
+  "icon": "△",
+  "count": 35,
+  "words": [
+    {
+      "ka": "არხი",
+      "roman": "arxi",
+      "en": "canal",
+      "glosses": [
+        "canal",
+        "channel"
+      ],
+      "pos": "noun",
+      "ipa": "[äɾχi]",
+      "audio": "audio/landforms/000.mp3",
+      "audioLocal": "audio/landforms/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Azerbaijani arx. Largely displaced native თხრილი (txrili), ღარი (ɣari), რუ (ru) in the senses of irrigation canal or TV channel."
+    },
+    {
+      "ka": "აუზი",
+      "roman": "auzi",
+      "en": "catchment basin",
+      "glosses": [
+        "pool or basin of water",
+        "catchment basin"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/landforms/001.mp3",
+      "audioLocal": "audio/landforms/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Ottoman Turkish حوض (havuz), itself from Arabic حَوْض (ḥawḍ)."
+    },
+    {
+      "ka": "ბარი",
+      "roman": "bari",
+      "en": "valley",
+      "glosses": [
+        "valley"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥äɾi]",
+      "audio": "audio/landforms/002.mp3",
+      "audioLocal": "audio/landforms/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ბარი (bari)."
+    },
+    {
+      "ka": "ბორცვი",
+      "roman": "borcvi",
+      "en": "hill, hillock",
+      "glosses": [
+        "hill, hillock"
+      ],
+      "pos": "noun",
+      "ipa": "[b̥o̞ɾt͡sʰʷi]",
+      "audio": "audio/landforms/003.mp3",
+      "audioLocal": "audio/landforms/003.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ბორცჳ (borcwi)."
+    },
+    {
+      "ka": "ვაკე",
+      "roman": "vaḳe",
+      "en": "plain, plane",
+      "glosses": [
+        "plain, plane"
+      ],
+      "pos": "noun",
+      "ipa": "[väkʼe̞]",
+      "audio": "audio/landforms/004.mp3",
+      "audioLocal": "audio/landforms/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ვულკანი",
+      "roman": "vulḳani",
+      "en": "volcano",
+      "glosses": [
+        "volcano"
+      ],
+      "pos": "noun",
+      "ipa": "[vulkʼäni]",
+      "audio": "audio/landforms/005.mp3",
+      "audioLocal": "audio/landforms/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ზღვა",
+      "roman": "zɣva",
+      "en": "sea",
+      "glosses": [
+        "sea"
+      ],
+      "pos": "noun",
+      "ipa": "[zʁʷä]",
+      "audio": "audio/landforms/006.mp3",
+      "audioLocal": "audio/landforms/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ზღუაჲ (zɣuay), from Proto-Kartvelian *zoɣw-a-."
+    },
+    {
+      "ka": "კანიონი",
+      "roman": "ḳanioni",
+      "en": "canyon",
+      "glosses": [
+        "canyon"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼänio̞ni]",
+      "audio": "audio/landforms/007.mp3",
+      "audioLocal": "audio/landforms/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Russian каньон (kanʹon)."
+    },
+    {
+      "ka": "კლდე",
+      "roman": "ḳlde",
+      "en": "cliff, crag, scar, rock",
+      "glosses": [
+        "cliff, crag, scar, rock"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼlde̞]",
+      "audio": "audio/landforms/008.mp3",
+      "audioLocal": "audio/landforms/008.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კლდეჲ (ḳldey), from Proto-Georgian-Zan *ḳlde-. Cognate with Mingrelian კირდე (ḳirde)."
+    },
+    {
+      "ka": "კონტინენტი",
+      "roman": "ḳonṭinenṭi",
+      "en": "continent",
+      "glosses": [
+        "continent"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞ntʼine̞ntʼi]",
+      "audio": "audio/landforms/009.mp3",
+      "audioLocal": "audio/landforms/009.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Latin."
+    },
+    {
+      "ka": "კონცხი",
+      "roman": "ḳoncxi",
+      "en": "cape, foreland, headland, promontory",
+      "glosses": [
+        "cape, foreland, headland, promontory"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼo̞nt͡sʰχi]",
+      "audio": "audio/landforms/010.mp3",
+      "audioLocal": "audio/landforms/010.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "კუნძული",
+      "roman": "ḳunʒuli",
+      "en": "island",
+      "glosses": [
+        "island"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼund͡zuli]",
+      "audio": "audio/landforms/011.mp3",
+      "audioLocal": "audio/landforms/011.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კუნძული (ḳunʒuli)."
+    },
+    {
+      "ka": "ლექსიკა",
+      "roman": "leksiḳa",
+      "en": "vocabulary",
+      "glosses": [
+        "vocabulary"
+      ],
+      "pos": "noun",
+      "ipa": "[le̞kʰsikʼä]",
+      "audio": "audio/landforms/012.mp3",
+      "audioLocal": "audio/landforms/012.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian ле́ксика (léksika)."
+    },
+    {
+      "ka": "მდინარე",
+      "roman": "mdinare",
+      "en": "flowing, running (water)",
+      "glosses": [
+        "flowing, running (water)"
+      ],
+      "pos": "adj",
+      "ipa": "[mdinäɾe̞]",
+      "audio": "audio/landforms/013.mp3",
+      "audioLocal": "audio/landforms/013.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From present participle of დის (dis), compare other form of დის (dis), იდინა (idina). This form is almost completely substantivized. Literal translation would be \"it that flows\"."
+    },
+    {
+      "ka": "მთა",
+      "roman": "mta",
+      "en": "mountain, hill",
+      "glosses": [
+        "mountain, hill"
+      ],
+      "pos": "noun",
+      "ipa": "[mtʰä]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Ka-%E1%83%9B%E1%83%97%E1%83%90-Nicodene-mom.ogg/Ka-%E1%83%9B%E1%83%97%E1%83%90-Nicodene-mom.ogg.mp3",
+      "audioLocal": "audio/landforms/014.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "Compare Proto-Kartvelian *mt- (“winter”) (whence also ზა-მთ-არი (za-mt-ari, “winter”))."
+    },
+    {
+      "ka": "ნაკადული",
+      "roman": "naḳaduli",
+      "en": "bourn, bourne, brook, rivulet, streamlet",
+      "glosses": [
+        "bourn, bourne, brook, rivulet, streamlet"
+      ],
+      "pos": "noun",
+      "ipa": "[näkʼäduli]",
+      "audio": "audio/landforms/015.mp3",
+      "audioLocal": "audio/landforms/015.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Of the same Proto-Kartvelian origin as Ossetian къа́да (k’áda, “brook, rivulet”)"
+    },
+    {
+      "ka": "ნაპირი",
+      "roman": "naṗiri",
+      "en": "edge",
+      "glosses": [
+        "shore, strand, waterside",
+        "edge"
+      ],
+      "pos": "noun",
+      "ipa": "[näpʼiɾi]",
+      "audio": "audio/landforms/016.mp3",
+      "audioLocal": "audio/landforms/016.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ნახევარკუნძული",
+      "roman": "naxevarḳunʒuli",
+      "en": "peninsula",
+      "glosses": [
+        "peninsula"
+      ],
+      "pos": "noun",
+      "ipa": "[näχe̞väɾkʼund͡zuli]",
+      "audio": "audio/landforms/017.mp3",
+      "audioLocal": "audio/landforms/017.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნახევარი (naxevari, “half”) + კუნძული (ḳunʒuli, “island”)."
+    },
+    {
+      "ka": "ოაზისი",
+      "roman": "oazisi",
+      "en": "oases, oasis",
+      "glosses": [
+        "oases, oasis"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞äzisi]",
+      "audio": "audio/landforms/018.mp3",
+      "audioLocal": "audio/landforms/018.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek."
+    },
+    {
+      "ka": "ოკეანე",
+      "roman": "oḳeane",
+      "en": "ocean",
+      "glosses": [
+        "ocean"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/landforms/019.mp3",
+      "audioLocal": "audio/landforms/019.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Ancient Greek Ὠκεανός (Ōkeanós)."
+    },
+    {
+      "ka": "პლაჟი",
+      "roman": "ṗlaži",
+      "en": "beach",
+      "glosses": [
+        "beach"
+      ],
+      "pos": "noun",
+      "ipa": null,
+      "audio": "audio/landforms/020.mp3",
+      "audioLocal": "audio/landforms/020.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Borrowed from Russian пляж (pljaž)."
+    },
+    {
+      "ka": "სანაპირო",
+      "roman": "sanaṗiro",
+      "en": "shore, coast, littoral",
+      "glosses": [
+        "shore, coast, littoral"
+      ],
+      "pos": "noun",
+      "ipa": "[sänäpʼiɾo̞]",
+      "audio": "audio/landforms/021.mp3",
+      "audioLocal": "audio/landforms/021.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ნაპირი (naṗiri) + სა- -ო (sa- -o)."
+    },
+    {
+      "ka": "სრუტე",
+      "roman": "sruṭe",
+      "en": "strait",
+      "glosses": [
+        "strait"
+      ],
+      "pos": "noun",
+      "ipa": "[sɾutʼe̞]",
+      "audio": "audio/landforms/022.mp3",
+      "audioLocal": "audio/landforms/022.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Unattested in Old Georgian."
+    },
+    {
+      "ka": "სტრატოვულკანი",
+      "roman": "sṭraṭovulḳani",
+      "en": "stratovolcano",
+      "glosses": [
+        "stratovolcano"
+      ],
+      "pos": "noun",
+      "ipa": "[stʼɾätʼo̞vulkʼäni]",
+      "audio": "audio/landforms/023.mp3",
+      "audioLocal": "audio/landforms/023.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "სუპერვულკანი",
+      "roman": "suṗervulḳani",
+      "en": "supervolcano",
+      "glosses": [
+        "supervolcano"
+      ],
+      "pos": "noun",
+      "ipa": "[supʼe̞ɾʷulkʼäni]",
+      "audio": "audio/landforms/024.mp3",
+      "audioLocal": "audio/landforms/024.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ტბა",
+      "roman": "ṭba",
+      "en": "lake",
+      "glosses": [
+        "lake"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼbä]",
+      "audio": "audio/landforms/025.mp3",
+      "audioLocal": "audio/landforms/025.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian ტბაჲ (ṭbay), from Proto-Kartvelian *ṭab-."
+    },
+    {
+      "ka": "ტბორი",
+      "roman": "ṭbori",
+      "en": "pond, puddle, pool",
+      "glosses": [
+        "pond, puddle, pool"
+      ],
+      "pos": "noun",
+      "ipa": "[tʼbo̞ɾi]",
+      "audio": "audio/landforms/026.mp3",
+      "audioLocal": "audio/landforms/026.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Compare ტბა (ṭba, “lake”)."
+    },
+    {
+      "ka": "უბე",
+      "roman": "ube",
+      "en": "bosom",
+      "glosses": [
+        "bay, bight",
+        "bosom"
+      ],
+      "pos": "noun",
+      "ipa": "[ube̞]",
+      "audio": "audio/landforms/027.mp3",
+      "audioLocal": "audio/landforms/027.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian უბე (ube), from Proto-Georgian-Zan *ube/a- (“bosom, lap”). Cognate with Mingrelian ლუბა (luba), უბა (uba), ლჷბა (ləba) and Laz უბა (uba), ობა (oba)."
+    },
+    {
+      "ka": "ფარისებრი ვულკანი",
+      "roman": "parisebri vulḳani",
+      "en": "shield volcano",
+      "glosses": [
+        "shield volcano"
+      ],
+      "pos": "noun",
+      "ipa": "[pʰäɾise̞bɾi vulkʼäni]",
+      "audio": "audio/landforms/028.mp3",
+      "audioLocal": "audio/landforms/028.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ყურე",
+      "roman": "q̇ure",
+      "en": "bight",
+      "glosses": [
+        "bight"
+      ],
+      "pos": "noun",
+      "ipa": "[χʼuɾe̞]",
+      "audio": "audio/landforms/029.mp3",
+      "audioLocal": "audio/landforms/029.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "შრეებრივი ვულკანი",
+      "roman": "šreebrivi vulḳani",
+      "en": "stratovolcano (literally: layered volcano)",
+      "glosses": [
+        "stratovolcano (literally: layered volcano)"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃɾe̞e̞bɾivi vulkʼäni]",
+      "audio": "audio/landforms/030.mp3",
+      "audioLocal": "audio/landforms/030.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "წყარო",
+      "roman": "c̣q̇aro",
+      "en": "spring",
+      "glosses": [
+        "spring",
+        "source"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡sʼχʼäɾo̞]",
+      "audio": "audio/landforms/031.mp3",
+      "audioLocal": "audio/landforms/031.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Compare წყალი (c̣q̇ali)"
+    },
+    {
+      "ka": "ჭალა",
+      "roman": "č̣ala",
+      "en": "bottomland, floodplain, flood meadow",
+      "glosses": [
+        "bottomland, floodplain, flood meadow",
+        "riverside copse"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʼäɫä]",
+      "audio": "audio/landforms/032.mp3",
+      "audioLocal": "audio/landforms/032.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "Inherited from Old Georgian ჭალაკი (č̣alaḳi), ჭალაჲ (č̣alay); see there for more. For the development of the ending see -აკი (-aḳi)."
+    },
+    {
+      "ka": "ჭაობი",
+      "roman": "č̣aobi",
+      "en": "bog, marsh, mire, morass, quagmire, slough, swamp",
+      "glosses": [
+        "bog, marsh, mire, morass, quagmire, slough, swamp"
+      ],
+      "pos": "noun",
+      "ipa": "[t͡ʃʼäo̞bi]",
+      "audio": "audio/landforms/033.mp3",
+      "audioLocal": "audio/landforms/033.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    },
+    {
+      "ka": "ხეობა",
+      "roman": "xeoba",
+      "en": "valley",
+      "glosses": [
+        "valley"
+      ],
+      "pos": "noun",
+      "ipa": "[χe̞o̞bä]",
+      "audio": "audio/landforms/034.mp3",
+      "audioLocal": "audio/landforms/034.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": null
+    }
+  ]
+}

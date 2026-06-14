@@ -1,0 +1,130 @@
+{
+  "id": "days-of-the-week",
+  "name": "Days of the week",
+  "nameKa": "კვირის დღეები",
+  "icon": "☀",
+  "count": 8,
+  "words": [
+    {
+      "ka": "კვირა",
+      "roman": "ḳvira",
+      "en": "week",
+      "glosses": [
+        "week",
+        "Sunday"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼʷiɾä]",
+      "audio": "audio/days-of-the-week/000.mp3",
+      "audioLocal": "audio/days-of-the-week/000.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian კჳრაჲ (ḳwiray), კჳრიაკჱ (ḳwiriaḳē), from Koine Greek Κυριακή (Kuriakḗ, “Sunday”). For the loss of -კ- (-ḳ-) see -აკი (-aḳi)."
+    },
+    {
+      "ka": "კვირადღე",
+      "roman": "ḳviradɣe",
+      "en": "Sunday",
+      "glosses": [
+        "Sunday"
+      ],
+      "pos": "noun",
+      "ipa": "[kʼʷiɾädʁe̞]",
+      "audio": "audio/days-of-the-week/001.mp3",
+      "audioLocal": "audio/days-of-the-week/001.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From კვირა (ḳvira, “Sunday”) + დღე (dɣe, “day”)."
+    },
+    {
+      "ka": "ოთხშაბათი",
+      "roman": "otxšabati",
+      "en": "Wednesday",
+      "glosses": [
+        "Wednesday"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞tʰχʃäbätʰi]",
+      "audio": "audio/days-of-the-week/002.mp3",
+      "audioLocal": "audio/days-of-the-week/002.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ოთხი (otxi, “four”) + შაბათი (šabati, “Saturday”)."
+    },
+    {
+      "ka": "ორშაბათი",
+      "roman": "oršabati",
+      "en": "Monday",
+      "glosses": [
+        "Monday"
+      ],
+      "pos": "noun",
+      "ipa": "[o̞ɾʃäbätʰi]",
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/Ka-%E1%83%9D%E1%83%A0%E1%83%A8%E1%83%90%E1%83%91%E1%83%90%E1%83%97%E1%83%98.ogg/Ka-%E1%83%9D%E1%83%A0%E1%83%A8%E1%83%90%E1%83%91%E1%83%90%E1%83%97%E1%83%98.ogg.mp3",
+      "audioLocal": "audio/days-of-the-week/003.mp3",
+      "audioSource": "wiktionary",
+      "examples": [],
+      "etymology": "From ორი (ori, “two”) + შაბათი (šabati, “Saturday”)."
+    },
+    {
+      "ka": "პარასკევი",
+      "roman": "ṗarasḳevi",
+      "en": "Friday",
+      "glosses": [
+        "Friday"
+      ],
+      "pos": "noun",
+      "ipa": "[pʼäɾäskʼe̞vi]",
+      "audio": "audio/days-of-the-week/004.mp3",
+      "audioLocal": "audio/days-of-the-week/004.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian პარასკევი (ṗarasḳevi), from Ancient Greek Παρασκευή (Paraskeuḗ)."
+    },
+    {
+      "ka": "სამშაბათი",
+      "roman": "samšabati",
+      "en": "Tuesday",
+      "glosses": [
+        "Tuesday"
+      ],
+      "pos": "noun",
+      "ipa": "[sämʃäbätʰi]",
+      "audio": "audio/days-of-the-week/005.mp3",
+      "audioLocal": "audio/days-of-the-week/005.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From სამი (sami, “three”) + შაბათი (šabati, “Saturday”)."
+    },
+    {
+      "ka": "შაბათი",
+      "roman": "šabati",
+      "en": "Saturday",
+      "glosses": [
+        "Saturday"
+      ],
+      "pos": "noun",
+      "ipa": "[ʃäbätʰi]",
+      "audio": "audio/days-of-the-week/006.mp3",
+      "audioLocal": "audio/days-of-the-week/006.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From Old Georgian შაბათი (šabati)."
+    },
+    {
+      "ka": "ხუთშაბათი",
+      "roman": "xutšabati",
+      "en": "Thursday",
+      "glosses": [
+        "Thursday"
+      ],
+      "pos": "noun",
+      "ipa": "[χutʰʃäbätʰi]",
+      "audio": "audio/days-of-the-week/007.mp3",
+      "audioLocal": "audio/days-of-the-week/007.mp3",
+      "audioSource": "tts",
+      "examples": [],
+      "etymology": "From ხუთი (xuti, “five”) + შაბათი (šabati, “Saturday”)."
+    }
+  ]
+}
