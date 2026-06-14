@@ -115,6 +115,15 @@
       <div class="brand">
         <h1>ქართული</h1>
         <p id="stats"></p>
+        <div class="core-progress" id="core-progress">
+          <div class="core-progress-label">
+            <span>core 500</span>
+            <span id="core-label">0 / 500</span>
+          </div>
+          <div class="core-progress-bar">
+            <div class="core-progress-fill" id="core-fill" style="width:0%"></div>
+          </div>
+        </div>
         <a href="#" id="browse-toggle">browse themes</a>
         <a href="review.html" id="review-link">review</a>
       </div>
@@ -152,12 +161,16 @@
     const browseToggle = document.getElementById("browse-toggle");
 
     const reviewLink = document.getElementById("review-link");
+    const coreLabel = document.getElementById("core-label");
+    const coreFill = document.getElementById("core-fill");
 
     function updateHeaderStats() {
-      const audioCount = data.categories.reduce((n, c) => n + c.words.filter(w => w.audio).length, 0);
       const counts = LearningStore.getCounts();
+      const core = LearningStore.getCoreProgress(data);
       statsEl.textContent = `${data.stats.themes} themes · ${data.stats.words} words · ${counts.known} known`;
       reviewLink.textContent = counts.flagged ? `review (${counts.flagged})` : "review";
+      coreLabel.textContent = `${core.known} / ${core.total}`;
+      coreFill.style.width = `${Math.round(core.pct * 100)}%`;
     }
     updateHeaderStats();
 

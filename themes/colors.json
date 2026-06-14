@@ -18,7 +18,8 @@
       "audioLocal": "audio/colors/000.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ალის (alis, “flame's”) + -ფერი (-peri, “color”). Akin to Mingrelian ალიშფერი (ališperi)."
+      "etymology": "From ალის (alis, “flame's”) + -ფერი (-peri, “color”). Akin to Mingrelian ალიშფერი (ališperi).",
+      "core": true
     },
     {
       "ka": "ალუმინისფერი",
@@ -33,7 +34,8 @@
       "audioLocal": "audio/colors/001.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ალუმინი (alumini) + -ფერი (-peri)."
+      "etymology": "From ალუმინი (alumini) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ამეთვისტოსფერი",
@@ -48,7 +50,8 @@
       "audioLocal": "audio/colors/002.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ამეთვისტო (ametvisṭo) + -ფერი (-peri)."
+      "etymology": "From ამეთვისტო (ametvisṭo) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ამლაყი",
@@ -63,7 +66,8 @@
       "audioLocal": "audio/colors/003.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Ultimately from Arabic أَبْلَق (ʔablaq, “piebald”)."
+      "etymology": "Ultimately from Arabic أَبْلَق (ʔablaq, “piebald”).",
+      "core": true
     },
     {
       "ka": "ბრინჯაოსფერი",
@@ -78,7 +82,8 @@
       "audioLocal": "audio/colors/004.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ბრინჯაო (brinǯao) + -ფერი (-peri)."
+      "etymology": "From ბრინჯაო (brinǯao) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ბროწეულისფერი",
@@ -93,7 +98,8 @@
       "audioLocal": "audio/colors/005.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ბროწეული (broc̣euli) + -ფერი (-peri)."
+      "etymology": "From ბროწეული (broc̣euli) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ბურგუნდისფერი",
@@ -108,7 +114,8 @@
       "audioLocal": "audio/colors/006.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ბურგუნდ(იული ღვინო) (burgund(iuli ɣvino)) + -ფერი (-peri)."
+      "etymology": "From ბურგუნდ(იული ღვინო) (burgund(iuli ɣvino)) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ვარდისფერი",
@@ -123,7 +130,8 @@
       "audioLocal": "audio/colors/007.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ვარდი (vardi) + -ფერი (-peri)."
+      "etymology": "From ვარდი (vardi) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ვერცხლისფერ-ნაცრისფერი",
@@ -138,7 +146,8 @@
       "audioLocal": "audio/colors/008.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ვერცხლისფერი (vercxlisperi) and ნაცრისფერი (nacrisperi)."
+      "etymology": "From ვერცხლისფერი (vercxlisperi) and ნაცრისფერი (nacrisperi).",
+      "core": true
     },
     {
       "ka": "ვერცხლისფერი",
@@ -153,7 +162,8 @@
       "audioLocal": "audio/colors/009.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ვერცხლი (vercxli) + -ფერი (-peri)."
+      "etymology": "From ვერცხლი (vercxli) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ზეთისხილისფერი",
@@ -168,7 +178,8 @@
       "audioLocal": "audio/colors/010.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ზეთისხილი (zetisxili, “olive”) + -ფერი (-peri)."
+      "etymology": "From ზეთისხილი (zetisxili, “olive”) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ზურმუხტისფერი",
@@ -183,7 +194,8 @@
       "audioLocal": "audio/colors/011.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ზურმუხტი (zurmuxṭi) + -ფერი (-peri)."
+      "etymology": "From ზურმუხტი (zurmuxṭi) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "ზღმარტლისფერი",
@@ -198,7 +210,8 @@
       "audioLocal": "audio/colors/012.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ზღმარტლი (zɣmarṭli, “medlar”) + -ფერი (-peri)."
+      "etymology": "From ზღმარტლი (zɣmarṭli, “medlar”) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "თავთუხისფერი",
@@ -219,7 +232,8 @@
           "en": ""
         }
       ],
-      "etymology": "From თავთუხი (tavtuxi, “durum”) + -ფერი (-peri)."
+      "etymology": "From თავთუხი (tavtuxi, “durum”) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "თაფლისფერი",
@@ -234,7 +248,8 @@
       "audioLocal": "audio/colors/014.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From თაფლი (tapli) + -ფერი (-peri)."
+      "etymology": "From თაფლი (tapli) + -ფერი (-peri).",
+      "core": true
     },
     {
       "ka": "თეთრი",

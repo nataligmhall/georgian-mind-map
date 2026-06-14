@@ -97,5 +97,19 @@
         .map((key) => lookup.get(key))
         .filter(Boolean);
     },
+
+    getCoreProgress(dictionaryData) {
+      const total = dictionaryData.stats.coreWords || 0;
+      if (!total) return { known: 0, total: 0, pct: 0 };
+      const data = load();
+      const coreKeys = new Set();
+      dictionaryData.categories.forEach((cat) => {
+        cat.words.forEach((w) => {
+          if (w.core) coreKeys.add(wordKey(cat.id, w.ka));
+        });
+      });
+      const known = data.known.filter((k) => coreKeys.has(k)).length;
+      return { known, total, pct: known / total };
+    },
   };
 })();

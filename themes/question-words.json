@@ -18,7 +18,8 @@
       "audioLocal": "audio/question-words/000.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ამიტომაც",
@@ -33,7 +34,8 @@
       "audioLocal": "audio/question-words/001.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ამიტომ (amiṭom) + -აც (-ac)."
+      "etymology": "From ამიტომ (amiṭom) + -აც (-ac).",
+      "core": true
     },
     {
       "ka": "ამტვირთავი",
@@ -48,7 +50,8 @@
       "audioLocal": "audio/question-words/002.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ანგლოსაქსი",
@@ -63,7 +66,8 @@
       "audioLocal": "audio/question-words/003.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "არანაირად",
@@ -78,7 +82,8 @@
       "audioLocal": "audio/question-words/004.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "არსად",
@@ -93,7 +98,8 @@
       "audioLocal": "audio/question-words/005.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "აფთიაქი",
@@ -108,7 +114,8 @@
       "audioLocal": "audio/question-words/006.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Russian апте́ка (aptéka) undergoing Georgianization to make the word pronounced more freely."
+      "etymology": "Borrowed from Russian апте́ка (aptéka) undergoing Georgianization to make the word pronounced more freely.",
+      "core": true
     },
     {
       "ka": "ბაზიერი",
@@ -123,7 +130,8 @@
       "audioLocal": "audio/question-words/007.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Of Iranian origin. Likely from Persian بازیار (bâzyâr, “falcon-keeper”)."
+      "etymology": "Of Iranian origin. Likely from Persian بازیار (bâzyâr, “falcon-keeper”).",
+      "core": true
     },
     {
       "ka": "ბაითი",
@@ -144,7 +152,8 @@
           "en": "- We have got weed, now we need an apartment"
         }
       ],
-      "etymology": "Probably from Hebrew בַּיִת (báyit, “house”)."
+      "etymology": "Probably from Hebrew בַּיִת (báyit, “house”).",
+      "core": true
     },
     {
       "ka": "ბარბარიზმი",
@@ -159,7 +168,8 @@
       "audioLocal": "audio/question-words/009.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Ultimately from Latin barbarismus likely via Russian варвари́зм (varvarízm)."
+      "etymology": "Ultimately from Latin barbarismus likely via Russian варвари́зм (varvarízm).",
+      "core": true
     },
     {
       "ka": "ბერა",
@@ -185,7 +195,8 @@
           "en": "Chokheli shouldn’t think that he’s after his place and is trying to break him"
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ბითუმად",
@@ -200,7 +211,8 @@
       "audioLocal": "audio/question-words/011.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ბითუმი",
@@ -215,7 +227,8 @@
       "audioLocal": "audio/question-words/012.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Ottoman Turkish بوتون (bütün), itself from Proto-Turkic *bütün."
+      "etymology": "Borrowed from Ottoman Turkish بوتون (bütün), itself from Proto-Turkic *bütün.",
+      "core": true
     },
     {
       "ka": "ბოზი",
@@ -230,7 +243,8 @@
       "audioLocal": "audio/question-words/013.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Middle Georgian ბოზი (bozi), from Old Armenian բոզ (boz); see there and Laz ბოზო (bozo, “girl”) for more."
+      "etymology": "From Middle Georgian ბოზი (bozi), from Old Armenian բոզ (boz); see there and Laz ბოზო (bozo, “girl”) for more.",
+      "core": true
     },
     {
       "ka": "ბოსელი",
@@ -245,7 +259,8 @@
       "audioLocal": "audio/question-words/014.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გადმოსაკონტრრევოლუციონერებლებისნაირებისათვისაცო",
@@ -260,7 +275,8 @@
       "audioLocal": "audio/question-words/015.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From გადმო- (gadmo-) + სა- (sa-) + კონტრრევოლუციონერი (ḳonṭrrevolucioneri) + -ება (-eba) + -ელი (-eli) + -ები (-ebi) + -ნაირი (-nairi) + -ები (-ebi) + -თვის (-tvis) + -ა (-a) + -ც (-c) + -ო (-o).\nThe word is constructed in the following steps:\n* Nominal root: ḳonṭrrevolucioneri \"a counter-revolutionary\"\n* Denominal verb with preverb: gadmoḳonṭrrevolucionereba \"to re-counter-revolutionize\"\n* Nomina…"
+      "etymology": "From გადმო- (gadmo-) + სა- (sa-) + კონტრრევოლუციონერი (ḳonṭrrevolucioneri) + -ება (-eba) + -ელი (-eli) + -ები (-ebi) + -ნაირი (-nairi) + -ები (-ebi) + -თვის (-tvis) + -ა (-a) + -ც (-c) + -ო (-o).\nThe word is constructed in the following steps:\n* Nominal root: ḳonṭrrevolucioneri \"a counter-revolutionary\"\n* Denominal verb with preverb: gadmoḳonṭrrevolucionereba \"to re-counter-revolutionize\"\n* Nomina…",
+      "core": true
     },
     {
       "ka": "გაერთიანება",
@@ -275,7 +291,8 @@
       "audioLocal": "audio/question-words/016.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ერთიანი (ertiani, “united, one”)."
+      "etymology": "From ერთიანი (ertiani, “united, one”).",
+      "core": true
     },
     {
       "ka": "გამაცხელებელი",
@@ -290,7 +307,8 @@
       "audioLocal": "audio/question-words/017.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გამომწვევი",
@@ -305,7 +323,8 @@
       "audioLocal": "audio/question-words/018.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From გამოწვევა (gamoc̣veva)."
+      "etymology": "From გამოწვევა (gamoc̣veva).",
+      "core": true
     },
     {
       "ka": "გამოფენა",
@@ -320,7 +339,8 @@
       "audioLocal": "audio/question-words/019.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გარდამქმნელი",
@@ -335,7 +355,8 @@
       "audioLocal": "audio/question-words/020.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გაფრთხილება",
@@ -350,7 +371,8 @@
       "audioLocal": "audio/question-words/021.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Related to ფრთხილი (prtxili)."
+      "etymology": "Related to ფრთხილი (prtxili).",
+      "core": true
     },
     {
       "ka": "გაჩერება",
@@ -371,7 +393,8 @@
           "en": "taxi stand"
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გენერალიტეტი",
@@ -386,7 +409,8 @@
       "audioLocal": "audio/question-words/023.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from German Generalität."
+      "etymology": "Borrowed from German Generalität.",
+      "core": true
     },
     {
       "ka": "გენერალური",
@@ -401,7 +425,8 @@
       "audioLocal": "audio/question-words/024.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Ultimately from Latin generālis + -ური (-uri)."
+      "etymology": "Ultimately from Latin generālis + -ური (-uri).",
+      "core": true
     },
     {
       "ka": "გველის წიწილი",
@@ -416,7 +441,8 @@
       "audioLocal": "audio/question-words/025.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally meaning snake's chick, i.e. snakeling."
+      "etymology": "Literally meaning snake's chick, i.e. snakeling.",
+      "core": true
     },
     {
       "ka": "გობეგი",
@@ -431,7 +457,8 @@
       "audioLocal": "audio/question-words/026.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Ultimately from Ottoman Turkish كوبك (göbek, “navel”)."
+      "etymology": "Ultimately from Ottoman Turkish كوبك (göbek, “navel”).",
+      "core": true
     },
     {
       "ka": "გონიო",
@@ -452,7 +479,8 @@
           "en": ""
         }
       ],
-      "etymology": "Ultimately from Ancient Greek γωνία (gōnía). Compare Mingrelian გონია (gonia)."
+      "etymology": "Ultimately from Ancient Greek γωνία (gōnía). Compare Mingrelian გონია (gonia).",
+      "core": true
     },
     {
       "ka": "გულწრფელად",
@@ -467,7 +495,8 @@
       "audioLocal": "audio/question-words/028.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From გულ- (gul-) + წრფელად (c̣rpelad)."
+      "etymology": "From გულ- (gul-) + წრფელად (c̣rpelad).",
+      "core": true
     },
     {
       "ka": "გულწრფელი",
@@ -482,7 +511,8 @@
       "audioLocal": "audio/question-words/029.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From გული (guli, “heart”) + წრფელი (c̣rpeli, “frank, honest”)."
+      "etymology": "From გული (guli, “heart”) + წრფელი (c̣rpeli, “frank, honest”).",
+      "core": true
     },
     {
       "ka": "გულწრფელობა",
@@ -497,7 +527,8 @@
       "audioLocal": "audio/question-words/030.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From გულწრფელი (gulc̣rpeli) + -ობა (-oba)."
+      "etymology": "From გულწრფელი (gulc̣rpeli) + -ობა (-oba).",
+      "core": true
     },
     {
       "ka": "გურჯი",
@@ -512,7 +543,8 @@
       "audioLocal": "audio/question-words/031.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გუშინდელი",
@@ -527,7 +559,8 @@
       "audioLocal": "audio/question-words/032.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From გუშინ (gušin)."
+      "etymology": "From გუშინ (gušin).",
+      "core": true
     },
     {
       "ka": "დადებითი",
@@ -542,7 +575,8 @@
       "audioLocal": "audio/question-words/033.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დაზარალებული",
@@ -557,7 +591,8 @@
       "audioLocal": "audio/question-words/034.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From დაზარალება (dazaraleba) + -ული (-uli, past passive participle-forming suffix)."
+      "etymology": "From დაზარალება (dazaraleba) + -ული (-uli, past passive participle-forming suffix).",
+      "core": true
     },
     {
       "ka": "დამაარსებელი",
@@ -572,7 +607,8 @@
       "audioLocal": "audio/question-words/035.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From დაარსება (daarseba) + მა- -ელი (ma- -eli)."
+      "etymology": "From დაარსება (daarseba) + მა- -ელი (ma- -eli).",
+      "core": true
     },
     {
       "ka": "დამფინანსებელი",
@@ -587,7 +623,8 @@
       "audioLocal": "audio/question-words/036.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From დაფინანსება (dapinanseba) + მ- -ელი (m- -eli)."
+      "etymology": "From დაფინანსება (dapinanseba) + მ- -ელი (m- -eli).",
+      "core": true
     },
     {
       "ka": "დამფუძნებელი",
@@ -602,7 +639,8 @@
       "audioLocal": "audio/question-words/037.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From დაფუძნება (dapuʒneba) + მ- -ელი (m- -eli)."
+      "etymology": "From დაფუძნება (dapuʒneba) + მ- -ელი (m- -eli).",
+      "core": true
     },
     {
       "ka": "დაპკურება",
@@ -617,7 +655,8 @@
       "audioLocal": "audio/question-words/038.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დედაბოძი",
@@ -632,7 +671,8 @@
       "audioLocal": "audio/question-words/039.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დედამიწის ზურგზე",
@@ -653,7 +693,8 @@
           "en": "Not in the whole wide world walks a lady like you"
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დედანი",
@@ -668,7 +709,8 @@
       "audioLocal": "audio/question-words/041.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Presumably from დედა (deda, “mother”)."
+      "etymology": "Presumably from დედა (deda, “mother”).",
+      "core": true
     },
     {
       "ka": "დევნილი",
@@ -683,7 +725,8 @@
       "audioLocal": "audio/question-words/042.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დემონსტრაცია",
@@ -698,7 +741,8 @@
       "audioLocal": "audio/question-words/043.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დეტექტივი",
@@ -713,7 +757,8 @@
       "audioLocal": "audio/question-words/044.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დონორი",
@@ -739,7 +784,8 @@
           "en": "organ donor"
         }
       ],
-      "etymology": "Ultimately from Latin dōnō."
+      "etymology": "Ultimately from Latin dōnō.",
+      "core": true
     },
     {
       "ka": "დოქტორი",
@@ -754,7 +800,8 @@
       "audioLocal": "audio/question-words/046.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Ultimately from Latin doctor."
+      "etymology": "Ultimately from Latin doctor.",
+      "core": true
     },
     {
       "ka": "დუშგელი",
@@ -769,7 +816,8 @@
       "audioLocal": "audio/question-words/047.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from German Duschgel."
+      "etymology": "Borrowed from German Duschgel.",
+      "core": true
     },
     {
       "ka": "დღე-ღამე",
@@ -784,7 +832,8 @@
       "audioLocal": "audio/question-words/048.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From დღე (dɣe) + ღამე (ɣame)."
+      "etymology": "From დღე (dɣe) + ღამე (ɣame).",
+      "core": true
     },
     {
       "ka": "დღევანდელი",
@@ -799,7 +848,8 @@
       "audioLocal": "audio/question-words/049.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ეგოისტი",
@@ -814,7 +864,8 @@
       "audioLocal": "audio/question-words/050.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ერთთავად",
@@ -829,7 +880,8 @@
       "audioLocal": "audio/question-words/051.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ერთი (erti) + თავი (tavi) + -ად (-ad)."
+      "etymology": "From ერთი (erti) + თავი (tavi) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "ერთხმივი",
@@ -844,7 +896,8 @@
       "audioLocal": "audio/question-words/052.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ეფექტურად",
@@ -859,7 +912,8 @@
       "audioLocal": "audio/question-words/053.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ეფექტური",
@@ -874,7 +928,8 @@
       "audioLocal": "audio/question-words/054.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ეფექტურობა",
@@ -889,7 +944,8 @@
       "audioLocal": "audio/question-words/055.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ეფექტური (epekṭuri) + -ობა (-oba)."
+      "etymology": "From ეფექტური (epekṭuri) + -ობა (-oba).",
+      "core": true
     },
     {
       "ka": "ვახტანგური",
@@ -904,7 +960,8 @@
       "audioLocal": "audio/question-words/056.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ვახტანგი (vaxṭangi) + -ური (-uri).\nAccording to the Georgian traditional belief, the root, which is a given name, refers to Vakhtang I of Iberia who converted one village elder to Christianity and as a sign of the mutual understanding they drank like this."
+      "etymology": "From ვახტანგი (vaxṭangi) + -ური (-uri).\nAccording to the Georgian traditional belief, the root, which is a given name, refers to Vakhtang I of Iberia who converted one village elder to Christianity and as a sign of the mutual understanding they drank like this.",
+      "core": true
     },
     {
       "ka": "ვერსად",
@@ -919,7 +976,8 @@
       "audioLocal": "audio/question-words/057.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ზათქიანი",
@@ -934,7 +992,8 @@
       "audioLocal": "audio/question-words/058.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ზარაფხანა",
@@ -949,7 +1008,8 @@
       "audioLocal": "audio/question-words/059.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Persian ضرابخانه (zarrâbxâne), equivalent to ზარაფი (zarapi) + -ხანა (-xana)."
+      "etymology": "Borrowed from Persian ضرابخانه (zarrâbxâne), equivalent to ზარაფი (zarapi) + -ხანა (-xana).",
+      "core": true
     },
     {
       "ka": "თავკაცი",
@@ -964,7 +1024,8 @@
       "audioLocal": "audio/question-words/060.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From თავი (tavi, “head”) + კაცი (ḳaci, “man”)."
+      "etymology": "From თავი (tavi, “head”) + კაცი (ḳaci, “man”).",
+      "core": true
     },
     {
       "ka": "თეზისი",
@@ -979,7 +1040,8 @@
       "audioLocal": "audio/question-words/061.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Ultimately from Ancient Greek θέσῐς (thésĭs), most probably via Russian те́зис (thesis)."
+      "etymology": "Ultimately from Ancient Greek θέσῐς (thésĭs), most probably via Russian те́зис (thesis).",
+      "core": true
     },
     {
       "ka": "თვითმკვლელი",
@@ -994,7 +1056,8 @@
       "audioLocal": "audio/question-words/062.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From თვით- (tvit-) + მკვლელი (mḳvleli)."
+      "etymology": "From თვით- (tvit-) + მკვლელი (mḳvleli).",
+      "core": true
     },
     {
       "ka": "თუთიყუში",
@@ -1009,7 +1072,8 @@
       "audioLocal": "audio/question-words/063.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Ottoman Turkish طوطی قوشی (dudu kuşu, literally “parrot-bird”), from Persian طوطی (tuti, “parrot”) and Ottoman Turkish قوش (kuş, “bird”)."
+      "etymology": "Borrowed from Ottoman Turkish طوطی قوشی (dudu kuşu, literally “parrot-bird”), from Persian طوطی (tuti, “parrot”) and Ottoman Turkish قوش (kuş, “bird”).",
+      "core": true
     },
     {
       "ka": "თქეში",
@@ -1024,7 +1088,8 @@
       "audioLocal": "audio/question-words/064.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "May be related to Mingrelian თქვარშალი (tkvaršali)."
+      "etymology": "May be related to Mingrelian თქვარშალი (tkvaršali).",
+      "core": true
     },
     {
       "ka": "ინიციატორი",
@@ -1039,7 +1104,8 @@
       "audioLocal": "audio/question-words/065.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Probably borrowed from Russian инициа́тор (iniciátor), from French initiateur, from Late Latin initiātor, from initiō, from Latin initium, from ineō."
+      "etymology": "Probably borrowed from Russian инициа́тор (iniciátor), from French initiateur, from Late Latin initiātor, from initiō, from Latin initium, from ineō.",
+      "core": true
     },
     {
       "ka": "ინტერმედია",
@@ -1054,7 +1120,8 @@
       "audioLocal": "audio/question-words/066.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Italian."
+      "etymology": "From Italian.",
+      "core": true
     },
     {
       "ka": "ინტერპრეტატორი",
@@ -1069,7 +1136,8 @@
       "audioLocal": "audio/question-words/067.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კაკალი",
@@ -1090,7 +1158,8 @@
           "en": "eyeball"
         }
       ],
-      "etymology": "From Proto-Georgian-Zan *ḳaḳ-. Cognate with Mingrelian კაკალი (ḳaḳali), Laz კაკალი (ǩaǩali). Armenian կակալ (kakal), կակըլ (kakəl) are probably borrowed from Kartvelian."
+      "etymology": "From Proto-Georgian-Zan *ḳaḳ-. Cognate with Mingrelian კაკალი (ḳaḳali), Laz კაკალი (ǩaǩali). Armenian կակալ (kakal), կակըլ (kakəl) are probably borrowed from Kartvelian.",
+      "core": true
     },
     {
       "ka": "კაკნატელა",
@@ -1105,7 +1174,8 @@
       "audioLocal": "audio/question-words/069.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კონკურენტი",
@@ -1120,7 +1190,8 @@
       "audioLocal": "audio/question-words/070.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Latin concurrens."
+      "etymology": "From Latin concurrens.",
+      "core": true
     },
     {
       "ka": "კორესპონდენტი",
@@ -1135,7 +1206,8 @@
       "audioLocal": "audio/question-words/071.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კუდამოძუებული",
@@ -1156,7 +1228,8 @@
           "en": "The governor had been well aware of the major's easily provoked character and attacked him so aggressively that the major's frightened relative went out feeling frustrated."
         }
       ],
-      "etymology": "From კუდი (ḳudi, “tail”) + ამოძუებული (amoʒuebuli)."
+      "etymology": "From კუდი (ḳudi, “tail”) + ამოძუებული (amoʒuebuli).",
+      "core": true
     },
     {
       "ka": "ლელო",
@@ -1171,7 +1244,8 @@
       "audioLocal": "audio/question-words/073.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ლიბერალური დემოკრატია",
@@ -1186,7 +1260,8 @@
       "audioLocal": "audio/question-words/074.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ლოთი",
@@ -1201,7 +1276,8 @@
       "audioLocal": "audio/question-words/075.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Persian لوطی (luti)."
+      "etymology": "Borrowed from Persian لوطی (luti).",
+      "core": true
     },
     {
       "ka": "ლოთი-ფოთი",
@@ -1216,7 +1292,8 @@
       "audioLocal": "audio/question-words/076.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Persian لوطی پوطی (luti puti)."
+      "etymology": "Borrowed from Persian لوطی پوطی (luti puti).",
+      "core": true
     },
     {
       "ka": "მამა-პაპა",
@@ -1231,7 +1308,8 @@
       "audioLocal": "audio/question-words/077.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მამათმავლობა",
@@ -1246,7 +1324,8 @@
       "audioLocal": "audio/question-words/078.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From მამათმავალი (mamatmavali) + -ობა (-oba)."
+      "etymology": "From მამათმავალი (mamatmavali) + -ობა (-oba).",
+      "core": true
     },
     {
       "ka": "მარსი",
@@ -1261,7 +1340,8 @@
       "audioLocal": "audio/question-words/079.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Compare Russian марс (mars)"
+      "etymology": "Compare Russian марс (mars)",
+      "core": true
     },
     {
       "ka": "მარტვილი",
@@ -1276,7 +1356,8 @@
       "audioLocal": "audio/question-words/080.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian მარტჳლი (marṭwili)~მარტჳრი (marṭwiri), from Ancient Greek μάρτυρ (mártur)."
+      "etymology": "From Old Georgian მარტჳლი (marṭwili)~მარტჳრი (marṭwiri), from Ancient Greek μάρτυρ (mártur).",
+      "core": true
     },
     {
       "ka": "მატრაკვეცა",
@@ -1291,7 +1372,8 @@
       "audioLocal": "audio/question-words/081.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მატური",
@@ -1306,7 +1388,8 @@
       "audioLocal": "audio/question-words/082.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Armenian մատուռ (matuṙ), from Ancient Greek μαρτύριον (martúrion, “shrine of a martyr”). Direct borrowing from Ancient Greek would have yielded Georgian *მარტული (*marṭuli)."
+      "etymology": "Borrowed from Armenian մատուռ (matuṙ), from Ancient Greek μαρτύριον (martúrion, “shrine of a martyr”). Direct borrowing from Ancient Greek would have yielded Georgian *მარტული (*marṭuli).",
+      "core": true
     },
     {
       "ka": "მგუგლავი",
@@ -1321,7 +1404,8 @@
       "audioLocal": "audio/question-words/083.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მედიკამენტი",
@@ -1336,7 +1420,8 @@
       "audioLocal": "audio/question-words/084.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Latin medicamentum."
+      "etymology": "From Latin medicamentum.",
+      "core": true
     },
     {
       "ka": "მერამდენე",
@@ -1351,7 +1436,8 @@
       "audioLocal": "audio/question-words/085.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From რამდენი (ramdeni, “how much”) + მე- -ე (me- -e, ordinal circumfix)."
+      "etymology": "From რამდენი (ramdeni, “how much”) + მე- -ე (me- -e, ordinal circumfix).",
+      "core": true
     },
     {
       "ka": "მერამდენეჯერ",
@@ -1372,7 +1458,8 @@
           "en": "How many times do I have to remind you about this?"
         }
       ],
-      "etymology": "From მერამდენე (meramdene) + -ჯერ (-ǯer)."
+      "etymology": "From მერამდენე (meramdene) + -ჯერ (-ǯer).",
+      "core": true
     },
     {
       "ka": "მეტეორთა ნაკადი",
@@ -1387,7 +1474,8 @@
       "audioLocal": "audio/question-words/087.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "მეტეორთა (meṭeorta, “of meteors”) + ნაკადი (naḳadi, “stream, flow”)"
+      "etymology": "მეტეორთა (meṭeorta, “of meteors”) + ნაკადი (naḳadi, “stream, flow”)",
+      "core": true
     },
     {
       "ka": "მეტეორული ნაკადი",
@@ -1402,7 +1490,8 @@
       "audioLocal": "audio/question-words/088.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "მეტეორული (meṭeoruli, “meteoric”) + ნაკადი (naḳadi, “stream, flow”)"
+      "etymology": "მეტეორული (meṭeoruli, “meteoric”) + ნაკადი (naḳadi, “stream, flow”)",
+      "core": true
     },
     {
       "ka": "მეტიჩარა",
@@ -1417,7 +1506,8 @@
       "audioLocal": "audio/question-words/089.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Compare Mingrelian ტაბაჩა (ṭabača, “id.”), ტაბაჩუა (ṭabačua, “to speak rubbish”)."
+      "etymology": "Compare Mingrelian ტაბაჩა (ṭabača, “id.”), ტაბაჩუა (ṭabačua, “to speak rubbish”).",
+      "core": true
     },
     {
       "ka": "მეძავი",
@@ -1432,7 +1522,8 @@
       "audioLocal": "audio/question-words/090.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მთელი",
@@ -1447,7 +1538,8 @@
       "audioLocal": "audio/question-words/091.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian მრთელი (mrteli), მთელი (mteli), from Proto-Georgian-Zan *m-rt-el-. Cognate with Mingrelian თარი (tari)."
+      "etymology": "From Old Georgian მრთელი (mrteli), მთელი (mteli), from Proto-Georgian-Zan *m-rt-el-. Cognate with Mingrelian თარი (tari).",
+      "core": true
     },
     {
       "ka": "მთლიანი",
@@ -1462,7 +1554,8 @@
       "audioLocal": "audio/question-words/092.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Possibly from მთელი (mteli) + -იანი (-iani)."
+      "etymology": "Possibly from მთელი (mteli) + -იანი (-iani).",
+      "core": true
     },
     {
       "ka": "მიზეზი",
@@ -1477,7 +1570,8 @@
       "audioLocal": "audio/question-words/093.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian მიზეზი (mizezi). Compare also Mingrelian ბაძაძი (baʒaʒi)."
+      "etymology": "From Old Georgian მიზეზი (mizezi). Compare also Mingrelian ბაძაძი (baʒaʒi).",
+      "core": true
     },
     {
       "ka": "მიმღები",
@@ -1492,7 +1586,8 @@
       "audioLocal": "audio/question-words/094.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From the verbal noun მიღება (miɣeba)."
+      "etymology": "From the verbal noun მიღება (miɣeba).",
+      "core": true
     },
     {
       "ka": "მიჯნური",
@@ -1507,7 +1602,8 @@
       "audioLocal": "audio/question-words/095.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Arabic مَجْنُون (majnūn)."
+      "etymology": "From Arabic مَجْنُون (majnūn).",
+      "core": true
     },
     {
       "ka": "მკლავი",
@@ -1522,7 +1618,8 @@
       "audioLocal": "audio/question-words/096.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian მკლავი (mḳlavi)."
+      "etymology": "From Old Georgian მკლავი (mḳlavi).",
+      "core": true
     },
     {
       "ka": "მოკეთე",
@@ -1537,7 +1634,8 @@
       "audioLocal": "audio/question-words/097.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Derived from სიკეთე (siḳete) through internal formation, ultimately from Proto-Georgian-Zan *ḳet- (“to add, mix”). See also მკეთებელი (mḳetebeli, “doer”), which is derived from კეთება (ḳeteba), containing the same root."
+      "etymology": "Derived from სიკეთე (siḳete) through internal formation, ultimately from Proto-Georgian-Zan *ḳet- (“to add, mix”). See also მკეთებელი (mḳetebeli, “doer”), which is derived from კეთება (ḳeteba), containing the same root.",
+      "core": true
     },
     {
       "ka": "მომჟავო",
@@ -1552,7 +1650,8 @@
       "audioLocal": "audio/question-words/098.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From მჟავე (mžave, “sour, acidic”) + მო- -ო (mo- -o)."
+      "etymology": "From მჟავე (mžave, “sour, acidic”) + მო- -ო (mo- -o).",
+      "core": true
     },
     {
       "ka": "მომრგვალო",
@@ -1567,7 +1666,8 @@
       "audioLocal": "audio/question-words/099.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From მრგვალი (mrgvali) + მო- -ო (mo- -o)."
+      "etymology": "From მრგვალი (mrgvali) + მო- -ო (mo- -o).",
+      "core": true
     },
     {
       "ka": "მომწარო",
@@ -1582,7 +1682,8 @@
       "audioLocal": "audio/question-words/100.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From მწარე (mc̣are, “bitter”) + მო- -ო (mo- -o)."
+      "etymology": "From მწარე (mc̣are, “bitter”) + მო- -ო (mo- -o).",
+      "core": true
     },
     {
       "ka": "მოსიყვარულე",
@@ -1597,7 +1698,8 @@
       "audioLocal": "audio/question-words/101.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მოტკბო",
@@ -1612,7 +1714,8 @@
       "audioLocal": "audio/question-words/102.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ტკბილი (ṭḳbili, “sweet”) + მო- -ო (mo- -o). მოტკბილო (moṭḳbilo), which includes the whole, unmodified word, is common in colloquial speech but isn’t accepted in literary language."
+      "etymology": "From ტკბილი (ṭḳbili, “sweet”) + მო- -ო (mo- -o). მოტკბილო (moṭḳbilo), which includes the whole, unmodified word, is common in colloquial speech but isn’t accepted in literary language.",
+      "core": true
     },
     {
       "ka": "მოცისფრო",
@@ -1627,7 +1730,8 @@
       "audioLocal": "audio/question-words/103.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ცისფერი (cisperi) + მო- -ო (mo- -o)."
+      "etymology": "From ცისფერი (cisperi) + მო- -ო (mo- -o).",
+      "core": true
     },
     {
       "ka": "მოხარკე",
@@ -1642,7 +1746,8 @@
       "audioLocal": "audio/question-words/104.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მრუში",
@@ -1657,7 +1762,8 @@
       "audioLocal": "audio/question-words/105.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მტერი",
@@ -1672,7 +1778,8 @@
       "audioLocal": "audio/question-words/106.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მტკაველი",
@@ -1687,7 +1794,8 @@
       "audioLocal": "audio/question-words/107.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian მტკაველი (mṭḳaveli), from Proto-Georgian-Zan *mṭḳaw-. Cognate with Mingrelian ტკუ (ṭḳu), ტკო (ṭḳo) and Laz მტკო (mťǩo), მტუ (mťu)."
+      "etymology": "From Old Georgian მტკაველი (mṭḳaveli), from Proto-Georgian-Zan *mṭḳaw-. Cognate with Mingrelian ტკუ (ṭḳu), ტკო (ṭḳo) and Laz მტკო (mťǩo), მტუ (mťu).",
+      "core": true
     },
     {
       "ka": "მუხლი",
@@ -1702,7 +1810,8 @@
       "audioLocal": "audio/question-words/108.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian მუჴლი (muqli)."
+      "etymology": "From Old Georgian მუჴლი (muqli).",
+      "core": true
     },
     {
       "ka": "მყივანა",
@@ -1717,7 +1826,8 @@
       "audioLocal": "audio/question-words/109.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From მყივანი (mq̇ivani) + -ა (-a)"
+      "etymology": "From მყივანი (mq̇ivani) + -ა (-a)",
+      "core": true
     },
     {
       "ka": "მყივანი",
@@ -1738,7 +1848,8 @@
           "en": "Whooping voice"
         }
       ],
-      "etymology": "Present participle of the verb ყივის (q̇ivis)."
+      "etymology": "Present participle of the verb ყივის (q̇ivis).",
+      "core": true
     },
     {
       "ka": "მყივანი გედი",
@@ -1753,7 +1864,8 @@
       "audioLocal": "audio/question-words/111.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ნაბიჭვარი",
@@ -1768,7 +1880,8 @@
       "audioLocal": "audio/question-words/112.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ნაბოზარი",
@@ -1783,7 +1896,8 @@
       "audioLocal": "audio/question-words/113.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ბოზი (bozi, “whore, prostitute”) + ნა- -არი (na- -ari)."
+      "etymology": "From ბოზი (bozi, “whore, prostitute”) + ნა- -არი (na- -ari).",
+      "core": true
     },
     {
       "ka": "ნავსაბმელი",
@@ -1798,7 +1912,8 @@
       "audioLocal": "audio/question-words/114.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "ნავი (navi, “boat”) + საბმელი (sabmeli, “tether, fastening, means of attachment”)."
+      "etymology": "ნავი (navi, “boat”) + საბმელი (sabmeli, “tether, fastening, means of attachment”).",
+      "core": true
     },
     {
       "ka": "ნარჩენი",
@@ -1813,7 +1928,8 @@
       "audioLocal": "audio/question-words/115.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ნებისმიერი",
@@ -1828,7 +1944,8 @@
       "audioLocal": "audio/question-words/116.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ნომერი",
@@ -1843,7 +1960,8 @@
       "audioLocal": "audio/question-words/117.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Russian но́мер (nómer)."
+      "etymology": "Borrowed from Russian но́мер (nómer).",
+      "core": true
     },
     {
       "ka": "ონლაინ",
@@ -1858,7 +1976,8 @@
       "audioLocal": "audio/question-words/118.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from English online."
+      "etymology": "Borrowed from English online.",
+      "core": true
     },
     {
       "ka": "ოპერატორი",
@@ -1873,7 +1992,8 @@
       "audioLocal": "audio/question-words/119.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ოპოზიციონერი",
@@ -1888,7 +2008,8 @@
       "audioLocal": "audio/question-words/120.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Possibly from Russian оппозиционе́р (oppozicionér)."
+      "etymology": "Possibly from Russian оппозиционе́р (oppozicionér).",
+      "core": true
     },
     {
       "ka": "ორე",
@@ -1903,7 +2024,8 @@
       "audioLocal": "audio/question-words/121.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Armenian հոր (hor)."
+      "etymology": "From Old Armenian հոր (hor).",
+      "core": true
     },
     {
       "ka": "ოჯახიშვილი",
@@ -1918,7 +2040,8 @@
       "audioLocal": "audio/question-words/122.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ოჯახის (oǯaxis, “of family”) + შვილი (švili, “child”)."
+      "etymology": "From ოჯახის (oǯaxis, “of family”) + შვილი (švili, “child”).",
+      "core": true
     },
     {
       "ka": "პირი",
@@ -1933,7 +2056,8 @@
       "audioLocal": "audio/question-words/123.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian პირი (ṗiri), from Proto-Kartvelian *ṗir-."
+      "etymology": "From Old Georgian პირი (ṗiri), from Proto-Kartvelian *ṗir-.",
+      "core": true
     },
     {
       "ka": "პრეცედენტი",
@@ -1948,7 +2072,8 @@
       "audioLocal": "audio/question-words/124.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Ultimately from Latin praecēdēns."
+      "etymology": "Ultimately from Latin praecēdēns.",
+      "core": true
     },
     {
       "ka": "რად",
@@ -1963,7 +2088,8 @@
       "audioLocal": "audio/question-words/125.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რაზეც",
@@ -1978,7 +2104,8 @@
       "audioLocal": "audio/question-words/126.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რამდენადმე",
@@ -1993,7 +2120,8 @@
       "audioLocal": "audio/question-words/127.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რამდენჯერ",
@@ -2008,7 +2136,8 @@
       "audioLocal": "audio/question-words/128.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From რამდენი (ramdeni) + -ჯერ (-ǯer)."
+      "etymology": "From რამდენი (ramdeni) + -ჯერ (-ǯer).",
+      "core": true
     },
     {
       "ka": "რატომ",
@@ -2023,7 +2152,8 @@
       "audioLocal": "audio/question-words/129.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რაფერ",
@@ -2038,7 +2168,8 @@
       "audioLocal": "audio/question-words/130.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From რა (ra, “what”) + -ფერ(ი) (-per(i))."
+      "etymology": "From რა (ra, “what”) + -ფერ(ი) (-per(i)).",
+      "core": true
     },
     {
       "ka": "რაში",
@@ -2059,7 +2190,8 @@
           "en": "What did you put the soap in?"
         }
       ],
-      "etymology": "Formed by suffixing the adverb რა (ra) with the postposition -ში (-ši)."
+      "etymology": "Formed by suffixing the adverb რა (ra) with the postposition -ში (-ši).",
+      "core": true
     },
     {
       "ka": "რეალითი შოუ",
@@ -2074,7 +2206,8 @@
       "audioLocal": "audio/question-words/132.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from English reality show."
+      "etymology": "Borrowed from English reality show.",
+      "core": true
     },
     {
       "ka": "რითაც",
@@ -2089,7 +2222,8 @@
       "audioLocal": "audio/question-words/133.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რისთვის",
@@ -2104,7 +2238,8 @@
       "audioLocal": "audio/question-words/134.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როგორ",
@@ -2119,7 +2254,8 @@
       "audioLocal": "audio/question-words/135.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როგორმე",
@@ -2134,7 +2270,8 @@
       "audioLocal": "audio/question-words/136.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როგორღაც",
@@ -2149,7 +2286,8 @@
       "audioLocal": "audio/question-words/137.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როდის",
@@ -2164,7 +2302,8 @@
       "audioLocal": "audio/question-words/138.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რომლისგანაც",
@@ -2179,7 +2318,8 @@
       "audioLocal": "audio/question-words/139.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როცა",
@@ -2194,7 +2334,8 @@
       "audioLocal": "audio/question-words/140.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "სა",
@@ -2209,7 +2350,8 @@
       "audioLocal": "audio/question-words/141.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "საბაზიერო",
@@ -2224,7 +2366,8 @@
       "audioLocal": "audio/question-words/142.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ბაზიერი (bazieri) + სა- -ო (sa- -o)"
+      "etymology": "From ბაზიერი (bazieri) + სა- -ო (sa- -o)",
+      "core": true
     },
     {
       "ka": "საბითუმო",
@@ -2239,7 +2382,8 @@
       "audioLocal": "audio/question-words/143.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ბითუმი (bitumi) + სა- -ო (sa- -o)."
+      "etymology": "From ბითუმი (bitumi) + სა- -ო (sa- -o).",
+      "core": true
     },
     {
       "ka": "სად",
@@ -2254,7 +2398,8 @@
       "audioLocal": "audio/question-words/144.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "სადაც",
@@ -2269,7 +2414,8 @@
       "audioLocal": "audio/question-words/145.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From სად (sad) + -აც (-ac)."
+      "etymology": "From სად (sad) + -აც (-ac).",
+      "core": true
     },
     {
       "ka": "სადმე",
@@ -2284,7 +2430,8 @@
       "audioLocal": "audio/question-words/146.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From სად (sad) + -მე (-me)."
+      "etymology": "From სად (sad) + -მე (-me).",
+      "core": true
     },
     {
       "ka": "სადღაც",
@@ -2299,7 +2446,8 @@
       "audioLocal": "audio/question-words/147.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "სავსე მთვარე",
@@ -2314,7 +2462,8 @@
       "audioLocal": "audio/question-words/148.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "საზოგადოება",
@@ -2329,7 +2478,8 @@
       "audioLocal": "audio/question-words/149.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     }
   ]
 }

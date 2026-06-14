@@ -19,7 +19,8 @@
       "audioLocal": "audio/proverbs/000.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Calque of Russian лу́чше оди́н раз уви́деть, чем сто раз услы́шать (lúčše odín raz uvídetʹ, čem sto raz uslýšatʹ), in turn a calque of Chinese 百聞不如一見 /百闻不如一见 (bǎi wén bùrú yī jiàn, “it's better to see once than hear a hundred times”)."
+      "etymology": "Calque of Russian лу́чше оди́н раз уви́деть, чем сто раз услы́шать (lúčše odín raz uvídetʹ, čem sto raz uslýšatʹ), in turn a calque of Chinese 百聞不如一見 /百闻不如一见 (bǎi wén bùrú yī jiàn, “it's better to see once than hear a hundred times”).",
+      "core": true
     },
     {
       "ka": "გემოვნებაზე არ დაობენ",
@@ -34,7 +35,8 @@
       "audioLocal": "audio/proverbs/001.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დრო ყველაფრის მკურნალია",
@@ -49,7 +51,8 @@
       "audioLocal": "audio/proverbs/002.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally: \"time is a healer of everything\""
+      "etymology": "Literally: \"time is a healer of everything\"",
+      "core": true
     },
     {
       "ka": "ვისაც ვინ უყვარს, მისი ლამაზიც ის არის",
@@ -64,7 +67,8 @@
       "audioLocal": "audio/proverbs/003.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "თხელ ყინულზე",
@@ -79,7 +83,8 @@
       "audioLocal": "audio/proverbs/004.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Calque of English on thin ice."
+      "etymology": "Calque of English on thin ice.",
+      "core": true
     },
     {
       "ka": "მიზანი ამართლებს საშუალებას",
@@ -94,7 +99,8 @@
       "audioLocal": "audio/proverbs/005.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რასაცა გასცემ შენია, რას არა დაკარგულია",
@@ -109,7 +115,8 @@
       "audioLocal": "audio/proverbs/006.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Coined by Shota Rustaveli in his only poem The Knight in the Panther's Skin (verse 50). Literally translates as \"That which you give away is yours, that which you don't is lost\"."
+      "etymology": "Coined by Shota Rustaveli in his only poem The Knight in the Panther's Skin (verse 50). Literally translates as \"That which you give away is yours, that which you don't is lost\".",
+      "core": true
     },
     {
       "ka": "ყვავმა ყვავს უთხრა შე შავოო",
@@ -124,7 +131,8 @@
       "audioLocal": "audio/proverbs/007.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ჩემი მტრის მტერი ჩემი მეგობარია",
@@ -139,7 +147,8 @@
       "audioLocal": "audio/proverbs/008.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ძაღლი ახსენე და ჯოხი ხელში დაიჭირეო",
@@ -154,7 +163,8 @@
       "audioLocal": "audio/proverbs/009.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ძაღლი ყეფს ქარავანი მიდის",
@@ -169,7 +179,8 @@
       "audioLocal": "audio/proverbs/010.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     }
   ]
 }

@@ -16,7 +16,8 @@
       <h1 id="title-ka">…</h1>
       <p id="title-en"></p>
     </div>
-    <div style="display:flex;gap:10px;align-items:center">
+    <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+      <button class="quiz-open-btn" id="quiz-open">quiz 10</button>
       <a href="../review.html" class="back-link" id="review-link">review</a>
       <input class="search" id="search" type="search" placeholder="filter words" />
     </div>
@@ -28,7 +29,34 @@
     <div class="empty" id="empty" style="display:none">no matches</div>
   </main>
 
+  <div class="quiz-overlay" id="quiz-overlay">
+    <div class="quiz-panel">
+      <div class="quiz-head">
+        <h2>quick quiz</h2>
+        <button class="quiz-close" id="quiz-close" aria-label="close">×</button>
+      </div>
+      <div id="quiz-body">
+        <div class="quiz-modes">
+          <button class="quiz-mode-btn active" id="quiz-mode-ka">georgian → english</button>
+          <button class="quiz-mode-btn" id="quiz-mode-en">english → georgian</button>
+        </div>
+        <div class="quiz-progress" id="quiz-progress"></div>
+        <div class="quiz-prompt ka" id="quiz-prompt"></div>
+        <div class="quiz-sub" id="quiz-sub"></div>
+        <button class="play-btn review-play" id="quiz-play" title="listen">▶</button>
+        <input class="quiz-input" id="quiz-input" type="text" autocomplete="off" />
+        <div class="quiz-feedback" id="quiz-feedback"></div>
+        <div class="quiz-actions">
+          <button class="action-btn accent" id="quiz-check">check</button>
+          <button class="action-btn" id="quiz-next" style="display:none">next</button>
+        </div>
+      </div>
+      <div id="quiz-result" style="display:none"></div>
+    </div>
+  </div>
+
   <script src="../learning.js"></script>
+  <script src="../quiz.js"></script>
   <script src="face.js"></script>
   <script>
     const data = window.THEME_DATA;
@@ -145,6 +173,7 @@
     }
 
     render(data.words);
+    ThemeQuiz.init({ themeId: data.id, words: data.words, audioBase });
 
     const hash = decodeURIComponent(location.hash.slice(1));
     if (hash) {

@@ -18,7 +18,8 @@
       "audioLocal": "audio/time-expressions/000.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ხვალ",
@@ -33,7 +34,8 @@
       "audioLocal": "audio/time-expressions/001.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Akin to Old Georgian ხვალე (xvale, “tomorrow”), whence ხვალე (xvale). Related to Old Armenian վաղ (vał, “early; tomorrow”) and together with it borrowed from an unknown third source."
+      "etymology": "Akin to Old Georgian ხვალე (xvale, “tomorrow”), whence ხვალე (xvale). Related to Old Armenian վաղ (vał, “early; tomorrow”) and together with it borrowed from an unknown third source.",
+      "core": true
     },
     {
       "ka": "დღეს",
@@ -48,7 +50,8 @@
       "audioLocal": "audio/time-expressions/002.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "არდი",
@@ -63,7 +66,8 @@
       "audioLocal": "audio/time-expressions/003.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Armenian արդի (ardi)."
+      "etymology": "From Old Armenian արդի (ardi).",
+      "core": true
     },
     {
       "ka": "ახლა",
@@ -78,7 +82,8 @@
       "audioLocal": "audio/time-expressions/004.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მიწყივ",
@@ -93,7 +98,8 @@
       "audioLocal": "audio/time-expressions/005.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მუდამ",
@@ -108,7 +114,8 @@
       "audioLocal": "audio/time-expressions/006.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Arabic مُدَام (mudām, “continual, long-lasting”)."
+      "etymology": "Borrowed from Arabic مُدَام (mudām, “continual, long-lasting”).",
+      "core": true
     },
     {
       "ka": "ყოველთვის",
@@ -129,7 +136,8 @@
           "en": "It was always like this."
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "არასდროს",
@@ -144,7 +152,8 @@
       "audioLocal": "audio/time-expressions/008.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ვერასდროს",
@@ -159,7 +168,8 @@
       "audioLocal": "audio/time-expressions/009.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ხშირ-ხშირად",
@@ -174,7 +184,8 @@
       "audioLocal": "audio/time-expressions/010.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Adverbial of ხშირ-ხშირი (xšir-xširi), a reduplication of ხშირი (xširi)"
+      "etymology": "Adverbial of ხშირ-ხშირი (xšir-xširi), a reduplication of ხშირი (xširi)",
+      "core": true
     },
     {
       "ka": "ზოგჯერ",
@@ -189,7 +200,8 @@
       "audioLocal": "audio/time-expressions/011.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ხანდახან",
@@ -204,7 +216,8 @@
       "audioLocal": "audio/time-expressions/012.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ხანი (xani) + და (da) + ხანი (xani)."
+      "etymology": "From ხანი (xani) + და (da) + ხანი (xani).",
+      "core": true
     },
     {
       "ka": "მალე",
@@ -219,7 +232,8 @@
       "audioLocal": "audio/time-expressions/013.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Possibly related to მალი (mali, “fast, speedy”)."
+      "etymology": "Possibly related to მალი (mali, “fast, speedy”).",
+      "core": true
     },
     {
       "ka": "მერე",
@@ -240,7 +254,8 @@
           "en": "Let's do it later I am busy right now"
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მოგვიანებით",
@@ -255,7 +270,8 @@
       "audioLocal": "audio/time-expressions/015.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ადრე",
@@ -270,7 +286,8 @@
       "audioLocal": "audio/time-expressions/016.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian ადრე (adre), from Proto-Georgian-Zan *adr-. Cognate with Mingrelian ორდო (ordo, “morning”), Laz ოდრო (odro), ორდო (ordo, “quick, fast; incessantly”)."
+      "etymology": "From Old Georgian ადრე (adre), from Proto-Georgian-Zan *adr-. Cognate with Mingrelian ორდო (ordo, “morning”), Laz ოდრო (odro), ორდო (ordo, “quick, fast; incessantly”).",
+      "core": true
     },
     {
       "ka": "გვიან",
@@ -291,7 +308,8 @@
           "en": "better late than never"
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "უკვე",
@@ -306,7 +324,8 @@
       "audioLocal": "audio/time-expressions/018.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ჯერ",
@@ -321,7 +340,8 @@
       "audioLocal": "audio/time-expressions/019.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დღიურად",
@@ -336,7 +356,8 @@
       "audioLocal": "audio/time-expressions/020.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From დღიური (dɣiuri) + -ად (-ad)."
+      "etymology": "From დღიური (dɣiuri) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "ყოვედღიურად",
@@ -351,7 +372,8 @@
       "audioLocal": "audio/time-expressions/021.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ყოველდღიური (q̇oveldɣiuri) + -ად (-ad)."
+      "etymology": "From ყოველდღიური (q̇oveldɣiuri) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "ყოველდღიურად",
@@ -366,7 +388,8 @@
       "audioLocal": "audio/time-expressions/022.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კვირეულად",
@@ -381,7 +404,8 @@
       "audioLocal": "audio/time-expressions/023.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From კვირეული (ḳvireuli) + -ად (-ad)."
+      "etymology": "From კვირეული (ḳvireuli) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "ყოველკვირეულად",
@@ -396,7 +420,8 @@
       "audioLocal": "audio/time-expressions/024.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ყოველკვირეული (q̇ovelḳvireuli) + -ად (-ad)."
+      "etymology": "From ყოველკვირეული (q̇ovelḳvireuli) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "თვიურად",
@@ -411,7 +436,8 @@
       "audioLocal": "audio/time-expressions/025.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From თვიური (tviuri) + -ად (-ad)."
+      "etymology": "From თვიური (tviuri) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "ყოველთვიურად",
@@ -426,7 +452,8 @@
       "audioLocal": "audio/time-expressions/026.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ყოველთვიური (q̇oveltviuri) + -ად (-ad)."
+      "etymology": "From ყოველთვიური (q̇oveltviuri) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "დილა",
@@ -441,7 +468,8 @@
       "audioLocal": "audio/time-expressions/027.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian დილაჲ (dilay)."
+      "etymology": "From Old Georgian დილაჲ (dilay).",
+      "core": true
     },
     {
       "ka": "საღამო",
@@ -456,7 +484,8 @@
       "audioLocal": "audio/time-expressions/028.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ღამე",
@@ -471,7 +500,8 @@
       "audioLocal": "audio/time-expressions/029.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian ღამე (ɣame), ღამჱ (ɣamē), from Proto-Kartvelian *ɣam-."
+      "etymology": "From Old Georgian ღამე (ɣame), ღამჱ (ɣamē), from Proto-Kartvelian *ɣam-.",
+      "core": true
     },
     {
       "ka": "შუაღამე",
@@ -486,7 +516,8 @@
       "audioLocal": "audio/time-expressions/030.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From შუა (šua) + ღამე (ɣame)."
+      "etymology": "From შუა (šua) + ღამე (ɣame).",
+      "core": true
     },
     {
       "ka": "დღე",
@@ -501,7 +532,8 @@
       "audioLocal": "audio/time-expressions/031.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian დღჱ (dɣē), from Proto-Kartvelian *deɣ-."
+      "etymology": "From Old Georgian დღჱ (dɣē), from Proto-Kartvelian *deɣ-.",
+      "core": true
     },
     {
       "ka": "კვირა",
@@ -516,7 +548,8 @@
       "audioLocal": "audio/time-expressions/032.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian კჳრაჲ (ḳwiray), კჳრიაკჱ (ḳwiriaḳē), from Koine Greek Κυριακή (Kuriakḗ, “Sunday”). For the loss of -კ- (-ḳ-) see -აკი (-aḳi)."
+      "etymology": "From Old Georgian კჳრაჲ (ḳwiray), კჳრიაკჱ (ḳwiriaḳē), from Koine Greek Κυριακή (Kuriakḗ, “Sunday”). For the loss of -კ- (-ḳ-) see -აკი (-aḳi).",
+      "core": true
     },
     {
       "ka": "თვე",
@@ -531,7 +564,8 @@
       "audioLocal": "audio/time-expressions/033.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian თთუჱ (ttuē), from Proto-Kartvelian *tute- (“moon”)."
+      "etymology": "From Old Georgian თთუჱ (ttuē), from Proto-Kartvelian *tute- (“moon”).",
+      "core": true
     },
     {
       "ka": "წ.",
@@ -546,7 +580,8 @@
       "audioLocal": "audio/time-expressions/034.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Abbreviation of წელი (c̣eli, “year”)."
+      "etymology": "Abbreviation of წელი (c̣eli, “year”).",
+      "core": true
     },
     {
       "ka": "წელი",
@@ -561,7 +596,8 @@
       "audioLocal": "audio/time-expressions/035.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian წელი (c̣eli, “year”)."
+      "etymology": "From Old Georgian წელი (c̣eli, “year”).",
+      "core": true
     },
     {
       "ka": "საათი",
@@ -576,7 +612,8 @@
       "audioLocal": "audio/time-expressions/036.mp3",
       "audioSource": "wiktionary",
       "examples": [],
-      "etymology": "From Middle Georgian საათი (saati, “clock”), ultimately from Arabic سَاعَة (sāʕa). For the sense development of 'hour' → 'clock, watch' compare Turkish saat. Replaced the earlier ჟამი (žami, “time, hour”)."
+      "etymology": "From Middle Georgian საათი (saati, “clock”), ultimately from Arabic سَاعَة (sāʕa). For the sense development of 'hour' → 'clock, watch' compare Turkish saat. Replaced the earlier ჟამი (žami, “time, hour”).",
+      "core": true
     },
     {
       "ka": "ძველად",
@@ -591,7 +628,8 @@
       "audioLocal": "audio/time-expressions/037.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "აწ",
@@ -606,7 +644,8 @@
       "audioLocal": "audio/time-expressions/038.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Likely a learned borrowing from Old Georgian აწ (ac̣); see there for more. Doublet of აწი (ac̣i), აწე (ac̣e)."
+      "etymology": "Likely a learned borrowing from Old Georgian აწ (ac̣); see there for more. Doublet of აწი (ac̣i), აწე (ac̣e).",
+      "core": true
     },
     {
       "ka": "სულ",
@@ -621,7 +660,8 @@
       "audioLocal": "audio/time-expressions/039.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "არასოდეს",
@@ -636,7 +676,8 @@
       "audioLocal": "audio/time-expressions/040.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ხშირად",
@@ -651,7 +692,8 @@
       "audioLocal": "audio/time-expressions/041.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian ჴშირად (qširad), equivalent to ხშირი (xširi) + -ად (-ad)."
+      "etymology": "From Old Georgian ჴშირად (qširad), equivalent to ხშირი (xširi) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "სისხამ დილით",
@@ -666,7 +708,8 @@
       "audioLocal": "audio/time-expressions/042.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ადრეულად",
@@ -681,7 +724,8 @@
       "audioLocal": "audio/time-expressions/043.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ადრე (adre, “early, before”) + -ული (-uli, adjectival suffix) + -ად (-ad, adverbial suffix)."
+      "etymology": "From ადრე (adre, “early, before”) + -ული (-uli, adjectival suffix) + -ად (-ad, adverbial suffix).",
+      "core": true
     },
     {
       "ka": "დროდადრო",
@@ -696,7 +740,8 @@
       "audioLocal": "audio/time-expressions/044.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From დრო (dro) + -და- (-da-) + დრო (dro)."
+      "etymology": "From დრო (dro) + -და- (-da-) + დრო (dro).",
+      "core": true
     },
     {
       "ka": "ხშირ შემთხვევაში",
@@ -711,7 +756,8 @@
       "audioLocal": "audio/time-expressions/045.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მანამდე",
@@ -732,7 +778,8 @@
           "en": "He told me before that."
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "უწინ",
@@ -747,7 +794,8 @@
       "audioLocal": "audio/time-expressions/047.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კვლავ",
@@ -762,7 +810,8 @@
       "audioLocal": "audio/time-expressions/048.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მანამდე და შემდეგ",
@@ -777,7 +826,8 @@
       "audioLocal": "audio/time-expressions/049.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Calque of English before and after."
+      "etymology": "Calque of English before and after.",
+      "core": true
     },
     {
       "ka": "მაინც",
@@ -798,7 +848,8 @@
           "en": "I will come anyway."
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ისევ",
@@ -819,7 +870,8 @@
           "en": "Comunists are still surviving."
         }
       ],
-      "etymology": "Clipping of ისევე (iseve)?"
+      "etymology": "Clipping of ისევე (iseve)?",
+      "core": true
     },
     {
       "ka": "ნატურმორტი",
@@ -834,7 +886,8 @@
       "audioLocal": "audio/time-expressions/052.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Russian натюрморт (natjurmort), from French nature morte.\nThe alternative form with /i/ represents the expected result of a direct adaptation. The main form without /i/ fits the pattern of ნატურალური (naṭuraluri), etc."
+      "etymology": "Borrowed from Russian натюрморт (natjurmort), from French nature morte.\nThe alternative form with /i/ represents the expected result of a direct adaptation. The main form without /i/ fits the pattern of ნატურალური (naṭuraluri), etc.",
+      "core": true
     },
     {
       "ka": "ერთხელ",
@@ -849,7 +902,8 @@
       "audioLocal": "audio/time-expressions/053.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ერთჯერ",
@@ -864,7 +918,8 @@
       "audioLocal": "audio/time-expressions/054.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ერთი (erti) + -ჯერ (-ǯer)."
+      "etymology": "From ერთი (erti) + -ჯერ (-ǯer).",
+      "core": true
     },
     {
       "ka": "ხან",
@@ -879,7 +934,8 @@
       "audioLocal": "audio/time-expressions/055.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ორჯერ",
@@ -894,7 +950,8 @@
       "audioLocal": "audio/time-expressions/056.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ორი (ori) + -ჯერ (-ǯer)."
+      "etymology": "From ორი (ori) + -ჯერ (-ǯer).",
+      "core": true
     },
     {
       "ka": "კიდევ ერთხელ",
@@ -915,7 +972,8 @@
           "en": "Please help me out once again."
         }
       ],
-      "etymology": "კიდევ (ḳidev, “yet, still, more”) + ერთხელ (ertxel, “once”)."
+      "etymology": "კიდევ (ḳidev, “yet, still, more”) + ერთხელ (ertxel, “once”).",
+      "core": true
     },
     {
       "ka": "ყოველდღე",
@@ -930,7 +988,8 @@
       "audioLocal": "audio/time-expressions/058.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ყოველწლიურად",
@@ -945,7 +1004,8 @@
       "audioLocal": "audio/time-expressions/059.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ყოველწლიური (q̇ovelc̣liuri) + -ად (-ad)."
+      "etymology": "From ყოველწლიური (q̇ovelc̣liuri) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "წლიურად",
@@ -960,7 +1020,8 @@
       "audioLocal": "audio/time-expressions/060.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From წლიური (c̣liuri) + -ად (-ad)."
+      "etymology": "From წლიური (c̣liuri) + -ად (-ad).",
+      "core": true
     },
     {
       "ka": "საღამოს გამოშვება",
@@ -975,7 +1036,8 @@
       "audioLocal": "audio/time-expressions/061.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "შუადღე",
@@ -990,7 +1052,8 @@
       "audioLocal": "audio/time-expressions/062.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From შუა (šua) + დღე (dɣe)."
+      "etymology": "From შუა (šua) + დღე (dɣe).",
+      "core": true
     },
     {
       "ka": "შაბაში",
@@ -1005,7 +1068,8 @@
       "audioLocal": "audio/time-expressions/063.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Hebrew שבת (shabát, “Sabbath - weekly day of rest”)."
+      "etymology": "From Hebrew שבת (shabát, “Sabbath - weekly day of rest”).",
+      "core": true
     },
     {
       "ka": "შუაღამის მზე",
@@ -1020,7 +1084,8 @@
       "audioLocal": "audio/time-expressions/064.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რიცხვი",
@@ -1041,7 +1106,8 @@
           "en": "What is the date today?"
         }
       ],
-      "etymology": "From Proto-Georgian-Zan *racx- (\"to count, compute, calculate; to expect\")."
+      "etymology": "From Proto-Georgian-Zan *racx- (\"to count, compute, calculate; to expect\").",
+      "core": true
     },
     {
       "ka": "გუშინწინ",
@@ -1056,7 +1122,8 @@
       "audioLocal": "audio/time-expressions/066.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დილის ერექცია",
@@ -1071,7 +1138,8 @@
       "audioLocal": "audio/time-expressions/067.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ღამის მერი",
@@ -1086,7 +1154,8 @@
       "audioLocal": "audio/time-expressions/068.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მეორე ენა",
@@ -1101,7 +1170,8 @@
       "audioLocal": "audio/time-expressions/069.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მეორე პირი",
@@ -1116,7 +1186,8 @@
       "audioLocal": "audio/time-expressions/070.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მეორე სამყარო",
@@ -1131,7 +1202,8 @@
       "audioLocal": "audio/time-expressions/071.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მეორედი",
@@ -1146,7 +1218,8 @@
       "audioLocal": "audio/time-expressions/072.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ჟამი",
@@ -1161,7 +1234,8 @@
       "audioLocal": "audio/time-expressions/073.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Middle Georgian ჟამი (žami, “hour”), from Old Georgian ჟამი (žami, “time”), from Old Armenian ժամ (žam)."
+      "etymology": "From Middle Georgian ჟამი (žami, “hour”), from Old Georgian ჟამი (žami, “time”), from Old Armenian ժամ (žam).",
+      "core": true
     },
     {
       "ka": "წამი",
@@ -1176,7 +1250,8 @@
       "audioLocal": "audio/time-expressions/074.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Middle Georgian წამი (c̣ami), from Old Georgian წამი (c̣ami, “minute; moment”); see there for more. For the meaning shift, compare Old Armenian վայրկեան (vayrkean, “minute”) and Eastern Armenian վայրկյան (vayrkyan).\nThe original meaning is partially retained in the Mingrelian cognate წუმი (c̣umi)."
+      "etymology": "From Middle Georgian წამი (c̣ami), from Old Georgian წამი (c̣ami, “minute; moment”); see there for more. For the meaning shift, compare Old Armenian վայրկեան (vayrkean, “minute”) and Eastern Armenian վայրկյան (vayrkyan).\nThe original meaning is partially retained in the Mingrelian cognate წუმი (c̣umi).",
+      "core": true
     },
     {
       "ka": "წუთი",
@@ -1191,7 +1266,8 @@
       "audioLocal": "audio/time-expressions/075.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Middle Georgian წუთი (c̣uti), from Old Georgian წუთი (c̣uti). For the meaning shift, compare Old Armenian րոպէ (ropē, “second; moment”) and Eastern Armenian րոպե (rope, “minute”).\nThe primary meaning is partially retained in the derived term წუთიერი (c̣utieri, “momentary”)."
+      "etymology": "From Middle Georgian წუთი (c̣uti), from Old Georgian წუთი (c̣uti). For the meaning shift, compare Old Armenian րոպէ (ropē, “second; moment”) and Eastern Armenian րոպե (rope, “minute”).\nThe primary meaning is partially retained in the derived term წუთიერი (c̣utieri, “momentary”).",
+      "core": true
     },
     {
       "ka": "მეორედ მოსვლა",
@@ -1206,7 +1282,8 @@
       "audioLocal": "audio/time-expressions/076.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დაუყოვნებლივ",
@@ -1221,7 +1298,8 @@
       "audioLocal": "audio/time-expressions/077.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Related to დაუყოვნებელი (dauq̇ovnebeli)."
+      "etymology": "Related to დაუყოვნებელი (dauq̇ovnebeli).",
+      "core": true
     },
     {
       "ka": "ამჟამად",
@@ -1236,7 +1314,8 @@
       "audioLocal": "audio/time-expressions/078.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ამ (am, “this”) + ჟამი (žami, “time”) + -ად (-ad, adverbial suffix)."
+      "etymology": "From ამ (am, “this”) + ჟამი (žami, “time”) + -ად (-ad, adverbial suffix).",
+      "core": true
     },
     {
       "ka": "ხშირად დასმული კითხვები",
@@ -1251,7 +1330,8 @@
       "audioLocal": "audio/time-expressions/079.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ხშირად დასმული შეკითხვები",
@@ -1266,7 +1346,8 @@
       "audioLocal": "audio/time-expressions/080.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "აგონია",
@@ -1281,7 +1362,8 @@
       "audioLocal": "audio/time-expressions/081.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Russian агония (agonija)."
+      "etymology": "Borrowed from Russian агония (agonija).",
+      "core": true
     },
     {
       "ka": "ათკუთხედი",
@@ -1296,7 +1378,8 @@
       "audioLocal": "audio/time-expressions/082.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ათწლეული",
@@ -1311,7 +1394,8 @@
       "audioLocal": "audio/time-expressions/083.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ათი (ati, “ten”) + წელი (c̣eli, “year”) + -ეული (-euli)."
+      "etymology": "From ათი (ati, “ten”) + წელი (c̣eli, “year”) + -ეული (-euli).",
+      "core": true
     },
     {
       "ka": "არსად",
@@ -1326,7 +1410,8 @@
       "audioLocal": "audio/time-expressions/084.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ასწლეული",
@@ -1341,7 +1426,8 @@
       "audioLocal": "audio/time-expressions/085.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ასი (asi, “hundred”) + წელი (c̣eli, “year”) + -ეული (-euli)."
+      "etymology": "From ასი (asi, “hundred”) + წელი (c̣eli, “year”) + -ეული (-euli).",
+      "core": true
     },
     {
       "ka": "დრაგუნი",
@@ -1356,7 +1442,8 @@
       "audioLocal": "audio/time-expressions/086.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დრაკონი",
@@ -1371,7 +1458,8 @@
       "audioLocal": "audio/time-expressions/087.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ერთხელაც",
@@ -1386,7 +1474,8 @@
       "audioLocal": "audio/time-expressions/088.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ექვსკუთხედი",
@@ -1401,7 +1490,8 @@
       "audioLocal": "audio/time-expressions/089.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ვაგონი",
@@ -1416,7 +1506,8 @@
       "audioLocal": "audio/time-expressions/090.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from English."
+      "etymology": "Borrowed from English.",
+      "core": true
     },
     {
       "ka": "ზეგანი",
@@ -1431,7 +1522,8 @@
       "audioLocal": "audio/time-expressions/091.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "თეფში",
@@ -1446,7 +1538,8 @@
       "audioLocal": "audio/time-expressions/092.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Borrowed from Ottoman Turkish تپسی (tepsi, “tray”), ultimately from Middle Chinese 疊子 (MC dep tsiX, “plate”)."
+      "etymology": "Borrowed from Ottoman Turkish تپسی (tepsi, “tray”), ultimately from Middle Chinese 疊子 (MC dep tsiX, “plate”).",
+      "core": true
     },
     {
       "ka": "თოვლი",
@@ -1461,7 +1554,8 @@
       "audioLocal": "audio/time-expressions/093.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian თოვლი (tovli), from Proto-Kartvelian *tow-."
+      "etymology": "From Old Georgian თოვლი (tovli), from Proto-Kartvelian *tow-.",
+      "core": true
     },
     {
       "ka": "კვირადღე",
@@ -1476,7 +1570,8 @@
       "audioLocal": "audio/time-expressions/094.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From კვირა (ḳvira, “Sunday”) + დღე (dɣe, “day”)."
+      "etymology": "From კვირა (ḳvira, “Sunday”) + დღე (dɣe, “day”).",
+      "core": true
     },
     {
       "ka": "ლაგუნა",
@@ -1491,7 +1586,8 @@
       "audioLocal": "audio/time-expressions/095.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Italian."
+      "etymology": "From Italian.",
+      "core": true
     },
     {
       "ka": "ლატექსი",
@@ -1506,7 +1602,8 @@
       "audioLocal": "audio/time-expressions/096.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მუსონი",
@@ -1521,7 +1618,8 @@
       "audioLocal": "audio/time-expressions/097.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Arabic مَوْسِم (mawsim, “season”)."
+      "etymology": "From Arabic مَوْسِم (mawsim, “season”).",
+      "core": true
     },
     {
       "ka": "მხედარი",
@@ -1536,7 +1634,8 @@
       "audioLocal": "audio/time-expressions/098.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From Old Georgian მჴედარი (mqedari); most probably an archaic participle, which underwent substantivization."
+      "etymology": "From Old Georgian მჴედარი (mqedari); most probably an archaic participle, which underwent substantivization.",
+      "core": true
     },
     {
       "ka": "ორშაბათი",
@@ -1551,7 +1650,8 @@
       "audioLocal": "audio/time-expressions/099.mp3",
       "audioSource": "wiktionary",
       "examples": [],
-      "etymology": "From ორი (ori, “two”) + შაბათი (šabati, “Saturday”)."
+      "etymology": "From ორი (ori, “two”) + შაბათი (šabati, “Saturday”).",
+      "core": true
     }
   ]
 }

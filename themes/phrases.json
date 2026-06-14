@@ -18,7 +18,8 @@
       "audioLocal": "audio/phrases/000.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, \"early or late\"."
+      "etymology": "Literally, \"early or late\".",
+      "core": true
     },
     {
       "ka": "ამ შემთხვევაში",
@@ -33,7 +34,8 @@
       "audioLocal": "audio/phrases/001.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ამ (am, “this”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative singular of შემთხვევა (šemtxveva)."
+      "etymology": "From ამ (am, “this”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative singular of შემთხვევა (šemtxveva).",
+      "core": true
     },
     {
       "ka": "არ ვიცი",
@@ -48,7 +50,8 @@
       "audioLocal": "audio/phrases/002.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "არა უშავს",
@@ -64,7 +67,8 @@
       "audioLocal": "audio/phrases/003.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ასე გასინჯეთ",
@@ -79,7 +83,8 @@
       "audioLocal": "audio/phrases/004.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "აღგვა პირისაგან მიწისა",
@@ -100,7 +105,8 @@
           "en": "The enemy was wiped off the face of the earth."
         }
       ],
-      "etymology": "Literally, “to sweep/wipe from the face of the earth.” A calque of the Ancient Greek ἐξαλείψω... ἀπὸ προσώπου τῆς γῆς (exaleípsō... apò prosṓpou tês gês) found in the Old Georgian translation of the Bible, specifically Genesis 6:7 and 7:4."
+      "etymology": "Literally, “to sweep/wipe from the face of the earth.” A calque of the Ancient Greek ἐξαλείψω... ἀπὸ προσώπου τῆς γῆς (exaleípsō... apò prosṓpou tês gês) found in the Old Georgian translation of the Bible, specifically Genesis 6:7 and 7:4.",
+      "core": true
     },
     {
       "ka": "გააჩნია",
@@ -115,7 +121,8 @@
       "audioLocal": "audio/phrases/006.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გვარს არ დავასახელებ",
@@ -130,7 +137,8 @@
       "audioLocal": "audio/phrases/007.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, \"I won't give [his/her] surname\"."
+      "etymology": "Literally, \"I won't give [his/her] surname\".",
+      "core": true
     },
     {
       "ka": "გილოცავ ახალ წელს",
@@ -145,7 +153,8 @@
       "audioLocal": "audio/phrases/008.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "გილოცავ დაბადების დღეს",
@@ -160,7 +169,8 @@
       "audioLocal": "audio/phrases/009.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From ლოცვა (locva, “pray (for)”) + დაბადება (dabadeba, “birth”) + დღე (dɣe, “day”)."
+      "etymology": "From ლოცვა (locva, “pray (for)”) + დაბადება (dabadeba, “birth”) + დღე (dɣe, “day”).",
+      "core": true
     },
     {
       "ka": "გილოცავთ ახალ წელს",
@@ -175,7 +185,8 @@
       "audioLocal": "audio/phrases/010.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "და ასე შემდეგ",
@@ -190,7 +201,8 @@
       "audioLocal": "audio/phrases/011.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დაყავი და იბატონე",
@@ -205,7 +217,8 @@
       "audioLocal": "audio/phrases/012.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "დროთა განმავლობაში",
@@ -220,7 +233,8 @@
       "audioLocal": "audio/phrases/013.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ეს ხომ ელემენტარულია, უოტსონ",
@@ -235,7 +249,8 @@
       "audioLocal": "audio/phrases/014.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ეს ხომ ელემენტარულია, ძვირფასო უოტსონ",
@@ -250,7 +265,8 @@
       "audioLocal": "audio/phrases/015.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ეშმაკს არ სძინავს",
@@ -265,7 +281,8 @@
       "audioLocal": "audio/phrases/016.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, \"Devil does not sleep\"."
+      "etymology": "Literally, \"Devil does not sleep\".",
+      "core": true
     },
     {
       "ka": "ვაზროვნებ მაშასადამე ვარსებობ",
@@ -280,7 +297,8 @@
       "audioLocal": "audio/phrases/017.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "თავისუფალ დროს",
@@ -295,7 +313,8 @@
       "audioLocal": "audio/phrases/018.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From თავისუფალი დრო (tavisupali dro)."
+      "etymology": "From თავისუფალი დრო (tavisupali dro).",
+      "core": true
     },
     {
       "ka": "თუ შეიძლება",
@@ -311,7 +330,8 @@
       "audioLocal": "audio/phrases/019.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "თურმე ნუ იტყვით",
@@ -326,7 +346,8 @@
       "audioLocal": "audio/phrases/020.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ინგლისური იცით",
@@ -341,7 +362,8 @@
       "audioLocal": "audio/phrases/021.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "იყო და არა იყო რა",
@@ -356,7 +378,8 @@
       "audioLocal": "audio/phrases/022.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, “there was and there was not”.\nCompare the similar semantics of Azerbaijani biri var idi, biri yox idi (“once upon a time/there was, there was not”), Turkish bir varmış, bir yokmuş (“once upon a time/there was, there was not”), Persian یکی بود یکی نبود (yeki bud yeki nabud, “once upon a time/there was, there was not”), Armenian լինում է, չի լինում (linum ē, čʻi linum) and կար-չկար (kar-…"
+      "etymology": "Literally, “there was and there was not”.\nCompare the similar semantics of Azerbaijani biri var idi, biri yox idi (“once upon a time/there was, there was not”), Turkish bir varmış, bir yokmuş (“once upon a time/there was, there was not”), Persian یکی بود یکی نبود (yeki bud yeki nabud, “once upon a time/there was, there was not”), Armenian լինում է, չի լինում (linum ē, čʻi linum) and կար-չկար (kar-…",
+      "core": true
     },
     {
       "ka": "იყო და არა იყო რა, ღვთის უკეთესი რა იქნებოდა",
@@ -371,7 +394,8 @@
       "audioLocal": "audio/phrases/023.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "A larger variant of იყო და არა იყო რა (iq̇o da ara iq̇o ra). It literally means \"there was and there was not, there was not anything better than Lord\". Compare Persian یکی بود، یکی نبود، غیر از خدا هیچ کس نبود"
+      "etymology": "A larger variant of იყო და არა იყო რა (iq̇o da ara iq̇o ra). It literally means \"there was and there was not, there was not anything better than Lord\". Compare Persian یکی بود، یکی نبود، غیر از خدا هیچ کس نبود",
+      "core": true
     },
     {
       "ka": "კაი ერთი",
@@ -386,7 +410,8 @@
       "audioLocal": "audio/phrases/024.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კანში ვერ ეტევა",
@@ -401,7 +426,8 @@
       "audioLocal": "audio/phrases/025.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "The literal translation would be: [their own] skin cannot hold them, they cannot fit in [their own] skin."
+      "etymology": "The literal translation would be: [their own] skin cannot hold them, they cannot fit in [their own] skin.",
+      "core": true
     },
     {
       "ka": "კარგი საქონელია",
@@ -416,7 +442,8 @@
       "audioLocal": "audio/phrases/026.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კეთილი იყოს თქვენი მობრძანება",
@@ -431,7 +458,8 @@
       "audioLocal": "audio/phrases/027.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, \"Let your coming be good\""
+      "etymology": "Literally, \"Let your coming be good\"",
+      "core": true
     },
     {
       "ka": "კითხვა მაქვს",
@@ -446,7 +474,8 @@
       "audioLocal": "audio/phrases/028.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "კულისებს მიღმა",
@@ -461,7 +490,8 @@
       "audioLocal": "audio/phrases/029.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally \"beyond the stage/set\"."
+      "etymology": "Literally \"beyond the stage/set\".",
+      "core": true
     },
     {
       "ka": "ლოლ",
@@ -476,7 +506,8 @@
       "audioLocal": "audio/phrases/030.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მე ქართველი ვარ",
@@ -491,7 +522,8 @@
       "audioLocal": "audio/phrases/031.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მე შენ მიყვარხარ",
@@ -506,7 +538,8 @@
       "audioLocal": "audio/phrases/032.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მიველ, ვნახე, დავამარცხე",
@@ -521,7 +554,8 @@
       "audioLocal": "audio/phrases/033.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Calque of Latin vēnī, vīdī, vīcī (“I came, I saw, I conquered”)"
+      "etymology": "Calque of Latin vēnī, vīdī, vīcī (“I came, I saw, I conquered”)",
+      "core": true
     },
     {
       "ka": "მოცალეობის დროს",
@@ -536,7 +570,8 @@
       "audioLocal": "audio/phrases/034.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მოცალეობის ჟამს",
@@ -551,7 +586,8 @@
       "audioLocal": "audio/phrases/035.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From მოცალეობის ჟამი (mocaleobis žami)."
+      "etymology": "From მოცალეობის ჟამი (mocaleobis žami).",
+      "core": true
     },
     {
       "ka": "მსოფლიო მასშტაბით",
@@ -566,7 +602,8 @@
       "audioLocal": "audio/phrases/036.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მსოფლიოს გარშემო",
@@ -581,7 +618,8 @@
       "audioLocal": "audio/phrases/037.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "მტყუანს შევეცი",
@@ -596,7 +634,8 @@
       "audioLocal": "audio/phrases/038.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally: 'fuck the wrong [unjust] one'."
+      "etymology": "Literally: 'fuck the wrong [unjust] one'.",
+      "core": true
     },
     {
       "ka": "ნიკოფსიიდან დარუბანდამდე",
@@ -611,7 +650,8 @@
       "audioLocal": "audio/phrases/039.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, from Nikopsia to Derbent."
+      "etymology": "Literally, from Nikopsia to Derbent.",
+      "core": true
     },
     {
       "ka": "პროლეტარებო ყველა ქვეყნისა, შეერთდით",
@@ -626,7 +666,8 @@
       "audioLocal": "audio/phrases/040.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რა თქმა უნდა",
@@ -641,7 +682,8 @@
       "audioLocal": "audio/phrases/041.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, needless to say"
+      "etymology": "Literally, needless to say",
+      "core": true
     },
     {
       "ka": "რა უშავს",
@@ -662,7 +704,8 @@
           "en": "If only I had a car too."
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რავი",
@@ -677,7 +720,8 @@
       "audioLocal": "audio/phrases/043.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რავიცი",
@@ -692,7 +736,8 @@
       "audioLocal": "audio/phrases/044.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როგორ მიდის საქმეები",
@@ -707,7 +752,8 @@
       "audioLocal": "audio/phrases/045.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როგორა ხარ",
@@ -722,7 +768,8 @@
       "audioLocal": "audio/phrases/046.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "რომელი საათია",
@@ -737,7 +784,8 @@
       "audioLocal": "audio/phrases/047.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "როცა ვირი ხეზე ავა",
@@ -752,7 +800,8 @@
       "audioLocal": "audio/phrases/048.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally \"when the donkey climbs the tree\"."
+      "etymology": "Literally \"when the donkey climbs the tree\".",
+      "core": true
     },
     {
       "ka": "რქების დადგმა",
@@ -767,7 +816,8 @@
       "audioLocal": "audio/phrases/049.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "საერთო ენის გამონახვა",
@@ -788,7 +838,8 @@
           "en": "I came to terms with my sister."
         }
       ],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "სასიამოვნოა თქვენი გაცნობა",
@@ -803,7 +854,8 @@
       "audioLocal": "audio/phrases/051.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From სასიამოვნო (sasiamovno, “pleasant”) + -ა (-a, “is”) + თქვენი (tkveni, “your”) + გაცნობა (gacnoba, “getting to know”).\nGeorgian phrasebook\n This entry is part of the phrasebook project, which presents criteria for inclusion based on utility, simplicity and commonness."
+      "etymology": "From სასიამოვნო (sasiamovno, “pleasant”) + -ა (-a, “is”) + თქვენი (tkveni, “your”) + გაცნობა (gacnoba, “getting to know”).\nGeorgian phrasebook\n This entry is part of the phrasebook project, which presents criteria for inclusion based on utility, simplicity and commonness.",
+      "core": true
     },
     {
       "ka": "სკილასა და ქარიბდას შორის",
@@ -818,7 +870,8 @@
       "audioLocal": "audio/phrases/052.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "სულერთია",
@@ -833,7 +886,8 @@
       "audioLocal": "audio/phrases/053.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Univerbation of სულ (sul) + ერთია (ertia). Literally, “it's all one”."
+      "etymology": "Univerbation of სულ (sul) + ერთია (ertia). Literally, “it's all one”.",
+      "core": true
     },
     {
       "ka": "სხვა შემთხვევაში",
@@ -848,7 +902,8 @@
       "audioLocal": "audio/phrases/054.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From სხვა (sxva, “other”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative singular of შემთხვევა (šemtxveva)."
+      "etymology": "From სხვა (sxva, “other”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative singular of შემთხვევა (šemtxveva).",
+      "core": true
     },
     {
       "ka": "სხვათა შორის",
@@ -864,7 +919,8 @@
       "audioLocal": "audio/phrases/055.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From სხვათა (sxvata, “others”, old-fashioned genitive plural) + შორის (šoris, “amongst”)."
+      "etymology": "From სხვათა (sxvata, “others”, old-fashioned genitive plural) + შორის (šoris, “amongst”).",
+      "core": true
     },
     {
       "ka": "ტკბილი ძილი",
@@ -879,7 +935,8 @@
       "audioLocal": "audio/phrases/056.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "უკაცრავად პასუხია",
@@ -895,7 +952,8 @@
       "audioLocal": "audio/phrases/057.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "უკუნითი უკუნისამდე",
@@ -910,7 +968,8 @@
       "audioLocal": "audio/phrases/058.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "უპირველეს ყოვლისა",
@@ -925,7 +984,8 @@
       "audioLocal": "audio/phrases/059.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally \"[coming] first of everything\"."
+      "etymology": "Literally \"[coming] first of everything\".",
+      "core": true
     },
     {
       "ka": "ფერადი სიზმრები",
@@ -940,7 +1000,8 @@
       "audioLocal": "audio/phrases/060.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ქართულად ვერ ვლაპარაკობ",
@@ -955,7 +1016,8 @@
       "audioLocal": "audio/phrases/061.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ქართულად ვლაპარაკობ",
@@ -970,7 +1032,8 @@
       "audioLocal": "audio/phrases/062.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ქართული იცით",
@@ -985,7 +1048,8 @@
       "audioLocal": "audio/phrases/063.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ღამე ნებისა",
@@ -1000,7 +1064,8 @@
       "audioLocal": "audio/phrases/064.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "შე ჩემა",
@@ -1015,7 +1080,8 @@
       "audioLocal": "audio/phrases/065.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "შენი ჭირიმე",
@@ -1030,7 +1096,8 @@
       "audioLocal": "audio/phrases/066.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, \"your grief to me\". Compare Armenian ցավդ տանեմ (cʻavd tanem)."
+      "etymology": "Literally, \"your grief to me\". Compare Armenian ցավդ տանեմ (cʻavd tanem).",
+      "core": true
     },
     {
       "ka": "შენს პირს შაქარი",
@@ -1045,7 +1112,8 @@
       "audioLocal": "audio/phrases/067.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, \"sugar to your mouth\"."
+      "etymology": "Literally, \"sugar to your mouth\".",
+      "core": true
     },
     {
       "ka": "ჩემი ყლე",
@@ -1066,7 +1134,8 @@
           "en": "Who the fuck is Rajesh Tundra?"
         }
       ],
-      "etymology": "Literally, my dick."
+      "etymology": "Literally, my dick.",
+      "core": true
     },
     {
       "ka": "ჩემით გავალ",
@@ -1081,7 +1150,8 @@
       "audioLocal": "audio/phrases/069.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ჩემო კარგო",
@@ -1096,7 +1166,8 @@
       "audioLocal": "audio/phrases/070.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "Literally, \"you, my good\", \"you, my goodness\". This phrase is completely in the vocative case."
+      "etymology": "Literally, \"you, my good\", \"you, my goodness\". This phrase is completely in the vocative case.",
+      "core": true
     },
     {
       "ka": "ჩიტმა ამბავი მომიტანა",
@@ -1111,7 +1182,8 @@
       "audioLocal": "audio/phrases/071.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "ძილი ნებისა",
@@ -1126,7 +1198,8 @@
       "audioLocal": "audio/phrases/072.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": null
+      "etymology": null,
+      "core": true
     },
     {
       "ka": "წინააღმდეგ შემთხვევაში",
@@ -1141,7 +1214,8 @@
       "audioLocal": "audio/phrases/073.mp3",
       "audioSource": "tts",
       "examples": [],
-      "etymology": "From წინააღმდეგ (c̣inaaɣmdeg, “opposite, against”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative-like postpositional inflected singular form of შემთხვევა (šemtxveva)."
+      "etymology": "From წინააღმდეგ (c̣inaaɣmdeg, “opposite, against”) + შემთხვევაში (šemtxvevaši, “in the case”), which is the locative-like postpositional inflected singular form of შემთხვევა (šemtxveva).",
+      "core": true
     }
   ]
 }

@@ -156,6 +156,15 @@ PERSON_ROWS = [
     (("third-person", "plural"), "3pl"),
 ]
 
+CORE_TARGET = 500
+CORE_THEME_ORDER = [
+    "Phrases", "Proverbs", "Question words", "Pronouns", "Time expressions",
+    "Numbers", "Colors", "Family", "Family members", "Foods", "Verbs",
+    "Adjectives", "Adverbs", "Days of the week", "Months", "Prepositions",
+    "Directions", "Kitchen", "Body parts", "Animals", "Emotions", "School",
+    "Transport", "Shopping", "Health", "Clothing", "Weather", "Household",
+    "Fruits", "Vegetables", "Occupations", "Buildings", "Cities", "Countries",
+]
 THEMATIC_SKIP_POS = {"phrase", "proverb", "verb"}
 SPECIAL_THEMES = {
     "Phrases", "Proverbs", "Verbs", "Adjectives", "Adverbs", "Time expressions",
@@ -550,6 +559,7 @@ def slim_word(word: dict, theme_id: str) -> dict:
         "audio": audio,
         "audioSource": word.get("audioSource"),
         "page": f"themes/{theme_id}.html",
+        "core": word.get("core", False),
     }
 
 
@@ -901,6 +911,30 @@ def process_thematic_files() -> Dict[str, List[dict]]:
     return result
 
 
+def mark_core_words(theme_words: Dict[str, List[dict]]) -> int:
+    """Tag the top CORE_TARGET learner-priority words across themes."""
+    core_keys: set = set()
+    ordered_themes = CORE_THEME_ORDER + [
+        t for t in theme_words if t not in CORE_THEME_ORDER
+    ]
+
+    for theme_name in ordered_themes:
+        words = theme_words.get(theme_name, [])
+        theme_id = slugify(theme_name)
+        for w in words:
+            if len(core_keys) >= CORE_TARGET:
+                break
+            key = f"{theme_id}:{w['ka']}"
+            if key in core_keys:
+                continue
+            core_keys.add(key)
+            w["core"] = True
+        if len(core_keys) >= CORE_TARGET:
+            break
+
+    return len(core_keys)
+
+
 def process_files() -> Dict[str, List[dict]]:
     result = process_thematic_files()
     for processor in (
@@ -925,12 +959,14 @@ def process_files() -> Dict[str, List[dict]]:
             w["_theme_id"] = theme_id
         result[cat] = words[:cap]
 
+    mark_core_words(result)
     return result
 
 
 def build_output(theme_words: Dict[str, List[dict]]) -> dict:
     categories = []
     total_words = 0
+    core_count = 0
 
     for theme_name in sorted(theme_words, key=lambda t: -len(theme_words[t])):
         words = theme_words[theme_name]
@@ -940,6 +976,7 @@ def build_output(theme_words: Dict[str, List[dict]]) -> dict:
         theme_id = slugify(theme_name)
         meta = THEME_META[theme_name]
         full_words = words
+        core_count += sum(1 for w in full_words if w.get("core"))
 
         categories.append({
             "id": theme_id,
@@ -955,7 +992,11 @@ def build_output(theme_words: Dict[str, List[dict]]) -> dict:
     return {
         "title": "Georgian Language Mind Map",
         "titleKa": "ქართული ენა",
-        "stats": {"themes": len(categories), "words": total_words},
+        "stats": {
+            "themes": len(categories),
+            "words": total_words,
+            "coreWords": core_count,
+        },
         "categories": categories,
     }
 
