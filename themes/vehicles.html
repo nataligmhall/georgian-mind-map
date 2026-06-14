@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Theme — ქართული</title>
-  <link rel="icon" href="../favicon.png" type="image/png" />
+  <link rel="icon" href="../favicon.ico" sizes="any" />
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png" />
+  <link rel="apple-touch-icon" href="../apple-touch-icon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+Georgian:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -17,10 +19,12 @@
       <h1 id="title-ka">…</h1>
       <p id="title-en"></p>
     </div>
-    <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
-      <button class="quiz-open-btn" id="quiz-open">quiz 10</button>
-      <a href="../review.html" class="back-link" id="review-link">review</a>
-      <input class="search" id="search" type="search" placeholder="filter words" />
+    <div class="topbar-tools">
+      <div class="topbar-actions">
+        <button class="quiz-open-btn" id="quiz-open">quiz 10</button>
+        <a href="../review.html" class="back-link" id="review-link">review</a>
+      </div>
+      <input class="search topbar-search" id="search" type="search" placeholder="filter words" />
     </div>
   </header>
 

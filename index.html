@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>ქართული — word map</title>
-  <link rel="icon" href="favicon.png" type="image/png" />
+  <link rel="icon" href="favicon.ico" sizes="any" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+Georgian:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -50,6 +52,27 @@
       gap: 20px;
     }
 
+    .search-wrap {
+      position: relative;
+      flex: 0 1 auto;
+      min-width: 0;
+    }
+
+    .search-wrap .search {
+      width: min(260px, 36vw);
+    }
+
+    .brand-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 10px;
+    }
+
+    .brand-links a {
+      margin-top: 0;
+    }
+
     .brand h1 {
       font-family: "Noto Sans Georgian", sans-serif;
       font-size: 1.5rem;
@@ -61,6 +84,48 @@
       margin-top: 10px;
       font-size: 0.8rem;
       color: var(--accent);
+    }
+
+    @media (max-width: 640px) {
+      .overlay-top {
+        flex-direction: column;
+        align-items: stretch;
+        top: max(12px, env(safe-area-inset-top));
+        left: 16px;
+        right: 16px;
+        gap: 12px;
+      }
+
+      .brand h1 { font-size: 1.35rem; }
+      .brand p { font-size: 0.75rem; line-height: 1.4; }
+
+      .core-progress { max-width: none; }
+
+      .search-wrap { width: 100%; }
+      .search-wrap .search {
+        width: 100%;
+        max-width: none;
+        font-size: 16px;
+      }
+
+      .theme-menu {
+        top: auto;
+        bottom: max(52px, calc(env(safe-area-inset-bottom) + 44px));
+        left: 16px;
+        right: 16px;
+        width: auto;
+        max-height: min(50vh, 360px);
+      }
+
+      .label .en { font-size: 10px; }
+      .label .ka { font-size: 9px; }
+
+      #hint {
+        bottom: max(16px, env(safe-area-inset-bottom));
+        font-size: 0.7rem;
+        width: calc(100% - 32px);
+        text-align: center;
+      }
     }
 
     #hint {
@@ -125,12 +190,14 @@
             <div class="core-progress-fill" id="core-fill" style="width:0%"></div>
           </div>
         </div>
-        <a href="#" id="browse-toggle">browse themes</a>
-        <a href="review.html" id="review-link">review</a>
+        <div class="brand-links">
+          <a href="#" id="browse-toggle">browse themes</a>
+          <a href="review.html" id="review-link">review</a>
+        </div>
       </div>
       <div class="search-wrap">
         <input class="search" id="search" type="search" placeholder="search words" autocomplete="off" />
-        <div class="search-results" id="search-results" style="position:absolute;top:calc(100% + 6px);left:0;right:0;max-height:280px;overflow-y:auto;background:rgba(14,14,18,0.95);border:1px solid var(--border);border-radius:12px;display:none;padding:4px;"></div>
+        <div class="search-results" id="search-results" style="position:absolute;top:calc(100% + 6px);left:0;right:0;max-height:280px;overflow-y:auto;background:rgba(14,14,18,0.95);border:1px solid var(--border);border-radius:12px;display:none;padding:4px;z-index:30;"></div>
       </div>
     </div>
 
